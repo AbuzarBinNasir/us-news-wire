@@ -1,0 +1,47 @@
+name: Fetch US News Daily
+
+on:
+  schedule:
+    # Runs every day at 11:00 UTC (~7:00 AM ET). GitHub may delay cron jobs
+    # by a few minutes during high load; that's normal.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news fetch script
+        run: python scripts/fetch_news.py
+
+      - name: Generate today's briefing draft (AI-assisted, needs your review)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: python scripts/generate_briefing.py
+
+      - name: Commit and push updated news.json and any new draft
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add news.json briefings/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update news + draft briefing ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
