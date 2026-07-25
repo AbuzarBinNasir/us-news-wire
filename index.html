@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Wire — U.S. News, Daily</title>
+<meta name="description" content="A daily-updating digest of U.S. news pulled from NPR, CBS News, ABC News, PBS NewsHour, Fox News, and UPI.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <span class="masthead-date" id="masthead-date">— — —</span>
+      <span class="live-indicator"><span class="live-dot"></span>UPDATED <span id="last-updated">—</span></span>
+    </div>
+    <h1 class="masthead-title">The Wire</h1>
+    <p class="masthead-tagline">United States news, filed as it happens. Nothing older than 7 days, nothing missed in the last 24 hours.</p>
+  </div>
+</header>
+
+<section class="briefing-section" id="briefing-section" aria-label="Daily editorial briefing">
+  <!-- injected by app.js: latest published briefing + archive of older ones -->
+</section>
+
+<nav class="filter-bar" aria-label="Filter by source">
+  <div class="filter-bar-inner" id="filter-bar">
+    <button class="filter-chip is-active" data-source="all">All Sources</button>
+    <!-- source chips injected by app.js -->
+  </div>
+</nav>
+
+<main class="feed" id="feed">
+  <div class="state-message" id="state-message">Loading the wire…</div>
+</main>
+
+<footer class="site-footer">
+  <p>Sources: NPR · CBS News · ABC News · PBS NewsHour · Fox News · UPI — headlines and summaries link back to the original publisher. This page aggregates public RSS feeds and refreshes automatically once a day.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
