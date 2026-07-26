@@ -30,15 +30,14 @@ jobs:
 
       - name: Generate today's briefing draft (AI-assisted, needs your review)
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: python scripts/generate_briefing.py
 
       - name: Commit and push updated news.json and any new draft
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-            mkdir -p briefings
           git add news.json briefings/
           if git diff --cached --quiet; then
             echo "No changes to commit."
