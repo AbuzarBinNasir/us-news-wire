@@ -13,6 +13,7 @@ import calendar
 import json
 import hashlib
 import os
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -72,10 +73,43 @@ def entry_published_utc(entry):
     return None
 
 
+def extract_image(entry):
+    """Pull a representative image URL for the article, if the feed provides
+    one. Publishers include these in RSS specifically so aggregators can
+    display them alongside the headline (same purpose as the headline/link
+    itself), so we just use the URL directly rather than hosting our own copy."""
+    # 1. Media RSS thumbnail (used by NPR, PBS, and others)
+    thumb = getattr(entry, "media_thumbnail", None)
+    if thumb and isinstance(thumb, list) and thumb[0].get("url"):
+        return thumb[0]["url"]
+
+    # 2. Media RSS content (image or thumbnail medium)
+    media = getattr(entry, "media_content", None)
+    if media and isinstance(media, list):
+        for m in media:
+            if m.get("medium") == "image" or (m.get("type", "").startswith("image")):
+                if m.get("url"):
+                    return m["url"]
+
+    # 3. Standard RSS enclosure tag (used by CBS News, Fox News, UPI)
+    for enc in getattr(entry, "enclosures", []) or []:
+        if enc.get("type", "").startswith("image") and enc.get("href"):
+            return enc["href"]
+        if enc.get("type", "").startswith("image") and enc.get("url"):
+            return enc["url"]
+
+    # 4. Fall back to the first <img> tag embedded in the raw summary HTML
+    raw_summary = getattr(entry, "summary", "") or ""
+    match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_summary)
+    if match:
+        return match.group(1)
+
+    return None
+
+
 def clean_summary(entry):
     summary = getattr(entry, "summary", "") or ""
     # Very light HTML strip so descriptions render cleanly as plain text
-    import re
     summary = re.sub(r"<[^>]+>", "", summary)
     summary = summary.replace("&nbsp;", " ").strip()
     if len(summary) > 280:
@@ -110,6 +144,7 @@ def fetch_feed(source_name, url):
             "summary": clean_summary(entry),
             "source": source_name,
             "published": published_dt.isoformat() if published_dt else None,
+            "image": extract_image(entry),
         })
 
     return articles
