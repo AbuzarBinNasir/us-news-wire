@@ -124,6 +124,7 @@ function render() {
       card.style.animationDelay = `${Math.min(i, 8) * 30}ms`;
 
       card.innerHTML = `
+        ${art.image ? `<img class="article-thumb" src="${escapeAttr(art.image)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         <div class="article-meta">
           <span class="source-pill">${escapeHtml(art.source)}</span>
           <span>·</span>
@@ -143,6 +144,10 @@ function escapeHtml(str) {
   const div = document.createElement("div");
   div.textContent = str || "";
   return div.innerHTML;
+}
+
+function escapeAttr(str) {
+  return (str || "").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 }
 
 function setMasthead(lastUpdated) {
