@@ -100,6 +100,37 @@ a { color: inherit; }
   line-height: 1.5;
 }
 
+/* ---------------- Static pages (About, Privacy) ---------------- */
+
+.static-page {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 36px 20px 60px;
+}
+
+.static-section {
+  margin-bottom: 30px;
+}
+
+.static-section h2 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.3rem;
+  margin: 0 0 10px;
+}
+
+.static-section p {
+  font-size: 0.98rem;
+  line-height: 1.65;
+  color: #2A2A24;
+  margin: 0 0 12px;
+}
+
+.static-section a {
+  color: var(--navy);
+  text-decoration: underline;
+}
+
 /* ---------------- Briefing (original editorial content) ---------------- */
 
 .briefing-section {
@@ -190,6 +221,25 @@ a { color: inherit; }
 
 .briefing-archive-item .briefing-title {
   font-size: 1.05rem;
+}
+
+/* ---------------- Ad slot ---------------- */
+
+.ad-slot {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 4px 20px 18px;
+  text-align: center;
+}
+
+.ad-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
 }
 
 /* ---------------- Filter bar ---------------- */
