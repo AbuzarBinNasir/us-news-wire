@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 """
 generate_briefing.py
-Reads today's stored headlines from news.json and asks Claude to draft an
-ORIGINAL analysis piece (not a rewrite/summary of any single article) about
-what's happening in U.S. news today. The draft is saved to
-briefings/YYYY-MM-DD.md with status: draft — it will NOT appear on the live
-site until a human opens the file, reviews/edits the text, and changes
-status to "published".
+Reads today's stored headlines from news.json and asks Google's Gemini
+(free tier — no credit card, no cost) to draft an ORIGINAL analysis piece
+(not a rewrite/summary of any single article) about what's happening in
+U.S. news today. The draft is saved to briefings/YYYY-MM-DD.md with
+status: draft — it will NOT appear on the live site until a human opens
+the file, reviews/edits the text, and changes status to "published".
 
-Requires the ANTHROPIC_API_KEY environment variable (set as a GitHub Actions
-secret — see README.md). If it's missing, this script logs a warning and
-exits without failing the workflow, so the news fetch still succeeds.
+Requires the GEMINI_API_KEY environment variable (set as a GitHub Actions
+secret — see README.md). Get a free key at https://aistudio.google.com/apikey
+— no credit card required. If the key is missing, this script logs a
+warning and exits without failing the workflow, so the news fetch still
+succeeds.
 """
 
 import json
@@ -25,9 +27,9 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NEWS_FILE = os.path.join(REPO_ROOT, "news.json")
 BRIEFINGS_DIR = os.path.join(REPO_ROOT, "briefings")
 
-MODEL = os.environ.get("ANTHROPIC_MODEL", "claude-haiku-4-5-20251001")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-API_URL = "https://api.anthropic.com/v1/messages"
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+API_KEY = os.environ.get("GEMINI_API_KEY")
+API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
 SYSTEM_PROMPT = """You are a U.S. news editorial writer producing one short daily briefing.
 
@@ -73,33 +75,34 @@ def load_todays_headlines():
     return items
 
 
-def call_claude(headlines):
+def call_gemini(headlines):
     lines = [f"- [{a['source']}] {a['title']}: {a.get('summary', '')}" for a in headlines]
     user_content = "Today's U.S. headlines:\n" + "\n".join(lines)
 
     payload = {
-        "model": MODEL,
-        "max_tokens": 900,
-        "system": SYSTEM_PROMPT,
-        "messages": [{"role": "user", "content": user_content}],
+        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "contents": [{"role": "user", "parts": [{"text": user_content}]}],
+        "generationConfig": {"maxOutputTokens": 1200},
     }
 
+    url = f"{API_URL}?key={API_KEY}"
     req = urllib.request.Request(
-        API_URL,
+        url,
         data=json.dumps(payload).encode("utf-8"),
-        headers={
-            "Content-Type": "application/json",
-            "x-api-key": API_KEY,
-            "anthropic-version": "2023-06-01",
-        },
+        headers={"Content-Type": "application/json"},
         method="POST",
     )
 
     with urllib.request.urlopen(req, timeout=60) as resp:
         result = json.loads(resp.read().decode("utf-8"))
 
-    text_blocks = [b["text"] for b in result.get("content", []) if b.get("type") == "text"]
-    return "\n".join(text_blocks).strip()
+    candidates = result.get("candidates", [])
+    if not candidates:
+        raise RuntimeError(f"Gemini returned no candidates: {result}")
+
+    parts = candidates[0].get("content", {}).get("parts", [])
+    text = "".join(p.get("text", "") for p in parts)
+    return text.strip()
 
 
 def parse_response(raw):
@@ -133,8 +136,9 @@ def write_draft(date_key, title, body):
 
 def main():
     if not API_KEY:
-        print("[warn] ANTHROPIC_API_KEY not set — skipping briefing generation. "
-              "See README.md to add it as a repo secret.", file=sys.stderr)
+        print("[warn] GEMINI_API_KEY not set — skipping briefing generation. "
+              "Get a free key at https://aistudio.google.com/apikey and see "
+              "README.md to add it as a repo secret.", file=sys.stderr)
         return
 
     headlines = load_todays_headlines()
@@ -150,13 +154,13 @@ def main():
         return
 
     try:
-        raw = call_claude(headlines)
+        raw = call_gemini(headlines)
     except urllib.error.HTTPError as e:
-        print(f"[error] Claude API request failed: {e.code} {e.read().decode('utf-8', 'ignore')}",
+        print(f"[error] Gemini API request failed: {e.code} {e.read().decode('utf-8', 'ignore')}",
               file=sys.stderr)
         return
     except Exception as e:
-        print(f"[error] Claude API request failed: {e}", file=sys.stderr)
+        print(f"[error] Gemini API request failed: {e}", file=sys.stderr)
         return
 
     title, body = parse_response(raw)
