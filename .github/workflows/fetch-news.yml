@@ -38,6 +38,7 @@ jobs:
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
+          mkdir -p briefings
           git add news.json briefings/
           if git diff --cached --quiet; then
             echo "No changes to commit."
