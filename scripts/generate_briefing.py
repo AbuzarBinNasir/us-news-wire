@@ -27,7 +27,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NEWS_FILE = os.path.join(REPO_ROOT, "news.json")
 BRIEFINGS_DIR = os.path.join(REPO_ROOT, "briefings")
 
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+MODEL = os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash-lite"
 API_KEY = os.environ.get("GEMINI_API_KEY")
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
 
