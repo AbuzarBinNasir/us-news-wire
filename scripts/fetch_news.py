@@ -16,6 +16,7 @@ import os
 import re
 import sys
 import time
+import urllib.request
 from datetime import datetime, timedelta, timezone
 
 import feedparser
@@ -107,6 +108,36 @@ def extract_image(entry):
     return None
 
 
+OG_IMAGE_RE = re.compile(
+    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+OG_IMAGE_RE_ALT = re.compile(
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+    re.IGNORECASE,
+)
+
+
+def fetch_og_image(article_url):
+    """Fallback when the RSS entry itself has no image: fetch the article
+    page and read its og:image meta tag (the same image the publisher shows
+    when the link is shared on social media). Best-effort only — any
+    failure here is silently ignored so it never breaks the main run."""
+    try:
+        req = urllib.request.Request(
+            article_url,
+            headers={"User-Agent": "Mozilla/5.0 (compatible; USNewsBot/1.0)"},
+        )
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            # Only read the first ~60KB — og:image is always in <head>, no
+            # need to download the full page
+            html = resp.read(60_000).decode("utf-8", errors="ignore")
+        match = OG_IMAGE_RE.search(html) or OG_IMAGE_RE_ALT.search(html)
+        return match.group(1) if match else None
+    except Exception:
+        return None
+
+
 def clean_summary(entry):
     summary = getattr(entry, "summary", "") or ""
     # Very light HTML strip so descriptions render cleanly as plain text
@@ -117,7 +148,7 @@ def clean_summary(entry):
     return summary
 
 
-def fetch_feed(source_name, url):
+def fetch_feed(source_name, url, existing_ids):
     articles = []
     try:
         parsed = feedparser.parse(url, agent="Mozilla/5.0 (compatible; USNewsBot/1.0)")
@@ -136,15 +167,23 @@ def fetch_feed(source_name, url):
         if not title or not link:
             continue
 
+        article_id = make_id(link, title)
+        image = extract_image(entry)
+
+        # Only worth the extra page fetch for articles we don't already have
+        # stored and that had no image in the feed itself.
+        if not image and article_id not in existing_ids:
+            image = fetch_og_image(link)
+
         published_dt = entry_published_utc(entry)
         articles.append({
-            "id": make_id(link, title),
+            "id": article_id,
             "title": title,
             "link": link,
             "summary": clean_summary(entry),
             "source": source_name,
             "published": published_dt.isoformat() if published_dt else None,
-            "image": extract_image(entry),
+            "image": image,
         })
 
     return articles
@@ -167,7 +206,7 @@ def main():
     added = 0
     for feed in FEEDS:
         print(f"Fetching {feed['name']} ...")
-        entries = fetch_feed(feed["name"], feed["url"])
+        entries = fetch_feed(feed["name"], feed["url"], existing_ids)
         for art in entries:
             if art["id"] in existing_ids:
                 continue  # already stored, skip (no duplicates)
