@@ -1,6 +1,591 @@
 {
-  "last_updated": "2026-08-02T12:05:26.339280+00:00",
+  "last_updated": "2026-08-03T10:18:32.812815+00:00",
   "articles": [
+    {
+      "id": "e8c8a09eac67041e",
+      "title": "Lindsay Clancy jurors visit crime scene in Karen Read-style move to test timeline: Retired judge",
+      "link": "https://www.foxnews.com/us/lindsay-clancy-jurors-visit-crime-scene-karen-read-style-move-test-timeline-retired-judge",
+      "summary": "Jurors retraced Patrick Clancy&apos;s route to CVS and walked through the Duxbury home where three children were killed during a 40-minute court visit.",
+      "source": "Fox News",
+      "published": "2026-08-03T10:00:10+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Lindsay-Clancy-Massachusetts-Trial.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "5dfcfb48228bfb6b",
+      "title": "This lawyer believes in second chances. Now AI is providing a boost",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+      "summary": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before.",
+      "source": "NPR",
+      "published": "2026-08-03T09:42:28+00:00",
+      "image": null
+    },
+    {
+      "id": "2a3a45748b85a3f7",
+      "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+      "summary": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
+      "source": "NPR",
+      "published": "2026-08-03T09:42:04+00:00",
+      "image": null
+    },
+    {
+      "id": "26b13413af06ab28",
+      "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific",
+      "link": "https://abcnews.com/US/wireStory/top-us-admiral-warns-coercion-nation-dominate-indo-135317938",
+      "summary": "The U.S. Pacific Command chief, Admiral Samuel Paparo, is warning that coercive actions by China and others are challenging regional stability in the Indo-Pacific",
+      "source": "ABC News",
+      "published": "2026-08-03T09:38:11+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_8b2b98dad27f8420c7bc217a31354b4a_4x3_384.jpg"
+    },
+    {
+      "id": "b9646446724a7a1f",
+      "title": "Fast-moving wildfires in Washington destroy hundreds of homes",
+      "link": "https://www.cbsnews.com/news/spokane-washington-wildfire-evacuations-old-trails-fire/",
+      "summary": "Spokane Mayor Lisa Brown called the blazes burning through the area the \"worst natural disaster our region has faced.\"",
+      "source": "CBS News",
+      "published": "2026-08-03T09:32:23+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/03/3e08cb3c-7ffd-4b6b-b3df-e80594d4f25d/thumbnail/1200x630/50fd59acb8d94e4c58e39398ef381e86/ap26214766484767.jpg"
+    },
+    {
+      "id": "695f3f4c12fea7de",
+      "title": "US dollar weakens sharply against the Japanese yen after market interventions",
+      "link": "https://abcnews.com/US/wireStory/us-dollar-weakens-sharply-japanese-yen-after-officials-135315086",
+      "summary": "The U.S. dollar has weakened sharply against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets",
+      "source": "ABC News",
+      "published": "2026-08-03T09:13:55+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_7316599afed35629a27ae23a35f569fd_4x3_384.jpg"
+    },
+    {
+      "id": "e2e46619317f02a9",
+      "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
+      "summary": "SNAP, also known as food stamps, has seen a rapid and consistent participation decline since last July. The drop comes as the program faces historic cuts and changes.",
+      "source": "NPR",
+      "published": "2026-08-03T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "3712e5d2e5feca77",
+      "title": "The DOJ is increasingly charging ICE protesters with criminal conspiracy",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
+      "summary": "The Justice Department is using federal conspiracy charges to sweep up ICE protesters. Some legal experts worry the agency is casting too wide a net to prosecute political activists who oppose the Trump administration's deportation agenda.",
+      "source": "NPR",
+      "published": "2026-08-03T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "61ddf80c0e3aee24",
+      "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
+      "summary": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington's Republicans to seek federal office. Candidates representing different wings of the party are testing Trump's influence.",
+      "source": "NPR",
+      "published": "2026-08-03T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "c666b93c2eb4a0eb",
+      "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
+      "summary": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work.",
+      "source": "NPR",
+      "published": "2026-08-03T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "b41997e4313f2142",
+      "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
+      "link": "https://abcnews.com/US/wireStory/eastern-washington-fires-burned-600-structures-forced-evacuation-135307789",
+      "summary": "Authorities say wildfires in eastern Washington state forced the evacuation of 60,000 people in the Spokane area, including patients at its U.S. Veterans Affairs hospital, while destroying at least 600 homes, businesses and other structures",
+      "source": "ABC News",
+      "published": "2026-08-03T08:57:55+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_3f70ca42599d306cf0c540df34ee50d0_4x3_384.jpg"
+    },
+    {
+      "id": "43468c7a1ee2004d",
+      "title": "Senate appropriators agree on stopgap bill to avert shutdown",
+      "link": "https://www.upi.com/Top_News/US/2026/08/03/Senate-continuing-resolution-avert-shutdown/1031785739903/",
+      "summary": "Senators on the Appropriations Committee have agreed on a temporary spending bill to prevent a government shutdown at the end of September.",
+      "source": "UPI",
+      "published": "2026-08-03T07:54:01+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1031785739903/2026/upi/17bef78150ae30bb2fd89ab452dbeee8/v1.2/Senate-appropriators-agree-on-stopgap-bill-to-avert-shutdown.jpg"
+    },
+    {
+      "id": "0ff4123ccf39e56c",
+      "title": "Israel says it has serious concerns with Hamas disarmament deal",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
+      "summary": "President Trump announced a proposed disarmament deal with Hamas last week. Israeli strikes overnight and into Sunday evening killed at least 17 people, including children, in Gaza.",
+      "source": "NPR",
+      "published": "2026-08-03T07:03:52+00:00",
+      "image": null
+    },
+    {
+      "id": "af04eccd4f4e5fdf",
+      "title": "Todd Blanche formally rescinds Trump's 'anti-weaponization' fund",
+      "link": "https://www.upi.com/Top_News/US/2026/08/03/Todd-Blanche-rescinds-anti-weaponization-fund/1741785732233/",
+      "summary": "Acting Attorney General Todd Blanche announced late Sunday that he formally rescinded President Donald Trump's so-called anti-weaponization fund.",
+      "source": "UPI",
+      "published": "2026-08-03T06:50:03+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1741785732233/2026/upi/c66812506d054a1981e2052324408114/v1.2/Todd-Blanche-formally-rescinds-Trumps-anti-weaponization-fund.jpg"
+    },
+    {
+      "id": "1bcc50c2fe085252",
+      "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
+      "summary": "South Korea is moving away from its policy of prioritizing the immediate denuclearization of North Korea. But despite that shift, experts doubt Pyongyang will return to the negotiating table.",
+      "source": "NPR",
+      "published": "2026-08-03T06:49:13+00:00",
+      "image": null
+    },
+    {
+      "id": "e72a1983201c70b0",
+      "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
+      "summary": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets.",
+      "source": "NPR",
+      "published": "2026-08-03T05:41:31+00:00",
+      "image": null
+    },
+    {
+      "id": "cdb8dd7c66b30c6d",
+      "title": "Todd Blanche rescinds Trump's 'anti-weaponization fund' ahead of nomination hearing",
+      "link": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
+      "summary": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump's $1.8 billion \"anti-weaponization fund\" to compensate his political allies.",
+      "source": "NPR",
+      "published": "2026-08-03T05:04:19+00:00",
+      "image": null
+    },
+    {
+      "id": "0eac96c22d7b6015",
+      "title": "Acting attorney general issues order rescinding \"anti-weaponization fund\"",
+      "link": "https://www.cbsnews.com/news/todd-blanche-anti-weaponization-fund-order/",
+      "summary": "The order came after Republican Senators Thom Tillis and John Cornyn threatened to block Blanche's confirmation for Attorney General if the fund was not rescinded in writing.",
+      "source": "CBS News",
+      "published": "2026-08-03T04:25:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/6234755d-b179-4c97-9a59-d86cbdf41390/thumbnail/1200x630/c6fe2c7d7f84d7655ba603ae77f8966a/gettyimages-2285625520.jpg"
+    },
+    {
+      "id": "5218fe43c1eed22e",
+      "title": "Trump says negotiations with Iran to resume Monday",
+      "link": "https://www.upi.com/Top_News/US/2026/08/02/Trump-Iran-negotiations-Monday/4681785720175/",
+      "summary": "President Donald Trump said Sunday night that negotiations with Iran toward ending the war will resume Monday, about a month after formal talks between the two unraveled and preceded a return to open conflict.",
+      "source": "UPI",
+      "published": "2026-08-03T02:39:34+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4681785720175/2026/upi/176c7d2201bf9c35e4eb2cfce558cff4/v1.2/Trump-says-negotiations-with-Iran-to-resume-Monday.jpg"
+    },
+    {
+      "id": "fde9c62e68b1ab74",
+      "title": "Deadliest animal in every US state revealed, from moose and bears to dogs",
+      "link": "https://www.foxnews.com/us/deadliest-animals-every-us-state",
+      "summary": "A new report identifies the deadliest animal in every U.S. state, with snakes leading nationwide while bears, sharks, insects and even dogs top other regions.",
+      "source": "Fox News",
+      "published": "2026-08-03T02:37:27+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/931/523/husky-istock.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "3cb73d618fbaede0",
+      "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+      "link": "https://abcnews.com/US/wireStory/suspect-shooting-idaho-fast-food-restaurant-died-inflicted-135309782",
+      "summary": "The suspect in a fatal shooting at a fast-food restaurant in Idaho died of a self-inflicted gunshot wound, police said",
+      "source": "ABC News",
+      "published": "2026-08-03T01:30:08+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_2b1104d872124c2733faec0ddb89ffc4_4x3_384.jpg"
+    },
+    {
+      "id": "57543a91e409739b",
+      "title": "Dog rescue hires a cat to help boost adoptions",
+      "link": "https://www.cbsnews.com/video/dog-rescue-hires-a-cat-to-help-boost-adoptions/",
+      "summary": "Muttville Senior Dog Rescue in San Francisco has brought on a cat to help determine how open the adoptable canines are to living with a feline. Itay Hod reports.",
+      "source": "CBS News",
+      "published": "2026-08-03T01:15:16+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/03/e801a6ec-bc56-40a5-b766-6b94e4eaaafb/thumbnail/1200x630/2c8e7d4880c64f02016d2398dd54cf86/cbsn-fusion-dog-rescue-hires-a-cat-to-help-boost-adoptions-thumbnail.jpg"
+    },
+    {
+      "id": "792940aff4cd63a6",
+      "title": "Revisiting Herbert Hoover's legacy as his presidential library reopens",
+      "link": "https://www.cbsnews.com/video/revisiting-herbert-hoovers-legacy-as-his-presidential-library-reopens/",
+      "summary": "In West Branch, Iowa, the newly reimagined Herbert Hoover Presidential Library and Museum wants to shed a fresh light on what historians consider a mixed legacy. Lana Zak reports.",
+      "source": "CBS News",
+      "published": "2026-08-03T00:58:17+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/0fc37f2b-9289-40f0-8bc2-cd5a272bd459/thumbnail/1200x630/e8271aeadde7bcf358591c5d97bbf079/cbsn-fusion-revisiting-herbert-hoovers-legacy-as-his-presidential-library-reopens-thumbnail.jpg"
+    },
+    {
+      "id": "816b6e42d61998dc",
+      "title": "D.C. Reflecting Pool saga continues as Trump slams Pirro for saying contractors caused damage",
+      "link": "https://www.cbsnews.com/video/dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage/",
+      "summary": "The Lincoln Memorial Reflecting Pool is now drained of water and awaiting repairs, as a feud within the Trump administration spills into the open. President Trump and Interior Secretary Doug Burgum are both rejecting the conclusion by U.S. Attorney Jeanine Pirro that...",
+      "source": "CBS News",
+      "published": "2026-08-03T00:55:09+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/03/e19b7bb9-f57b-4445-a10b-43b56956ac00/thumbnail/1200x630/6ef09c47fa86394a69e9cb1c4b95ed06/cbsn-fusion-dc-reflecting-pool-saga-continues-as-trump-slams-pirro-for-saying-contractors-caused-damage-thumbnail.jpg"
+    },
+    {
+      "id": "602c364a39fc26cc",
+      "title": "Trump says outline of Iran deal agreed to, mediators say otherwise, strikes on hold for now",
+      "link": "https://www.cbsnews.com/video/trump-says-outline-of-iran-deal-agreed-to-mediators-say-otherwise-strikes-on-hold-for-now/",
+      "summary": "President Trump has called off new attacks on Iran for the time being, insisting an end to the war is close. He's also again calling for the \"immediate\" re-opening of the Strait of Hormuz. Imtiaz Tyab reports.",
+      "source": "CBS News",
+      "published": "2026-08-03T00:52:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/03/80e368f1-b5ba-4649-b55b-dde688643a06/thumbnail/1200x630/00719ff33643318cdeaf927930c57a7a/cbsn-fusion-trump-says-outline-of-iran-deal-agreed-to-mediators-say-otherwise-strikes-on-hold-for-now-thumbnail.jpg"
+    },
+    {
+      "id": "a0567c3cb2ea0ff1",
+      "title": "New details on deadly In-N-Out shooting",
+      "link": "https://www.cbsnews.com/video/new-details-on-deadly-in-n-out-shooting/",
+      "summary": "New details are emerging about this weekend's deadly mass shooting at an In-N-Out restaurant in Twin Falls, Idaho. At least three people were killed in the attack and seven others wounded. Lindsey Reiser reports.",
+      "source": "CBS News",
+      "published": "2026-08-03T00:49:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/03/49494fb5-89e2-4ab2-927d-ae3023b4777b/thumbnail/1200x630/91b194bddd12ede790e123db368ed161/cbsn-fusion-new-details-on-deadly-in-n-out-shooting-thumbnail.jpg"
+    },
+    {
+      "id": "b8be36cecb63c32e",
+      "title": "Mass evacuations underway as wildfires bear down on Spokane, Washington",
+      "link": "https://www.cbsnews.com/video/mass-evacuations-underway-as-wildfires-bear-down-on-spokane-washington/",
+      "summary": "Explosive wildfires in Spokane, Washington, have destroyed more than 600 structures, many of them within the city limits. The fast-moving flames led to mass evacuations and chaos, as families fled their homes. Adam Yamaguchi reports and Andrew Kozak looks at the forecast and...",
+      "source": "CBS News",
+      "published": "2026-08-03T00:47:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/bf235574-b7e3-41d8-a80a-387b805a147d/thumbnail/1200x630/8b45f178e7f5182a3aba668b087591f7/cbsn-fusion-mass-evacuations-underway-as-wildfires-bear-down-on-spokane-washington-thumbnail.jpg"
+    },
+    {
+      "id": "40c03448d139e337",
+      "title": "Idaho restaurant shooter died of self-inflicted gunshot, police say",
+      "link": "https://www.upi.com/Top_News/US/2026/08/02/Idaho-restaurant-shooter-died-self-inflicted-gunshot-police-say/7431785711149/",
+      "summary": "The 24-year-old suspect in a deadly Idaho restaurant mass shooting on Saturday died of self-inflicted gunshot wounds, police said in an update.",
+      "source": "UPI",
+      "published": "2026-08-02T23:36:13+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7431785711149/2026/i/17857127838723/v1.2/Idaho-restaurant-shooter-died-of-self-inflicted-gunshot-police-say.jpg"
+    },
+    {
+      "id": "e88bcc8a1fb4f4ce",
+      "title": "8/2/2026: Lourdes; The Improbable Tale of Ted Lasso; Birds of War",
+      "link": "https://www.cbsnews.com/video/60minutes-2026-08-02/",
+      "summary": "First, investigating medically unexplained cures. Then, a look behind the scenes of \"Ted Lasso.\" And, birders flock here since guerrillas disarmed.",
+      "source": "CBS News",
+      "published": "2026-08-02T23:00:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/f3029db3-1d70-48cb-ae8f-f7d27ca90cbb/thumbnail/1200x630/26f0282b635a7a1f8e62eb553525bfe3/60-minutes-full-episode-8-2-2026.jpg"
+    },
+    {
+      "id": "4b8b25b20eca79b9",
+      "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
+      "link": "https://www.pbs.org/newshour/politics/senate-leaders-reach-funding-deal-to-avoid-shutdown-during-campaign-season",
+      "summary": "The Senate is likely to vote on the measure before leaving Washington at week's end for its traditional August recess, a period that many lawmakers want to spend shoring up their reelection prospects rather than working in the nation's capital.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T22:49:31+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-21T175234Z_817162498_RC2GIMA5Y8KL_RTRMADP_3_USA-CONGRESS-1024x683.jpg"
+    },
+    {
+      "id": "d5f99ac23e41ccd9",
+      "title": "8/2: CBS Weekend News",
+      "link": "https://www.cbsnews.com/video/080226-cbs-weekend-news/",
+      "summary": "Mass evacuations underway as wildfires bear down on Spokane, Washington; New details on deadly In-N-Out shooting.",
+      "source": "CBS News",
+      "published": "2026-08-02T22:30:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/03/6c5fb5e7-c0b0-4fdb-b847-3de42fa7ee44/thumbnail/1200x630/454f11f965967c873f7525c26c5ac97c/enfull0802.jpg"
+    },
+    {
+      "id": "5c29597f0911fa7b",
+      "title": "Sen. Moreno says embattled ex-son-in-law Miller unfit for Congress",
+      "link": "https://www.upi.com/Top_News/US/2026/08/02/Moreno-embattled-son-in-law-Miller-unfit-serve-House/4751785705248/",
+      "summary": "Sen. Bernie Moreno said Sunday that domestic abuse allegations lodged against his ex-son-in-law, Rep. Max Miller, make Miller unfit for office.",
+      "source": "UPI",
+      "published": "2026-08-02T22:24:55+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4751785705248/2026/upi/493bbeeb144099f721a159237951b1d3/v1.2/Sen-Moreno-says-embattled-ex-son-in-law-Miller-unfit-for-Congress.jpg"
+    },
+    {
+      "id": "2bd22780e6fe6b19",
+      "title": "Ken Martin hunkers down at the Democratic National Committee as a storm gathers around party leader",
+      "link": "https://www.pbs.org/newshour/politics/ken-martin-hunkers-down-at-the-democratic-national-committee-as-a-storm-gathers-around-party-leader",
+      "summary": "Desperate to save his job as chair of the Democratic National Committee, he is avoiding media appearances, monitoring his critics' social media posts and refusing — at least so far — to make any substantive changes at his troubled organization.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T22:11:04+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2025-11-01T020403Z_1337402700_RC26NHAWP5LY_RTRMADP_3_USA-ELECTION-1024x683.jpg"
+    },
+    {
+      "id": "e9f3dc0e5ea953eb",
+      "title": "Spencer Pratt reacts to Spokane devastation with blunt wildfire warning and message of faith",
+      "link": "https://www.foxnews.com/us/spencer-pratt-reacts-spokane-devastation-blunt-wildfire-warning-message-faith",
+      "summary": "Spencer Pratt urges families not to wait for disaster after Spokane wildfire evacuation displaces thousands, drawing on his Palisades Fire experience.",
+      "source": "Fox News",
+      "published": "2026-08-02T22:08:12+00:00",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/spokane-fires.gif"
+    },
+    {
+      "id": "5273ca861623b778",
+      "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
+      "link": "https://www.pbs.org/newshour/politics/trump-frequently-announces-hes-halting-strikes-in-iran-but-they-keep-happening",
+      "summary": "The abrupt shifts have been a defining feature of the five-month conflict that has sent prices of oil and basic goods soaring — and the announcements to date have been upended by renewed attacks days or even hours afterward.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T21:29:47+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-02T205944Z_1815055881_RC2KQMAG31E7_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    },
+    {
+      "id": "e0cbdb1445a3eddf",
+      "title": "Eastern Washington fires have burned 600 structures and forced the evacuation of 5,000 homes",
+      "link": "https://www.pbs.org/newshour/nation/eastern-washington-fires-have-burned-600-structures-and-forced-the-evacuation-of-5000-homes",
+      "summary": "The fires burned more than 8.2 square miles around Spokane, the second largest city in Washington, and were among dozens across the western U.S. — stretching the ability of federal, state and local agencies to fight them.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T20:58:10+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-02T194947Z_2050657755_RC2JQMAOT3AX_RTRMADP_3_USA-WILDFIRES-WASHINGTON-1024x683.jpg"
+    },
+    {
+      "id": "de61950299190eff",
+      "title": "Off-duty trooper and armed citizen hailed as heroes after returning fire on In-N-Out gunman",
+      "link": "https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound",
+      "summary": "Police identified Chad Williams as the suspect in the Twin Falls, Idaho, In-N-Out Burger shooting that left three people dead and seven others injured.",
+      "source": "Fox News",
+      "published": "2026-08-02T20:34:34+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/twin-falls-police_001.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "1ffb2b2547673723",
+      "title": "U.S. Rep. Marcy Kaptur struck in Ohio hit-and-run crash",
+      "link": "https://www.upi.com/Top_News/US/2026/08/02/marcy-kaptur-crash/6381785700097/",
+      "summary": "U.S. Rep. Marcy Kaptur, D-Ohio, was hospitalized with non-life threatening injuries after being struck in a hit-and-run accident in Toledo.",
+      "source": "UPI",
+      "published": "2026-08-02T20:29:53+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/6381785700097/2026/upi/cf00154ece0a814e087e08b92d2de96a/v1.2/US-Rep-Marcy-Kaptur-struck-in-Ohio-hit-and-run-crash.jpg"
+    },
+    {
+      "id": "16b1f2c55236a07a",
+      "title": "Rep. Marcy Kaptur hospitalized after \"hit-skip crash\" in Toledo, police say",
+      "link": "https://www.cbsnews.com/news/marcy-kaptur-hopsitalized-toledo-hit-and-run/",
+      "summary": "Democratic Rep. Marcy Kaptur's office said the congresswoman was a passenger and she was on her way to a church service when her vehicle was struck on Sunday.",
+      "source": "CBS News",
+      "published": "2026-08-02T19:29:20+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/24/a352c754-7e36-4f97-b70b-f0933d8f8374/thumbnail/1200x630/3c160e1f923ec0d67e48ffc44998fa43/gettyimages-2182318449.jpg"
+    },
+    {
+      "id": "50650354a00312f6",
+      "title": "Hero sheepdog becomes unlikely rescue partner after unexpected move aids first responders",
+      "link": "https://www.foxnews.com/us/hero-sheepdog-becomes-unlikely-rescue-partner-unexpected-move-aids-first-responders",
+      "summary": "Drone video captures a sheepdog herding goats away from an emergency helicopter landing zone in Laguna Beach, earning praise as an honorary responder.",
+      "source": "Fox News",
+      "published": "2026-08-02T19:12:07+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/laguna-beach-sheepdog-goats-helicopter-emergency-response-composite.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "45de8ad5ee5d9eda",
+      "title": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+      "link": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
+      "summary": "GOP Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, shouldn't serve in Congress amid swirling abuse claims, as Miller vowed to stay in the race for another term and strongly denied all allegations of misconduct.",
+      "source": "CBS News",
+      "published": "2026-08-02T18:55:14+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/d8f3e9f6-1335-44a3-9c9b-fda11a0973c3/thumbnail/1200x630/893eb57f2fc9f91827eca38c6361e363/gettyimages-2279933527-1.jpg"
+    },
+    {
+      "id": "f36a0a1a8723219e",
+      "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
+      "link": "https://www.pbs.org/newshour/world/ceuta-grapples-with-aftermath-of-border-surge-after-most-migrants-leave-the-spanish-territory",
+      "summary": "Most of the 60,000 migrants who swam, scrambled and later charged into the tiny Spanish exclave in North Africa this week had walked back to Morocco by Sunday, but some stayed on in the hills surrounding the city.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T18:44:04+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-02T152808Z_1852313469_RC29QMAR4GXG_RTRMADP_3_MIGRATION-EUROPE-SPAIN-CEUTA-1024x683.jpg"
+    },
+    {
+      "id": "7a6ed18003743f1a",
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
+      "link": "https://www.cbsnews.com/news/face-the-nation-full-transcript-08-02-2026/",
+      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Democratic Sen. Mark Kelly and Republican Rep. Mike Turner join Margaret Brennan.",
+      "source": "CBS News",
+      "published": "2026-08-02T18:04:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/ccc62e5a-30b2-4996-9da6-592ab75f03d5/thumbnail/1200x630/b4516cc9bfe8750b496db6e42af71646/cbsn-fusion-open-this-is-face-the-nation-with-margaret-brennan-aug-2-2026-thumbnail.jpg"
+    },
+    {
+      "id": "9913cff769432486",
+      "title": "EXCLUSIVE: Ohio man's Puerto Rico murder leaves close friend reliving the call she never expected",
+      "link": "https://www.foxnews.com/us/exclusive-ohio-mans-puerto-rico-murder-leaves-close-friend-reliving-call-she-never-expected",
+      "summary": "A close friend describes the chilling moment she learned Tyler Wilkin was found shot execution-style on a camping trip in Luquillo, Puerto Rico.",
+      "source": "Fox News",
+      "published": "2026-08-02T17:42:10+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/tyler-wilkin-friend-speaks-after-ohio-man-found-shot-dead-2.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "0395609dda3b24b5",
+      "title": "Fact-checking Trump's claims about how the Iran war is going",
+      "link": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going",
+      "summary": "Even as a ceasefire was crumbling, leading the U.S. to wage new attacks on Iran, President Donald Trump touted the United States' war as a success.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T17:12:26+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-31T061146Z_355163413_RC2ROMAOX291_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1024x668.jpg"
+    },
+    {
+      "id": "51908f2fa79b8af4",
+      "title": "Israel says it has serious concerns with Hamas disarmament deal",
+      "link": "https://www.pbs.org/newshour/world/israel-says-it-has-serious-concerns-with-hamas-disarmament-deal",
+      "summary": "Doron Spielman, spokesperson for the Israeli Prime Minister's office, told The Associated Press that Israel's intelligence assessment is that Hamas remains committed to rebuilding its military rather than genuinely demilitarizing.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T16:43:14+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-02T080654Z_1915377679_RC25QMARHH09_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1024x683.jpg"
+    },
+    {
+      "id": "fa4e21c957c4cd94",
+      "title": "Rep. Turner says infrastructure should be \"hardened\" as U.S. probes water cyberattack",
+      "link": "https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/",
+      "summary": "GOP Rep. Mike Turner of Ohio said critical infrastructure assets \"need to be hardened\" as investigators are probing whether Iranian hackers are behind malicious cyber activity that affected technology at water systems in U.S. states last week.",
+      "source": "CBS News",
+      "published": "2026-08-02T16:23:10+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/6b4c24d8-6285-4a4f-903d-b7df17fa55cd/thumbnail/1200x630/77aaa8621a729deb0cfcffa9dcad56c7/cbsn-fusion-gop-rep-mike-turner-the-administration-could-be-sharing-more-with-congress-on-iran-thumbnail.jpg"
+    },
+    {
+      "id": "2a32bd104f00e8ee",
+      "title": "Full Interview: Hugging Face Co-Founder and CEO Clem Delangue",
+      "link": "https://www.cbsnews.com/video/full-interview-hugging-face-co-founder-and-ceo-clem-delangue/",
+      "summary": "Watch Margaret Brennan's full interview Hugging Face Co-Founder and CEO Clem Delangue, a portion of which aired on July 19, 2026, about the recent hack of their systems by an autonomous AI agent from an OpenAI training model.",
+      "source": "CBS News",
+      "published": "2026-08-02T16:19:03+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/a1ce6261-f437-49c7-8d14-0d028a5a01c2/thumbnail/1200x630/f07da6b7df10e926a16a4bf1965bf1db/delangefull.jpg"
+    },
+    {
+      "id": "a7d16fc66fff7edc",
+      "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
+      "link": "https://www.pbs.org/newshour/politics/sen-bernie-moreno-says-former-son-in-law-max-miller-should-not-serve-in-the-house",
+      "summary": "Miller said Sunday that he will remain in his race for reelection before a Wednesday deadline to replace him.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T16:15:43+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-02-12T173045Z_118802996_RC2HKJAXLO15_RTRMADP_3_USA-CONGRESS-MIGRATION-1024x683.jpg"
+    },
+    {
+      "id": "819e8f588133271c",
+      "title": "Joe and Heather Manchin on their push to elect more independents",
+      "link": "https://www.cbsnews.com/video/joe-and-heather-manchin-on-their-push-to-elect-more-independents/",
+      "summary": "On \"Face the Nation with Margaret Brennan,\" former Sen. Joe Manchin and his daugher, Heather, discussed their initiative to help more independents get elected to office. They also addressed whether they could ever support a self-described socialist candidate.",
+      "source": "CBS News",
+      "published": "2026-08-02T16:06:30+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/ed5732b7-f2c5-4405-a8f6-12c76405cc1d/thumbnail/1200x630/249036c49dcd529917af48706ae2bf1e/manchins.jpg"
+    },
+    {
+      "id": "da08cc143ff6b940",
+      "title": "Moscow mayor calls a deadly bomb attack on a restaurant a 'terrorist act'",
+      "link": "https://www.pbs.org/newshour/world/moscow-mayor-calls-a-deadly-bomb-attack-on-a-restaurant-a-terrorist-act",
+      "summary": "A woman attempted to smuggle the bomb into the establishment, but a security guard refused to let her in before the bomb exploded, Russian state media reported.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T16:05:12+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-01T212556Z_1093874531_RC2XPMAQ56ZI_RTRMADP_3_RUSSIA-EXPLOSION-1024x696.jpg"
+    },
+    {
+      "id": "9c6cb128838aeaa6",
+      "title": "ICE detentions set Trump-era high in July, as immigration crackdown widens",
+      "link": "https://www.cbsnews.com/news/ice-detentions-trump-high-july-2026-immigration-crackdown-widens/",
+      "summary": "Detentions by Immigration and Customs Enforcement set a monthly record high for the second Trump administration in July, internal agency data obtained by CBS News shows, as ICE widened its crackdown.",
+      "source": "CBS News",
+      "published": "2026-08-02T15:50:49+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/17d3f9f9-d907-4d7c-986e-d61ac7b9d499/thumbnail/1200x630/a9fbb722fe4454e034d7293f30eccf67/ap26214512630249.jpg"
+    },
+    {
+      "id": "7b6c7b2b44b66e97",
+      "title": "2 killed when firefighting helicopters collide near Athens as Europe's wildfire emergency rages",
+      "link": "https://www.pbs.org/newshour/world/2-killed-when-firefighting-helicopters-collide-near-athens-as-europes-wildfire-emergency-rages",
+      "summary": "The four crew members were recovered after the collision, the Greek fire department said, adding that two were recovered safely, while the other two were unconscious.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T15:49:26+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-02T142213Z_1543840926_RC2CQMA8UHF5_RTRMADP_3_EUROPE-WEATHER-GREECE-WILDEFIRE-1024x683.jpg"
+    },
+    {
+      "id": "5c87177563a05159",
+      "title": "Sen. Mark Kelly: Trump \"has to try to figure out a way out of\" Iran war",
+      "link": "https://www.cbsnews.com/news/sen-mark-kelly-trump-administration-iran-war-flailing/",
+      "summary": "Democratic Sen. Mark Kelly also voiced concerns about the Pentagon's funding requests, calling the approach \"irresponsible — and now they want a blank check.\"",
+      "source": "CBS News",
+      "published": "2026-08-02T15:47:12+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/31/296dd125-b41f-4d83-b239-9c990eedfe02/thumbnail/1200x630/57ddb32829a9b8e00a5ba9dfeef0c1f6/mark-kelly.jpg"
+    },
+    {
+      "id": "49d26bd17515430e",
+      "title": "Thousands under evacuation orders as Pacific Northwest wildfires rage",
+      "link": "https://www.upi.com/Top_News/US/2026/08/02/wildfires-washington-oregon/4211785682455/",
+      "summary": "Thousands of people were ordered to evacuate across the Pacific Northwest on Saturday due to dangerous wildfires in Washington state and Oregon.",
+      "source": "UPI",
+      "published": "2026-08-02T15:24:38+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4211785682455/2026/i/17856842335627/v1.2/Thousands-under-evacuation-orders-as-Pacific-Northwest-wildfires-rage.jpg"
+    },
+    {
+      "id": "51aec7026c52e46d",
+      "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+      "link": "https://www.pbs.org/newshour/nation/suspect-in-shooting-at-idaho-fast-food-restaurant-died-from-self-inflicted-gunshot-wound-police-say",
+      "summary": "Investigators are confident that the gunman, identified as 24-year-old Chad Williams, acted alone during the shooting Saturday in Twin Falls, Police Chief Matthew Hicks said at a news conference.",
+      "source": "PBS NewsHour",
+      "published": "2026-08-02T15:23:09+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/10/police-lights-tape-GettyImages-926719206-1024x719.jpg"
+    },
+    {
+      "id": "59b5812e1b0c8c1e",
+      "title": "Bryan Kohberger's former defense expert calls for death penalty, says investigators missed key evidence",
+      "link": "https://www.foxnews.com/us/bryan-kohberger-former-defense-expert-calls-death-penalty-investigators-missed-key-evidence",
+      "summary": "A defense expert hired by Bryan Kohberger now says cellphone data shows evidence of stalking, but prosecutors never introduced it ahead of the guilty plea.",
+      "source": "Fox News",
+      "published": "2026-08-02T15:15:43+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/idaho-four-bryan-kohberger-1.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "3cad9dc9b54bc8ef",
+      "title": "Nature: Big Sur, California",
+      "link": "https://www.cbsnews.com/video/nature-big-sur-california/",
+      "summary": "We leave you this Sunday morning among nature's riches along the coast of Big Sur, Calif. Videographer: Lance Milbrand.",
+      "source": "CBS News",
+      "published": "2026-08-02T14:30:18+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/01/3c165cc7-dbc6-4378-a263-8f23ad02f7d5/thumbnail/1200x630/5e59a94a43689c204b111a9205b71efb/nature-big-sur-1920.jpg"
+    },
+    {
+      "id": "63ccc2869a1d8d81",
+      "title": "8/2: Face The Nation",
+      "link": "https://www.cbsnews.com/video/080226-face-the-nation/",
+      "summary": "This week on \"Face the Nation with Margaret Brennan,\" Democratic Sen. Mark Kelly and Republican Rep. Mike Turner discuss Iran. Plus, the CEO of Hugging Face discusses an alarming incident in which OpenAI's technology went rogue and hacked into his company. And former Sen. Joe...",
+      "source": "CBS News",
+      "published": "2026-08-02T14:30:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/b1acfdc2-8da4-4687-adac-0af64710efe6/thumbnail/1200x630/918e934f77d6a75e5e1693ebb6c1f6db/ftnfull0802.jpg"
+    },
+    {
+      "id": "80e638af058a618a",
+      "title": "Hunting for sand dollars",
+      "link": "https://www.cbsnews.com/video/hunting-for-sand-dollars/",
+      "summary": "In Florida, correspondent Martha Teichner goes searching for sand dollars – cousins of sea urchins and sea stars – with naturalist Kristen Williams (a.k.a. The Seashell Mermaid). She also goes to the California Academy of Sciences' Steinhart Aquarium in San Francisco to learn...",
+      "source": "CBS News",
+      "published": "2026-08-02T14:25:01+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/01/bba994bb-6022-4036-b9be-41c93c959296/thumbnail/1200x630/c7b7d1268369e73b7f7c163b5adc116f/sm-o-forair-teichner-sand-dollars-080226-31-786792.png"
+    },
+    {
+      "id": "117ed12a72985dc1",
+      "title": "American Girl celebrates girl power",
+      "link": "https://www.cbsnews.com/video/american-girl-celebrates-girl-power/",
+      "summary": "Founded in 1986, American Girl has created dolls, books and accessories that tell the stories of young girls in every American era. On the toy's 40th anniversary, correspondent Faith Salie explores how making history come alive is also creating timeless bonds between...",
+      "source": "CBS News",
+      "published": "2026-08-02T14:19:11+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/01/c11c04ff-62fc-43f3-884b-eb39a574867c/thumbnail/1200x630/6b5d5bbe41abe7c53e4630d1f125beda/sm-n-forair-salie-american-girl-080226-22-981225.png"
+    },
+    {
+      "id": "d1b5dfe02eff615e",
+      "title": "Trump backs off planned strikes, Iran denies a deal is in place",
+      "link": "https://www.upi.com/Top_News/US/2026/08/02/trump-backs-off-strikes/5961785677503/",
+      "summary": "President Donald Trump backed off a plan to launch powerful new strikes against Iran, saying he was asked by several countries to hold off.",
+      "source": "UPI",
+      "published": "2026-08-02T13:46:55+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5961785677503/2026/upi/be62fc114551b3b8c70b5966f8e3d1dd/v1.2/Trump-backs-off-planned-strikes-Iran-denies-a-deal-is-in-place.jpg"
+    },
+    {
+      "id": "7fc48be611e151f2",
+      "title": "Southern university requires business suits, bans du-rags and other headwear in new dress code",
+      "link": "https://www.foxnews.com/us/southern-university-requires-business-suits-bans-durags-new-dress-code",
+      "summary": "Tuskegee University&apos;s new dress code bans du-rags, bonnets and sagging pants in classrooms as part of its broader workforce readiness push.",
+      "source": "Fox News",
+      "published": "2026-08-02T13:36:48+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/gettyimages-564110021-scaled.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "3af224d782b6e2d8",
+      "title": "Florida ‘sadist’ charged after allegedly being hired by UK woman to torture and kill her",
+      "link": "https://www.foxnews.com/us/florida-sadist-charged-allegedly-hired-uk-woman-torture-kill-her",
+      "summary": "A deleted video and Discord messages reveal a UK woman&apos;s final hours inside a Florida Airbnb before she was found in a shallow grave.",
+      "source": "Fox News",
+      "published": "2026-08-02T13:00:26+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Florida-man-charged-killing-UK-woman.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "dd0a707e831ba6af",
+      "title": "8/2: Sunday Morning",
+      "link": "https://www.cbsnews.com/video/082226-sunday-morning/",
+      "summary": "Jane Pauley hosts our annual \"Money Issue.\" Featured: Obstacles to home ownership; fighting health insurance denials; Chinese EVs; opposition to AI data centers; American Girl dolls; skin care mogul Scarlett Johansson; roller coasters; the popularity of Bingo!; and is your...",
+      "source": "CBS News",
+      "published": "2026-08-02T13:00:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/d019822f-e093-47b6-962e-39e49875ec11/thumbnail/1200x630/eb08d6eb6ce536bbd3842608fc6bf44d/sm-jane-pauley-080226.jpg"
+    },
     {
       "id": "3c719906851a4cf8",
       "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
@@ -5499,510 +6084,6 @@
       "source": "NPR",
       "published": "2026-07-27T10:50:09+00:00",
       "image": null
-    },
-    {
-      "id": "1ffede7face0729e",
-      "title": "Heated Lindsay Clancy courtroom exchange over 911 call, crime scene photos sets stage for mom’s murder trial",
-      "link": "https://www.foxnews.com/us/heated-lindsay-clancy-courtroom-exchange-911-call-crime-scene-photos-sets-stage-moms-murder-trial",
-      "summary": "Lindsay Clancy&apos;s defense claims postpartum psychosis drove her to strangle her three children, while prosecutors allege the killings were planned.",
-      "source": "Fox News",
-      "published": "2026-07-27T10:00:55+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Lindsay-Clancy-Trial-2.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "34da6074b16d1067",
-      "title": "Genevieve becomes a Category 5 hurricane but is not expected to make landfall",
-      "link": "https://abcnews.com/US/wireStory/genevieve-category-5-hurricane-expected-make-landfall-135111249",
-      "summary": "Genevieve has become a Category 5 hurricane, the first in the East Pacific in two years, forecasters say",
-      "source": "ABC News",
-      "published": "2026-07-27T09:30:00+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_158b8d651c09f90145efdfad09cd099d_4x3_384.jpg"
-    },
-    {
-      "id": "355fa3c243ec637f",
-      "title": "Tate brothers' lawyers and prosecutors to set schedule for UK extradition fight",
-      "link": "https://abcnews.com/US/wireStory/tate-brothers-lawyers-prosecutors-set-schedule-uk-extradition-135109753",
-      "summary": "Attorneys for social media influencers Andrew and Tristan Tate will meet with federal prosecutors in Miami to work out a schedule for the potentially monthslong process of fighting extradition to the United Kingdom, where the brothers are accused of ra...",
-      "source": "ABC News",
-      "published": "2026-07-27T09:29:55+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_c688c9da299bcf28e921d6d7701a5cc1_4x3_384.jpg"
-    },
-    {
-      "id": "705a347c54e88d23",
-      "title": "Cyclospora boosts fears that deadlier foodborne outbreaks are ahead",
-      "link": "https://www.cbsnews.com/news/cyclospora-deadlier-foodborne-outbreaks-ahead/",
-      "summary": "Food safety experts say cuts to the public health system hobbled the response — and that the next outbreak could be much worse.",
-      "source": "CBS News",
-      "published": "2026-07-27T09:00:18+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/24/2ee182c3-6122-4925-9da7-cfd2400cfce9/thumbnail/1200x630/15ffdf29777deb68436a0b6da7649942/gettyimages-1268264100.jpg"
-    },
-    {
-      "id": "6ca87752089866ba",
-      "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
-      "summary": "The influx of federal agents into the city last fall led to widespread immigration arrests – a majority without criminal convictions. President Trump has said he wants to replicate it elsewhere.",
-      "source": "NPR",
-      "published": "2026-07-27T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "9470cd02b09e6fdc",
-      "title": "Baltimore will turn 911 into more than just an emergency number",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-      "summary": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.",
-      "source": "NPR",
-      "published": "2026-07-27T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "0e85774b5cd6a016",
-      "title": "Kalshi attacks Wisconsin law banning election bets as 'voter suppression'",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-      "summary": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
-      "source": "NPR",
-      "published": "2026-07-27T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "724e0e73d979e34f",
-      "title": "More than 600 U.S. troops wounded in Iran war, says Pentagon in update",
-      "link": "https://www.upi.com/Top_News/US/2026/07/27/pentagon-Iran-war-casualty-statistics/2441785137141/",
-      "summary": "More than 600 U.S. service members have been wounded since the war with Iran began in February, Pentagon statistics indicate.",
-      "source": "UPI",
-      "published": "2026-07-27T08:56:04+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/2441785137141/2026/upi/671ae8e74193e4c9416a790f8293962b/v1.2/More-than-600-US-troops-wounded-in-Iran-war-Pentagon-data-show.jpg"
-    },
-    {
-      "id": "768b092ce9825b20",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
-      "summary": "Three people were killed in a shooting at a Seattle food festival Sunday, U.S and Iran pause airstrikes, with less than 100 days left until Election Day, a look at how the midterms are shaping up.",
-      "source": "NPR",
-      "published": "2026-07-27T08:43:38+00:00",
-      "image": null
-    },
-    {
-      "id": "65fd38cae3f7cc55",
-      "title": "3 killed, 4 wounded in shooting near Seattle's Space Needle, authorities say",
-      "link": "https://www.cbsnews.com/news/seattle-shooting-bite-of-seattle/",
-      "summary": "Three people were killed and four others wounded in a shooting during a food festival at the Seattle Center near the Space Needle, police said. A suspect was in custody and another was being sought, they said.",
-      "source": "CBS News",
-      "published": "2026-07-27T07:08:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/709d28f5-3fa0-4e6c-9507-56476bb30352/thumbnail/1200x630/e41bfac7fea9f534ccc981addb9c4f6b/ap26208102357840.jpg"
-    },
-    {
-      "id": "7969f888e1a99b9d",
-      "title": "Three dead, four injured in apparent shootout at Seattle food festival",
-      "link": "https://www.upi.com/Top_News/US/2026/07/27/Bite-of-Seattle-shooting/6751785118964/",
-      "summary": "Three people were killed and four others were wounded when two people opened fire on one another Sunday evening during Seattle's food festival.",
-      "source": "UPI",
-      "published": "2026-07-27T06:37:48+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6751785118964/2026/i/17851309009946/v1.2/Three-dead-four-injured-in-apparent-shootout-at-Seattle-food-festival.jpg"
-    },
-    {
-      "id": "b92fbe7e91d65c37",
-      "title": "Traffic to start flowing Monday across new bridge between Canada and US",
-      "link": "https://abcnews.com/US/wireStory/traffic-start-flowing-monday-new-bridge-canada-us-135109914",
-      "summary": "Traffic is set to start flowing across a new bridge over the Detroit River that will serve as a critical route for trade, jobs and tourism between Canada and the U.S. Last week, Canada celebrated the Gordie Howe International Bridge with a ribbon-cutti...",
-      "source": "ABC News",
-      "published": "2026-07-27T06:26:07+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_7a89f7777d05a2c7a1f373d8261f146b_4x3_384.jpg"
-    },
-    {
-      "id": "cae354dfbe0ab869",
-      "title": "Can the U.S. and Iran take the off-ramp?",
-      "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
-      "summary": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
-      "source": "NPR",
-      "published": "2026-07-27T05:57:59+00:00",
-      "image": null
-    },
-    {
-      "id": "a7be013d90fdc7a7",
-      "title": "With just a few primary elections to go, the competitive Senate map keeps shifting",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5907379/2026-midterm-election-senate-races",
-      "summary": "For Democrats to take control of the U.S. Senate, they have to flip 4 seats currently held by Republicans. Republicans, meanwhile, are playing defense and pickup opportunities are harder to find.",
-      "source": "NPR",
-      "published": "2026-07-27T05:13:24+00:00",
-      "image": null
-    },
-    {
-      "id": "c00cbda250ad9be5",
-      "title": "Pentagon lists 4 killed in Iran war under \"Overseas Operations Casualties\"",
-      "link": "https://www.cbsnews.com/news/pentagon-4-killed-iran-war-overseas-operations-casualties/",
-      "summary": "Four U.S. service members who were listed in a Pentagon casualties database as having died during the Iran war are now listed as \"Overseas Operations Casualties.\"",
-      "source": "CBS News",
-      "published": "2026-07-27T03:12:37+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/8c5248d8-6ff8-42ed-a695-7afdd2e715f0/thumbnail/1200x630/fcf95f2b3071ef5b50a0e485135fc2bd/us-service-members-killed-iran.jpg"
-    },
-    {
-      "id": "b421155d9168b7de",
-      "title": "Three dead, 2-year-old boy among 5 others injured in Seattle Center mass shooting",
-      "link": "https://www.foxnews.com/us/multiple-people-wounded-mass-shooting-seattle-center-police-say",
-      "summary": "Three people were killed and multiple others were wounded on Sunday in a mass shooting incident at the Seattle Center, according to police.",
-      "source": "Fox News",
-      "published": "2026-07-27T02:22:19+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/seattle-shooting-fox-news-001.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "e9e65b170046f051",
-      "title": "Newborn vanished after secret birth, parents allegedly claimed baby 'was a prank': cops",
-      "link": "https://www.foxnews.com/us/newborn-vanished-after-secret-birth-parents-allegedly-claimed-baby-prank-cops",
-      "summary": "The Florida couple allegedly claimed their newborn was &quot;a prank&quot; after the baby vanished, but investigators developed evidence for manslaughter charges.",
-      "source": "Fox News",
-      "published": "2026-07-27T02:05:33+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/florida-couple-newborn-disappearance-arrest-hollywood-north-carolina.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "c150764bb0b5fee3",
-      "title": "NY circus performer airlifted to hospital after colleague's arrow misses target, strikes his neck",
-      "link": "https://www.foxnews.com/us/ny-circus-performer-airlifted-hospital-after-colleagues-arrow-misses-target-strikes-his-neck",
-      "summary": "A circus performer was airlifted to a hospital after his colleague&apos;s arrow struck his neck during a stunt at the Orange County Fair in Wallkill, police said.",
-      "source": "Fox News",
-      "published": "2026-07-27T01:57:24+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/orange-county-fair-new-york.png?ve=1&tl=1"
-    },
-    {
-      "id": "c23881c651279bf2",
-      "title": "Nevada man dies at famed Sequoia National Park trail after sudden emergency",
-      "link": "https://www.foxnews.com/us/nevada-man-dies-famed-sequoia-national-park-trail-sudden-emergency",
-      "summary": "An elderly Nevada hiker died after a suffering from a medical emergency on a popular hiking trail in Sequoia National Park on Thursday.",
-      "source": "Fox News",
-      "published": "2026-07-27T01:53:59+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/general-sherman-sequoia.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "a1ec88900a349845",
-      "title": "Colorado River reservoirs hit record lows as government threatens major cuts",
-      "link": "https://www.cbsnews.com/news/colorado-river-water-crisis-trump-cuts/",
-      "summary": "It's a moment of reckoning in the drought-stricken West as seven states can't agree on how to share the rapidly shrinking water supply.",
-      "source": "CBS News",
-      "published": "2026-07-27T01:33:42+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/bc4b8b14-5a69-452a-be05-2bd4155b6a88/thumbnail/1200x630/00295e32a764047504a3640259a81f71/gettyimages-2274071477.jpg"
-    },
-    {
-      "id": "41bac58310d47591",
-      "title": "New aerial video of deadly subway surfing trend released by NYPD",
-      "link": "https://www.cbsnews.com/video/new-aerial-video-of-deadly-subway-surfing-trend-released-by-nypd/",
-      "summary": "This weekend, New York City police released new video of a deadly trend known as subway surfing. Shanelle Kaul reports.",
-      "source": "CBS News",
-      "published": "2026-07-27T01:26:50+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/27/76694ef3-48b2-450f-a3f5-e953c4fff5c9/thumbnail/1200x630/d5328d61cb1ab7ac70ad4f510680425e/subwaysurfing.jpg"
-    },
-    {
-      "id": "86dd7973c93bf886",
-      "title": "States relying on Colorado River water face major cuts as reservoir levels fall to all-time lows",
-      "link": "https://www.cbsnews.com/video/states-relying-on-colorado-river-water-face-major-cuts-as-reservoir-levels-fall-to-all-time-lows/",
-      "summary": "The Colorado River, a lifeline for the American West, is now a line in the sand dividing seven states that can't agree how to share the shrinking water supply. After years of failed talks, the federal government is now poised to impose sweeping cuts. Jonathan Vigliotti reports.",
-      "source": "CBS News",
-      "published": "2026-07-27T01:26:30+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/27/71d10e1c-c9cd-464f-b935-58222a414eae/thumbnail/1200x630/cc7067e0c369456cff93b62583bb919f/coloradoriver.jpg"
-    },
-    {
-      "id": "e43ddddd5f3bfdff",
-      "title": "2-day pause in Iran strikes linked to progress in diplomatic talks, sources say",
-      "link": "https://www.cbsnews.com/video/2-day-pause-in-iran-strikes-linked-to-progress-in-diplomatic-talks-sources-say/",
-      "summary": "The current two-day pause in fighting between the U.S. and Iran comes after nearly two straight weeks of intense fighting and is directly linked to progress in diplomatic efforts, sources confirm to CBS News. At the same time, there are growing concerns that the U.S. is...",
-      "source": "CBS News",
-      "published": "2026-07-27T01:20:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/27/a3fadebe-d48f-46f2-b3f4-dd245f7179f4/thumbnail/1200x630/c83a103d6a0250cb9c224ecd8c34d33e/iran.jpg"
-    },
-    {
-      "id": "377d3dfa724458cb",
-      "title": "Bad numbers for Trump on economy, Iran, in latest CBS News poll",
-      "link": "https://www.cbsnews.com/video/bad-numbers-for-trump-on-economy-iran-in-latest-cbs-news-poll/",
-      "summary": "A new CBS News poll found that 65% of Americans disapprove of how President Trump is handling the economy, 71% disapprove of his handling of inflation and 63% think the war in Iran is going badly for the United States. Olivia Gazis reports.",
-      "source": "CBS News",
-      "published": "2026-07-27T01:20:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/eb082d43-5626-4a7f-9293-2e2f59ae4663/thumbnail/1200x630/c26aa03586158e8d385d595edcae2b64/trump.jpg"
-    },
-    {
-      "id": "9a23bf1ca6949b32",
-      "title": "Search intensifies for North Carolina physical therapist who vanished during Caribbean getaway",
-      "link": "https://www.foxnews.com/us/search-intensifies-north-carolina-physical-therapist-who-vanished-during-caribbean-getaway",
-      "summary": "Authorities are searching for missing North Carolina physical therapist Elizabeth Waddell after she vanished during a vacation in Grenada near Grand Anse Beach.",
-      "source": "Fox News",
-      "published": "2026-07-27T01:07:04+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/liz-waddell-1.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "e2d39d2413414d51",
-      "title": "Man faces murder charge after innocent 12-year-old is killed in Bronx street gunfire",
-      "link": "https://www.foxnews.com/us/man-faces-murder-charge-innocent-12-year-old-killed-bronx-street-gunfire",
-      "summary": "Surveillance video captures 12-year-old Jacob Freytes&apos; final moments inside a Bronx bodega after a stray bullet struck him during a street confrontation.",
-      "source": "Fox News",
-      "published": "2026-07-27T00:54:30+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/william-ferrer-bronx-shooting-wanda-supermarket-deli.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "9f1d99d6a19daf5a",
-      "title": "Carlos Beltrán, Andruw Jones and Jeff Kent inducted into Baseball Hall of Fame",
-      "link": "https://www.cbsnews.com/news/baseball-hall-of-fame-2026-beltran-jones-kent/",
-      "summary": "Center fielders Carlos Beltrán and Andruw Jones and second baseman Jeff Kent were inducted into the Baseball Hall of Fame on Sunday.",
-      "source": "CBS News",
-      "published": "2026-07-27T00:04:34+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/c235688e-c7fb-46f2-8816-73948a6172c0/thumbnail/1200x630/d58822404cf7c11bf729b9915e8e2a9a/gettyimages-2287144944.jpg"
-    },
-    {
-      "id": "2b7d143f3160f1eb",
-      "title": "Oil prices ease after US and Iran pause their attacks",
-      "link": "https://abcnews.com/US/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106927",
-      "summary": "Oil prices have fallen further in early trading after setting a two-month high set last week",
-      "source": "ABC News",
-      "published": "2026-07-26T23:40:00+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_2fdef9c0b59d90367206d103f0939d30_4x3_384.jpg"
-    },
-    {
-      "id": "1b274f3ec7788378",
-      "title": "Sweltering heat wave grips central and southern US for a second straight day",
-      "link": "https://abcnews.com/US/wireStory/sweltering-heat-wave-grips-central-southern-us-straight-135101692",
-      "summary": "A scorching heat wave continues across the central and southern United States, leaving at least 40 million people under extreme heat warnings",
-      "source": "ABC News",
-      "published": "2026-07-26T23:38:40+00:00",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "13355239e0a4803e",
-      "title": "7/26/2026: Vaccine Court; Chess Boxing; Amy Sherald",
-      "link": "https://www.cbsnews.com/video/60minutes-2026-07-26/",
-      "summary": "First, inside the U.S. vaccine court. Then, a look at chess boxing: a sport where brain meets brawn. And, Amy Sherald: The 60 Minutes Interview.",
-      "source": "CBS News",
-      "published": "2026-07-26T23:00:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/025998b3-b0e5-42db-97e8-be6782afcdac/thumbnail/1200x630/10ec143e5f74f821087d142abeacdec9/60-minutes-full-episode-7-26-2026.jpg"
-    },
-    {
-      "id": "4cfecf2d931ea9f8",
-      "title": "7/26: CBS Weekend News",
-      "link": "https://www.cbsnews.com/video/072626-cbs-weekend-news/",
-      "summary": "What to know about the Berlin Pride attack and the suspect killed by police; Bad numbers for Trump on economy, Iran, in latest CBS News poll.",
-      "source": "CBS News",
-      "published": "2026-07-26T22:30:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/0d56e557-431a-49c1-8ce9-ef967a982c03/thumbnail/1200x630/57c47825b5a60353a27bbc8ad0bd607e/enfull0726.jpg"
-    },
-    {
-      "id": "2d41284c37a9aeaf",
-      "title": "Genevieve becomes a major Pacific hurricane off Mexico, but no direct threat to land is forecast",
-      "link": "https://abcnews.com/US/wireStory/genevieve-major-pacific-hurricane-off-mexico-direct-threat-135104049",
-      "summary": "Hurricane Genevieve has strengthened into a major Category 4 storm southwest of Mexico in the Pacific Ocean",
-      "source": "ABC News",
-      "published": "2026-07-26T21:46:00+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_04fe90a92939f3ca02ff6a5405324122_4x3_384.jpg"
-    },
-    {
-      "id": "3ed6b6b88b391c62",
-      "title": "Firefighters race to control massive blazes approaching major cities in France and Spain",
-      "link": "https://www.pbs.org/newshour/world/firefighters-race-to-control-massive-blazes-approaching-major-cities-in-france-and-spain",
-      "summary": "A raging wildfire in southwest France forced the evacuation of 55,000 people overnight Sunday, bringing the total forced out of their homes to a staggering 220,000 in one region alone, as flames crept ever closer to the wine region city of Bordeaux. Neighboring Spain oversaw...",
-      "source": "PBS NewsHour",
-      "published": "2026-07-26T20:58:36+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-25T204746Z_1673676452_RC27LMA22HGT_RTRMADP_3_EUROPE-WEATHER-FRANCE-WILDFIRE-1024x694.jpg"
-    },
-    {
-      "id": "3152bc76f90e9078",
-      "title": "ICE prepares major operation targeting Haitians losing TPS after Supreme Court ruling",
-      "link": "https://www.foxnews.com/us/ice-prepares-major-operation-targeting-haitians-losing-tps-after-supreme-court-ruling",
-      "summary": "Beginning as soon as this week, ICE plans to dramatically ramp up operations to find and arrest Haitian migrants in the U.S. who are set to lose their TPS, sources told Fox News.",
-      "source": "Fox News",
-      "published": "2026-07-26T20:45:40+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/ice-agent-american-flag-haitian-tps-enforcement-ohio-springfield.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "f2c7fac1f88ad0d8",
-      "title": "Suspect in deadly Berlin Pride attack is killed in confrontation with police",
-      "link": "https://www.pbs.org/newshour/world/suspect-in-deadly-berlin-pride-attack-is-killed-in-confrontation-with-police",
-      "summary": "The suspect in the deadly Berlin Pride attack that left one person dead and 29 injured was shot and killed by police during a confrontation on Sunday in a suburb of the city, authorities said.",
-      "source": "PBS NewsHour",
-      "published": "2026-07-26T20:39:24+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-26T173722Z_1340092220_RC2TLMA121ST_RTRMADP_3_GERMANY-LGBT-PRIDE-ATTACK-e1785098032635-1024x672.jpg"
-    },
-    {
-      "id": "f2a13c5d099d6add",
-      "title": "One dead, 6 injured after gunfire erupts at unsanctioned California party that drew hundreds: sheriff",
-      "link": "https://www.foxnews.com/us/one-dead-6-injured-after-gunfire-erupts-unsanctioned-california-party-drew-hundreds-sheriff",
-      "summary": "A massive rural California party turned deadly when gunfire broke out, leaving one person dead and six wounded as authorities launched a homicide investigation.",
-      "source": "Fox News",
-      "published": "2026-07-26T20:15:26+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/officer-shot-during-chase.png?ve=1&tl=1"
-    },
-    {
-      "id": "4885bae4d7c2e7da",
-      "title": "North Carolina woman missing in Grenada as husband heads to join search",
-      "link": "https://www.cbsnews.com/news/elizabeth-waddell-missing-north-carolina-woman-grenada/",
-      "summary": "Elizabeth \"Liz\" Waddell was last seen at Grand Anse Beach on Wednesday, July 22, the Royal Grenada Police Force said on social media.",
-      "source": "CBS News",
-      "published": "2026-07-26T20:01:34+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/5d69443b-60fb-48dc-9d94-10ab83d30d84/thumbnail/1200x630/2556580ac929ab783ec9fdff1e4e1ce7/missingpersonlizwaddell.jpg"
-    },
-    {
-      "id": "b91b2318e12ed9ac",
-      "title": "Border czar Tom Homan: ICE agent vetting process under review",
-      "link": "https://www.upi.com/Top_News/US/2026/07/26/tom-homan-immigration-ice/1521785082353/",
-      "summary": "Border czar Homan said ICE's vetting was under review amid allegations the agent involved in a shooting in Maine may have had a criminal background.",
-      "source": "UPI",
-      "published": "2026-07-26T18:32:54+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/1521785082353/2026/upi/ed3aff6a9991ce707a2814c647610ead/v1.2/Border-czar-Tom-Homan-ICE-agent-vetting-process-under-review.jpg"
-    },
-    {
-      "id": "2d4be5a5b76578e2",
-      "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
-      "summary": "The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
-      "source": "NPR",
-      "published": "2026-07-26T18:13:30+00:00",
-      "image": null
-    },
-    {
-      "id": "8768d6a324db8a1a",
-      "title": "TikTok influencer who accused estranged husband of pedophilia found dead in possible murder-suicide",
-      "link": "https://www.foxnews.com/us/tiktok-influencer-accused-estranged-husband-pedophilia-found-dead-possible-murder-suicide",
-      "summary": "Sara Gilson filed a protective order against Jeremiah Shawn Duffey weeks before police found both dead from apparent gunshot wounds in their Owasso home.",
-      "source": "Fox News",
-      "published": "2026-07-26T18:07:53+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/sarah-gilson-estranged-husband.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "e5284dfbc3aec79c",
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" July 26, 2026",
-      "link": "https://www.cbsnews.com/news/face-the-nation-full-transcript-07-26-2026/",
-      "summary": "On this \"Face the Nation with Margaret Brennan\" broadcast, Sen. Bernie Sanders and U.N. ambassador Mike Waltz join Margaret Brennan.",
-      "source": "CBS News",
-      "published": "2026-07-26T17:51:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2015/04/29/340c23e5-e5a3-40ef-bf68-dcc84ef47c4b/thumbnail/1200x630/6e2e666786e7a06c8786e0cd609401f5/restrictedimagesub.jpg"
-    },
-    {
-      "id": "36d5769677d65baf",
-      "title": "Sanders says polls show voters want change in midterm elections",
-      "link": "https://www.cbsnews.com/news/bernie-sanders-face-the-nation-2026-midterms-progressive-candidates/",
-      "summary": "Senator Bernie Sanders said the major obstacle progressive candidates are facing in the midterm elections is massive spending in key races by the \"billionaire class.\"",
-      "source": "CBS News",
-      "published": "2026-07-26T17:43:17+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/21d20e15-61e9-4656-bd37-4368556564f8/thumbnail/1200x630/a492eba1940a3a1a8a521420911d129d/1785078192150.png"
-    },
-    {
-      "id": "e547bed64473a3a5",
-      "title": "U.S. appeals court upholds ruling blocking Trump's order on mail-in voting",
-      "link": "https://www.cbsnews.com/news/appeals-court-upholds-ruling-blocking-trump-order-federal-voter-list/",
-      "summary": "A federal appeals court has upheld a judge's ruling that halted President Trump's efforts to create a federal voter list and limit who can receive a mail ballot.",
-      "source": "CBS News",
-      "published": "2026-07-26T17:31:51+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/a0fe6fa9-5659-4077-b650-e52c519a99b1/thumbnail/1200x630/1826a792d2f908fe00f63e9628a660e5/ap26181645332861.jpg"
-    },
-    {
-      "id": "83b344267650e985",
-      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "summary": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
-      "source": "NPR",
-      "published": "2026-07-26T17:16:06+00:00",
-      "image": null
-    },
-    {
-      "id": "82b16361a91fee17",
-      "title": "Video appears to show a person kicking a sea lion; federal officials investigating",
-      "link": "https://abcnews.com/US/wireStory/federal-officials-investigate-after-video-appears-show-person-135101091",
-      "summary": "The person follows the sea lion, kicking at it as it tries to scoot away.",
-      "source": "ABC News",
-      "published": "2026-07-26T16:35:14+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_e25c743e8d9892990052cd03e8e6111d_4x3_384.jpg"
-    },
-    {
-      "id": "f2949c9affddec28",
-      "title": "Home, not alone: Helping aging seniors in rural America",
-      "link": "https://www.cbsnews.com/news/home-not-alone-helping-aging-seniors-in-rural-america/",
-      "summary": "Health risks associated with loneliness and social isolation are more common among the aging population of rural America. In North Dakota, the program Aging in Community aims to build connections among neighbors to help isolated rural seniors.",
-      "source": "CBS News",
-      "published": "2026-07-26T15:01:25+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/25/03036878-2c19-4d57-9aa0-7e3da87e5b02/thumbnail/1200x630g2/01efd31e43675102b2fe00f9e895ec5d/home-1280.jpg"
-    },
-    {
-      "id": "9ac137be46e86e54",
-      "title": "7/26: Face The Nation",
-      "link": "https://www.cbsnews.com/video/072626-face-the-nation/",
-      "summary": "This week on \"Face the Nation with Margaret Brennan,\" Sens. Bernie Sanders and John Kennedy join, along with U.S. Ambassador to the United Nations Mike Waltz and former FDA Commissioner Scott Gottlieb. Plus, CBS News' Anthony Salvanto has the latest poll results.",
-      "source": "CBS News",
-      "published": "2026-07-26T14:30:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/b5469f83-838f-48c4-b4c2-9b885d2e7e8f/thumbnail/1200x630/5d929091bb0a19342f31430286af657b/gettyimages-2287510198.jpg"
-    },
-    {
-      "id": "b5bdc2f85dbf16d7",
-      "title": "Missing Grand Canyon hiker, 83, rescued after getting separated from companion",
-      "link": "https://www.foxnews.com/us/missing-grand-canyon-hiker-83-rescued-separated-companion",
-      "summary": "Gerald Guinn, 83, waved from steep terrain after a cellphone ping narrowed the search area, but rescuers faced a grueling overnight carry-out mission.",
-      "source": "Fox News",
-      "published": "2026-07-26T14:21:15+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/grand-canyon-hiker-rescue-display.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "dccbc646155a89f2",
-      "title": "The \"magic\" of worm grunting",
-      "link": "https://www.cbsnews.com/video/the-magic-of-worm-grunting-072626/",
-      "summary": "If you are looking for live fishing bait, you could dig up some worms – or, you could use a bizarre trick involving vibrations to conjure earthworms out of the soil. Correspondent Conor Knighton looks into a little-understood process known as \"worm grunting.\" He also visits...",
-      "source": "CBS News",
-      "published": "2026-07-26T14:04:01+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/5511c4c7-466b-49e5-9177-3d27bb6872d0/thumbnail/1200x630/483b0519bc5900179d4f695457d318a8/worm-grunting-a-1920.jpg"
-    },
-    {
-      "id": "8ecdf6ecb568014a",
-      "title": "These United States: Revolutionary War hero Thaddeus Kosciuszko",
-      "link": "https://www.cbsnews.com/video/these-united-states-revolutionary-war-hero-thaddeus-kosciuszko/",
-      "summary": "Polish-born Thaddeus Kosciuszko (1746-1817) was a military engineer who became key to Gen. George Washington's success against the British. Mo Rocca looks at the immigrant hero whose contributions to the Revolutionary War helped secure independence for America.",
-      "source": "CBS News",
-      "published": "2026-07-26T13:55:07+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/774217d1-0b52-4ea5-8277-e09aa0385dcf/thumbnail/1200x630/b946e79cb0083d0d722b2e3d2e92a34a/thaddeus-kosciuszko-1920.jpg"
-    },
-    {
-      "id": "1ad1471160543dc8",
-      "title": "How Trump admin cuts have compromised food safety",
-      "link": "https://www.cbsnews.com/news/how-trump-admin-cuts-have-compromised-food-safety/",
-      "summary": "Since May, more than 11,000 cases of illness caused by the parasite cyclospora have been reported in 41 states. This comes after the Trump administration drastically cut FDA and CDC staff, prompting one expert to call this summer's outbreaks \"a national wake-up call.\"",
-      "source": "CBS News",
-      "published": "2026-07-26T13:32:32+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/a372ed1d-e391-4570-8f2c-5d90e7bd460e/thumbnail/1200x630/f516714a8a21b6aecc5509a137d80c92/lettuce.jpg"
-    },
-    {
-      "id": "e21dfc04b297d05b",
-      "title": "How Trump admin cuts have compromised food safety",
-      "link": "https://www.cbsnews.com/video/trump-admin-food-safety-cyclospora/",
-      "summary": "Since May, more than 11,000 cases of cyclosporiasis, caused by a parasite, have been reported in 41 states. The outbreak comes after the Trump administration drastically cut FDA and CDC staff; disbanded a national advisory committee on how to prevent microbial contamination...",
-      "source": "CBS News",
-      "published": "2026-07-26T13:26:13+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/1fc81ee3-6ca9-4c37-a199-b91928bced5a/thumbnail/1200x630/2bebe07e6b50da3ac4473c39c6c9853d/cyclospora-cyclosporiasis-1920.jpg"
-    },
-    {
-      "id": "c0013271838529e5",
-      "title": "Almanac: July 26",
-      "link": "https://www.cbsnews.com/video/almanac-july-26-2026/",
-      "summary": "\"Sunday Morning\" looks back at historical events on this date.",
-      "source": "CBS News",
-      "published": "2026-07-26T13:17:06+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/d0d19bb2-d722-4183-a471-c7c43b7e667e/thumbnail/1200x630/07686885c32d0e24c1d9f694ca86cd45/almanac-army-desegregation-1920.jpg"
-    },
-    {
-      "id": "48ea4b66240ff433",
-      "title": "As Hegseth pursues a 'High-T' military, here's what to know about testosterone replacement",
-      "link": "https://www.pbs.org/newshour/health/as-hegseth-pursues-a-high-t-military-heres-what-to-know-about-testosterone-replacement",
-      "summary": "Defense Secretary Pete Hegseth said he plans to test U.S. service members' testosterone levels each year. But when it comes to testosterone levels, optimization isn't so straightforward.",
-      "source": "PBS NewsHour",
-      "published": "2026-07-26T13:00:43+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-21T221241Z_920984345_RC2LIMA3G9K0_RTRMADP_3_USA-BUDGET-CONGRESS-1024x683.jpg"
-    },
-    {
-      "id": "39118f35a000c451",
-      "title": "7/26: Sunday Morning",
-      "link": "https://www.cbsnews.com/video/072626-sunday-morning/",
-      "summary": "Hosted by Mo Rocca. Featured: Aging in rural America; compromises to food safety; supermodel and actress Lauren Hutton; singer Corinne Bailey Rae; artist Derrick Adams; worm grunting; and how plants are affected by touch.",
-      "source": "CBS News",
-      "published": "2026-07-26T13:00:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/9ece05e9-b728-4d4f-8c30-4c8524f7939b/thumbnail/1200x630/249ab540e19a1297abe400d06d1db9d3/sm-mo-rocca-072626.jpg"
-    },
-    {
-      "id": "1b2620d3f5053991",
-      "title": "CBS News poll finds many changing their eating habits amid cyclospora outbreak",
-      "link": "https://www.cbsnews.com/news/cyclospora-outbreak-fda-opinion-poll/",
-      "summary": "Nearly as many Americans are following news about the cyclospora parasite as they are the conflict with Iran.",
-      "source": "CBS News",
-      "published": "2026-07-26T13:00:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/17/81bd1380-b362-4522-be94-fcdeeca6f6bd/thumbnail/1200x630/10a25962f8314e64a6f624de6641f748/cyclospora-2.png"
     }
   ]
 }
