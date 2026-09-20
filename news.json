@@ -1,6 +1,510 @@
 {
-  "last_updated": "2026-09-19T14:13:42.422979+00:00",
+  "last_updated": "2026-09-20T14:37:05.203683+00:00",
   "articles": [
+    {
+      "id": "7d784f54db402d59",
+      "title": "Nature: Utah's Canyonlands National Park",
+      "link": "https://www.cbsnews.com/video/nature-utahs-canyonlands-national-park/",
+      "summary": "We leave you this Sunday morning wandering among the red rocks at Canyonlands National Park in Utah. Videographer: Brad Markel.",
+      "source": "CBS News",
+      "published": "2026-09-20T14:30:10+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/20/a41444fa-0e0e-4ebe-93af-d6467e8fc17e/thumbnail/1200x630/a1b5c318ce1b952ecc8f95859e300444/nature-canyonlands-1920.jpg"
+    },
+    {
+      "id": "18969b7065ec47db",
+      "title": "Police officer, woman shot near Notre Dame after football tailgates",
+      "link": "https://www.foxnews.com/us/police-officer-woman-shot-near-notre-dame-football-tailgates",
+      "summary": "A single gunshot near Notre Dame&apos;s campus wounded a woman and a South Bend police officer during a post-tailgate fight, with the shooter still at large.",
+      "source": "Fox News",
+      "published": "2026-09-20T14:11:47+00:00",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/notre-dame-ois.gif"
+    },
+    {
+      "id": "1ee714ad35981f3f",
+      "title": "Retiring Smithsonian head Lonnie G. Bunch III: \"You can run from history, but you can't hide\"",
+      "link": "https://www.cbsnews.com/news/retiring-smithsonian-head-lonnie-g-bunch-iii/",
+      "summary": "In 2019, Bunch became both the first historian and the first African American to serve as Secretary of the Smithsonian Institution. As he prepares to retire, he talks about the museums' mission to protect history, and give America a full picture of itself.",
+      "source": "CBS News",
+      "published": "2026-09-20T13:48:18+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/20/0dd059bf-8220-4efb-8ee9-c979c178b9c4/thumbnail/1200x630/f177042efc2c10b8c12ca3f4305bc518/lonnie-bunch-1280.jpg"
+    },
+    {
+      "id": "8366da8d4c4d5d60",
+      "title": "Extended interview: Lonnie G. Bunch III",
+      "link": "https://www.cbsnews.com/video/extended-interview-lonnie-g-bunch-iii/",
+      "summary": "In this web exclusive, Secretary of the Smithsonian Lonnie G. Bunch III, who recently announced his retirement, talks with Mo Rocca about the mission of the Smithsonian Institution.",
+      "source": "CBS News",
+      "published": "2026-09-20T13:46:02+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/20/454a2cd1-009e-46a6-8f34-5d6f19352279/thumbnail/1200x630/00593cc91aa7b732316b46096470021d/extended-lonnie-bunch-1920.jpg"
+    },
+    {
+      "id": "f3aa2f05a0118f00",
+      "title": "Retiring Smithsonian head Lonnie Bunch on protecting history",
+      "link": "https://www.cbsnews.com/video/retiring-smithsonian-head-lonnie-bunch-on-protecting-history/",
+      "summary": "In 2019, Lonnie G. Bunch III became both the first historian and the first African American to serve as Secretary of the Smithsonian Institution. Now 73, Bunch has announced he is retiring. He talks with correspondent Mo Rocca about fulfilling and enriching the Smithsonian's...",
+      "source": "CBS News",
+      "published": "2026-09-20T13:44:17+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/20/5981266b-90cc-4b0b-84ae-e405bd7d74eb/thumbnail/1200x630/29930d506501258d3b9ce9b656a801c4/lonnie-bunch-getty-1920.jpg"
+    },
+    {
+      "id": "80abc09fcf944169",
+      "title": "Nvidia's Jensen Huang rejects AI extinction fear as \"doomsday narratives\"",
+      "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
+      "summary": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News.",
+      "source": "CBS News",
+      "published": "2026-09-20T13:37:40+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg"
+    },
+    {
+      "id": "01f2d382a4967339",
+      "title": "Nvidia's Jensen Huang on artificial intelligence",
+      "link": "https://www.cbsnews.com/video/nvidias-jensen-huang-on-artificial-intelligence/",
+      "summary": "The Atlantic recently called Nvidia founder and CEO Jensen Huang \"the most powerful man in AI.\" He talks with correspondent Jo Ling Kent at Nvidia headquarters in Santa Clara, Calif., about the latest developments in artificial intelligence and the ongoing debate over safety...",
+      "source": "CBS News",
+      "published": "2026-09-20T13:32:02+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/20/b923c606-858d-4287-bb04-38e5958bf351/thumbnail/1200x630/e2286f37f44812300213c503ca24cd25/jensen-huang-1920.jpg"
+    },
+    {
+      "id": "651618758f555b3d",
+      "title": "Almanac: September 20",
+      "link": "https://www.cbsnews.com/video/almanac-september-20-2026/",
+      "summary": "\"Sunday Morning\" looks back at historical events on this date.",
+      "source": "CBS News",
+      "published": "2026-09-20T13:18:16+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/20/9baa13bf-7d7b-4a2e-889f-b688e3439706/thumbnail/1200x630/83948e45b2fe380c20f436cc3a3059a9/almanac-gwb-1920.jpg"
+    },
+    {
+      "id": "34d30631182d3664",
+      "title": "Sports betting apps entice fans as gambling exacts a growing financial toll",
+      "link": "https://www.cbsnews.com/news/sports-betting-apps-gambling/",
+      "summary": "Betting platforms FanDuel and DraftKings say tools are there to help addicted gamblers slow down.",
+      "source": "CBS News",
+      "published": "2026-09-20T13:17:25+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/19/89a69e4c-b2aa-41de-b8ca-65e15ea9046e/thumbnail/1200x630/27d6bfb1a66265cc182b20e8d6cd2548/fanduel-draftkings.jpg"
+    },
+    {
+      "id": "cca20967872d2d28",
+      "title": "The addiction of online sports gambling: \"Like crack in the '80s\"",
+      "link": "https://www.cbsnews.com/video/the-addiction-of-online-sports-gambling-like-crack-in-the-80s/",
+      "summary": "The money legally wagered on sports gambling has surged to $167 billion a year since it was legalized beyond Nevada in 2018. But data show, in states where online gambling has been made legal, bankruptcies and credit card delinquencies go up 25%. Correspondent Jim Axelrod...",
+      "source": "CBS News",
+      "published": "2026-09-20T13:14:06+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/20/6b9a63c3-e790-4afa-b96c-f67c6ef928fb/thumbnail/1200x630/95f4ead6d878ee94aa06e23924d40d75/sports-betting-1920.jpg"
+    },
+    {
+      "id": "a13a2e8245ec4cdb",
+      "title": "This truth emerges as political situations change fast: Maps show us our world, but not neutrally",
+      "link": "https://abcnews.com/US/wireStory/truth-emerges-political-situations-change-fast-maps-show-136597791",
+      "summary": "Maps can anchor us in a place or help us get somewhere else",
+      "source": "ABC News",
+      "published": "2026-09-20T13:00:55+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_80554c1b7dc7ad138eebe5a2801ba725_4x3_384.jpg"
+    },
+    {
+      "id": "f35038c0581f8242",
+      "title": "Alaskans will decide fate of ranked choice voting system after chaotic end to state's primary",
+      "link": "https://abcnews.com/US/wireStory/alaskans-decide-fate-ranked-choice-voting-system-after-136597512",
+      "summary": "Alaska&rsquo;s primary revealed some of the headaches related to a major change in how voters select their candidates",
+      "source": "ABC News",
+      "published": "2026-09-20T12:58:27+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_f79df9852994692cf8bc555c6a7fdaf2_4x3_384.jpg"
+    },
+    {
+      "id": "23d502dcc2f55c31",
+      "title": "National Hurricane Center: Tropical Storm Fay forms in the northern Atlantic",
+      "link": "https://abcnews.com/US/wireStory/national-hurricane-center-tropical-storm-fay-forms-northern-136597422",
+      "summary": "A new tropical storm has formed in the northern Atlantic Ocean but does not appear to pose a threat to land",
+      "source": "ABC News",
+      "published": "2026-09-20T12:58:26+00:00",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "df44c18383435795",
+      "title": "Trump says proposed arch will also be a \"top grade Military Complex\"",
+      "link": "https://www.cbsnews.com/news/trump-triumphal-arch-arlington-top-grade-military-complex/",
+      "summary": "President Trump said that he has agreed to convert plans for a massive triumphal arch into a \"top grade Military Complex,\" equipped with snipers and drone storage.",
+      "source": "CBS News",
+      "published": "2026-09-20T12:34:42+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/18/60800af4-1e4a-4d2e-a93f-643aa04564c4/thumbnail/1200x630/c95861f3ce66cf32f6ab8fedcb702d33/cbsn-fusion-faa-says-trump-arch-will-not-interfere-with-dc-airport-flight-path-thumbnail.jpg"
+    },
+    {
+      "id": "16fa4a548e6b996c",
+      "title": "PHOTOS: The precarious life of fisherfolk",
+      "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+      "summary": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea.",
+      "source": "NPR",
+      "published": "2026-09-20T12:24:02+00:00",
+      "image": null
+    },
+    {
+      "id": "48afb66699a82223",
+      "title": "ICE-led Florida operation nets 500 — including illegal aliens accused of murder, child abuse, cartel ties",
+      "link": "https://www.foxnews.com/us/ice-led-florida-operation-nets-500-illegal-aliens-accused-murder-child-abuse-cartel-ties",
+      "summary": "U.S. ICE agents partnered with the Lee County Sheriff and Florida agencies in a weeklong sweep that netted 500 arrests in Southwest Fla.",
+      "source": "Fox News",
+      "published": "2026-09-20T12:00:30+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Florida-illegal-immigrants-arrested.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "5c36540c9197b4ed",
+      "title": "Rising gas prices frustrate voters. Trump says it's an 'inexpensive price to pay' for the Iran war",
+      "link": "https://abcnews.com/US/wireStory/rising-gas-prices-frustrate-voters-trump-inexpensive-price-136597370",
+      "summary": "Voters across the nation say skyrocketing gas prices are causing financial hardships for their families",
+      "source": "ABC News",
+      "published": "2026-09-20T11:51:33+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_d2f5d5aa7ecc1f6d55d8f5759db03150_4x3_384.jpg"
+    },
+    {
+      "id": "18bdba58d1e2a274",
+      "title": "Florida plastic surgeon accused of killing attorney in his office defends himself in murder trial",
+      "link": "https://www.foxnews.com/us/florida-plastic-surgeon-accused-killing-attorney-office-defends-himself-murder-trial",
+      "summary": "Tomasz Kosowski represents himself in a death penalty trial for the alleged murder of attorney Steven Cozzi, whose body was never recovered.",
+      "source": "Fox News",
+      "published": "2026-09-20T11:00:48+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Tomasz-Kosowski-and-Steven-Cozzi.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "c8cfc4931cf2deb1",
+      "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+      "summary": "In the Lower Ninth Ward, an old Family Dollar stands covered in graffiti. It looks abandoned. But inside, it's a treasure trove — clothing, home goods, toys and books. And everything is free.",
+      "source": "NPR",
+      "published": "2026-09-20T11:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "2a55328b9c3446b2",
+      "title": "Fast food from the US and China catches on in both countries",
+      "link": "https://abcnews.com/US/wireStory/fast-food-us-china-catches-countries-136596678",
+      "summary": "China and the United States are divided on many issues, from tariffs to Taiwan",
+      "source": "ABC News",
+      "published": "2026-09-20T10:02:27+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_9bd3cf5e539f51791d346b97432293ba_4x3_384.jpg"
+    },
+    {
+      "id": "d8237a67bd445c0e",
+      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+      "summary": "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies' biggest scandals.",
+      "source": "NPR",
+      "published": "2026-09-20T10:01:00+00:00",
+      "image": null
+    },
+    {
+      "id": "5d68820aff6df81e",
+      "title": "Alleged killer mom Corie Walsh ruled too dangerous to return home — but psychiatrist warns risk can change",
+      "link": "https://www.foxnews.com/us/alleged-killer-mom-corie-walsh-ruled-too-dangerous-return-home-psychiatrist-warns-risk-can-change",
+      "summary": "Forensic psychiatrist explains why a &quot;dangerousness&quot; finding isn&apos;t permanent for Corie Walsh, the Illinois mother held without pretrial release.",
+      "source": "Fox News",
+      "published": "2026-09-20T10:00:37+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/corie-walsh-split-003.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "47963457906c24ab",
+      "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+      "summary": "Grandparents taking care of their grandkids is nothing new. But the surging cost of childcare in the U.S. has made familial support even more critical for some parents who struggle to afford it.",
+      "source": "NPR",
+      "published": "2026-09-20T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "5226c24e89dc4164",
+      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+      "summary": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
+      "source": "NPR",
+      "published": "2026-09-20T09:16:42+00:00",
+      "image": null
+    },
+    {
+      "id": "ea7f1baa01642fe2",
+      "title": "NPR's College Podcast Challenge is back for 2026",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+      "summary": "Students: It's time to turn on the mic and hit 'record.' Send us your podcasts and we'll pick the best ones. It's $5,000 for our grand prize and $500 for our finalists.",
+      "source": "NPR",
+      "published": "2026-09-20T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "85a7054f7f157078",
+      "title": "How the NPR College Podcast Challenge changed lives",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+      "summary": "Tee up those entries: It's time for the next NPR College Podcast Challenge, and hear how the contest changed the lives of past participants.",
+      "source": "NPR",
+      "published": "2026-09-20T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "1bf13982be548a6c",
+      "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+      "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+      "summary": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers  helped ease regulations and negotiations were covered under nondisclosure agreements.",
+      "source": "NPR",
+      "published": "2026-09-20T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "5369dd2b307f0247",
+      "title": "US military says 4 killed in strike on alleged drug-smuggling boat in the Caribbean",
+      "link": "https://abcnews.com/US/wireStory/us-military-killed-strike-alleged-drug-smuggling-boat-136592914",
+      "summary": "The U.S. military has attacked another boat suspected of being used to smuggle drugs in the Caribbean Sea, killing four people",
+      "source": "ABC News",
+      "published": "2026-09-20T07:34:10+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_95f3d4ae10f8e2a4a193f601101898d9_4x3_384.jpg"
+    },
+    {
+      "id": "bcbc566915d6856d",
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "summary": "Saudi Arabia on Saturday said that Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with the Iran-backed rebels opened a new front in the Iran war.",
+      "source": "NPR",
+      "published": "2026-09-20T03:57:23+00:00",
+      "image": null
+    },
+    {
+      "id": "6a035e901345833b",
+      "title": "US military strikes alleged narco-trafficking vessel in Caribbean, killing 4 'narco-terrorists'",
+      "link": "https://www.foxnews.com/us/us-military-strikes-alleged-narco-trafficking-vessel-caribbean-killing-4-narco-terrorists",
+      "summary": "Video shows a Caribbean vessel erupting into a fireball as SOUTHCOM says it killed four alleged narco-terrorists in a drug trafficking strike.",
+      "source": "Fox News",
+      "published": "2026-09-20T03:55:48+00:00",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/explosion-.gif"
+    },
+    {
+      "id": "9a562106b52e8ef9",
+      "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens solo concert",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+      "summary": "Ed Sheeran opened a solo concert Saturday with comments about Gaza after controversy swirled around his tour and supporting acts withdrew in solidarity with opener Macklemore, who was dropped after making pro-Palestinian comments onstage.",
+      "source": "NPR",
+      "published": "2026-09-20T03:34:12+00:00",
+      "image": null
+    },
+    {
+      "id": "a73f7afdb05a7541",
+      "title": "Iran war has cost Pentagon at least $45.1 billion",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/iran-war-costs-defense/3021789863312/",
+      "summary": "The Iran war has cost the United States at least $45.1 billion, military officials said. The amount covers the conflict through early September.",
+      "source": "UPI",
+      "published": "2026-09-20T00:24:26+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3021789863312/2026/upi/f9fbb3f48926ac38f505d9418d64307e/v1.2/Iran-war-has-cost-Pentagon-at-least-451-billion.jpg"
+    },
+    {
+      "id": "e5799462370f3f55",
+      "title": "Trump says he will create 'AI Force,' appoint czar to oversee industry",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/trump-ai-force-czar/8561789857828/",
+      "summary": "President Donald Trump said he would create an \"AI Force\" and appoint a czar to oversee the industry amid rising concerns over the technology.",
+      "source": "UPI",
+      "published": "2026-09-19T22:55:34+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/8561789857828/2026/upi/f1fe29ab3642ad30621b4015c6ea77a2/v1.2/Trump-says-he-will-create-AI-Force-appoint-czar-to-oversee-industry.jpg"
+    },
+    {
+      "id": "4833101ee5f3c0c1",
+      "title": "Lowriding culture celebrated in San Francisco as it receives broader recognition",
+      "link": "https://abcnews.com/US/wireStory/lowriding-culture-celebrated-san-francisco-receives-broader-recognition-136591530",
+      "summary": "San Francisco's annual King of the Streets event is celebrating lowriding",
+      "source": "ABC News",
+      "published": "2026-09-19T22:11:38+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_ccdac3bc791c602a8703115574ce7b4b_4x3_384.jpg"
+    },
+    {
+      "id": "600b27da8a5ba4b6",
+      "title": "For Palestinian aid groups, Macklemore's $1M pledge brings relief and attention to ongoing suffering",
+      "link": "https://www.pbs.org/newshour/arts/for-palestinian-aid-groups-macklemores-1m-pledge-brings-relief-and-attention-to-ongoing-suffering",
+      "summary": "Macklemore committed to donate his net earnings from Ed Sheeran's Loop Tour after he was dropped for making pro-Palestinian comments onstage at New Jersey's MetLife Stadium.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T22:09:41+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2023-09-09T183327Z_1180088423_RC2653AB3WW2_RTRMADP_3_BRITAIN-ROYALS-INVICTUS-1024x670.jpg"
+    },
+    {
+      "id": "a8ec3500c440cacc",
+      "title": "New Jersey mom charged with obstruction after 'missing' son found hiding in her crawl space",
+      "link": "https://www.foxnews.com/us/new-jersey-mom-charged-obstruction-missing-son-found-hiding-crawl-space",
+      "summary": "A New Jersey mother reportedly told East Brunswick police her missing teen wasn&apos;t home, but officers found the juvenile hiding in a crawl space in her basement.",
+      "source": "Fox News",
+      "published": "2026-09-19T22:04:16+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/east-brunswick-police-vehicle.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "7a76068908cb091f",
+      "title": "Lawsuits filed over Nazi-looted art displayed in museums in Los Angeles, Auschwitz",
+      "link": "https://www.cbsnews.com/news/lawsuits-filed-nazi-looted-art-museums-los-angeles-auschwitz/",
+      "summary": "Between 1933 and 1945, the Nazi regime orchestrated the largest art theft in world history, seizing over 600,000 works of art across Europe from Jewish families, collectors and museums.",
+      "source": "CBS News",
+      "published": "2026-09-19T21:52:53+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/19/98c88446-d557-417e-a911-872a8777091b/thumbnail/1200x630/012125039a060c07018378808df2306d/ap26261604673392.jpg"
+    },
+    {
+      "id": "522b720f55375949",
+      "title": "State Department approves $2.7B air defense equipment sale to Ukraine",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/state-department-equipment-sale-ukraine/4001789851439/",
+      "summary": "The State Department approved a potential sale of $2.68 billion in air defense equipment to Ukraine, including S-300 Clone and GAM-67 missiles.",
+      "source": "UPI",
+      "published": "2026-09-19T21:05:48+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4001789851439/2026/upi_com/1be78ac21e27802aa0deb9a9e44deeeb/v1.2/State-Department-approves-27B-air-defense-equipment-sale-to-Ukraine.jpg"
+    },
+    {
+      "id": "d351a857d673782d",
+      "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
+      "link": "https://www.pbs.org/newshour/world/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-a-ballistic-missile",
+      "summary": "The growing conflict near another important global shipping corridor has brought new pressures for markets.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T20:45:21+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-19T114802Z_1980126111_RC28MNAXZ2HR_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-2-1024x683.jpg"
+    },
+    {
+      "id": "81862f74ee301d68",
+      "title": "Michigan city defends itself against accusations of favoring Muslim holidays over other faiths",
+      "link": "https://www.pbs.org/newshour/nation/michigan-city-defends-itself-against-accusations-of-favoring-muslim-holidays-over-other-faiths",
+      "summary": "A statement from the Detroit suburb issued by a spokesperson came in response to a lawsuit on Thursday that accused the city and its mayor of spending thousands of dollars to celebrate Muslim holidays while ignoring Christian and Jewish holidays.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T20:30:57+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2025-11-16T201654Z_913201192_RC2UXHABEMRS_RTRMADP_3_AUTOS-FORD-1024x735.jpg"
+    },
+    {
+      "id": "be13328fd1ff8560",
+      "title": "Greenland, Denmark say agreement with U.S. won’t affect sovereignty",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/greenland-denmark-security-agreement/6731789847534/",
+      "summary": "Denmark and Greenland said their new security agreement with the United States does not change the island's status as a sovereign territory.",
+      "source": "UPI",
+      "published": "2026-09-19T20:03:52+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/6731789847534/2026/upi/315a9bca9439809eaf8363a5b3f9cada/v1.2/Greenland-Denmark-say-agreement-with-US-wont-affect-sovereignty.jpg"
+    },
+    {
+      "id": "5bb76d61d0abde08",
+      "title": "Michigan city defends itself against accusations of favoring Muslim holidays over other faiths",
+      "link": "https://abcnews.com/US/wireStory/michigan-city-defends-accusations-favoring-muslim-holidays-faiths-136590130",
+      "summary": "The city of Dearborn, Michigan, says its diversity and welcoming nature are to blame for a lawsuit accusing it of favoring Muslim holidays over the holidays of other religious faiths",
+      "source": "ABC News",
+      "published": "2026-09-19T19:31:29+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_4fbeffc9a65aa42a56c1b9e3a5f935e9_4x3_384.jpg"
+    },
+    {
+      "id": "399fe6cd6bb6da48",
+      "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
+      "link": "https://abcnews.com/US/wireStory/ms-now-cnn-politico-journalists-denied-access-white-136583845",
+      "summary": "Reporters from CNN, MS NOW and Politico have been denied access to the White House",
+      "source": "ABC News",
+      "published": "2026-09-19T19:30:15+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_d160e253453229600ce54f8e91351523_4x3_384.jpg"
+    },
+    {
+      "id": "cc6faeca920dd3ce",
+      "title": "Reporters from CNN, MS NOW, Politico denied access to White House",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/reporters-cnn-msnow-politico-white-house/4721789844551/",
+      "summary": "White House reporters had their badges confiscated Saturday after President Donald Trump banned CNN, MS NOW and Politico reporters on Friday.",
+      "source": "UPI",
+      "published": "2026-09-19T19:07:41+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4721789844551/2026/upi/3b183ae32a25e9828043e4d10c843066/v1.2/Reporters-from-CNN-MS-NOW-Politico-denied-access-to-White-House.jpg"
+    },
+    {
+      "id": "d9e31d6ea928cc4f",
+      "title": "Trump vows to form \"AI Force,\" says he won't allow slowdown of AI development",
+      "link": "https://www.cbsnews.com/news/trump-vows-ai-force-czar-development/",
+      "summary": "In a Truth Social post​, Mr. Trump called fears around artificial intelligence possibly becoming a superintelligence that could pose a threat to human existence a hoax.",
+      "source": "CBS News",
+      "published": "2026-09-19T18:52:39+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/15/3625c76f-3f7c-4bba-bd4e-1887e273052e/thumbnail/1200x630/86aa616281e9c949aa1f19ab1de89a48/cbsn-fusion-eye-opener-trump-dismisses-ai-warnings-thumbnail.jpg"
+    },
+    {
+      "id": "62aa062b9077a6de",
+      "title": "Congo begins Ebola vaccinations for health workers in the epicenter of the outbreak",
+      "link": "https://www.pbs.org/newshour/world/congo-begins-ebola-vaccinations-for-health-workers-in-the-epicenter-of-the-outbreak",
+      "summary": "Health workers and other front-line workers in the Ebola response are being prioritized to receive the Ervebo vaccine that was effective in past Ebola outbreaks caused by a different, more common type of virus.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T18:48:50+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-16T144444Z_226795097_RC2EGNAD8RRF_RTRMADP_3_HEALTH-EBOLA-WHO-1024x640.jpg"
+    },
+    {
+      "id": "c3cf9bb942f4d551",
+      "title": "Russian election observer loses consciousness during arrest by police, opposition party says",
+      "link": "https://www.pbs.org/newshour/world/russian-election-observer-loses-consciousness-during-arrest-by-police-opposition-party-says",
+      "summary": "The three-day election, which began Friday and ends Sunday, features virtually no opposition and is all but certain to secure the Kremlin's political dominance.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T18:31:20+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-19T110537Z_1964847936_RC27MNA212VA_RTRMADP_3_RUSSIA-ELECTION-1024x683.jpg"
+    },
+    {
+      "id": "d61d1405b3a1bac0",
+      "title": "CBPl agent convicted of sexually assaulting, robbing 4 women",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/border-patrol-sexual-assault/2711789737090/",
+      "summary": "A Customs and Border Protection officer was convicted Thursday of sexually assaulting and robbing four women with a gun at Chicago hotels.",
+      "source": "UPI",
+      "published": "2026-09-19T18:26:02+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2711789737090/2026/upi/5c1be4fbabde65ee4d0b70fdc7635c27/v1.2/CBP-agent-convicted-of-sexually-assaulting-robbing-4-women.jpg"
+    },
+    {
+      "id": "58e94ee871e37306",
+      "title": "Denmark's leaders are cautiously optimistic about Trump's announcement of a Greenland deal",
+      "link": "https://www.pbs.org/newshour/world/denmarks-leaders-are-cautiously-optimistic-about-trumps-announcement-of-a-greenland-deal",
+      "summary": "U.S., Greenlandic and Danish officials had quietly negotiated for months behind the scenes, searching for solutions to address some of Trump's security concerns about the territory.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T18:20:13+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-19T143540Z_86964538_RC2BMNASI1AP_RTRMADP_3_USA-TRUMP-GREENLAND-1024x683.jpg"
+    },
+    {
+      "id": "d589ba7c248168c1",
+      "title": "Lawsuit says AI giants made illegal deal on technology's slowdown",
+      "link": "https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/",
+      "summary": "The lawsuit argues the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts.",
+      "source": "CBS News",
+      "published": "2026-09-19T17:49:31+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/10/59393731-223e-440a-ad56-461cc8e7b547/thumbnail/1200x630/03fed4a6bfb05cef1a881b810f3dee2e/gettyimages-2270277028.jpg"
+    },
+    {
+      "id": "820b3bd7a9edf4d9",
+      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+      "link": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+      "summary": "The lawsuit argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T17:10:44+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-11T084017Z_1960340699_RC2MPLAX7CZB_RTRMADP_3_BRITAIN-ECONOMY-2-1024x683.jpg"
+    },
+    {
+      "id": "93619311e14c0abe",
+      "title": "Dodgers owner Mark Walter sued over alleged failure to disclose federal probe to policyholders",
+      "link": "https://www.pbs.org/newshour/nation/dodgers-owner-mark-walter-sued-over-alleged-failure-to-disclose-federal-probe-to-policyholders",
+      "summary": "Walter has been under investigation since last year by the U.S. Attorney's Office in Manhattan and the Securities and Exchange Commission following a whistleblower complaint regarding alleged misrepresented loans made between companies within his business portfolio.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T16:49:37+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2025-04-07T160102Z_773731895_RC2YSDA3VFLB_RTRMADP_3_USA-TRUMP-2-1024x683.jpg"
+    },
+    {
+      "id": "c00a397e57c4a3e3",
+      "title": "Trump announces all 50 states joining Medicaid drug pricing model",
+      "link": "https://www.pbs.org/newshour/politics/trump-announces-all-50-states-joining-medicaid-drug-pricing-model",
+      "summary": "The Trump administration claims that Medicaid will save billions on prescription drug costs as a result of the plan, dubbed the Medicaid \"GENEROUS\" model. Experts say the savings are unclear since the content of the deals isn't public.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T16:37:05+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-18T194614Z_1575678784_RC2VLNAVRVH9_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    },
+    {
+      "id": "4a354b92adc39e0c",
+      "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban",
+      "link": "https://www.pbs.org/newshour/politics/ms-now-cnn-and-politico-say-their-journalists-were-denied-access-to-white-house-after-trump-ban",
+      "summary": "The actions were a clear escalation of Trump's long-running efforts — in the courts and through administrative action — to restrict news coverage by journalists he finds objectionable.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T16:24:28+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-19T165753Z_1661251352_RC2GMNAGW6DR_RTRMADP_3_USA-TRUMP-MEDIA-1024x683.jpg"
+    },
+    {
+      "id": "f4dc201f365070ce",
+      "title": "Thousands join protest outside Kennedy Center, expressing concern that Trump might tear it down",
+      "link": "https://www.pbs.org/newshour/politics/thousands-join-protest-outside-kennedy-center-expressing-concern-that-trump-might-tear-it-down",
+      "summary": "Friday's event followed a tumultuous week in federal courts in Washington where filings and counter-filings flooded the courts as the administration continues pushing for the president's vanity projects.",
+      "source": "PBS NewsHour",
+      "published": "2026-09-19T15:41:29+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-19T000106Z_2004985097_RC2ULNA22E5N_RTRMADP_3_USA-TRUMP-KENNEDY-CENTER-PROTEST-1024x683.jpg"
+    },
+    {
+      "id": "14ed38bd0b50a260",
+      "title": "Thousands gather at Kennedy Center for vigil in protest of closing",
+      "link": "https://www.upi.com/Top_News/US/2026/09/19/kennedy-center-protest/9871789831203/",
+      "summary": "Hundreds of protesters showed up at the Kennedy Center, forming a chain around the front of the building and shouting \"Hands off!\" the arts.",
+      "source": "UPI",
+      "published": "2026-09-19T15:25:50+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9871789831203/2026/upi/f7922a614fb618192f05d85752fc4848/v1.2/Thousands-gather-at-Kennedy-Center-for-vigil-in-protest-of-closing.jpg"
+    },
     {
       "id": "37bc0eeeb5aca6fa",
       "title": "CNN and MS NOW staffers turned away from White House after Trump ban",
@@ -5058,501 +5562,6 @@
       "source": "Fox News",
       "published": "2026-09-13T17:24:40+00:00",
       "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Mississippi-Woman-Fortune-Suspect-murder-charge.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "55c81311d1773b09",
-      "title": "Loopholes and shady practices taint U.S. surrogacy industry",
-      "link": "https://www.cbsnews.com/news/loopholes-and-shady-practices-taint-u-s-surrogacy-industry/",
-      "summary": "Lured by promises of payment and a desire to help other families, surrogates discover they have few protections from practices that cast a \"dark shadow\" over the industry.",
-      "source": "CBS News",
-      "published": "2026-09-13T14:31:50+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/2025/12/16/13a530f1-b92a-41bd-9cb8-4212180a5064/cbsnews-blue.jpg"
-    },
-    {
-      "id": "aabdc162ff0d8787",
-      "title": "Wisconsin Congressman suffers minor injury after lake emergency landing",
-      "link": "https://www.cbsnews.com/news/wisconsin-congressman-tom-tiffany-lake-wausau-plane-crash-landing/",
-      "summary": "The congressman thanked the pilot and first responders for coming to their aid, and expressed his gratitude at only having sustained minor injuries.",
-      "source": "CBS News",
-      "published": "2026-09-13T14:30:28+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/13/58953959-6a75-4644-a791-a02f6d49752b/thumbnail/1200x630/f191e3e386411ed29668a6c21ff06ab7/gettyimages-2284652118.jpg"
-    },
-    {
-      "id": "80c32aaea6d67c10",
-      "title": "Nature: Monarch caterpillars in New York",
-      "link": "https://www.cbsnews.com/video/nature-monarch-caterpillars-in-new-york/",
-      "summary": "We leave you this Sunday morning with hungry monarch caterpillars, munching away in New York's Hudson Valley. Videographer: Lorraine Mullins.",
-      "source": "CBS News",
-      "published": "2026-09-13T14:30:20+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/13/5e26bb3c-117a-43e6-b913-a8beb2c2f265/thumbnail/1200x630/750ee6e738d07834477862035a09b5fc/nature-monarch-caterpillar-1920.jpg"
-    },
-    {
-      "id": "830b438830cec3db",
-      "title": "Good gourd! A visit to the pumpkin capital of the world",
-      "link": "https://www.cbsnews.com/video/a-visit-to-the-pumpkin-capital-of-the-world-morton-illinois/",
-      "summary": "In Morton, Illinois, home to the annual Pumpkin Festival, and site of the Libby's factory responsible for 85 percent of the world's canned pumpkin, correspondent Nancy Giles gets a taste of the local produce and finds out why, in Morton, orange is always in season.",
-      "source": "CBS News",
-      "published": "2026-09-13T14:27:01+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/13/c6d23cf3-893d-416e-b00f-60ee275ed75c/thumbnail/1200x630/866593f11043534cdd4ea677865f33fb/pumpkin-festival-a-1920.jpg"
-    },
-    {
-      "id": "d7a6c8b4e60dc744",
-      "title": "Testing the ethical boundaries of surrogacy",
-      "link": "https://www.cbsnews.com/video/testing-the-ethical-boundaries-of-surrogacy/",
-      "summary": "In the United States, commercial surrogacy — paying a woman to have fertilized eggs implanted in her uterus so she can carry a pregnancy to term — is widely assumed to be closely regulated. But a yearlong CBS News investigation found that few, if any, meaningful protections...",
-      "source": "CBS News",
-      "published": "2026-09-13T14:21:16+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/13/b879bce0-7dda-45e5-859e-f592db806730/thumbnail/1200x630/f7f14ddc44df83749a471089f269b3ca/surrogacy-2.jpg"
-    },
-    {
-      "id": "c45bce0d74ce17aa",
-      "title": "Missile crisis: The hard truths about America's military arsenal",
-      "link": "https://www.cbsnews.com/news/missile-crisis-the-hard-truths-about-americas-military-arsenal/",
-      "summary": "In the early days of the war against Iran, the U.S. fired off thousands of long-range, precision-guided missiles. Now, with a depleted arsenal, the Pentagon seeks to replenish its stockpiles, an effort that will cost billions and take years.",
-      "source": "CBS News",
-      "published": "2026-09-13T14:11:32+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/12/658782c9-dafc-47ad-9a04-93697815a598/thumbnail/1200x630/3d11a63c5df7edb0b31e9e8a9d907022/lockheed-martin-patriot-missile-assembly-1280.jpg"
-    },
-    {
-      "id": "eadb01974c05765f",
-      "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
-      "link": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
-      "summary": "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers.",
-      "source": "NPR",
-      "published": "2026-09-13T14:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "2437553e0456fee0",
-      "title": "A former football star's backpack becomes a lifeline",
-      "link": "https://www.cbsnews.com/video/a-former-football-stars-backpack-becomes-a-lifeline/",
-      "summary": "In Austin, Texas, recent Indiana University graduate Jasper Steinmetz approached a man sporting something familiar: an IU backpack. The man turned out to be Sampson James, a former Indiana University football star who had fallen on hard times, following a knee injury and a...",
-      "source": "CBS News",
-      "published": "2026-09-13T13:58:01+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/13/d0d4cb4d-a140-401c-9152-bfd64dd73ecd/thumbnail/1200x630/0fac8eb6cceb1284ef5cbbcc1b1a1679/hartman-indiana-backpack-1920.jpg"
-    },
-    {
-      "id": "9b5cb8f4176f622e",
-      "title": "Wisconsin congressman swims to safety after plane makes emergency landing in a lake",
-      "link": "https://abcnews.com/US/wireStory/gop-congressman-wisconsin-swims-safety-after-plane-makes-136401182",
-      "summary": "A Republican congressman says he had to swim to safety after a plane he was traveling in made an emergency landing in a lake late Saturday",
-      "source": "ABC News",
-      "published": "2026-09-13T13:39:01+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_2bfa267b324b27688b9b66088f7ab7c8_4x3_384.jpg"
-    },
-    {
-      "id": "d7aaa431ddbbe22d",
-      "title": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks",
-      "link": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/",
-      "summary": "The head of the artificial intelligence company calls the exponential rate of AI developments a \"warning sign,\" with risks for humanity, and says, \"We need to slow down.\" He talks with \"Sunday Morning\" about possible steps forward.",
-      "source": "CBS News",
-      "published": "2026-09-13T13:35:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/13/25440684-a077-4f05-b97d-5b59548fe738/thumbnail/1200x630g2/d3aa2c680456bb46cd3605ad53760736/dario-amodei-1280.jpg"
-    },
-    {
-      "id": "d56244a9883b87f2",
-      "title": "Anthropic CEO Dario Amodei: \"For too long the industry lied\" about AI risks",
-      "link": "https://www.cbsnews.com/video/anthropic-ceo-dario-amodei-for-too-long-the-industry-lied-about-ai-risks/",
-      "summary": "Dario Amodei, head of the artificial intelligence company Anthropic, calls the exponential rate of AI developments a \"warning sign,\" with risks for humanity, and says, \"We need to slow down.\" He talks with correspondent Jo Ling Kent about possible steps forward.",
-      "source": "CBS News",
-      "published": "2026-09-13T13:33:07+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/13/f7466e2f-d978-4ce7-b83f-40e1aead16bb/thumbnail/1200x630/21d222c537c9d71db92f3288875fcbfd/dario-amodei-1920.jpg"
-    },
-    {
-      "id": "dd8c91e21cea36a4",
-      "title": "The secret ballot has been an article of faith in US elections. That's being tested in Georgia",
-      "link": "https://abcnews.com/US/wireStory/secret-ballot-article-faith-us-elections-tested-georgia-136401271",
-      "summary": "There's a flaw in Georgia&rsquo;s voting equipment that can allow voters to be matched to their ballots after they&rsquo;ve been cast",
-      "source": "ABC News",
-      "published": "2026-09-13T13:30:23+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_7338b8a6d8e4866c710ec4f05995dcbb_4x3_384.jpg"
-    },
-    {
-      "id": "32440bd1771e2f7f",
-      "title": "2026 midterm election races to watch",
-      "link": "https://www.cbsnews.com/news/2026-midterm-election-races/",
-      "summary": "CBS News has identified nine key Senate and 42 House races that will likely decide the majority — all of which can change during the midterm campaign.",
-      "source": "CBS News",
-      "published": "2026-09-13T13:18:53+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/11/33aa6c33-1e0b-4414-8bdb-4340d0f5d05f/thumbnail/1200x630/6c1be2242a5238c86e9623ae34b90e4a/gettyimages-2289747188.jpg"
-    },
-    {
-      "id": "b2f35515794c3d13",
-      "title": "Missile crisis: The hard truths about America's military arsenal",
-      "link": "https://www.cbsnews.com/video/missile-crisis-the-hard-truths-about-americas-military-arsenal/",
-      "summary": "The war with Iran was launched more than six months ago, and shows no signs of ending. In the early days of the conflict, the United States fired off thousands of long-range, precision-guided missiles. Now, with its arsenal depleted, the Pentagon is faced with the stark...",
-      "source": "CBS News",
-      "published": "2026-09-13T13:17:01+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/13/205ff0dc-f6cd-4c3f-a38f-0896ccabfb7c/thumbnail/1200x630/b7ea0123dd6c612f9b45d85e98d5f918/raacm-missile-production-video-1920.jpg"
-    },
-    {
-      "id": "e1292a1b588669ce",
-      "title": "An Iranian commercial ship is struck near Strait of Hormuz with 1 dead, Iranian media say",
-      "link": "https://abcnews.com/US/wireStory/iranian-commercial-ship-struck-strait-hormuz-1-dead-136399794",
-      "summary": "State-run media in Iran say an Iranian commercial vessel has been struck off Qeshm Island in the Strait of Hormuz, with one person killed and four wounded",
-      "source": "ABC News",
-      "published": "2026-09-13T12:26:15+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_aa034da0d8226f5a3b4794b10afb8b3b_4x3_384.jpg"
-    },
-    {
-      "id": "8c7df23bd8be3956",
-      "title": "Georgia killer who murdered two suburban real estate agents faces execution after 23-year wait for justice",
-      "link": "https://www.foxnews.com/us/georgia-killer-murdered-two-suburban-real-estate-agents-faces-execution-after-23-year-wait-justice",
-      "summary": "Lori Brown&apos;s mother recalls the 2003 Powder Springs murders of two real estate agents as Stacey Ian Humphreys&apos; Georgia execution date nears.",
-      "source": "Fox News",
-      "published": "2026-09-13T12:00:15+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Stacey-Humphreys-and-Lori-Brown.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "de4bfcc7407cd470",
-      "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
-      "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
-      "summary": "As Star Trek celebrates its 60th birthday, the long-running franchise is also grappling with the challenges of timing and technology. \"Its audience is aging,\" says Strange New Worlds star Anson Mount.",
-      "source": "NPR",
-      "published": "2026-09-13T11:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "b2aaf358e8d67829",
-      "title": "Indonesian passenger ship overturns, sparking search for about 130 missing",
-      "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
-      "summary": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday.",
-      "source": "NPR",
-      "published": "2026-09-13T10:31:10+00:00",
-      "image": null
-    },
-    {
-      "id": "8432e9e94b3e2ed1",
-      "title": "Penn State frat cocaine bust blows lid off wider stimulant scourge hitting college campuses — and beyond",
-      "link": "https://www.foxnews.com/us/penn-state-frat-cocaine-bust-blows-lid-wider-stimulant-scourge-hitting-college-campuses-beyond",
-      "summary": "The alleged Penn State cocaine ring exposed a surge in stimulant use across rural America, with methamphetamine and synthetic drugs alarming officials.",
-      "source": "Fox News",
-      "published": "2026-09-13T10:00:57+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/penn-state-coke-bust-drug-counselor-says-coke-is-tip-of-iceberg.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "55e73fcf60e029ec",
-      "title": "How a young woman became an ISIS bride — and then an informant, helping save others",
-      "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
-      "summary": "A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group.",
-      "source": "NPR",
-      "published": "2026-09-13T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "a67f733794fc7b15",
-      "title": "Man accused in brutal motel stabbing sought as person of interest in 4 deaths, child attack",
-      "link": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest",
-      "summary": "Kaegan Jude Solet is sought as a person of interest after four people were found stabbed to death and a child critically wounded in Houma, Louisiana.",
-      "source": "Fox News",
-      "published": "2026-09-13T07:28:22+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/kaegan-solet-houma-louisiana-stabbing-person-of-interest.png?ve=1&tl=1"
-    },
-    {
-      "id": "e3ca2c9db165a05e",
-      "title": "Deputies respond to trespasser at Malibu home of Kamala Harris",
-      "link": "https://www.cbsnews.com/news/kamala-harris-trespassing-report-los-angeles-county-malibu-home/",
-      "summary": "A trespasser was reported at former Vice President Kamala Harris' Malibu, California, home.",
-      "source": "CBS News",
-      "published": "2026-09-13T03:51:11+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/13/fa74f7f1-1dd1-44d7-b65d-1aeddf32e9f4/thumbnail/1200x630/96f4a151c86bef274211f5ef9003b3d7/gettyimages-2282284897.jpg"
-    },
-    {
-      "id": "572403cb6bd4a981",
-      "title": "Florida woman accused of setting stranger on fire at gas station, leaving horrific burns",
-      "link": "https://www.foxnews.com/us/florida-woman-accused-setting-stranger-fire-gas-station-leaving-horrific-burns",
-      "summary": "Video captured Eleanor Crawford allegedly igniting gasoline while a stranger pumped fuel at a St. Petersburg Mobil gas station, police said.",
-      "source": "Fox News",
-      "published": "2026-09-13T03:19:38+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/eleanor-crawford-st-petersburg-mobil-arson-attack.png?ve=1&tl=1"
-    },
-    {
-      "id": "7baf061ca3fc604a",
-      "title": "Knife-wielding man races at officer in packed seaside park before one deadly shot rings out: video",
-      "link": "https://www.foxnews.com/us/knife-wielding-man-races-officer-packed-seaside-park-before-one-deadly-shot-rings-out-video",
-      "summary": "Santa Monica police bodycam video shows 44-year-old Michael Rodriguez charging an officer with a knife in Palisades Park before he was shot and killed by police.",
-      "source": "Fox News",
-      "published": "2026-09-13T02:41:37+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/santa-monica-police-bodycam-michael-rodriguez-knife-charge-knife.png?ve=1&tl=1"
-    },
-    {
-      "id": "1d839f03ebb81072",
-      "title": "Federal judge rules Trump DHS plan for 50% FEMA staffing cuts was unlawful",
-      "link": "https://abcnews.com/US/wireStory/federal-judge-rules-trump-dhs-plan-50-fema-136397387",
-      "summary": "A federal judge has ruled that the Trump administration's plan to cut staffing at FEMA by 50% was unlawful",
-      "source": "ABC News",
-      "published": "2026-09-13T01:28:01+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_e56494458ed43faacccebb3d62eeb30f_4x3_384.jpg"
-    },
-    {
-      "id": "18a3f785cf0ac605",
-      "title": "Federal judge rules Trump administration cuts to FEMA broke the law",
-      "link": "https://www.upi.com/Top_News/US/2026/09/12/FEMA-workforce-lawsuit/3031789258935/",
-      "summary": "A federal judge said the Department of Homeland Security broke the law when it enacted a plan to cut the number of FEMA employees in half.",
-      "source": "UPI",
-      "published": "2026-09-13T00:30:27+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3031789258935/2026/upi/19757df4968835e1a1b2e2b11239c241/v1.2/Federal-judge-rules-Trump-administration-cuts-to-FEMA-broke-the-law.jpg"
-    },
-    {
-      "id": "d52175b5600eedf5",
-      "title": "Elena Rybakina wins U.S. Open over defending champ Aryna Sabalenka",
-      "link": "https://www.cbsnews.com/news/elena-rybakina-defeats-aryna-sabalenka-wins-us-open/",
-      "summary": "Aryna Sabalenka, the two-time defending U.S. Open champion, was dethroned Saturday, losing to Elena Rybakina in three sets.",
-      "source": "CBS News",
-      "published": "2026-09-13T00:18:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/12/6300d97b-a256-4425-bedf-29cef94bafb8/thumbnail/1200x630g2/7afe16e08b0574d8ea1eaa66fef59086/gettyimages-2294460625.jpg"
-    },
-    {
-      "id": "a9827b236c9dd605",
-      "title": "President Trump's childhood home sells for $2 million",
-      "link": "https://abcnews.com/US/wireStory/president-donald-trumps-childhood-home-sells-2-million-136393061",
-      "summary": "A renovation transformed it from a mold-ridden cat den to a modern abode.",
-      "source": "ABC News",
-      "published": "2026-09-13T00:14:55+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_6a915b6bb72f8e575d1bb1f4bcc15577_4x3_384.jpg"
-    },
-    {
-      "id": "90f35346fb9b95a8",
-      "title": "Son of notorious Somali dictator reportedly living in Ohio, decades after brutal regime's collapse",
-      "link": "https://www.foxnews.com/us/son-notorious-somali-dictator-reportedly-living-ohio-decades-after-brutal-regimes-collapse",
-      "summary": "Ayanle Siad Barre, son of Somalia&apos;s former dictator, has been living in Ohio&apos;s large Somali community, prompting calls for a U.S. investigation.",
-      "source": "Fox News",
-      "published": "2026-09-13T00:12:54+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mohammed-siad-barre-president-somalia.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "b266e51b57f4fbd8",
-      "title": "Anthropic CEO says \"exponential\" growth of AI is a \"warning sign\"",
-      "link": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-calls-slowdown-ai-development/",
-      "summary": "Artificial intelligence technology is developing at an \"exponential\" rate, Anthropic CEO Dario Amodei told CBS News, calling the situation a \"warning sign\" for the industry that requires serious safeguards.",
-      "source": "CBS News",
-      "published": "2026-09-13T00:04:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/12/ba2c184a-e5b0-4a75-bc6c-c705a689a925/thumbnail/1200x630/3b5644771c9d63c59417bf9b2cbaf5ad/amodei.jpg"
-    },
-    {
-      "id": "f0ca9c75e4f79da0",
-      "title": "Celine Dion returns to the stage after battling rare illness",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
-      "summary": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.",
-      "source": "NPR",
-      "published": "2026-09-12T23:54:06+00:00",
-      "image": null
-    },
-    {
-      "id": "1babb45eb9f968d5",
-      "title": "Alaska drops voter misconduct cases against American Samoans who wrongly checked 'US citizen' box",
-      "link": "https://abcnews.com/US/wireStory/alaska-drops-voter-misconduct-cases-american-samoans-wrongly-136395965",
-      "summary": "Alaska prosecutors are dropping voter misconduct cases against a group of residents born in American Samoa after a state appeals court threw out felony charges against a woman who wrongly checked a box saying she was a U.S. citizen",
-      "source": "ABC News",
-      "published": "2026-09-12T23:22:20+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_8c93f189cab05cb6f751be53cbf62c7a_4x3_384.jpg"
-    },
-    {
-      "id": "2ab9bef4197609f7",
-      "title": "Minnesota churches roiled by legal battle over ICE surveillance and right to protest",
-      "link": "https://www.pbs.org/newshour/nation/minnesota-churches-roiled-by-legal-battle-over-ice-surveillance-and-right-to-protest",
-      "summary": "Court cases involving Twin Cities churches and immigration enforcement highlight how the acrimonious debate continues to roil faith communities more than six months since the federal surge turned Minnesota into a symbol of defiance of the Trump administration's policies.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T21:25:55+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/AP26252573483583-1024x683.jpg"
-    },
-    {
-      "id": "c289da5df688a6e7",
-      "title": "U.S. women beat Spain 76-66 to reach the FIBA World Cup final against France",
-      "link": "https://www.cbsnews.com/news/us-women-spain-fiba-world-cup-final-france/",
-      "summary": "Breanna Stewart scored 16 points and Kahleah Copper added 13 to help the U.S. beat Spain 76-66, advancing to the championship game of the women's FIBA World Cup.",
-      "source": "CBS News",
-      "published": "2026-09-12T20:41:13+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/12/ea2e64e3-2120-47b4-a9c0-cdb80c69805d/thumbnail/1200x630/94374287e05181321058b561d4574533/ap26255676268762.jpg"
-    },
-    {
-      "id": "9f92a0f184817678",
-      "title": "Four Wisconsin cops injured after suspected drunk driver barrels toward crowd, sparks police chase",
-      "link": "https://www.foxnews.com/us/four-wisconsin-cops-injured-after-suspected-drunk-driver-barrels-toward-crowd-sparks-police-chase",
-      "summary": "Four Wisconsin police officers were injured after a car drove toward a crowd at a Green Bay food truck disturbance, prompting an officer to fire.",
-      "source": "Fox News",
-      "published": "2026-09-12T20:13:07+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/a54d8b39-green-bay-police-vehicle.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "012ae5250183552f",
-      "title": "Ohio man convicted after trying to shoot ex-wife at point-blank range inside restaurant in chilling video",
-      "link": "https://www.foxnews.com/us/ohio-man-convicted-trying-shoot-ex-wife-point-blank-range-inside-restaurant-chilling-video",
-      "summary": "Security video shows Matthew Exton thrusting a handgun at point-blank range near his ex-wife&apos;s head inside a Toledo restaurant before a waiter acted.",
-      "source": "Fox News",
-      "published": "2026-09-12T19:40:14+00:00",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/matthew-exton-fox-news-001.gif"
-    },
-    {
-      "id": "ef4142294ecb249e",
-      "title": "Former Army secretary praises Ukraine in 1st public appearance since resigning",
-      "link": "https://www.cbsnews.com/news/dan-driscoll-praises-ukraine-military-innovation-kyiv/",
-      "summary": "During his 18 months as Army secretary, Dan Driscoll pushed the U.S. military to apply lessons from the war in Ukraine.",
-      "source": "CBS News",
-      "published": "2026-09-12T19:24:12+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/12/5a4d5f99-5d75-4830-85aa-8b0462db0db4/thumbnail/1200x630/06c961eeb9bf4fe2cae26371f2984b21/img-4961.jpg"
-    },
-    {
-      "id": "a40fdd711f444657",
-      "title": "Anthropic CEO says AI industry needs to give safety measures time to catch up",
-      "link": "https://www.pbs.org/newshour/nation/anthropic-ceo-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up",
-      "summary": "\"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong,\" Dario Amodei said.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T19:15:26+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-12T151731Z_1930509281_RC2UOJAYBQH0_RTRMADP_3_ANTHROPIC-AI-1024x698.jpg"
-    },
-    {
-      "id": "8a5a6d120da6defa",
-      "title": "Police say more arrests coming in death of Mississippi woman found hanging from tree",
-      "link": "https://abcnews.com/US/wireStory/police-arrests-coming-death-mississippi-woman-found-hanging-136392110",
-      "summary": "Mississippi police say they were still investigating the death of Tasia Fortune, a Black woman found hanging from a tree last month, a day after a man was arrested in connection with the killing",
-      "source": "ABC News",
-      "published": "2026-09-12T18:50:34+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_42f74348b413e9397d93ff645e2ce0b7_4x3_384.jpg"
-    },
-    {
-      "id": "ebc979a0ca2f296a",
-      "title": "AP analysis: Justice Department went after protesters for felony assault, but juries and judges were unconvinced",
-      "link": "https://www.pbs.org/newshour/politics/ap-analysis-justice-department-went-after-protesters-for-felony-assault-but-juries-and-judges-were-unconvinced",
-      "summary": "The Associated Press' analysis focused on arrests made during protests last summer and fall in LA, Chicago, Portland and Washington, D.C. — cities with significant protests where President Donald Trump sought to or successfully deployed the National Guard.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T18:46:38+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2025-06-12T023220Z_1633102399_RC2Q0FAH8S5O_RTRMADP_3_USA-MIGRATION-PROTEST-LOS-ANGELES-1024x683.jpg"
-    },
-    {
-      "id": "a0d2b5569e4126fc",
-      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-      "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-      "summary": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
-      "source": "NPR",
-      "published": "2026-09-12T18:29:18+00:00",
-      "image": null
-    },
-    {
-      "id": "50ab3019911d3bf4",
-      "title": "President Trump's childhood home sells after renovation",
-      "link": "https://www.cbsnews.com/news/donald-trump-childhood-home-queens-sells/",
-      "summary": "The president lived at the Tudor-style Queens estate until age 4.",
-      "source": "CBS News",
-      "published": "2026-09-12T18:19:25+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/12/f3968372-0959-4134-a90f-20669484edde/thumbnail/1200x630/77294b74f3c12d6cb3b8ddeecfedab41/ap26255612827177.jpg"
-    },
-    {
-      "id": "c475b02fc8c4efe3",
-      "title": "DOJ went after protesters for felony assault, but juries, judges were unconvinced, AP analysis finds",
-      "link": "https://abcnews.com/US/wireStory/analysis-doj-after-protesters-felony-assault-juries-judges-136386739",
-      "summary": "The U.S. Justice Department has struggled to secure felony convictions against most of the 102 protesters arrested since last year for assaulting federal authorities in four major cities",
-      "source": "ABC News",
-      "published": "2026-09-12T17:54:29+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_54db940f84a0e89c61ba53a2eed43a25_4x3_384.jpg"
-    },
-    {
-      "id": "2b1b7bc28b8f6335",
-      "title": "Ex-mayor found liable for alleged sexual assaults of 7 women, ordered to pay $13M",
-      "link": "https://www.foxnews.com/us/former-democratic-mayor-found-liable-sexually-assaulting-7-women-jury-awards-13-million",
-      "summary": "Dominic Foppoli, former Windsor, California, mayor, faces a punitive damages phase after a jury awarded seven women $13 million in sexual assault case.",
-      "source": "Fox News",
-      "published": "2026-09-12T17:15:44+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dominic-foppoli1.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "fc90ea71337a91cd",
-      "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
-      "link": "https://www.pbs.org/newshour/politics/trump-touches-a-nerve-while-in-ireland-by-saying-reunification-would-be-fantastic",
-      "summary": "At a meeting with Irish Prime Minister Micheál Martin in Dublin, Trump said he would love to see the reunification of the Republic of Ireland with the United Kingdom's Northern Ireland.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T17:11:01+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-12T100202Z_293552245_RC2LHNA860D5_RTRMADP_3_USA-TRUMP-IRELAND-1024x683.jpg"
-    },
-    {
-      "id": "9fa5cbece539bc7d",
-      "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
-      "link": "https://www.pbs.org/newshour/world/saudi-arabia-has-few-options-as-it-faces-mounting-threats-from-iran-and-its-allies",
-      "summary": "A lightning advance by Houthi rebels threatens a crucial Red Sea shipping route. Drone attacks blamed on Iraqi militias have forced the closure of a major pipeline, and Iran is still disrupting the Strait of Hormuz.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T16:52:06+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-11T161433Z_1255602714_RC23HNARB58W_RTRMADP_3_IRAN-CRISIS-2.jpg"
-    },
-    {
-      "id": "e9e09400ec7c9daf",
-      "title": "Trump in Dublin says he'd love to see Ireland unified",
-      "link": "https://www.upi.com/Top_News/US/2026/09/12/dublin-ireland-unified-remarks/9101789231108/",
-      "summary": "President Donald Trump said he'd love to see Ireland and Northern Ireland unified in Dublin Saturday with the Irish president.",
-      "source": "UPI",
-      "published": "2026-09-12T16:51:10+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/9101789231108/2026/upi_com/29da7494c7cfd4cb00e2b46b316bfe6a/v1.2/Trump-in-Dublin-says-hed-love-to-see-Ireland-unified.jpg"
-    },
-    {
-      "id": "6cd3d5af1502dd58",
-      "title": "BRICS leaders voice concern over Middle East, condemn unilateral sanctions at India summit",
-      "link": "https://www.pbs.org/newshour/world/brics-leaders-voice-concern-over-middle-east-condemn-unilateral-sanctions-at-india-summit",
-      "summary": "The meeting, which included Iranian President Masoud Pezeshkian, voiced concern over \"deliberate attacks\" on civilian infrastructure and peaceful nuclear facilities under the U.N. atomic energy agency's safeguards.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T16:28:01+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-12T135042Z_1617752590_RC2PHNALKVCB_RTRMADP_3_BRICS-SUMMIT-1024x683.jpg"
-    },
-    {
-      "id": "cd01a2ef790dc335",
-      "title": "Trump asks Smithsonian to install George Washington statues and exhibit",
-      "link": "https://www.pbs.org/newshour/politics/trump-asks-smithsonian-to-install-george-washington-statues-and-exhibit",
-      "summary": "Trump asked for an exhibit beginning now and continuing through Feb. 22, 2032, the 300th anniversary of Washington's birth. For Constitution Day on Sept. 17, Trump asked the institution to install the 11-foot statue of Washington featured at the recent Freedom 250 IndyCar...",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T15:59:51+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-07-30T163339Z_1970418302_RC2EOMALJFR9_RTRMADP_3_USA-TRUMP-SMITHSONIAN-1024x683.jpg"
-    },
-    {
-      "id": "e134ae0093d984e8",
-      "title": "Exclusive discounts from CBS Mornings Deals",
-      "link": "https://www.cbsnews.com/video/cbs-mornings-deals-091226/",
-      "summary": "On this edition of CBS Deals, we show you items that will help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
-      "source": "CBS News",
-      "published": "2026-09-12T15:51:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/12/3f1fa6dc-a162-4592-a888-4ddc4972225a/thumbnail/1200x630/11b100940564927f256d6ae9f8017f16/thumb-deals.jpg"
-    },
-    {
-      "id": "a381f29c197e1a7b",
-      "title": "Minnesota churches roiled by legal battle over ICE surveillance and right to protest",
-      "link": "https://abcnews.com/US/wireStory/minnesota-churches-roiled-legal-battle-ice-surveillance-protest-136386549",
-      "summary": "Court cases involving Twin Cities churches and immigration enforcement highlight how the acrimonious debate continues to roil faith communities more than six months since the federal surge in Minnesota",
-      "source": "ABC News",
-      "published": "2026-09-12T15:50:54+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_63f39a0b95bc45a835e7ab6310e290fb_4x3_384.jpg"
-    },
-    {
-      "id": "904b75053fe127b1",
-      "title": "Where have all the Atlantic hurricanes gone? El Ni&ntilde;o might bring record slow storm season",
-      "link": "https://www.pbs.org/newshour/science/where-have-all-the-atlantic-hurricanes-gone-el-nino-might-bring-record-slow-storm-season",
-      "summary": "On Saturday, 2026 set a record for the longest a season has begun without a storm that has reached winds of 74 mph to qualify as a hurricane — at least in the satellite era, said Nick Novella, a meteorologist at the government's Weather Prediction Center.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T15:45:49+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2024-10-11T173953Z_723340476_RC2AIAAJ4E93_RTRMADP_3_STORM-MILTON-1024x683.jpg"
-    },
-    {
-      "id": "6cceaf3518196e08",
-      "title": "Attack that closed key Saudi pipeline is blamed on Iran-backed militias in Iraq",
-      "link": "https://www.pbs.org/newshour/world/attack-on-key-saudi-pipeline-is-blamed-on-iran-backed-militias-in-iraq",
-      "summary": "Though an umbrella group of Iran-backed militias in Iraq denied their involvement, Iraq's government confirmed the attacks had originated from its territory, pledged to investigate and dismissed two senior officials.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T15:31:05+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-12T144609Z_1978991262_RC2MHNACQMRW_RTRMADP_3_IRAN-CRISIS-YEMEN-PRISONERS-2-1024x683.jpg"
-    },
-    {
-      "id": "dc256d284195cd57",
-      "title": "El Niño creates record-low Atlantic hurricane season",
-      "link": "https://www.cbsnews.com/news/atlantic-hurricane-season-record-low-el-nino/",
-      "summary": "An El Niño pattern occurs every two to seven years.",
-      "source": "CBS News",
-      "published": "2026-09-12T15:26:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/12/f3b79f66-3d55-424c-80e7-a0bb79d116e1/thumbnail/1200x630/023b618bab1718f3a367f26f08fa0ba8/ap26254692872164.jpg"
-    },
-    {
-      "id": "ea0a0ee590da637a",
-      "title": "Man arrested in death of Tasia Fortune, woman found hanging from tree in Mississippi",
-      "link": "https://www.pbs.org/newshour/nation/mississippi-police-arrest-a-man-in-the-death-of-tasia-fortune",
-      "summary": "The state medical examiner's office determined Thursday evening that the death was a homicide, Brackney said, allowing police to execute the warrants they already had on hand.",
-      "source": "PBS NewsHour",
-      "published": "2026-09-12T15:07:22+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/AP26254831097212-1024x683.jpg"
     }
   ]
 }
