@@ -1,6 +1,735 @@
 {
-  "last_updated": "2026-10-11T16:35:25.762820+00:00",
+  "last_updated": "2026-10-12T20:10:50.413120+00:00",
   "articles": [
+    {
+      "id": "a60e3575cda9c1d7",
+      "title": "Selma Blair arrested after allegedly biting flight attendant",
+      "link": "https://www.cbsnews.com/news/selma-blair-arrested-incident-on-board-flight-from-lax-to-jfk/",
+      "summary": "Actress Selma Blair has been arrested after an incident on board a Delta Air Lines flight from Los Angeles to John F. Kennedy International Airport Sunday night.",
+      "source": "CBS News",
+      "published": "2026-10-12T20:11:13+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/247fe598-4e63-46a1-beff-5e16ec2c94bc/thumbnail/1200x630g3/c96828c02cb4db43ebd67c6f7ae96687/gettyimages-2298149182.jpg"
+    },
+    {
+      "id": "f9764220c7056cd3",
+      "title": "WATCH LIVE: At Georgia governor debate, Democrat Keisha Lance Bottoms set to answer questions solo",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-at-georgia-governor-debate-democrat-keisha-lance-bottoms-set-to-answer-questions-solo",
+      "summary": "Georgia Democratic gubernatorial nominee Keisha Lance Bottoms is set to take the debate stage Monday without her Republican opponent.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T19:59:38+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-19T220658Z_278695172_RC2JCLAE2JHQ_RTRMADP_3_USA-ELECTION-GEORGIA-1024x683.jpg"
+    },
+    {
+      "id": "466c7a435abf39d0",
+      "title": "Retired police sergeant shoots deputy chief wife and their daughter in wealthy, coastal enclave home",
+      "link": "https://www.foxnews.com/us/retired-police-sergeant-shoots-deputy-chief-wife-daughter-wealthy-coastal-enclave-home",
+      "summary": "Ann Mannix, San Francisco&apos;s first female SWAT commander, and her daughter Katie were found dead in their Mill Valley home in a suspected murder-suicide.",
+      "source": "Fox News",
+      "published": "2026-10-12T19:52:41+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ann-and-katie-mannix-split.png?ve=1&tl=1"
+    },
+    {
+      "id": "751ffb9c8abb4f58",
+      "title": "Would access to Russian diesel help drive down prices in the U.S.?",
+      "link": "https://www.cbsnews.com/news/trump-russian-diesel-imports-prices/",
+      "summary": "Average U.S. diesel prices remain stuck above $6 a gallon, raising fuel costs in trucking, agriculture and construction.",
+      "source": "CBS News",
+      "published": "2026-10-12T19:52:08+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/29c0536a-86dc-4515-92c4-aadc674741ac/thumbnail/1200x630/b4b9300b78fb78e3fc69eafefe23f8eb/gettyimages-2297102583.jpg"
+    },
+    {
+      "id": "1f90376542204ce4",
+      "title": "Judge chastises DOJ after 430 trees cut down at D.C. golf course",
+      "link": "https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/",
+      "summary": "Government lawyers said 430 trees were cut down at East Potomac Golf Links on Saturday.",
+      "source": "CBS News",
+      "published": "2026-10-12T19:44:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/a7de30f7-c2f0-4c5d-ba59-d84b23ff5e89/thumbnail/1200x630/0344edf495fa1d88ced61bf882bfeeb8/gettyimages-2299028421.jpg"
+    },
+    {
+      "id": "ff2209d1e8f7b54e",
+      "title": "Federal judge orders Trump administration to halt work for a day on historic D.C. golf course",
+      "link": "https://www.pbs.org/newshour/politics/federal-judge-orders-trump-administration-to-halt-work-for-a-day-on-historic-d-c-golf-course",
+      "summary": "U.S. District Judge Ana Reyes on Monday ordered a 24-hour halt to tree-cutting at the East Potomac Golf Course, a historic D.C. golf course that has been part of President Donald Trump's plans to remake the city.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T19:31:53+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26283698345278-1024x683.jpg"
+    },
+    {
+      "id": "156eb0a56b396a9c",
+      "title": "Russell Brand appears in London court for trial on rape and sexual assault charges",
+      "link": "https://www.pbs.org/newshour/arts/russell-brand-appears-in-london-court-for-trial-on-rape-and-sexual-assault-charges",
+      "summary": "British comedian and actor Russell Brand appeared in a London court on Monday for the start of his trial on rape and sexual assault charges.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T19:21:04+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/AP26285287300422-1024x683.jpg"
+    },
+    {
+      "id": "e4e75035975636e5",
+      "title": "Chuck Schumer has broad support from his caucus. But the midterms could decide his future as leader",
+      "link": "https://www.pbs.org/newshour/politics/chuck-schumer-has-broad-support-from-his-caucus-but-the-midterms-could-decide-his-future-as-leader",
+      "summary": "Chuck Schumer has won and lost Senate majorities since becoming Democratic leader a decade ago. But this year's midterm elections could be the New York senator's most important yet as some in the party have said he needs to step down",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T19:14:01+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-29T184913Z_1136312531_RC26TNA1L37H_RTRMADP_3_USA-CONGRESS-1024x683.jpg"
+    },
+    {
+      "id": "372364c290d3247d",
+      "title": "Texas hiker found dead after going missing in Great Smoky Mountains, family says",
+      "link": "https://www.foxnews.com/us/texas-hiker-found-dead-after-going-missing-great-smoky-mountains-family-says",
+      "summary": "Sahil Jilani&apos;s phone, keys, and clothes were found near Abrams Falls before dive teams recovered his body in Tennessee&apos;s Great Smoky Mountains.",
+      "source": "Fox News",
+      "published": "2026-10-12T19:08:30+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Texas-Hiker-Great-Smoky-Mountains.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "7a558b31a4e6956f",
+      "title": "Judge orders the Trump administration to cancel taxpayer-funded TV ads",
+      "link": "https://www.pbs.org/newshour/politics/judge-orders-the-trump-administration-to-cancel-taxpayer-funded-tv-ads",
+      "summary": "President Donald Trump must cancel any remaining television commercials paid for with millions of dollars in taxpayer money to promote his political message, a federal judge ordered Sunday night.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T19:00:14+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-10T221429Z_1513510934_RC2L0OAJ37LJ_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    },
+    {
+      "id": "8bc11a592bcbc518",
+      "title": "Flash-flood risk lingers across the Southwest after Rachel’s remnants swamped Nevada",
+      "link": "https://abcnews.com/US/wireStory/flash-flood-risk-lingers-southwest-after-rachels-remnants-137202589",
+      "summary": "The National Weather Service has issued more flood watches and is warning of more showers and isolated thunderstorms in the Southwest after the remnants of tropical storm Rachel caused severe flooding in Nevada over the weekend",
+      "source": "ABC News",
+      "published": "2026-10-12T18:42:20+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_cc01ec735f4ff7c11798bc9066dc1879_4x3_384.jpg"
+    },
+    {
+      "id": "220d0e4af5d88ca0",
+      "title": "High prices are testing Latino voter loyalties in a key battleground district",
+      "link": "https://www.pbs.org/newshour/politics/high-prices-are-testing-latino-voter-loyalties-in-a-key-battleground-district",
+      "summary": "As the Republican president's second term reaches its halfway point, Victor Martinez says he's sensing that voters are just as frustrated with the economy as they were two years ago.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T18:41:44+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2025-12-16T205941Z_209495429_RC2VHIAPBG1X_RTRMADP_3_USA-ECONOMY-1024x683.jpg"
+    },
+    {
+      "id": "1eb2d66b4da5d5c7",
+      "title": "Mamdani orders review of NYPD's use-of-force policies as progressives call for change",
+      "link": "https://abcnews.com/US/wireStory/mamdani-orders-review-nypds-force-policies-progressives-call-137202173",
+      "summary": "Mayor Zohran Mamdani has ordered the New York Police Department to conduct a sweeping review of how officers use force against civilians",
+      "source": "ABC News",
+      "published": "2026-10-12T18:38:24+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_f44fd09a7f48ca9ba048670f99bb21b4_4x3_384.jpg"
+    },
+    {
+      "id": "77877e07f52fd027",
+      "title": "Archbishop of US military says Catholic soldiers should not serve on firing squad",
+      "link": "https://abcnews.com/US/wireStory/archbishop-us-military-catholic-soldiers-serve-firing-squad-137203047",
+      "summary": "The archbishop who oversees Catholic pastoral services for the U.S. military is condemning the proposed livestream of Nidal Hasan's firing squad execution",
+      "source": "ABC News",
+      "published": "2026-10-12T18:30:50+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_bd71ca693547d67aa53a0a215a037006_4x3_384.jpg"
+    },
+    {
+      "id": "988bf6401ec2bffd",
+      "title": "Kremlin relishes in U.S.-Russia diesel deal and Trump's criticism of Zelenskyy",
+      "link": "https://www.pbs.org/newshour/world/kremlin-relishes-in-u-s-russia-diesel-deal-and-trumps-criticism-of-zelenskyy",
+      "summary": "While the size of Russia's diesel exports are relatively small and unlikely to significantly impact prices, the revenue will help Moscow replenish its war coffers.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T18:12:20+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T195447Z_1013445200_RC27ZNA3B9DY_RTRMADP_3_RUSSIA-IRAN-PUTIN-PEZESHKIAN-1024x691.jpg"
+    },
+    {
+      "id": "87ab9007a94708a0",
+      "title": "What is Indigenous Peoples Day? 3 things to know",
+      "link": "https://www.pbs.org/newshour/nation/what-is-indigenous-peoples-day-3-things-to-know",
+      "summary": "Indigenous Peoples Day has been recognized for decades in different forms and under a variety of names to celebrate their history and culture and to recognize the challenges they continue to face.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T17:46:54+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2022-10-10T000000Z_1964128444_RC2CYW9WM5UI_RTRMADP_3_USA-INDIGENOUS-1024x673.jpg"
+    },
+    {
+      "id": "6a45730585c5f788",
+      "title": "NATO commander says alliance does not want war but is 'ready to fight tonight'",
+      "link": "https://www.pbs.org/newshour/world/nato-commander-says-alliance-does-not-want-war-but-is-ready-to-fight-tonight",
+      "summary": "European officials warn Russia could test NATO's defenses with covert attacks or a limited military incursion. Recently, European nations have faced increased covert Russian activity.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T17:43:33+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T112748Z_1911763350_RC2N1OAZ5A9B_RTRMADP_3_UKRAINE-CRISIS-POLAND-SECURITY-FORUM-1024x683.jpg"
+    },
+    {
+      "id": "6bf0da37cd758ec8",
+      "title": "Republican concerns mount over plan to livestream execution",
+      "link": "https://www.cbsnews.com/news/republican-opposition-livestream-fort-hood-shooter-execution/",
+      "summary": "President Trump said he approved of livestreaming the execution, but suggested the decision may not be final.",
+      "source": "CBS News",
+      "published": "2026-10-12T17:36:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/03e56b0c-3273-4783-8727-2187ce90ad7a/thumbnail/1200x630/c0ef0c5e892a84268d4f2e2f21b76427/gettyimages-92958200.jpg"
+    },
+    {
+      "id": "59d6195aaaf61659",
+      "title": "Many GOP states have imposed voting rules mirroring Trump's midterm proposals",
+      "link": "https://www.pbs.org/newshour/politics/many-gop-states-have-imposed-voting-rules-mirroring-trumps-midterm-proposals",
+      "summary": "Nearly 40 laws are taking effect for the first time in this year's midterms, mostly in Republican-controlled states. Many of them mirror changes President Donald Trump tried but failed to implement at the national level.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T17:27:25+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T100050Z_1739871494_RC2OXNA4OA23_RTRMADP_3_USA-ELECTION-DEMOCRATS-RACES-1024x683.jpg"
+    },
+    {
+      "id": "aff9df1593b36a1c",
+      "title": "Giant pumpkins battle for heavyweight glory and the world record in California",
+      "link": "https://abcnews.com/US/wireStory/giant-pumpkins-battle-heavyweight-glory-world-record-california-137187669",
+      "summary": "Giant pumpkin growers are gathering in Northern California for an annual pumpkin-weighing contest",
+      "source": "ABC News",
+      "published": "2026-10-12T17:22:33+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_41ad77ff3259cf780fbf4bca19c35143_4x3_384.jpg"
+    },
+    {
+      "id": "92557e2d9ab72d66",
+      "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
+      "summary": "The Justice Department says the search is part of an \"ongoing federal investigation\", while Omar calls it \"an attempt to target political enemies\"",
+      "source": "NPR",
+      "published": "2026-10-12T17:17:17+00:00",
+      "image": null
+    },
+    {
+      "id": "853c4ccbc2e93464",
+      "title": "Microsoft announces new AI chip Azure Maia 300",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/microsoft-azure-maia-300-ai-chips-nvidia/3511791823960/",
+      "summary": "Microsoft is moving toward using its own computer chips with the announcement Monday of its new Azure Maia 300 AI chips to be produced in 2027.",
+      "source": "UPI",
+      "published": "2026-10-12T17:04:31+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3511791823960/2026/upi_com/597053e594109878b25b4f51b4be0125/v1.2/Microsoft-announces-new-AI-chip-Azure-Maia-300.jpg"
+    },
+    {
+      "id": "0a33294722894646",
+      "title": "House Democratic leaders condemn the search of congresswoman's home as an 'abuse of power'",
+      "link": "https://www.pbs.org/newshour/politics/house-democratic-leaders-condemn-the-search-of-congresswomans-home-as-an-abuse-of-power",
+      "summary": "\"For years, Donald Trump and far-right extremists have relentlessly targeted Congresswoman Omar with vile personal attacks and baseless accusations,\" House Democratic leaders said in a statement.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T16:56:33+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T154335Z_223622224_RC2R1OA1RSCV_RTRMADP_3_USA-ELECTION-MINNESOTA-OMAR-1024x683.jpg"
+    },
+    {
+      "id": "dff896aa0a809345",
+      "title": "Starbucks denies plan to buy Chipotle after report of possible takeover",
+      "link": "https://www.cbsnews.com/news/starbucks-chipotle-merger-brian-niccol/",
+      "summary": "Starbucks said it doesn't plan to bid for Chipotle Mexican Grill, saying the coffee chain is focused on organic growth.",
+      "source": "CBS News",
+      "published": "2026-10-12T16:55:48+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/39bb69f6-a9cc-4fcf-88ae-9d62dfc1a247/thumbnail/1200x630/56b687000b1247a389fa6558b1da6345/gettyimages-528806192.jpg"
+    },
+    {
+      "id": "691c59c42cc66e6f",
+      "title": "Omar says she won't 'be silenced' after federal agents search her home, blasting Trump for 'intimidation' campaign",
+      "link": "https://www.pbs.org/newshour/politics/omar-says-she-wont-be-silenced-after-federal-agents-search-her-home-blasting-trump-for-intimidation-campaign",
+      "summary": "The search of the Minnesota congresswoman's home so close to next month's midterm contests that will determine control of the House and the Senate was swiftly condemned by top Democrats in Congress and raised questions about the timing given longstanding Justice Department...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T16:35:15+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T161714Z_919237459_RC2R1OADDNXJ_RTRMADP_3_USA-ELECTION-MINNESOTA-OMAR-1024x683.jpg"
+    },
+    {
+      "id": "e6cf9379b0190b00",
+      "title": "Two teens arrested after carrying what looked like rifles to Delaware homes in late-night prank: police",
+      "link": "https://www.foxnews.com/us/masked-figures-carrying-apparent-rifles-delaware-homes-teens-pulling-prank-police",
+      "summary": "Surveillance images show masked teens in tactical vests approaching homes in a Delaware neighborhood before New Castle County police arrested them.",
+      "source": "Fox News",
+      "published": "2026-10-12T16:25:51+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/delaware-suspects-split.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "f63f6839f7215b0c",
+      "title": "AP report: Trump, Rubio weigh firing Kimberly Guilfoyle after mounting reports of improper conduct",
+      "link": "https://www.pbs.org/newshour/world/ap-report-trump-rubio-weigh-firing-kimberly-guilfoyle-after-mounting-reports-of-improper-conduct",
+      "summary": "Guilfoyle has not addressed the reports directly, but in a statement released late Sunday, her lawyers denied she had done anything wrong and claimed that the money she was seeking from the Trump donor was payment for services — public appearances and speaking engagements...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T16:24:47+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T060644Z_256473295_RC2TYNABGO83_RTRMADP_3_USA-RUBIO-PORTUGAL-1024x683.jpg"
+    },
+    {
+      "id": "bfbe3833f63cb90f",
+      "title": "Rep. Omar's D.C. home searched by DHS investigators",
+      "link": "https://www.cbsnews.com/news/ilhan-omar-immigration-raid-washington-dc/",
+      "summary": "Sources say the investigation centers on Rep. Ilhan Omar's immigration documents, involving paperwork filled out by her late father when she was a child.",
+      "source": "CBS News",
+      "published": "2026-10-12T16:24:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/e13985b7-5647-4f6a-b6a7-c012ffae9117/thumbnail/1200x630g2/97012252d84764fd64a4a8bcc13f9317/gettyimages-2262837378.jpg"
+    },
+    {
+      "id": "35c4ddca4d4326f8",
+      "title": "Idaho professor falsely accused of student murders by TikTok psychic reveals fear for children's safety",
+      "link": "https://www.foxnews.com/us/idaho-professor-falsely-accused-student-murders-tiktok-psychic-reveals-fear-childrens-safety",
+      "summary": "Rebecca Scofield describes sleepless nights guarding her children after TikTok psychic Ashley Guillard accused her in the University of Idaho murders.",
+      "source": "Fox News",
+      "published": "2026-10-12T16:10:04+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ashley-guillard-rebecca-scofield-split.png?ve=1&tl=1"
+    },
+    {
+      "id": "c71eaa05885c5b7b",
+      "title": "Trump administration ordered to cancel taxpayer-funded TV ads",
+      "link": "https://www.cbsnews.com/news/trump-taxpayer-funded-ads-judge-cancels/",
+      "summary": "The Department of Homeland Security tapped $20 million in taxpayer money for the ads, which the White House has defended as public service announcements.",
+      "source": "CBS News",
+      "published": "2026-10-12T16:08:47+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/01/f6ffb386-d91a-4dae-8e9a-8ba2b6476e4a/thumbnail/1200x630/971eb022d22301d678f419fa5824881e/cbsn-fusion-how-pro-trump-ads-were-funded-with-taxpayer-dollars-thumbnail.jpg"
+    },
+    {
+      "id": "9a0f97620d481e3b",
+      "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-russia-strikes-energy-facilities-despite-trump-claim-of-an-energy-ceasefire",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said Monday that Russia has continued to strike Ukraine's energy facilities even after  President Donald Trump said a day earlier that the warring countries had agreed on an energy ceasefire in the 4 1/2-year-old war.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T16:07:13+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T081733Z_21236251_RC2K1OASJAJJ_RTRMADP_3_UKRAINE-CRISIS-POLAND-SECURITY-FORUM-1024x683.jpg"
+    },
+    {
+      "id": "caef46f177037f13",
+      "title": "India's opposition parties march to top court as protests over voter lists escalate",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
+      "summary": "Opposition parties say revisions to the list of eligible voters favor Prime Minister Narendra Modi's party. Authorities have removed more than 130 million names from the voter roll.",
+      "source": "NPR",
+      "published": "2026-10-12T16:01:54+00:00",
+      "image": null
+    },
+    {
+      "id": "a3b3c1aa0df2b060",
+      "title": "Elon Musk quietly becomes biggest known donor in midterm contests as he tries to save Republicans",
+      "link": "https://www.pbs.org/newshour/politics/elon-musk-quietly-becomes-biggest-known-donor-in-midterm-contests-as-he-tries-to-save-republicans",
+      "summary": "Musk, the world's only trillionaire, has doled out more than $276 million since July to try to save Republican majorities in Congress.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T15:56:40+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T185248Z_786276581_RC26ZNAO2JT6_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    },
+    {
+      "id": "55a344a6bb4a5f97",
+      "title": "Delta delays launch of service to Saudi Arabia over attacks on airport",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/delta-delays-nonstop-service-to-saudi-arabia/7781791819610/",
+      "summary": "Delta's plans to add nonstop service to Saudi Arabia are being put on hold after deadly attacks on the Riyadh airport killed at least 12 people.",
+      "source": "UPI",
+      "published": "2026-10-12T15:45:53+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7781791819610/2026/upi/e9fbec3cb9a57458cbca645c7fee8301/v1.2/Delta-delays-launch-of-service-to-Saudi-Arabia-over-attacks-on-airport.jpg"
+    },
+    {
+      "id": "730dbcd4406f4b9b",
+      "title": "What is Indigenous Peoples Day? A day of celebration, protest and reclaiming history",
+      "link": "https://abcnews.com/US/wireStory/indigenous-peoples-day-day-celebration-protest-reclaiming-history-137196056",
+      "summary": "Native American people celebrate their history of resilience with ceremonies, dances and speeches",
+      "source": "ABC News",
+      "published": "2026-10-12T15:23:54+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_fa0bef826c2198e632f7099b7b471491_4x3_384.jpg"
+    },
+    {
+      "id": "40f290357341b6ed",
+      "title": "Rep. Ilhan Omar’s home raided in immigration investigation",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/ilhan-omar-home-raided-federal-agents/1101791816617/",
+      "summary": "Federal agents raided the Washington home of Rep. Ilhan Omar, D-Minn., early Monday morning as part of an ongoing immigration investigation.",
+      "source": "UPI",
+      "published": "2026-10-12T15:04:16+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1101791816617/2026/upi/f386eb8dd4c367b28594f5cc0ff4c54f/v1.2/Rep-Ilhan-Omars-home-raided-in-immigration-investigation.jpg"
+    },
+    {
+      "id": "e79a7095b03ab66d",
+      "title": "What to know about Pope Leo's planned lung nodule surgery",
+      "link": "https://www.pbs.org/newshour/nation/what-to-know-about-pope-leos-planned-lung-nodule-surgery",
+      "summary": "Leo, 71, is considered otherwise healthy and physically fit, both positive factors for his recovery.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T14:59:17+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T120549Z_1559064411_RC2M1OAC1O2C_RTRMADP_3_POPE-HEALTH-1024x683.jpg"
+    },
+    {
+      "id": "220813df113a6017",
+      "title": "Saudis probe how defense systems failed to stop deadly Houthi attack on Riyadh airport",
+      "link": "https://www.pbs.org/newshour/world/saudis-probe-how-defense-systems-failed-to-stop-deadly-houthi-attack-on-riyadh-airport",
+      "summary": "The officials, who spoke on condition of anonymity because they were not authorized to comment publicly, said the initial probe showed that Yemen's Houthis first fired multiple drones to pave the way for a mix of cruise and ballistic missiles to reach Riyadh's King Khalid...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T14:47:31+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-11T224410Z_1659588386_RC241OAGCJLV_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.jpg"
+    },
+    {
+      "id": "d5f971011f6856aa",
+      "title": "NYC Mayor Mamdani orders NYPD use-of-force review",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/nyc-police-review-force-mamdani/6081791812748/",
+      "summary": "New York City Mayor Zohran Mamdani on Monday directed the NYPD to conduct a review of its use-of-force policies for the first time in a decade.",
+      "source": "UPI",
+      "published": "2026-10-12T14:34:09+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/6081791812748/2026/upi/0a1520e1ac2027ccf86cf26c86bc270d/v1.2/NYC-Mayor-Mamdani-orders-NYPD-use-of-force-review.jpg"
+    },
+    {
+      "id": "217340b7b1f867e1",
+      "title": "AP report: Federal agents search Rep. Ilhan Omar's home as part of a criminal investigation",
+      "link": "https://www.pbs.org/newshour/politics/ap-report-federal-agents-search-rep-ilhan-omars-home-as-part-of-a-criminal-investigation",
+      "summary": "Federal agents on Monday searched the home of Democratic U.S. Rep. Ilhan Omar, a frequent target of Trump administration criticism, as part of a criminal investigation, according to two people familiar with the matter.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T14:31:52+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-07-20T233735Z_1558090482_RC2YHMAK2FYQ_RTRMADP_3_USA-ELECTION-MINNESOTA-1024x686.jpg"
+    },
+    {
+      "id": "56449879ae60db32",
+      "title": "Are banks, USPS and stock markets open on Columbus Day?",
+      "link": "https://www.cbsnews.com/news/columbus-day-what-is-open-closed-is-it-a-federal-holiday/",
+      "summary": "The stock market is open on Columbus Day, but banking, mail and some other services will be closed for the holiday.",
+      "source": "CBS News",
+      "published": "2026-10-12T14:23:07+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/4c10901d-7424-4dae-b71d-87c4543df939/thumbnail/1200x630/e771193790a9563b29ea63154ebd7b1a/gettyimages-2295968305.jpg"
+    },
+    {
+      "id": "486ee1a39855040c",
+      "title": "Hurricane Isaias leaves trail of destruction in Southeast",
+      "link": "https://www.cbsnews.com/news/hurricane-isaias-destruction-southeast/",
+      "summary": "Some of the most violent wind gusts from the hurricane were recorded in Milton, Florida, where one woman said she was lying down in her room when a tree fell on her home.",
+      "source": "CBS News",
+      "published": "2026-10-12T13:48:12+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/2d9229d1-84a4-40b0-8cc9-261630d7fec3/thumbnail/1200x630/5820a851f226c8f82370fc5750634060/gettyimages-2299587244.jpg"
+    },
+    {
+      "id": "c92e3a264298b932",
+      "title": "Lufthansa jet aborts LAX landing, narrowly avoids hitting tail on runway",
+      "link": "https://www.cbsnews.com/video/lufthansa-jet-aborts-lax-landing-narrowly-avoids-hitting-tail-on-runway/",
+      "summary": "A Lufthansa jet aborted a landing Saturday after it barely avoided striking its tail on a runway at Los Angeles International Airport. Kris Van Cleave reports.",
+      "source": "CBS News",
+      "published": "2026-10-12T13:45:08+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/756b0d2f-dffe-41d9-9865-d9ce287c89d0/thumbnail/1200x630/c9770f6ffeed027636329b5ece01b585/cbsn-fusion-lufthansa-jet-aborts-lax-landing-narrowly-avoids-hitting-tail-on-runway-thumbnail.jpg"
+    },
+    {
+      "id": "faa0c546b1ee65c0",
+      "title": "Hurricane Isaias, Tropical Storm Rachel slam both sides of U.S.",
+      "link": "https://www.cbsnews.com/video/hurricane-isaias-tropical-storm-rachel-slam-both-sides-of-us/",
+      "summary": "Hurricane Isaias turned deadly over the weekend after making landfall in the Gulf Coast states, while the aftermath of Tropical Storm Rachel slammed the West with major waves. Jason Allen reports.",
+      "source": "CBS News",
+      "published": "2026-10-12T13:35:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/6a04cadd-bc28-46e0-9a74-92906f055a59/thumbnail/1200x630/983467f8d97c3426cb782b94c1ee90fe/1791813116084.png"
+    },
+    {
+      "id": "6c259643a9c98abd",
+      "title": "WATCH: 2 American economists win Nobel for studying how to deal with economic shocks",
+      "link": "https://www.pbs.org/newshour/economy/watch-2-american-economists-win-nobel-for-studying-how-to-deal-with-economic-shocks",
+      "summary": "American economists Robert E. Hall and Michael Woodford won the Nobel Memorial Prize in economics Monday for their work on models that have helped governments and central banks manage economic shocks, such as energy crises and inflation.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-12T13:26:30+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-12T100804Z_1513174047_RC2L1OAUNKNL_RTRMADP_3_NOBEL-PRIZE-ECONOMICS-1024x683.jpg"
+    },
+    {
+      "id": "e8e7d6d0a9c0a79b",
+      "title": "Nobel Prize for economics awarded to 2 U.S. academics",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/American-economists-win-nobel-economics-prize/7441791801753/",
+      "summary": "Robert E. Hall and Michael Woodford won the Nobel Prize for their models informing fiscal and monetary measures to smooth out economic up and downs.",
+      "source": "UPI",
+      "published": "2026-10-12T12:31:17+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7441791801753/2026/upi_com/40a560440cbfc67c44b94dbe47681f6b/v1.2/Nobel-Prize-for-economics-awarded-to-2-US-academics.jpg"
+    },
+    {
+      "id": "6539e62aa72dbc6b",
+      "title": "Chuck Schumer has broad support from his caucus, but midterms could decide his future as leader",
+      "link": "https://abcnews.com/US/wireStory/chuck-schumer-broad-support-caucus-midterms-decide-future-137189528",
+      "summary": "Chuck Schumer has won and lost Senate majorities since becoming Democratic leader a decade ago",
+      "source": "ABC News",
+      "published": "2026-10-12T12:26:20+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_e63e4641ca5b7fca8b405c5330095f91_4x3_384.jpg"
+    },
+    {
+      "id": "b916c5d0df3aa70c",
+      "title": "Pennsylvania gunman who killed 8 was grandfather who seemed normal, victim relatives say",
+      "link": "https://www.foxnews.com/us/pennsylvania-gunman-killed-8-grandfather-seemed-normal-victim-relatives-say",
+      "summary": "The Erie, Pennsylvania, gunman was a &quot;good guy&quot; before he &quot;started going downhill,&quot; killing eight people and himself, a friend of a victim said.",
+      "source": "Fox News",
+      "published": "2026-10-12T11:38:07+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/erie-pennsylvania-mass-shooting.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "7668a2c12d45b92c",
+      "title": "DOJ launches antitrust probe of TV networks. And, Trump says Ukraine needs new leader",
+      "link": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
+      "summary": "The Justice Department is investigating several TV networks for possible antitrust violations. And, President Trump pressures Ukrainians to elect a new leader.",
+      "source": "NPR",
+      "published": "2026-10-12T11:29:56+00:00",
+      "image": null
+    },
+    {
+      "id": "d5b576b6e7606716",
+      "title": "Inside Skid Row as unlikely critics blast Dems for LA's homeless hellscape and more top headlines",
+      "link": "https://www.foxnews.com/us/oct-12-newsletter-inside-la-homeless-hellscape-more-top-headlines",
+      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "source": "Fox News",
+      "published": "2026-10-12T10:30:00+00:00",
+      "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+    },
+    {
+      "id": "94dc489ed9c8b7f5",
+      "title": "U.S. restrictions on Chinese drones are hurting cash-strapped police departments",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+      "summary": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+      "source": "NPR",
+      "published": "2026-10-12T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "0af97e723a350c27",
+      "title": "Here's what to know if you're unsure about your measles immunity status",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+      "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
+      "source": "NPR",
+      "published": "2026-10-12T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "2f09c9eca7421158",
+      "title": "Morning news brief",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5995584/newsbrief-trump-russia-ukraine-trump-priorities-saudi-airport-strikes",
+      "summary": "",
+      "source": "NPR",
+      "published": "2026-10-12T08:38:03+00:00",
+      "image": null
+    },
+    {
+      "id": "ee03f6348c1382cc",
+      "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
+      "summary": "The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote in Texas.",
+      "source": "NPR",
+      "published": "2026-10-12T08:37:01+00:00",
+      "image": null
+    },
+    {
+      "id": "d12c58ccf8cbb8b1",
+      "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+      "summary": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation.",
+      "source": "NPR",
+      "published": "2026-10-12T08:35:16+00:00",
+      "image": null
+    },
+    {
+      "id": "7a39c132c660cbea",
+      "title": "Florida deputy, woman killed in I-95 head-on collision",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/Florida-deputy-dies-head-on-crash/9601791789433/",
+      "summary": "A Florida sheriff's deputy responding to an officer-related shooting and a 26-year-old woman were killed in a head-on collision on Interstate 95.",
+      "source": "UPI",
+      "published": "2026-10-12T08:12:39+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9601791789433/2026/i/17917921552468/v1.2/Florida-deputy-woman-killed-in-I-95-head-on-collision.jpg"
+    },
+    {
+      "id": "0f2ceb79a7056b8a",
+      "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico’s Pacific coast",
+      "link": "https://abcnews.com/US/wireStory/hurricane-simon-pounds-resorts-vulnerable-towns-mexicos-pacific-137170221",
+      "summary": "Hurricane Simon pounds Mexico&rsquo;s Pacific coast as a Category 3 storm",
+      "source": "ABC News",
+      "published": "2026-10-12T07:30:23+00:00",
+      "image": "https://s.abcnews.com/images/Travel/wirestory_0e3336ba92518117ca8008c5746d230e_4x3_384.jpg"
+    },
+    {
+      "id": "22f03c5a6379e664",
+      "title": "Russia hits Ukraine gas facilities after Trump claims 'energy ceasefire'",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "summary": "Trump said he had brokered a cease-fire to protect energy infrastructure in Russia and Ukraine. But Ukrainian officials say bombs kept falling overnight on gas facilities, wounding 33 people.",
+      "source": "NPR",
+      "published": "2026-10-12T06:41:57+00:00",
+      "image": null
+    },
+    {
+      "id": "6e13b5dcb5c2f002",
+      "title": "U.S. arrests Colombian with Maduro ties on money laundering charges",
+      "link": "https://www.upi.com/Top_News/US/2026/10/12/latam-us-Alvaro-Pulido-Vargas-arrested/9971791783213/",
+      "summary": "Federal prosecutors announced the arrested of Alvaro Pulido Vargas on accusations of participating in multibillion-dollar money laundering schemes.",
+      "source": "UPI",
+      "published": "2026-10-12T06:25:02+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9971791783213/2026/i/17917856502181/v1.2/US-arrests-Colombian-with-Maduro-ties-on-money-laundering-charges.jpg"
+    },
+    {
+      "id": "d4c2fcb6b8d9377c",
+      "title": "Suspect in deadly Philadelphia police ambush faces 76 charges, ordered held without bail",
+      "link": "https://www.foxnews.com/us/philadelphia-police-ambush-eric-lewis-charges",
+      "summary": "A Philadelphia man faces 76 charges, including murder, after allegedly ambushing police officers, killing one and wounding another, according to officials.",
+      "source": "Fox News",
+      "published": "2026-10-12T06:16:16+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/philly-ambush-attack-suspect-victim-charges.png?ve=1&tl=1"
+    },
+    {
+      "id": "86476ad0bc9653c4",
+      "title": "South Korea’s military says North Korea fired a projectile toward the sea",
+      "link": "https://abcnews.com/US/wireStory/south-koreas-military-north-korea-fired-projectile-sea-137184008",
+      "summary": "South Korea&rsquo;s military says North Korea fired a projectile toward the sea",
+      "source": "ABC News",
+      "published": "2026-10-12T05:40:01+00:00",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "1fdeb203d4338177",
+      "title": "Judge orders the Trump administration to cancel taxpayer-funded promotional TV ads",
+      "link": "https://abcnews.com/US/wireStory/judge-orders-trump-administration-cancel-taxpayer-funded-promotional-137183950",
+      "summary": "A federal judge has ordered President Donald Trump to cancel any remaining television commercials paid for with millions of dollars in taxpayer money to promote his political message",
+      "source": "ABC News",
+      "published": "2026-10-12T04:02:26+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_f845554063cea0b4b41275d32abd3633_4x3_384.jpg"
+    },
+    {
+      "id": "afaa6a3632c55b15",
+      "title": "Feud spills onto South Carolina debate stage as Darline Graham, Annie Andrews snipe in Senate race",
+      "link": "https://abcnews.com/US/wireStory/feud-spills-south-carolina-debate-stage-darline-graham-137184848",
+      "summary": "Sen. Darline Graham and Democratic nominee Annie Andrews took their social media feud to the debate stage as they vie for an open Senate seat in South Carolina",
+      "source": "ABC News",
+      "published": "2026-10-12T04:02:25+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_0081ef5fd2c7b5b54141bc52d52509d4_4x3_384.jpg"
+    },
+    {
+      "id": "c3b5f7c3b1194d68",
+      "title": "Maduro-linked fugitive nabbed over alleged scheme to cash in on Venezuelans’ basic needs",
+      "link": "https://www.foxnews.com/us/maduro-linked-fugitive-nabbed-alleged-scheme-cash-venezuelans-basic-needs",
+      "summary": "Alvaro Pulido Vargas allegedly exploited Venezuela&apos;s CLAP food program and housing contracts, funneling billions through U.S. banks to hide bribes.",
+      "source": "Fox News",
+      "published": "2026-10-12T02:12:06+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/venezuelan-crowd-national-flag-file-photo.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "114d5f998d7ba43c",
+      "title": "Judge orders halt to taxpayer-funded pro-Trump advertisements",
+      "link": "https://www.upi.com/Top_News/US/2026/10/11/court-ruling-halt-pro-Trump-advertisments/5471791766021/",
+      "summary": "A federal judge ordered the white House to immediately stop airing taxpayer-funded campaign-style advertisements featuring President Donald Trump.",
+      "source": "UPI",
+      "published": "2026-10-12T01:39:27+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5471791766021/2026/upi/c3d230ccd20b9a19b1493c5f754e1976/v1.2/Judge-orders-halt-to-taxpayer-funded-pro-Trump-ads.jpg"
+    },
+    {
+      "id": "defc492dfb43a05a",
+      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
+      "link": "https://abcnews.com/US/wireStory/fugitive-businessman-us-custody-venezuela-bribery-case-137177862",
+      "summary": "A businessman wanted in the U.S. for allegedly bribing top Venezuelan officials.",
+      "source": "ABC News",
+      "published": "2026-10-12T01:14:20+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_54dab44725a93a5a4ded7c9293a099c1_4x3_384.jpg"
+    },
+    {
+      "id": "b83af7c3e513006f",
+      "title": "The real story behind Winnie the Pooh, born in the shadow of WWI",
+      "link": "https://www.cbsnews.com/video/real-story-behind-winnie-the-pooh-born-shadow-wwi/",
+      "summary": "When soldiers of World War I traveled to Europe to fight, they would bring real animals meant to lift their spirits. One of them was an orphaned black bear from Canada. Tina Kraus explains how the cub inspired Winnie the Pooh, now 100 years old.",
+      "source": "CBS News",
+      "published": "2026-10-12T00:28:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/2d68844b-e804-45b5-b25f-ed1c5bb1ec29/thumbnail/1200x630/93ba1283d5352ed4605f08a12d308a73/cbsn-fusion-real-story-behind-winnie-the-pooh-born-shadow-wwi-thumbnail.jpg"
+    },
+    {
+      "id": "0e39fcd486e1e454",
+      "title": "As high diesel prices hit Great Plains, some considering all options in midterms",
+      "link": "https://www.cbsnews.com/video/high-diesel-prices-hit-great-plains-considering-midterms/",
+      "summary": "Republicans have dominated elections in Great Plains states for a generation. But with the midterms fast approaching, Ed O'Keefe reports that some voters in Iowa now say they're considering all of their options.",
+      "source": "CBS News",
+      "published": "2026-10-12T00:21:59+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/c22188d2-b755-4310-8fdd-451ed8f2432e/thumbnail/1200x630/2bd33ad6e9de170214bf21683cdd617a/cbsn-fusion-high-diesel-prices-hit-great-plains-considering-midterms-thumbnail.jpg"
+    },
+    {
+      "id": "d66ee4632d23a060",
+      "title": "Yemen's Houthis target King Khalid airport in Saudi Arabia again",
+      "link": "https://www.cbsnews.com/video/yemens-houthis-target-king-khalid-airport-saudi-arabia-again/",
+      "summary": "Tensions flared in the Middle East following attacks by Iran-backed Houthi rebels on Saudi Arabia. Leigh Kiniry reports.",
+      "source": "CBS News",
+      "published": "2026-10-12T00:15:26+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/5e3a441f-7cd1-4e6d-8aee-d62242eeca78/thumbnail/1200x630/b59c436387d34f720f07d6cc4c8625c9/cbsn-fusion-yemens-houthis-target-king-khalid-airport-saudi-arabia-again-thumbnail.jpg"
+    },
+    {
+      "id": "a57febfd17df8f81",
+      "title": "Trump announces Russia-Ukraine energy ceasefire, Russia later strikes Ukraine",
+      "link": "https://www.cbsnews.com/video/trump-announces-russia-ukraine-energy-ceasefire-russia-later-strikes-ukraine/",
+      "summary": "President Trump announced that he struck an energy ceasefire with Ukraine and Russia. Hours later, the Russians hit a neighborhood in the Ukrainian city of Kharkiv, including a power plant. It follows new criticism for the president's diesel deal with Russia. Taurean Small...",
+      "source": "CBS News",
+      "published": "2026-10-12T00:11:31+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/12/d01c79ba-33e7-40cd-948d-88a4bad9f2f3/thumbnail/1200x630/eb8c4b47e0bc7f821781a90ea4e5e0ad/cbsn-fusion-trump-announces-russia-ukraine-energy-ceasefire-russia-later-strikes-ukraine-thumbnail.jpg"
+    },
+    {
+      "id": "7e3e11bd6ac5ca75",
+      "title": "Tropical Storm Rachel devastates homes in California: \"We've never seen anything like this\"",
+      "link": "https://www.cbsnews.com/video/tropical-storm-rachel-devastates-homes-california-never-seen-anything/",
+      "summary": "Tropical Storm Rachel caused devastation along the waterfront in Long Beach, California. Akiko Fujita reports and Grant Gilmore has the forecast.",
+      "source": "CBS News",
+      "published": "2026-10-12T00:06:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/6482be29-50a1-4d0c-bcc3-e7a07e207c94/thumbnail/1200x630/160e310e1cfb576456b5247d30754cfc/cbsn-fusion-tropical-storm-rachel-devastates-homes-california-never-seen-anything-thumbnail.jpg"
+    },
+    {
+      "id": "4587ce6648eb8359",
+      "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+      "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "summary": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño.",
+      "source": "NPR",
+      "published": "2026-10-11T23:54:21+00:00",
+      "image": null
+    },
+    {
+      "id": "ad71c058892f4eba",
+      "title": "A look at Hurricane Isaias damage after unleashing flooding, tornadoes",
+      "link": "https://www.cbsnews.com/video/look-hurricane-isaias-damage-unleashing-flooding-tornadoes/",
+      "summary": "The first hurricane of the 2026 Atlantic season roared into Florida late Friday, unleashing destructive winds, extensive flooding and spinning up tornadoes across the Southeast. Jason Allen reports on the damage.",
+      "source": "CBS News",
+      "published": "2026-10-11T23:54:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/12/357f40f1-a6d6-443d-a5e9-2e9747ada722/thumbnail/1200x630/21dcfea6f69084a6886ca718043c3492/cbsn-fusion-35649-1-look-hurricane-isaias-damage-unleashing-flooding-tornadoes-video-45-788572.png"
+    },
+    {
+      "id": "32090c45e879b041",
+      "title": "Pregnant mom just 4 days from giving birth among 8 killed in Pennsylvania massacre: reports",
+      "link": "https://www.foxnews.com/us/pregnant-mom-just-4-days-giving-birth-among-8-killed-pennsylvania-massacre-reports",
+      "summary": "Angelina Stone, who was eight months pregnant, was killed along with her two young children and several relatives in a mass shooting at a home in Erie, Pennsylvania, according to reports.",
+      "source": "Fox News",
+      "published": "2026-10-11T23:35:18+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/erie-pa-mass-shooting-3.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "f362e4fe19c02c06",
+      "title": "Minnesota homecoming shooting suspect out on bond after gunfire sends football fans fleeing",
+      "link": "https://www.foxnews.com/us/minnesota-homecoming-shooting-suspect-bond-gunfire-sends-football-fans-fleeing",
+      "summary": "Adam Abdihakeem Adam posted bond two days after his arrest in the Eden Prairie homecoming shooting, drawing sharp criticism from President Donald Trump&apos;s team.",
+      "source": "Fox News",
+      "published": "2026-10-11T23:25:53+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/eden-prairie-homecoming-shooting-police-adam-mugshot.png?ve=1&tl=1"
+    },
+    {
+      "id": "3c9e09daa7ce9d5d",
+      "title": "Erie shooter who killed 8 was family’s patriarch, slain toddler’s dad says",
+      "link": "https://abcnews.com/US/wireStory/pennsylvania-shooter-killed-8-familys-patriarch-slain-toddlers-137181979",
+      "summary": "The gunman was a grandfather who never seemed distressed, acquaintance says.",
+      "source": "ABC News",
+      "published": "2026-10-11T23:14:27+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_39b4a740f23f081d23bb2028a9f669a0_4x3_384.jpg"
+    },
+    {
+      "id": "71f31edcad12cd8e",
+      "title": "0/11/2026: In the Line of Fire; Lost Sheep; Jon Batiste",
+      "link": "https://www.cbsnews.com/video/60minutes-2026-10-11/",
+      "summary": "First, an inside look at Secret Service operations. Then, reporting on West Bank settler violence. And, Jon Batiste: The 60 Minutes Interview.",
+      "source": "CBS News",
+      "published": "2026-10-11T23:00:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/11/124a7b2d-c388-4f17-ab55-4f96e8c734d5/thumbnail/1200x630/8c9196b99c851b61bd9780d90c2d249f/60-minutes-full-episode-10-11-2026.jpg"
+    },
+    {
+      "id": "501ea34c0a264d0e",
+      "title": "10/11: CBS Weekend News",
+      "link": "https://www.cbsnews.com/video/101126-cbs-weekend-news/",
+      "summary": "Deadly Isaias barrels north; Tropical Storm Rachel remnants soak the West.",
+      "source": "CBS News",
+      "published": "2026-10-11T22:30:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/12/44e74527-70aa-4a16-b438-aa9872620ee8/thumbnail/1200x630/b39e298c2ee58fbb9632eb83bbe05e5d/wnthumb1011.jpg"
+    },
+    {
+      "id": "07969d4f5f1225d3",
+      "title": "Hurricane Simon hits Mexico's Pacific coast with damaging winds and rain",
+      "link": "https://www.pbs.org/newshour/world/hurricane-simon-hits-mexicos-pacific-coast",
+      "summary": "he hurricane's center swirled parallel to the coast, closing in on the Puerto Vallarta area, where its most damaging winds and rain were expected to hit around midnight and continue through Monday morning.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-11T22:01:56+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-11T153051Z_720955666_RC231OA7SFDR_RTRMADP_3_STORM-SIMON-1024x683.jpg"
+    },
+    {
+      "id": "14390296c5c8f90a",
+      "title": "Three men found guilty of murdering Australian brothers and American friend on Mexico surfing trip",
+      "link": "https://www.foxnews.com/us/three-men-found-guilty-murdering-australian-brothers-american-friend-mexico-surfing-trip",
+      "summary": "Prosecutors are seeking 210 years in prison for each defendant convicted in the murders of the Australian brothers and their American friend.",
+      "source": "Fox News",
+      "published": "2026-10-11T21:36:53+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/931/523/3-missing-surfers-2.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "064fbb96c1998216",
+      "title": "Toddler stabbed in face, suspect previously deemed unfit for trial in attacks on 2 children: report",
+      "link": "https://www.foxnews.com/us/toddler-stabbed-face-stranger-previously-deemed-unfit-trial-attacks-two-children-report",
+      "summary": "Nelson Blanco allegedly stabbed a toddler at a Rhode Island school bus stop, decades after being found incompetent to stand trial for knifing two boys.",
+      "source": "Fox News",
+      "published": "2026-10-11T20:41:06+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nelson-blanco-mugshot-providence-crime-scene-split.png?ve=1&tl=1"
+    },
     {
       "id": "5a377bea93fd699f",
       "title": "This week on \"Sunday Morning\" (Oct. 11)",
@@ -4617,78 +5346,6 @@
       "source": "UPI",
       "published": "2026-10-05T20:14:01+00:00",
       "image": "https://cdnph.upi.com/ph/st/th/5161791229125/2026/upi/4adf0f8b728c1443c0528bf1bfd09d1f/v1.2/Former-White-House-press-secretary-Karoline-Leavitt-joins-Fox-News.jpg"
-    },
-    {
-      "id": "87c483a7f4428ef4",
-      "title": "Laotian man deported by U.S. to Eswatini is released after more than a year in prison",
-      "link": "https://www.pbs.org/newshour/world/laotian-man-deported-by-u-s-to-eswatini-is-released-after-more-than-a-year-in-prison",
-      "summary": "Phone Chomsavanh was among five immigrants deported to Eswatini — where he has no ties — in July 2025 in the early days of the Trump administration's secretive and highly contentious third-country deportation program.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-05T20:01:22+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-05-21T060145Z_1755645957_RC23VKAVGWCU_RTRMADP_3_USA-TRUMP-MIGRATION-ESWATINI-1024x656.jpg"
-    },
-    {
-      "id": "ac07c0a575ebcfb7",
-      "title": "Trump sending ACA and Medicare checks, but will they offset costs?",
-      "link": "https://www.cbsnews.com/news/trump-medicare-aca-checks-healthcare-costs/",
-      "summary": "President Trump sent $500 checks to some Affordable Care Act enrollees, while 20 million Medicare recipients will soon get $90 checks. Will they make a difference?",
-      "source": "CBS News",
-      "published": "2026-10-05T19:59:07+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/05/c88a6c5a-7734-4d7a-b599-3dbd3c4da861/thumbnail/1200x630/c22a7bc47593c568cbd2b13d02795cb6/cbsn-fusion-cbs-news-poll-finds-66-disapprove-trumps-handling-economy-thumbnail.jpg"
-    },
-    {
-      "id": "3287ab4134fea25a",
-      "title": "Sen. Tillis says his vote for Hegseth was 'biggest regret of my career' in new book",
-      "link": "https://www.pbs.org/newshour/politics/sen-tillis-says-his-vote-for-hegseth-was-biggest-regret-of-my-career-in-new-book",
-      "summary": "Republican Sen. Thom Tillis says in a new book that his deciding vote to confirm Defense Secretary Pete Hegseth in January 2025 is the \"biggest regret of my career\" and that he also \"should've stopped\" Robert F. Kennedy Jr. from becoming Health and Human Services secretary in...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-05T19:40:52+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-08-04T133108Z_1128385786_RC2PRMA3UCPX_RTRMADP_3_USA-JUSTICE-BLANCHE-1024x683.jpg"
-    },
-    {
-      "id": "ab41ae8d02ad8a82",
-      "title": "WATCH: Nobel Prize in physics awarded to Francis Halzen for demystifying neutrinos",
-      "link": "https://www.pbs.org/newshour/science/watch-live-winner-of-the-2026-nobel-prize-in-physics-is",
-      "summary": "Born in Belgium, the 82-year-old scientist is affiliated with the University of Wisconsin–Madison in the U.S. Halzen helped pull the curtain back on a rare gang of tiny cosmic particles that scientists say hold clues about the development of the universe.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-05T19:09:07+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-06T103507Z_1657442593_RC2FXNA6P6UL_RTRMADP_3_NOBEL-PRIZE-PHYSICS-1024x683.jpg"
-    },
-    {
-      "id": "cac87e64529d7df1",
-      "title": "WATCH: Trump administration issues final rule on transparency in healthcare coverage",
-      "link": "https://www.pbs.org/newshour/health/watch-trump-administration-issues-final-rule-on-transparency-in-healthcare-coverage",
-      "summary": "At a news conference, Health and Human Services Secretary Robert F. Kennedy Jr. said the new rule provides a \"clear view of what healthcare actually costs.\"",
-      "source": "PBS NewsHour",
-      "published": "2026-10-05T18:50:04+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-17T183515Z_1585090498_RC2IANAN5BVL_RTRMADP_3_HEALTH-USA-TASKFORCE-1024x683.jpg"
-    },
-    {
-      "id": "db05add3fabaae7a",
-      "title": "'American Idol' alum Caleb Flynn weeps as daughters ask him why he killed their mother, vow not to visit him",
-      "link": "https://www.foxnews.com/us/american-idol-contestant-caleb-flynn-faces-betrayed-family-conviction-wifes-murder",
-      "summary": "Caleb Flynn was sentenced to life without parole, plus 16 years, after an Ohio jury convicted the former &quot;American Idol&quot; contestant of murdering his wife.",
-      "source": "Fox News",
-      "published": "2026-10-05T18:20:14+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/caleb-flynn-sentencing-012-1.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "30272b415199d29b",
-      "title": "2 dead, several injured in school bus rollover in Central Florida",
-      "link": "https://www.upi.com/Top_News/US/2026/10/05/winter-haven-florida-school-bus-accident-polk-county/8291791221226/",
-      "summary": "Two people are dead and several more are injured after a crash involving a school bus rollover and multiple vehicles took place in Central Florida.",
-      "source": "UPI",
-      "published": "2026-10-05T17:55:34+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8291791221226/2026/upi/05ddb857f33af8672d761f45faff41bc/v1.2/2-dead-several-injured-in-school-bus-rollover-in-Central-Florida.jpg"
-    },
-    {
-      "id": "049f0359f4948d95",
-      "title": "Florida student killed in rollover school bus crash",
-      "link": "https://www.foxnews.com/us/florida-student-killed-rollover-school-bus-crash",
-      "summary": "A 10th grade Winter Haven High School student was among two killed in the Polk County school bus crash that injured several others Monday morning.",
-      "source": "Fox News",
-      "published": "2026-10-05T17:20:25+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/school-bus.jpg?ve=1&tl=1"
     }
   ]
 }
