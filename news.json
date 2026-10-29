@@ -1,6 +1,933 @@
 {
-  "last_updated": "2026-10-28T17:02:56.907258+00:00",
+  "last_updated": "2026-10-29T17:20:59.533562+00:00",
   "articles": [
+    {
+      "id": "d09ef47f10b29fc4",
+      "title": "CNN, MSNOW and Politico ask court to make Trump access order permanent",
+      "link": "https://www.pbs.org/newshour/politics/cnn-msnow-and-politico-ask-court-to-make-trump-access-order-permanent",
+      "summary": "Three news outlets have beefed up their legal complaint against the White House over access, saying it is continuing to defy a judge's orders by refusing to let them return to covering President Donald Trump in the Oval Office and on Air Force One — thus violating their free...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-29T17:10:02+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T220326Z_1915525210_RC2SNNA5Y14Q_RTRMADP_3_USA-TRUMP-MEDIA-1024x711.jpg"
+    },
+    {
+      "id": "28f9d9ef9c0fcf08",
+      "title": "WATCH LIVE: Trump rallies in South Carolina for Sen. Darline Graham",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-south-carolina-for-sen-darline-graham",
+      "summary": "Holding South Carolina is essential if Republicans have any hope of keeping their Senate majority.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-29T16:46:18+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-29T143908Z_4971030_RC22DOAXSYXM_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    },
+    {
+      "id": "ad1475d746dca9b4",
+      "title": "Trial date set for man charged with attacking White House correspondents’ dinner",
+      "link": "https://abcnews.com/US/wireStory/september-2027-trial-date-set-man-charged-attacking-137678749",
+      "summary": "A federal judge has set a September 2027 trial date for a man charged with attempting to kill President Donald Trump at the White House Correspondents&rsquo; Association dinner",
+      "source": "ABC News",
+      "published": "2026-10-29T16:40:16+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_fd0a1d93136b13892e187385403e57f8_4x3_384.jpg"
+    },
+    {
+      "id": "6a7d00e7e7e36a25",
+      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Trump's point man in the fight against Jew hate",
+      "link": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-trumps-point-man-fight-against-jew-hate",
+      "summary": "Fox News&apos; &quot;Antisemitism Exposed&quot; newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
+      "source": "Fox News",
+      "published": "2026-10-29T16:33:40+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nyc-rabbi-syringe-attack-suspect-surveillance.png?ve=1&tl=1"
+    },
+    {
+      "id": "cd04a41bbc161250",
+      "title": "Inflation heats up again, days before midterm elections",
+      "link": "https://www.pbs.org/newshour/economy/inflation-heats-up-again-days-before-midterm-elections",
+      "summary": "Rising gas prices drove much of the inflation increase as renewed violence in the Middle East has kept oil prices above $100 a barrel, up from below $70 before the Iran war. But prices also rose outside of fuel costs.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-29T16:24:59+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-27T022216Z_96039524_RC2BBOA0KHSE_RTRMADP_3_USA-GASPRICES-1024x639.jpg"
+    },
+    {
+      "id": "e58da7a8afb04bf4",
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "summary": "The announcement Wednesday is the latest action by the allies, who have repeatedly expressed alarm over China's growing assertiveness in Asia.",
+      "source": "NPR",
+      "published": "2026-10-29T15:58:27+00:00",
+      "image": null
+    },
+    {
+      "id": "7fb721544c8546e7",
+      "title": "East Potamac Golf Course closing, new court filing says",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/east-potomac-golf-course-closing/4791793288660/",
+      "summary": "The U.S. Department of the Interior posted a notice to the court saying the East Potomac Golf Course will close on Nov. 15 as planned.",
+      "source": "UPI",
+      "published": "2026-10-29T15:53:59+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4791793288660/2026/upi/3325f798aa373a9df6f0f0194041867a/v1.2/East-Potamac-Golf-Course-closing-new-court-filing-says.jpg"
+    },
+    {
+      "id": "a43029d68bc6e9f6",
+      "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+      "summary": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term.",
+      "source": "NPR",
+      "published": "2026-10-29T15:53:46+00:00",
+      "image": null
+    },
+    {
+      "id": "22a4de25a64aa723",
+      "title": "U.S. economy grows at brisk 3.4% pace in third quarter on strong consumer spending and AI investment",
+      "link": "https://www.pbs.org/newshour/economy/u-s-economy-grows-at-brisk-3-4-pace-in-third-quarter-on-strong-consumer-spending-and-ai-investment",
+      "summary": "Consumer spending rose at a good clip in the third quarter, and business investment was up sharply, reflecting the AI boom.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-29T15:48:27+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T100359Z_1478486604_RC2OZNAMNZ35_RTRMADP_3_USA-DATA-CENTERS-UNIONS-1024x683.jpg"
+    },
+    {
+      "id": "841d9b9e199282e5",
+      "title": "Who benefits when massive AI data centers come to town?",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
+      "summary": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines.",
+      "source": "NPR",
+      "published": "2026-10-29T15:41:59+00:00",
+      "image": null
+    },
+    {
+      "id": "c3f3a8d5c1a61952",
+      "title": "Man accused of Colorado demonstration attack to change plea to federal hate crime charges",
+      "link": "https://abcnews.com/US/wireStory/man-accused-colorado-demonstration-attack-change-plea-federal-137677610",
+      "summary": "An Egyptian man returns to court Thursday to change his not guilty plea to federal hate crime and other charges for a deadly firebombing attack on demonstrators in Colorado last year",
+      "source": "ABC News",
+      "published": "2026-10-29T15:37:16+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_eb743d76c83e694cedd764afc814d07f_4x3_384.jpg"
+    },
+    {
+      "id": "ffcb165b4578916e",
+      "title": "DOJ’s ‘Operation Ghostbusters’ targets massive student-aid fraud scheme built on fake enrollees",
+      "link": "https://www.foxnews.com/us/dojs-operation-ghostbusters-aims-crush-massive-student-aid-fraud-scheme-involving-fake-students",
+      "summary": "Operation Ghostbusters targets ghost students and identity theft in a student aid fraud scheme with potentially hundreds of millions in taxpayer losses.",
+      "source": "Fox News",
+      "published": "2026-10-29T15:28:36+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ghostbusters-doj-colin-mcdonald.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "18f4aa1b0e23e5ee",
+      "title": "Inflation picks up in September; third quarter GDP beats expectations",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/bea-inflation-gdp-report-third-quarter-september-2026/5891793285941/",
+      "summary": "Core inflation rose by 3.1% in September while gross domestic product for the third quarter grew by 3.4%, the Bureau of Economic Analysis reports.",
+      "source": "UPI",
+      "published": "2026-10-29T15:25:14+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5891793285941/2026/upi/dff4003bbe987e43fd037a41945d50e0/v1.2/Inflation-picks-up-in-September-third-quarter-GDP-beats-expectations.jpg"
+    },
+    {
+      "id": "14eb3b9aed16a7d9",
+      "title": "Ex-chief says Christa Pike was 'almost giddy' describing murder as governor weighs in after botched execution",
+      "link": "https://www.foxnews.com/us/ex-chief-says-christa-pike-almost-giddy-describing-murder-governor-weighs-botched-execution",
+      "summary": "A former Knoxville police chief recalled Christa Pike being &quot;ruthless&quot; and &quot;almost giddy&quot; while describing Colleen Slemmer&apos;s brutal 1995 murder.",
+      "source": "Fox News",
+      "published": "2026-10-29T14:59:01+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/christa-pike-colleen-slemmer-split.png?ve=1&tl=1"
+    },
+    {
+      "id": "34d947029d6a7f1d",
+      "title": "DoorDash gobbles up Instacart in $17 billion deal",
+      "link": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/",
+      "summary": "DoorDash's purchase of Instacart for $65 per share will unite two of the country's largest grocery and food-delivery companies.",
+      "source": "CBS News",
+      "published": "2026-10-29T14:58:39+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/11/801071d5-9875-47a4-92f0-77df9c04fa87/thumbnail/1200x630/ddfd6197bfdf89269dde107ec1c49271/cbsn-fusion-instacarts-ai-pricing-can-vary-by-user-and-bump-up-your-grocery-costs-study-finds-thumbnail.jpg"
+    },
+    {
+      "id": "8f41afde7f0e06a9",
+      "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+      "summary": "The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumbling.",
+      "source": "NPR",
+      "published": "2026-10-29T14:52:11+00:00",
+      "image": null
+    },
+    {
+      "id": "634b39155614665e",
+      "title": "Alaska's governor orders a probe into Peltola's Senate campaign over spoiler candidate controversy",
+      "link": "https://www.pbs.org/newshour/politics/alaskas-governor-orders-a-probe-into-peltolas-senate-campaign-over-spoiler-candidate-controversy",
+      "summary": "Republican Alaska Gov. Mike Dunleavy has ordered an investigation into the Democratic candidate running for the U.S. Senate in the state after revelations that her campaign appeared to be involved in recruiting another candidate with the same name as Republican incumbent Dan...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-29T14:46:36+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-29T075436Z_1281370738_RC2VCOA8ZFWW_RTRMADP_3_USA-ELECTION-ALASKA-1024x683.jpg"
+    },
+    {
+      "id": "848e1e6f2495127e",
+      "title": "Lindsay Clancy's lawyer denies she'll testify about homicidal thoughts in ex's suit against her doctors",
+      "link": "https://www.foxnews.com/us/lindsay-clancy-lawyer-denies-testify-homicidal-thoughts-ex-suit-against-doctors",
+      "summary": "Lindsay Clancy&apos;s lawyer says she never told healthcare providers about homicidal ideation toward her children, disputing Patrick Clancy&apos;s counsel.",
+      "source": "Fox News",
+      "published": "2026-10-29T14:43:16+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Clancy-Patrick.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "ace0dbadd2be5114",
+      "title": "A stress-free guide to organizing important paperwork and documents",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6020623/a-stress-free-guide-to-organizing-important-paperwork-and-documents",
+      "summary": "Got piles of mail stacking up in the kitchen? Not sure where your Social Security card is? It might be time to sort through your paperwork. Don't let it overwhelm you with this simple guide.",
+      "source": "NPR",
+      "published": "2026-10-29T14:38:32+00:00",
+      "image": null
+    },
+    {
+      "id": "0d5c442d649c10c9",
+      "title": "LinkedIn career expert breaks down top networking failures",
+      "link": "https://www.cbsnews.com/video/linkedin-career-expert-breaks-down-top-networking-failures/",
+      "summary": "Catherine Fisher, a career expert at LinkedIn, joins \"CBS Mornings\" to offer advice and break down the networking mistakes people make.",
+      "source": "CBS News",
+      "published": "2026-10-29T14:32:25+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/833d9595-f718-4dcc-ac66-0e1d33b28725/thumbnail/1200x630/2644bad25c2eb36db92f8e6213d3713d/cbsn-fusion-linkedin-career-expert-breaks-down-top-networking-failures-thumbnail.jpg"
+    },
+    {
+      "id": "cc1ede628436fcfa",
+      "title": "Alaska gov. orders probe into Peltola over 2nd Dan Sullivan on ballot",
+      "link": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/",
+      "summary": "A report alleged that people aligned with Democrat Mary Peltola's campaign helped recruit a candidate with the same first and last name as Republican Sen. Dan Sullivan. Peltola denied the allegations.",
+      "source": "CBS News",
+      "published": "2026-10-29T14:07:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/30/42c34be0-8269-4674-8360-94c8446f7110/thumbnail/1200x630/1bac6e28302e64e29f1dd3c65bb0eb7b/dan-sullivan-x-2.png"
+    },
+    {
+      "id": "f8890b109ab5adbd",
+      "title": "Brewers defeat Rays in 5 games to win first World Series in franchise history",
+      "link": "https://www.cbsnews.com/news/world-series-milwaukee-brewers-defeat-tampa-bay-rays/",
+      "summary": "The win at Tropicana Field in Tampa gave the Brewers their first World Series title since their founding as an expansion franchise 57 years ago.",
+      "source": "CBS News",
+      "published": "2026-10-29T13:57:27+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/29/aa99e27e-9319-435c-8c5f-5f140938c7fd/thumbnail/1200x630/d133a93546e7210de6387d538d81c7c3/gettyimages-2302470798.jpg"
+    },
+    {
+      "id": "6803ccf7907abf39",
+      "title": "Alaska Gov. Dunleavy orders investigation into Peltola campaign",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/alaksa-governor-dunleavy-mary-peltola-dan-sullivan/2021793281264/",
+      "summary": "Alaska Gov. Mike Dunleavy said he is ordering an investigation into whether Mary Peltola recruited a candidate with the same name as her opponent.",
+      "source": "UPI",
+      "published": "2026-10-29T13:52:40+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2021793281264/2026/upi/8a54d796dede6710d22ee746b551621a/v1.2/Alaska-Gov-Dunleavy-orders-investigation-into-Peltola-campaign.jpg"
+    },
+    {
+      "id": "e2dda14f10fa7204",
+      "title": "Florida man accused of killing wife and pretending she was still alive",
+      "link": "https://www.cbsnews.com/video/florida-man-accused-of-killing-wife-and-pretending-she-was-still-alive/",
+      "summary": "The husband of Maria Gaminde, who disappeared nearly three years ago, was arrested for her murder after allegedly pretending she was still alive. Tom Hanson reports.",
+      "source": "CBS News",
+      "published": "2026-10-29T13:33:28+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/a8d4e6e4-74ff-482c-87c3-4de40af84731/thumbnail/1200x630/e0171fc646b7b94aec4aa8a183ae0ae5/cbsn-fusion-florida-man-accused-of-killing-wife-and-pretending-she-was-still-alive-thumbnail.jpg"
+    },
+    {
+      "id": "fef7dddf3defe25e",
+      "title": "Hegseth fires top general over apparent media leaks",
+      "link": "https://www.cbsnews.com/video/hegseth-fires-top-general-over-apparent-media-leaks/",
+      "summary": "Secretary of Defense Pete Hegseth fired Army Lt. Gen. Brett Sylvia, who was head of strategy, plans and policy on the Joint Chiefs of Staff, for apparent misconduct with classified information on the Iran and Russia-Ukraine wars, a Pentagon official told CBS News. Charlie...",
+      "source": "CBS News",
+      "published": "2026-10-29T13:24:06+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/9391f0aa-732d-4382-bf6a-a5a14db021f4/thumbnail/1200x630/0e747b4cce8fb629d6c2f4210b3c637e/cbsn-fusion-hegseth-fires-top-general-over-apparent-media-leaks-thumbnail.jpg"
+    },
+    {
+      "id": "a274158b6b963c67",
+      "title": "Fed holds interest rates steady even as inflation remains high",
+      "link": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/",
+      "summary": "The U.S. central bank left borrowing costs unchanged this month after hiking rates in September for the first time in three years.",
+      "source": "CBS News",
+      "published": "2026-10-29T13:17:34+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/cece5b55-98b1-4d05-97fd-aef3fe508a23/thumbnail/1200x630/37cc6eb2dd8fe71ac372025531d9fc28/gettyimages-1223805382.jpg"
+    },
+    {
+      "id": "3384a2b4f9d019d2",
+      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+      "summary": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+      "source": "NPR",
+      "published": "2026-10-29T13:05:03+00:00",
+      "image": null
+    },
+    {
+      "id": "aa32f9cf4fdf6294",
+      "title": "'Baby killers, cop killers' have an ally in Newsom, murdered girl's father says amid death row controversy",
+      "link": "https://www.foxnews.com/us/baby-killers-cop-killers-ally-newsom-murdered-girls-father-says-death-row-controversy",
+      "summary": "California Gov. Gavin Newsom is reportedly considering commuting sentences for 563 death row inmates, sparking fierce backlash from victims&apos; families.",
+      "source": "Fox News",
+      "published": "2026-10-29T13:00:07+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/gavin-newsom-los-angeles.png?ve=1&tl=1"
+    },
+    {
+      "id": "703d7c982be0e4ef",
+      "title": "Whistleblower claims DEA tactic is worsening New Mexico's fentanyl crisis",
+      "link": "https://www.cbsnews.com/video/whistleblower-claims-dea-tactic-is-worsening-new-mexicos-fentanyl-crisis/",
+      "summary": "As New Mexico grapples with a growing fentanyl crisis, a veteran DEA agent alleges the agency used a tactic to let fentanyl reach the streets to build bigger drug cases and that it's putting lives at risk. He says managers \"didn't listen\" to his warnings.",
+      "source": "CBS News",
+      "published": "2026-10-29T12:03:14+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/29/97debeea-c6f3-4a4e-880e-9a8db65a3a31/thumbnail/1200x630/c3cd364a51d23fb6cad26c58d1b86173/cbsn-fusion-whistleblower-claims-dea-tactic-is-worsening-new-mexicos-fentanyl-crisis-thumbnail.jpg"
+    },
+    {
+      "id": "fafc08e8b30908cc",
+      "title": "Whistleblower says DEA let fentanyl pills hit the streets",
+      "link": "https://www.cbsnews.com/news/dea-whistleblower-fentanyl-pills/",
+      "summary": "DEA Special Agent David Howell tells CBS News the agency tasked with enforcing federal drug laws has allowed millions of fentanyl pills to hit the streets.",
+      "source": "CBS News",
+      "published": "2026-10-29T12:03:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/525adfb3-c365-4cd0-887f-f4262cb82bdb/thumbnail/1200x630/3bd4bbe9c9e2c0a9b4f19a3f2a1807b9/fentanyl-nm2.jpg"
+    },
+    {
+      "id": "46841a6b4ad570ff",
+      "title": "Senate skeptical about making daylight saving time permanent despite Trump's pressure",
+      "link": "https://abcnews.com/US/wireStory/senate-skeptical-making-daylight-saving-time-permanent-despite-137668431",
+      "summary": "Get ready to fall back",
+      "source": "ABC News",
+      "published": "2026-10-29T11:47:52+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_f9e065a6f5a3187731ea794b353c3a4f_4x3_384.jpg"
+    },
+    {
+      "id": "b8c0ee41da73f429",
+      "title": "Ship sunk by infamous Nazi sub in 1944 found off coast of Maine",
+      "link": "https://www.cbsnews.com/news/ss-cornwallis-sunk-nazi-sub-found-maine/",
+      "summary": "The U-boat that landed two Nazi spies on the Maine coast sank the 400-foot steamship SS Cornwallis four days later.",
+      "source": "CBS News",
+      "published": "2026-10-29T11:47:12+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/d7992485-a049-49f5-a34a-470bc52321da/thumbnail/1200x630/3ed5ddbe30fcbec5bef35d9ac3ba5edb/cornwallis-side-scan.png"
+    },
+    {
+      "id": "308623a0de1e3356",
+      "title": "South Korea says North Korea has launched an unidentified projectile off the North's east coast",
+      "link": "https://abcnews.com/US/wireStory/south-korea-north-korea-launched-unidentified-projectile-off-137662900",
+      "summary": "South Korea says North Korea has launched an unidentified projectile off the North's east coast",
+      "source": "ABC News",
+      "published": "2026-10-29T11:44:41+00:00",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "31a4004be51c787a",
+      "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+      "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+      "summary": "Economists expect the GDP report to show economic growth, but say that growth is \"fragile.\" And, after 90% of the votes in Israel have been counted, no clear winner has emerged.",
+      "source": "NPR",
+      "published": "2026-10-29T11:34:30+00:00",
+      "image": null
+    },
+    {
+      "id": "074ed47af1acb7e7",
+      "title": "First map of U.S. Mason-Dixon Line going up for auction",
+      "link": "https://www.cbsnews.com/news/first-mason-dixon-line-map-auction-civil-war/",
+      "summary": "The first map of the Mason-Dixon Line dividing U.S. Northern free states from Southern states that had slavery decades before the Civil War is going up for auction.",
+      "source": "CBS News",
+      "published": "2026-10-29T11:28:22+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/32ebcdc2-cbb9-47f5-8ee1-fdd3c0e02e48/thumbnail/1200x630/75ddd0a68f42d7b3b744af329eaff141/ap26299737005120.jpg"
+    },
+    {
+      "id": "4eb8530e2deabc11",
+      "title": "Work details of more than 41,000 DHS staff hacked, published online",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/DHS-staff-information-leak/3711793264970/",
+      "summary": "The Department of Homeland Security was working to secure its systems after workers had their personnel files hacked and the information posted online.",
+      "source": "UPI",
+      "published": "2026-10-29T11:25:29+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3711793264970/2026/upi/5940162e40717f2bbbe0ce9a81e61fd0/v1.2/Work-details-of-more-than-41000-DHS-staff-hacked-published-online.jpg"
+    },
+    {
+      "id": "8a3b512e1085dabf",
+      "title": "Dems' alleged ballot scheme called a 'scandal at the highest order' and more top headlines",
+      "link": "https://www.foxnews.com/us/dems-alleged-ballot-scheme-called-scandal-highest-order-more-top-headlines",
+      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "source": "Fox News",
+      "published": "2026-10-29T11:14:00+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/accb13d8-sullivan-peltola-sullivan.png?ve=1&tl=1"
+    },
+    {
+      "id": "0409f97a5c2d2c6e",
+      "title": "Ted Bundy could have more undiscovered victims after DNA links him to murder of chief's daughter: detective",
+      "link": "https://www.foxnews.com/us/ted-bundy-undiscovered-victims-dna-links-murder-chiefs-daughter-detective",
+      "summary": "DNA evidence linked Ted Bundy to Melissa Ann Smith&apos;s 1974 murder, but a cold-case detective says the serial killer may have unknown victims.",
+      "source": "Fox News",
+      "published": "2026-10-29T10:00:28+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/ted-bundy-utah-cold-case-murder_01.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "377c4c6071d87433",
+      "title": "How AI drones are influencing the course of the Ukraine war",
+      "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+      "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+      "source": "NPR",
+      "published": "2026-10-29T09:02:00+00:00",
+      "image": null
+    },
+    {
+      "id": "d8120179b1b2e7b0",
+      "title": "Data center health worries animate midterm campaigns",
+      "link": "https://www.cbsnews.com/news/data-center-health-risks-midterm-elections/",
+      "summary": "Opposition to the rapid emergence of data centers in states such as Ohio and Arizona has ginned up activism and unified voters. A range of public health issues have played into the resistance.",
+      "source": "CBS News",
+      "published": "2026-10-29T09:00:19+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/0b53082e-85b1-4272-9cf9-0becc870d836/thumbnail/1200x630g4/338ff156b23ca12e7c003e00a5220f66/500-acres.jpg"
+    },
+    {
+      "id": "15219866819bb0a7",
+      "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+      "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+      "source": "NPR",
+      "published": "2026-10-29T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "9cea9b1081b68a06",
+      "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+      "summary": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
+      "source": "NPR",
+      "published": "2026-10-29T09:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "b13629539326d641",
+      "title": "Arizona becomes 3rd state to confirm case of New World screwworm",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/Arizona-New-World-screwworm/8311793256716/",
+      "summary": "Arizona agriculture officials on Wednesday announced the state's first case of New World screwworm.",
+      "source": "UPI",
+      "published": "2026-10-29T08:00:15+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/8311793256716/2026/upi/2213371235664763910ae0fb1c8693d9/v1.2/Arizona-becomes-3rd-state-to-confirm-case-of-New-World-screwworm.jpg"
+    },
+    {
+      "id": "c3a3f78dec394c6a",
+      "title": "Reports: Hegseth removes top general amid sweeping Pentagon overhaul",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/Hegseth-fires-Brett-Sylvia/3321793253301/",
+      "summary": "Defense Secretary Pete Hegseth has removed a top general from his post, according to reports.",
+      "source": "UPI",
+      "published": "2026-10-29T06:47:08+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3321793253301/2026/upi/e42aee64b19db93b39abf6e16e312b62/v1.2/Reports-Hegseth-removes-top-general-amid-sweeping-Pentagon-overhaul.jpg"
+    },
+    {
+      "id": "0f1c5a96e3dd5fb2",
+      "title": "James O'Keefe charged with voter fraud, identity theft in Minnesota",
+      "link": "https://www.upi.com/Top_News/US/2026/10/29/Minnesota-James-OKeefe-charged/2431793246956/",
+      "summary": "Prosecutors in Minnesota charged conservative activists James O'Keefe and Cam Higby on election-related offenses for presenting election judges names.",
+      "source": "UPI",
+      "published": "2026-10-29T05:32:10+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2431793246956/2026/upi/f361817156cc61491a5efd6848c2b602/v1.2/James-OKeefe-charged-with-voter-fraud-identity-theft-in-Minnesota.jpg"
+    },
+    {
+      "id": "1185ef85de570c45",
+      "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
+      "link": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents",
+      "summary": "The Department of Homeland Security is investigating a breach that exposed roughly 40,000 employees, including 10,000 ICE agents and CBP personnel.",
+      "source": "Fox News",
+      "published": "2026-10-29T04:31:13+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/markwayne-mullin-october-9-scaled.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "48469a3f97423a59",
+      "title": "How Trump's immigration crackdown sparked a backlash that could boomerang",
+      "link": "https://abcnews.com/US/wireStory/trumps-immigration-crackdown-sparked-backlash-boomerang-midterms-137663207",
+      "summary": "Donald Trump roared back into office two years ago partly on the power of immigration",
+      "source": "ABC News",
+      "published": "2026-10-29T04:22:07+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_973ea68bd778fbfd7f38209f65bb351c_4x3_384.jpg"
+    },
+    {
+      "id": "e936bfd0d2e66715",
+      "title": "Justice Department announces Trump plans for golf course are in the works, course will close Nov. 15",
+      "link": "https://abcnews.com/US/wireStory/justice-department-announces-trump-plans-golf-works-close-137661197",
+      "summary": "The Justice Department has filed notice that President Donald Trump&rsquo;s announcements that there are plans for renovating the East Potomac Golf Course and there are plans to close the park beginning Nov. 15 are accurate",
+      "source": "ABC News",
+      "published": "2026-10-29T04:19:35+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_82e42d1036a4c964555df8a2187546f4_4x3_384.jpg"
+    },
+    {
+      "id": "c963e0a9a88f5add",
+      "title": "Judge rejects DOJ effort to remove 20K California mail-in ballots",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/DOJ-Trump-California-mail-in-ballots/2281793238960/",
+      "summary": "A federal judge rejected a Trump administration effort to force California to remove more than 20,000 mail-in ballots belonging to registered voters.",
+      "source": "UPI",
+      "published": "2026-10-29T03:23:33+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2281793238960/2026/upi/8c531590f6b7fff9de8a62c74165e462/v1.2/Judge-rejects-DOJ-effort-to-remove-20K-California-mail-in-ballots.jpg"
+    },
+    {
+      "id": "f26fbe2dfc292607",
+      "title": "DOJ sues Maryland school district over preferred names, pronouns",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/DOj-sues-Maryland-school-district-preferred-pronouns/7571793151549/",
+      "summary": "Federal lawyers are suing a Maryland school district for using students' preferred pronouns and names without parent's consent.",
+      "source": "UPI",
+      "published": "2026-10-29T01:41:08+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7571793151549/2026/upi/1296320c679555a95be5e4c75dcc066d/v1.2/DOJ-sues-Maryland-school-district-over-preferred-names-pronouns.jpg"
+    },
+    {
+      "id": "291cede312216d1c",
+      "title": "RFK Jr. to ease access to unapproved peptides, draft policy states",
+      "link": "https://www.cbsnews.com/news/rfk-jr-to-ease-access-unapproved-peptides-draft-policy/",
+      "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. took steps Wednesday that could open up access to certain unapproved peptide drugs that are being promoted for wellness.",
+      "source": "CBS News",
+      "published": "2026-10-29T01:20:56+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/29/86c08616-8f39-44ab-b2df-623f653211a2/thumbnail/1200x630/5822325a0ee21ae4ba83837267d6954c/gettyimages-2300657525.jpg"
+    },
+    {
+      "id": "faeff95606ef4d4d",
+      "title": "Kalshi, founders charged, escalating fight over who can regulate prediction markets",
+      "link": "https://abcnews.com/US/wireStory/utah-charges-kalshi-founders-escalating-fight-regulate-prediction-137660008",
+      "summary": "Utah is pursuing criminal charges against prediction market operator Kalshi and two executives, after a federal judge rejected Kalshi&rsquo;s effort to prevent Utah from enforcing its anti-gambling laws against the activity",
+      "source": "ABC News",
+      "published": "2026-10-29T01:16:05+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_42468686dad6981f58436befdedee03d_4x3_384.jpg"
+    },
+    {
+      "id": "fee2573c216ce40e",
+      "title": "Emergency declared at South Carolina nuclear site after fire erupts at lab",
+      "link": "https://www.foxnews.com/us/emergency-declared-south-carolina-nuclear-site-after-fire-erupts-lab",
+      "summary": "A fire at a massive Department of Energy nuclear site triggered emergency measures, though officials reported no contamination outside the facility.",
+      "source": "Fox News",
+      "published": "2026-10-29T01:10:04+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/srs.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "2db7e895a9073f2f",
+      "title": "Big 12 fines UCF $100,000 for fan behavior aimed at BYU, Mormon church",
+      "link": "https://abcnews.com/US/wireStory/big-12-fines-ucf-100000-fan-behavior-aimed-137659765",
+      "summary": "The Big 12 Conference has fined UCF $100,000 for derogatory chants by football fans aimed at The Church of Jesus Christ of Latter-day Saints in a game against BYU",
+      "source": "ABC News",
+      "published": "2026-10-29T01:03:44+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_2cae3a9aa8e195e99175cb523d306bf6_4x3_384.jpg"
+    },
+    {
+      "id": "5b2434003dab0807",
+      "title": "CEO says plan is to file for bankruptcy after ending luxury never-ending cruise",
+      "link": "https://www.cbsnews.com/news/mv-odyssey-luxury-never-ending-cruise-ends-fuel-costs/",
+      "summary": "More than 200 passengers, mostly Americans, are stranded in Cambodia after the operator of a luxury U.S. cruise ship ran out of money due to skyrocketing fuel costs.",
+      "source": "CBS News",
+      "published": "2026-10-29T00:31:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg"
+    },
+    {
+      "id": "8d74360dfdd60159",
+      "title": "Experts react to new findings on CTE in former NFL players",
+      "link": "https://www.cbsnews.com/news/cte-research-nfl-boston-university/",
+      "summary": "A new study from Boston University looks at the rate of the brain disease CTE in former NFL players who died between 2008 and 2023.",
+      "source": "CBS News",
+      "published": "2026-10-29T00:27:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/c1dc88ec-e305-4782-961a-7266521b5bfa/thumbnail/1200x630g8/b8f4bcb808c6b641d4ff124cd8c08fb4/gettyimages-2299226221.jpg"
+    },
+    {
+      "id": "25446f5e218ac0d2",
+      "title": "Trump calls for Peltola to be removed from race, face prosecution after Times report",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/trump-calls-for-peltola-removal-after-report/6271793231612/",
+      "summary": "President Trump is calling for Mary Peltola, the Democratic candidate for a Senate seat in Alaska, to be removed from the ballot after a new report.",
+      "source": "UPI",
+      "published": "2026-10-29T00:02:11+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/6271793231612/2026/upi/f5c1a18dafe5e33c8b57b2af4b7ebb58/v1.2/Trump-calls-for-Peltola-to-be-removed-from-race-after-report.jpg"
+    },
+    {
+      "id": "e959213dc14bb478",
+      "title": "Passengers aboard deadly train collision in Spain speak out",
+      "link": "https://www.cbsnews.com/video/passengers-aboard-deadly-train-collision-spain-speak-out/",
+      "summary": "At least 68 were killed in Spain's second major train disaster of the year. Two high-speed trains collided, derailing at least two carriages. Leigh Kiniry reports.",
+      "source": "CBS News",
+      "published": "2026-10-29T00:02:10+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/036caff2-8c9d-4fa1-bd06-a73925467360/thumbnail/1200x630/1e7bdde7027225e891453f2302d49afd/cbsn-fusion-passengers-aboard-deadly-train-collision-spain-speak-out-thumbnail.jpg"
+    },
+    {
+      "id": "7c6a7ee0c319cdbd",
+      "title": "Navy dad returns home, surprises son in middle school lunchroom",
+      "link": "https://www.cbsnews.com/video/navy-dad-returns-home-surprises-son-middle-school-lunchroom/",
+      "summary": "After being deployed for nearly a year overseas, Navy lieutenant-commander Kevin Vassighi surprised his son in the middle school lunchroom. Tony Dokoupil reports.",
+      "source": "CBS News",
+      "published": "2026-10-28T23:51:23+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/7668cd6f-4103-4ed8-980e-67d20aa30cc3/thumbnail/1200x630/6475417e5515bacd5b2c7097d5d8dda8/cbsn-fusion-navy-dad-returns-home-surprises-son-middle-school-lunchroom-thumbnail.jpg"
+    },
+    {
+      "id": "9cf04aab163b4a92",
+      "title": "King Charles III can't escape Britain's role in slavery as he tours Caribbean nations",
+      "link": "https://www.pbs.org/newshour/world/king-charles-iii-cant-escape-britains-role-in-slavery-as-he-tours-caribbean-nations",
+      "summary": "Facing demands that Britain apologize and pay reparations, palace officials say Charles will reiterate previous comments that slavery was an \"atrocity that forever stains our history,\" while stopping short of an apology.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T23:49:14+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T193641Z_1327101647_RC2JCOAO858Z_RTRMADP_3_BRITAIN-ROYALS-KING-1024x683.jpg"
+    },
+    {
+      "id": "f603ccd280fe40b9",
+      "title": "Cruise ship passengers stranded after operator says it ran out of money due to fuel costs",
+      "link": "https://www.cbsnews.com/video/cruise-ship-passengers-stranded-operator-says-ran-out-money-fuel-costs/",
+      "summary": "More than 200 passengers, mostly Americans, are stranded in Cambodia after the operator of a luxury cruise ship ran out of money due to skyrocketing fuel costs. Cristian Benavides reports on the details.",
+      "source": "CBS News",
+      "published": "2026-10-28T23:48:31+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/d75b22e1-0aaa-4051-965e-1d144cfe616a/thumbnail/1200x630/48f1c6655c805aa05329694b345568cb/cbsn-fusion-cruise-ship-passengers-stranded-operator-says-ran-out-money-fuel-costs-thumbnail.jpg"
+    },
+    {
+      "id": "94a57bdb70136875",
+      "title": "Dr. Jon LaPook explains why peptide sales are controversial",
+      "link": "https://www.cbsnews.com/video/dr-jon-lapook-explains-why-peptide-sales-controversial/",
+      "summary": "Health Secretary Robert F. Kennedy Jr. took steps on Wednesday that could expand access to some unapproved drugs called peptides, which are being promoted for wellness. But there's not much evidence that they are safe and effective. Dr. Jon LaPook breaks it down.",
+      "source": "CBS News",
+      "published": "2026-10-28T23:45:13+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/28/6514c200-2afd-4e29-970e-2e0c3eee200e/thumbnail/1200x630/16bc148a8e5f5a49d90d59fc96f99bca/cbsn-fusion-dr-jon-lapook-explains-why-peptide-sales-controversial-thumbnail.jpg"
+    },
+    {
+      "id": "6de6b1c916ef3a1c",
+      "title": "Husband arrested after police say he concocted elaborate ruse in wife's disappearance",
+      "link": "https://www.cbsnews.com/video/husband-arrested-police-say-concocted-elaborate-ruse-wifes-disappearance/",
+      "summary": "After a woman in Florida seemed to have moved halfway across the world almost three years ago, police now say it was all an elaborate ruse and arrested her husband. He was later indicted on a first-degree murder charge. Ton Hanson reports.",
+      "source": "CBS News",
+      "published": "2026-10-28T23:42:23+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/9beb220a-ede3-4754-8c7e-8da91c129714/thumbnail/1200x630/5e212de7496d48f37632852a529b0e6f/cbsn-fusion-husband-arrested-police-say-concocted-elaborate-ruse-wifes-disappearance-thumbnail.jpg"
+    },
+    {
+      "id": "dcb600dd1641b820",
+      "title": "Parents get violent at girls' softball game in Texas, ending in hospitalization, criminal charges",
+      "link": "https://www.cbsnews.com/video/parents-violent-girls-softball-game-texas-ending-hospitalization-criminal-charges/",
+      "summary": "Warning: Graphic content. Parents at a girls' softball game in Texas got aggressive over a sportsmanship dispute over the weekend. One man ended up in the hospital, and a husband and wife now face criminal charges.",
+      "source": "CBS News",
+      "published": "2026-10-28T23:41:22+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/e3c438b1-9e6f-401a-8920-2da6616fb32f/thumbnail/1200x630/a01adbfb847dc06fa90e262fb85dcce8/cbsn-fusion-parents-violent-girls-softball-game-texas-ending-hospitalization-criminal-charges-thumbnail.jpg"
+    },
+    {
+      "id": "fce36b109fba3306",
+      "title": "Cars struggle to get through as flooding rises due to king tides in Florida, California",
+      "link": "https://www.cbsnews.com/video/cars-struggle-flooding-rises-king-tides-florida-california/",
+      "summary": "The East and West coasts saw little relief on Wednesday from the dayslong flooding caused by king tides. Carter Evans reports and Rob Marciano has the forecast.",
+      "source": "CBS News",
+      "published": "2026-10-28T23:36:32+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/e0868b4b-5e5d-4bee-aaa3-b89d7ad284a6/thumbnail/1200x630/901950a2762d6ebe400b60baffc49161/cbsn-fusion-cars-struggle-flooding-rises-king-tides-florida-california-thumbnail.jpg"
+    },
+    {
+      "id": "1821a397614878a7",
+      "title": "Russell Brand denies all charges as he testifies at his rape and sex assault trial",
+      "link": "https://www.pbs.org/newshour/world/russell-brand-denies-all-charges-as-he-testifies-at-his-rape-and-sex-assault-trial",
+      "summary": "The British actor-comedian acknowledged in a London court on Wednesday that he had been obsessed with sex as a younger man, but denied multiple charges of rape and sexual assault, saying the claims have had a \"devastating\" impact on his life.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T23:35:56+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T090845Z_129070779_RC29COAV88Q0_RTRMADP_3_BRITAIN-COURT-BRAND-1024x680.jpg"
+    },
+    {
+      "id": "602e4c1240891b63",
+      "title": "UN experts allege Nicaragua's leaders may have committed crimes against humanity",
+      "link": "https://abcnews.com/US/wireStory/experts-allege-nicaraguas-leaders-committed-crimes-humanity-137658079",
+      "summary": "United Nations human rights experts say Nicaragua&rsquo;s co-presidents have established a dictatorship and there are &ldquo;reasonable grounds to believe that crimes against humanity have been committed.&quot;",
+      "source": "ABC News",
+      "published": "2026-10-28T23:34:26+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_e54852b330be9e37994135f133c66e8a_4x3_384.jpg"
+    },
+    {
+      "id": "c82aff4454d827ef",
+      "title": "Breaking down the report alleging Mary Peltola's campaign recruited a second Dan Sullivan in Alaska",
+      "link": "https://www.cbsnews.com/video/report-alleging-mary-peltolas-campaign-recruited-second-dan-sullivan-alaska/",
+      "summary": "A New York Times report alleges that Democrats launched a scheme to confuse voters in a race that could determine the power in Washington, D.C. Democrat Mary Peltola is running against incumbent Dan Sullivan. But there is a second Dan Sullivan on the ballot, and the report...",
+      "source": "CBS News",
+      "published": "2026-10-28T23:33:20+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/5dbe2c94-b140-4234-8c5f-fac1eb198a66/thumbnail/1200x630/cf8f4977094861b65177b70cc9828e3d/cbsn-fusion-report-alleging-mary-peltolas-campaign-recruited-second-dan-sullivan-alaska-thumbnail.jpg"
+    },
+    {
+      "id": "1ad35aafbcdbdef5",
+      "title": "Trump calls for prosecution of Alaska Senate candidate Peltola over Sullivan name controversy",
+      "link": "https://www.pbs.org/newshour/politics/trump-calls-for-prosecution-of-alaska-senate-candidate-peltola-over-sullivan-name-controversy",
+      "summary": "President Donald Trump called for the criminal prosecution of the Democratic candidate running for Senate in Alaska on Wednesday after revelations that her campaign appeared to be involved in recruiting a candidate with the same name as Republican incumbent Dan Sullivan.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T23:29:24+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-16T065941Z_240931715_RC214OAS755H_RTRMADP_3_USA-ELECTION-ALASKA-1-1024x683.jpg"
+    },
+    {
+      "id": "28cce8c5d1a3ebb5",
+      "title": "Convicted murderer got over 5-hour head start after prison escape before local police were notified: official",
+      "link": "https://www.foxnews.com/us/convicted-murderer-5-hour-head-start-prison-escape-local-police-notified-official",
+      "summary": "Jacob Allen Morley had at least a five-hour head start before Tiptonville police were notified he escaped the Northwest Correctional Complex.",
+      "source": "Fox News",
+      "published": "2026-10-28T23:26:58+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/morley-13.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "4389bb31eaa8746f",
+      "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+      "link": "https://www.pbs.org/newshour/show/new-polls-suggest-surprising-democratic-gains-in-red-state-senate-races",
+      "summary": "President Trump headed to Ohio to rally voters in a race that could determine control of the Senate. That stop comes after dueling rallies in another key state offered a snapshot of the divisions shaping the midterm elections. Liz Landers reports.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:55:56+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/vote2026-12-1024x683.jpg"
+    },
+    {
+      "id": "024a3c408ce5d2c7",
+      "title": "UN condemns U.S. economic embargo of Cuba though more nations sit out amid Trump push",
+      "link": "https://www.pbs.org/newshour/world/un-condemns-u-s-economic-embargo-of-cuba-though-more-nations-sit-out-amid-trump-push",
+      "summary": "The U.N. General Assembly condemned the U.S. economic embargo of Cuba for the 34th year on Wednesday, even as Washington's campaign to influence the outcome led to a number of countries voting against the resolution or sitting out the decision for the first time.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:50:36+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-21T171800Z_1831431942_RC2SNNAKH5NQ_RTRMADP_3_UN-ASSEMBLY-1024x683.jpg"
+    },
+    {
+      "id": "c14677a40d90a53f",
+      "title": "What's next for Israel after election produces political gridlock",
+      "link": "https://www.pbs.org/newshour/show/whats-next-for-israel-after-election-produces-political-gridlock",
+      "summary": "In Israel, nearly all the votes have been counted in Tuesday's election. Prime Minister Benjamin Netanyahu and his allies emerged as the largest bloc, but lost seats and fell short of the majority needed to form a government. The results leave Israel facing the prospect of...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:50:09+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/israelvotes-1-1024x576.jpg"
+    },
+    {
+      "id": "57a80bc3e382d16b",
+      "title": "Justice Department makes a splash with politically sensitive cases and actions during midterm blitz",
+      "link": "https://abcnews.com/US/wireStory/justice-department-makes-splash-politically-sensitive-cases-actions-137656837",
+      "summary": "President Donald Trump&rsquo;s Justice Department has been scrambling before the midterm election with a blitz of headline-making actions and cases that some critics say reeks of politics",
+      "source": "ABC News",
+      "published": "2026-10-28T22:47:40+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_fc53d33a4ada827be3089ae358a5d826_4x3_384.jpg"
+    },
+    {
+      "id": "b308466cc9a3268a",
+      "title": "Inmate's escape is just the latest problem for Tennessee's troubled prison system",
+      "link": "https://abcnews.com/US/wireStory/inmates-escape-latest-problem-tennessees-troubled-prison-system-137656921",
+      "summary": "The weekend escape of a Tennessee inmate who was convicted of murdering a co-worker was just the latest black eye for the state&rsquo;s troubled prison system, coming only weeks after the failed execution of Christa Pike",
+      "source": "ABC News",
+      "published": "2026-10-28T22:47:39+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_5e34b128a22ff503f6700c9393de8863_4x3_384.jpg"
+    },
+    {
+      "id": "378a7716a92bc55a",
+      "title": "Man whose 'hijack' text caused plane to turn back said it was banter with co-worker, police say",
+      "link": "https://abcnews.com/US/wireStory/man-hijack-text-caused-plane-turn-back-banter-137657012",
+      "summary": "The man who was arrested for sending a message that he was &ldquo;gonna hijack&rdquo; a plane told officers that it was banter between co-workers and he had no intention of hijacking the plane",
+      "source": "ABC News",
+      "published": "2026-10-28T22:47:37+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_b1bd8912feda63a98a9cf4cc454b9480_4x3_384.jpg"
+    },
+    {
+      "id": "4e41d1b5a89f2432",
+      "title": "US bans imports from 3 Chinese biotech companies over forced labor allegations",
+      "link": "https://abcnews.com/US/wireStory/us-bans-imports-3-chinese-biotech-companies-forced-137657166",
+      "summary": "The Trump administration says it's blocking shipments from Chinese biotech company BGI and its affiliates, alleging ties to forced labor",
+      "source": "ABC News",
+      "published": "2026-10-28T22:47:36+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_92531b29092332a680fd7abff55a0f27_4x3_384.jpg"
+    },
+    {
+      "id": "ff0e842eacc863ab",
+      "title": "Shock, anger and mourning in Spain after 2nd major train crash this year",
+      "link": "https://www.pbs.org/newshour/show/shock-anger-and-mourning-in-spain-after-2nd-major-train-crash-this-year",
+      "summary": "There is shock, anger and mourning in Spain after the second fatal train crash this year. At least 68 people have died in what is now the deadliest collision there in more than a decade. William Brangham reports.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:45:02+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/deadlycrash-1024x683.jpg"
+    },
+    {
+      "id": "afbd409ad4db3dc4",
+      "title": "RFK Jr. to allow use of unapproved peptide injections, bypassing FDA rules",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/kennedy-to-allow-unapproved-peptide-injections/5521793226572/",
+      "summary": "U.S. Health and Human Services Secretary Robert F. Kennedy Jr. said Wednesday that he will allow access to unapproved peptide injections.",
+      "source": "UPI",
+      "published": "2026-10-28T22:41:56+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5521793226572/2026/upi/705a5c019c594ef2040bd74775e48319/v1.2/Kennedy-to-allow-use-of-unapproved-peptide-injections.jpg"
+    },
+    {
+      "id": "0a1104507dd19bd2",
+      "title": "News Wrap: Fed holds interest rates unchanged as inflation remains elevated",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-fed-holds-interest-rates-unchanged-as-inflation-remains-elevated",
+      "summary": "In our news wrap Wednesday, the Federal Reserve held interest rates unchanged even as officials acknowledged that inflation remains elevated, the federal judge overseeing the prosecution of former Venezuelan president Nicolas Maduro died at the age of 92 and hundreds of...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:40:26+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T184639Z_1108790862_RC2ICOAAERPP_RTRMADP_3_USA-FED-1024x683.jpg"
+    },
+    {
+      "id": "ad661127507e4f2e",
+      "title": "Radicals bring life in America's largest city to screeching halt and vandalize 9/11 Memorial",
+      "link": "https://www.foxnews.com/us/radicals-bring-life-americas-largest-city-screeching-halt-vandalize-911-memorial",
+      "summary": "Anti-ICE radicals blocked New York City&apos;s Brooklyn Bridge and another suspect allegedly spray-painted over victims&apos; names at the 9/11 Memorial.",
+      "source": "Fox News",
+      "published": "2026-10-28T22:39:03+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/radicals-shut-down-traffic-vandalize-9-11-memorial-6.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "d10e406c94455d0a",
+      "title": "Brazil's Fl&aacute;vio Bolsonaro flees to U.S. after election loss",
+      "link": "https://www.pbs.org/newshour/show/brazils-flavio-bolsonaro-flees-to-u-s-after-election-loss",
+      "summary": "Another member of Brazil's Bolsonaro family has found haven from possible prosecution by fleeing to the U.S., where they have an ally in President Trump. Just three days after losing Brazil's presidential election, Flávio Bolsonaro, who faces multiple criminal investigations,...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:35:56+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/safehaven-1024x683.jpg"
+    },
+    {
+      "id": "4de62263b8e5a389",
+      "title": "Where key Senate races stand in the final days of campaigning",
+      "link": "https://www.pbs.org/newshour/show/where-key-senate-races-stand-in-the-final-days-of-campaigning",
+      "summary": "The race for the Senate has moved from off-the-radar a year ago to a dramatic, hard-to-predict finish where Democrats stand a chance of retaking the chamber. The contest will come down to just over a dozen races across the country. Lisa Desjardins takes a look at the map and...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:30:32+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/vote2026lisadis-1024x683.jpg"
+    },
+    {
+      "id": "9d00a0746c934a4a",
+      "title": "10/28: CBS Evening News",
+      "link": "https://www.cbsnews.com/video/102826-cbs-evening-news/",
+      "summary": "Democrats recruited candidates to influence Alaska Senate race, NYT reports; record-breaking tides batter East and West coasts.",
+      "source": "CBS News",
+      "published": "2026-10-28T22:30:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/e8d70499-a91b-4793-a576-779a048ff733/thumbnail/1200x630/65894aa60692a1e9e99f56c26cddc92e/thumb-alaska-dan-sullivan-mary-peltola.jpg"
+    },
+    {
+      "id": "214f590527ac2854",
+      "title": "Democratic and GOP strategists assess midterm landscape in final week",
+      "link": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-assess-midterm-landscape-in-final-week",
+      "summary": "To discuss how the midterm races are shaping up in the final days, Amna Nawaz sat down with Democratic strategist Mo Elleithee and Republican strategist Doug Heye.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:25:03+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/votestrategists-1024x752.jpg"
+    },
+    {
+      "id": "62b7429fadd3110a",
+      "title": "How the Associated Press tracks and calls races on Election Night",
+      "link": "https://www.pbs.org/newshour/show/how-the-associated-press-tracks-and-calls-races-on-election-night",
+      "summary": "Nearly 40 million votes have already been cast for races that will determine not only who controls Congress, but also governors, mayors and city councils. For many years, PBS News has relied on the Associated Press to keep track of results, and we will again next Tuesday....",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:20:09+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/countingthevote-1-1024x683.jpg"
+    },
+    {
+      "id": "8ac982066a170efb",
+      "title": "America's long history of gerrymandering and its role in this year's midterms",
+      "link": "https://www.pbs.org/newshour/show/americas-long-history-of-gerrymandering-and-its-role-in-this-years-midterms",
+      "summary": "Following partisan battles over political maps, nearly 35 million Americans will vote in congressional districts redrawn ahead of this year's midterms. As the nation marks its 250th anniversary, Judy Woodruff explores the origins of gerrymandering and why this centuries-old...",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:15:18+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/crossroadssss-1024x576.jpg"
+    },
+    {
+      "id": "0364db0aefe8e279",
+      "title": "Remembering pioneering labor leader and civil rights icon Dolores Huerta",
+      "link": "https://www.pbs.org/newshour/show/remembering-labor-and-civil-rights-leader-dolores-huerta",
+      "summary": "Dolores Huerta, the pioneering labor leader and civil rights icon, died Wednesday from cancer at her home in Bakersfield, California. Amna Nawaz looks back at Huerta's life and legacy.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T22:10:30+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/obithueva-1024x683.jpg"
+    },
+    {
+      "id": "8d6d5e2c99444430",
+      "title": "WATCH: Trump calls for Peltola to drop out after report her campaign helped recruit 2nd Dan Sullivan",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-calls-for-peltola-to-drop-out-after-report-her-campaign-helped-recruit-2nd-dan-sullivan",
+      "summary": "President Donald Trump called for Mary Peltola to leave Alaska's Senate race and be prosecuted on Wednesday.",
+      "source": "PBS NewsHour",
+      "published": "2026-10-28T21:55:20+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-28T211220Z_1324755607_RC2KCOAB5QUC_RTRMADP_3_USA-TRUMP-1024x683.jpg"
+    },
+    {
+      "id": "cb0eb350cbeae5ca",
+      "title": "SPLC alleges DOJ is treating witness as a member of prosecution team",
+      "link": "https://www.cbsnews.com/news/southern-poverty-law-center-doj-witness-f-9/",
+      "summary": "The group's lawyers are asking a judge to let them subpoena a former SPLC informant who has been voluntarily providing material to the government.",
+      "source": "CBS News",
+      "published": "2026-10-28T21:39:12+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/29/b60de24f-c245-4941-a122-e97242517ab2/thumbnail/1200x630/8b7c8b2d9928a5cd7747d739696c2e99/gettyimages-1246505343.jpg"
+    },
+    {
+      "id": "f320c2e91ca1f22e",
+      "title": "Caregivers face soaring costs, taking a toll on income and jobs",
+      "link": "https://www.cbsnews.com/news/caregiving-costs-surge-aarp-study/",
+      "summary": "Caregivers spend an average of $11,500 per year looking after an aging parent, relative or friend, up roughly 60% since 2021, according to AARP.",
+      "source": "CBS News",
+      "published": "2026-10-28T21:25:59+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/bd8837c0-1ed6-404b-b710-897c1f28f5ea/thumbnail/1200x630/debc76dff658b1fa3557783427c8606d/gettyimages-1390975112.jpg"
+    },
+    {
+      "id": "3c897c1d76af6ec6",
+      "title": "King tides inundate streets and flood homes and businesses along both US coasts",
+      "link": "https://abcnews.com/US/wireStory/king-tides-inundate-streets-flood-homes-businesses-us-137653756",
+      "summary": "King tides have inundated parts of both U.S. coasts",
+      "source": "ABC News",
+      "published": "2026-10-28T21:22:55+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_bd3d4258b785f428fdbdb961c4355a67_4x3_384.jpg"
+    },
+    {
+      "id": "5010f72419610e5f",
+      "title": "Dolores Huerta, iconic labor leader, dies at 96",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/labor-activist-dolores-huerta-dies-at-96/8271793219201/",
+      "summary": "Dolores Huerta, a pioneering labor leader who co-founded the United Farm Workers in the 1960s, died Wednesday at the age of 96, her family said.",
+      "source": "UPI",
+      "published": "2026-10-28T21:01:37+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/8271793219201/2026/upi/1201371e2601f01d5aee6a32a0b5e2af/v1.2/Dolores-Huerta-iconic-labor-leader-dies-at-96.jpg"
+    },
+    {
+      "id": "a330fd344899965d",
+      "title": "10/28: The Takeout with Major Garrett",
+      "link": "https://www.cbsnews.com/video/102826-the-takeout-with-major-garrett/",
+      "summary": "Campaigns make their final push six days out from Election Day; NYT says the Peltola campaign is linked to the other Dan Sullivan's run.",
+      "source": "CBS News",
+      "published": "2026-10-28T21:00:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/28/04bee261-b9b1-4056-97fb-b630e80d34fb/thumbnail/1200x630/f5f20144ab96f2b580aa9e733887288f/takeout1028.jpg"
+    },
+    {
+      "id": "488abbe7ba0b310e",
+      "title": "Woman wearing burka escorted out of Florida county meeting after playing call to prayer recording",
+      "link": "https://www.foxnews.com/us/woman-covered-veil-escorted-florida-county-meeting-playing-call-prayer-recording",
+      "summary": "A woman wearing a burka played an Islamic call to prayer recording at a Pinellas County commissioners meeting before a sheriff&apos;s deputy escorted her out.",
+      "source": "Fox News",
+      "published": "2026-10-28T20:53:41+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Screenshot-2026-10-28-at-1.14.25-PM.png?ve=1&tl=1"
+    },
+    {
+      "id": "80bd132132031cd7",
+      "title": "Conservative activists O'Keefe, Higby charged with unlawful voting in Minnesota",
+      "link": "https://abcnews.com/US/wireStory/conservative-activists-okeefe-higby-charged-unlawful-voting-minnesota-137653567",
+      "summary": "Conservative activists James O&rsquo;Keefe and Cam Higby have been charged with unlawful voting and identity theft in Minnesota after a prosecutor said they gave false names to poll workers during the state's primary election",
+      "source": "ABC News",
+      "published": "2026-10-28T20:21:26+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_e32e80590b59ca50adbb6751092e7435_4x3_384.jpg"
+    },
+    {
+      "id": "19ae760dd2573798",
+      "title": "Investors offer to buy Wendy's for $1.4B to take it private",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/investors-offer-wendys-private/6161793216573/",
+      "summary": "A group of investors has offered to buy Wendy's for $1.4 billion, a filing said Wednesday. The investors are led by Trian Fund Management.",
+      "source": "UPI",
+      "published": "2026-10-28T20:12:04+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/6161793216573/2026/upi_com/c20d0f6031e788ec6d50931500e9bd40/v1.2/Investors-offer-to-buy-Wendys-for-14B-to-take-it-private.jpg"
+    },
+    {
+      "id": "2da7b962b4c5c0b3",
+      "title": "Indiana governor is urged to let death sentence proceed against man who killed 2 kids in fire",
+      "link": "https://abcnews.com/US/wireStory/indiana-governor-urged-death-sentence-proceed-man-killed-137652561",
+      "summary": "The Indiana Parole Board is recommending that the death penalty remain in place for a man who killed two children in a house fire",
+      "source": "ABC News",
+      "published": "2026-10-28T20:07:34+00:00",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "6f1779f1ef4a79ec",
+      "title": "Apple's first foldable phone broke within hours, some owners say",
+      "link": "https://www.cbsnews.com/news/iphone-duo-owners-report-cracked-screens-apple-foldable/",
+      "summary": "\"I didn't even make it through setup,\" one consumer said after his new iPhone Duo cracked shortly after he bought it.",
+      "source": "CBS News",
+      "published": "2026-10-28T19:30:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/26/58f3c0b7-24a2-4755-b99f-efe09936a46f/thumbnail/1200x630/06a77fe9fd89e8127e485feb797d8749/cbsn-fusion-apple-confirms-reports-iphone-duo-cracking-near-seam-thumbnail.jpg"
+    },
+    {
+      "id": "ddd7d142e686209f",
+      "title": "Alvin Hellerstein, judge in Maduro and Trump cases, dies at 92",
+      "link": "https://www.cbsnews.com/news/alvin-hellerstein-dies-judge-maduro-trump/",
+      "summary": "Alvin Hellerstein, a federal judge who for decades oversaw some of the country's most high-profile cases, has died.",
+      "source": "CBS News",
+      "published": "2026-10-28T19:16:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/06/5273dd71-786c-46b1-94ff-018ed20feee4/thumbnail/1200x630/d395247699fd35be4a912115d6ed8fe3/gettyimages-1184367172.jpg"
+    },
+    {
+      "id": "96948b1c164d32f4",
+      "title": "Judge orders 30-year prison sentence for key figure in Minnesota food fraud",
+      "link": "https://abcnews.com/US/wireStory/judge-orders-30-year-prison-sentence-key-figure-137649440",
+      "summary": "A man who played a major role in defrauding a federal food program in Minnesota has been sentenced to 30 years in prison",
+      "source": "ABC News",
+      "published": "2026-10-28T18:49:05+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_a195ef82b798fa66d89cd4a6ba7e23aa_4x3_384.jpg"
+    },
+    {
+      "id": "f74124471c933d80",
+      "title": "FBI reports 114% jump in violent crime arrests under Trump compared to Biden’s final months",
+      "link": "https://www.foxnews.com/us/fbi-reports-67-percent-jump-violent-crime-arrests-trump-compared-bidens-final-months",
+      "summary": "Kash Patel says the FBI arrested over 47,000 violent criminals and gang members in 21 months, marking a 67% increase over the Biden era.",
+      "source": "Fox News",
+      "published": "2026-10-28T18:39:58+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/kash-patel-dc-crackdown-fbi_04.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "270a209ac76e7b49",
+      "title": "Judge Alvin Hellerstein, who presided over Nicolas Maduro case, dies",
+      "link": "https://www.upi.com/Top_News/US/2026/10/28/latam-us-judge-hellerstein-dies-92/4881793211855/",
+      "summary": "U.S. District Judge Alvin Hellerstein, who was overseeing the case against deposed Venezuelan president Nicolas Maduro, has died at 92.",
+      "source": "UPI",
+      "published": "2026-10-28T18:39:46+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4881793211855/2026/upi/921b206dba81e92ad4c1faf09058f50a/v1.2/Judge-in-Venezuelan-President-Nicolas-Maduros-case-dies.jpg"
+    },
     {
       "id": "8f505317ddca7582",
       "title": "Dolores Huerta, labor activist and civil rights icon, dies at 96",
@@ -4491,897 +5418,6 @@
       "source": "Fox News",
       "published": "2026-10-22T17:40:45+00:00",
       "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/clavicular-looksmaxxing-pleads-not-guilty-2.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "b28a773f43961d40",
-      "title": "Virginia lawmaker Louise Lucas charged for drug racketeering",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/virginia-senator-louise-lucas-charged-conspiracy/6951792684792/",
-      "summary": "Virginia state Sen. Louise Lucas has been indicted on charges related to distributing drugs, money laundering and public corruption on Thursday.",
-      "source": "UPI",
-      "published": "2026-10-22T16:07:18+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6951792684792/2026/upi/eec8a2daa200966209869d555b3ab00f/v1.2/Virginia-lawmaker-Louise-Lucas-charged-for-drug-racketeering.jpg"
-    },
-    {
-      "id": "0031bdd4b1d01100",
-      "title": "Trump administration abandons legal battle on student loans",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/trump-admin-abandons-legal-fight-student-loan-forgiveness/4131792683358/",
-      "summary": "The Trump administration has abandoned legal fight over a program after it tried to make student loan forgiveness based on ideology.",
-      "source": "UPI",
-      "published": "2026-10-22T15:49:46+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4131792683358/2026/upi/e3dcf0ad789ba68a3936a429fcb360ef/v1.2/Trump-administration-abandons-legal-battle-on-student-loans.jpg"
-    },
-    {
-      "id": "f5d08fc6cee44d8c",
-      "title": "What experts say the Six Flags death investigation will focus on",
-      "link": "https://www.cbsnews.com/news/six-flags-georgia-roller-coaster-death-investigation/",
-      "summary": "The Goliath roller coaster at Six Flags Over Georgia has been closed since a man died after witnesses say he was ejected from the ride.",
-      "source": "CBS News",
-      "published": "2026-10-22T15:44:14+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/0c3f8d3b-a090-48df-872e-f7ce7d5d4911/thumbnail/1200x630/2b3ae2b800643cc182116a83ef4aa430/ap26286497964367.jpg"
-    },
-    {
-      "id": "5102a10437f896d0",
-      "title": "Toledo man describes days-long chemical leak: \"Looked like a movie\"",
-      "link": "https://www.cbsnews.com/news/toledo-chemical-leak-evacuations-symptoms/",
-      "summary": "Hundreds of people remain evacuated from their homes days after the chemical leak began at a facility in Toledo, Ohio.",
-      "source": "CBS News",
-      "published": "2026-10-22T15:41:16+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/10607e7b-f6e7-4735-a649-1c005c0e5cbb/thumbnail/1200x630/38f0e462414f609388facd6b2e413e0c/cbsn-fusion-hazardous-fumes-still-leaking-from-toledo-chemical-tank-thumbnail.jpg"
-    },
-    {
-      "id": "33bd754b1da28571",
-      "title": "2 killed in fire that destroyed Mississippi senior living center",
-      "link": "https://abcnews.com/US/wireStory/2-killed-fire-destroyed-mississippi-senior-living-center-137479118",
-      "summary": "Two people were killed when a fire tore through a Mississippi senior living center that was home to more than 100 residents, Clinton Mayor Will Purdie said Thursday",
-      "source": "ABC News",
-      "published": "2026-10-22T15:31:50+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_feb8fdf0e69f0f71d16655e986d6d324_4x3_384.jpg"
-    },
-    {
-      "id": "dd9542fd3917078a",
-      "title": "Feds charge powerful Virginia Democrat in alleged drug scheme",
-      "link": "https://www.cbsnews.com/news/l-louise-lucas-charged-indictment-arrested-virginia/",
-      "summary": "L. Louise Lucas, a longtime state senator from Virginia, has been arrested in connection with an alleged bribery and racketeering scheme.",
-      "source": "CBS News",
-      "published": "2026-10-22T15:18:39+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/0ef35897-0579-4454-a372-1d284af268fa/thumbnail/1200x630g1/37abeb91984be49f038521e558aeec06/gettyimages-2274274597.jpg"
-    },
-    {
-      "id": "1730c1d1a8f65a60",
-      "title": "Severe storms batter southwest U.S.",
-      "link": "https://www.cbsnews.com/video/severe-storms-batter-southwest-u-s/",
-      "summary": "Severe storms are battering the southwestern U.S. with powerful winds and hail. Carter Evans and Kris Van Cleave report.",
-      "source": "CBS News",
-      "published": "2026-10-22T15:17:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/9aa9b1c8-24e2-42c9-9c92-341d4f324aca/thumbnail/1200x630/cec183bc4cb91a507e747c4c8269058d/1792682027610.png"
-    },
-    {
-      "id": "9f1e35e9e608263d",
-      "title": "Alleged sham marriage 'mastermind' caught on video saying sanctuary state is 'best place' for illegals",
-      "link": "https://www.foxnews.com/us/alleged-sham-marriage-mastermind-caught-video-saying-sanctuary-state-best-place-illegals",
-      "summary": "Video captures Jennifer Gonzalez explaining her alleged $6 million sham marriage scheme pairing U.S. citizens with illegal immigrants in Massachusetts.",
-      "source": "Fox News",
-      "published": "2026-10-22T15:13:34+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Gonzalez_Tavares.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "dc162ac32dc5e3ed",
-      "title": "What to know about the PHP bug affecting 70% of world's websites",
-      "link": "https://www.cbsnews.com/news/php2shell-vulnerability-ai-security-flaw/",
-      "summary": "AI was used to uncover a security weakness that affects most of the world's websites, researchers said. Here's what internet users should know.",
-      "source": "CBS News",
-      "published": "2026-10-22T15:11:01+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/4dc94f7b-099e-49e9-bb23-e708b20d29cb/thumbnail/1200x630/e4b2f01f8f0f92baa500c72193c9c592/gettyimages-2241194842.jpg"
-    },
-    {
-      "id": "592f96722871fc89",
-      "title": "Judge bars DHS from asking people about their status and plans to vote",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/judge-bars-dhs-immigration-status-voting/7501792680520/",
-      "summary": "The Department of Homeland Security can't continue its door-knocking and \"field interviews\" asking about immigration status and if they will vote.",
-      "source": "UPI",
-      "published": "2026-10-22T15:09:55+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7501792680520/2026/upi/655976aaf2d4397c8eef9053860c83b9/v1.2/Judge-bars-DHS-from-asking-people-about-their-status-and-plans-to-vote.jpg"
-    },
-    {
-      "id": "2a44c6d6da995698",
-      "title": "Weekly jobless claims fall near 60-year low in U.S.",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/weekly-jobless-claims-fall-toward-1960-low/3451792680812/",
-      "summary": "About 194,000 jobless claims were filed last week, nearly the lowest weekly count since the 1960s, the Department of Labor said in a report Thursday.",
-      "source": "UPI",
-      "published": "2026-10-22T15:08:07+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3451792680812/2026/upi/59782ecc94a0a11faa92e05b37eb0ac4/v1.2/Weekly-jobless-claims-fall-near-60-year-low-in-US.jpg"
-    },
-    {
-      "id": "96c9c9f66cc85a1c",
-      "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
-      "link": "https://www.pbs.org/newshour/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed",
-      "summary": "Russia bombarded Kyiv with ballistic missiles in an hourslong nighttime barrage, while the Russian military said Thursday that its air defenses intercepted over 800 drones fired by Ukraine at Moscow and other cities.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-22T14:58:46+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-22T081050Z_184108252_RC228OABLXU3_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-1024x741.jpg"
-    },
-    {
-      "id": "827e9dd1dabd0388",
-      "title": "Childcare costs are growing faster than rent in the U.S.",
-      "link": "https://www.cbsnews.com/news/childcare-costs-growing-faster-than-rent/",
-      "summary": "A growing share of American families are having to shell out more than $2,000 a month for childcare services, new data shows.",
-      "source": "CBS News",
-      "published": "2026-10-22T14:46:12+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/20/5696d5e8-9439-4f38-84cf-411888f63bf3/thumbnail/1200x630/a962fa8fef12e0c1038c1e556a6e8bd6/gettyimages-2229128788.jpg"
-    },
-    {
-      "id": "cc17a71560e637f1",
-      "title": "DHS knocks on doors over citizenship, voting",
-      "link": "https://www.cbsnews.com/video/dhs-knocks-on-doors-over-citizenship-voting/",
-      "summary": "Federal agents have knocked on doors in some states to check on citizenship and voter status as midterms approach, raising concerns over voter suppression by the Trump administration. Nicole Sganga reports.",
-      "source": "CBS News",
-      "published": "2026-10-22T14:45:19+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/22/aba78c54-0de2-4654-b010-5481c16208bd/thumbnail/1200x630/066c7b1dbcd5d2f81a575af4c7b0d399/cbsn-fusion-dhs-knocks-on-doors-over-citizenship-voting-thumbnail.jpg"
-    },
-    {
-      "id": "c1a8a082ad66d863",
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: French Jews forced into hiding as rioters terrorize streets",
-      "link": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-french-jews-forced-hiding-rioters-terrorize-streets",
-      "summary": "Fox News&apos; &quot;Antisemitism Exposed&quot; newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "source": "Fox News",
-      "published": "2026-10-22T14:30:39+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/graffiti-paris-riots.png?ve=1&tl=1"
-    },
-    {
-      "id": "d5b328630d769e37",
-      "title": "Mark Zuckerberg threatened to leave California over wealth tax",
-      "link": "https://www.cbsnews.com/news/mark-zuckerberg-california-billionaire-wealth-tax/",
-      "summary": "Zuckerberg has agreed to remain in California for eight years as part of a board-approved plan to create new shares he can sell to pay a proposed wealth tax.",
-      "source": "CBS News",
-      "published": "2026-10-22T14:28:38+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/745f5bc1-2eca-4dfd-9332-e77ed375ac43/thumbnail/1200x630/2b9ff2a757c4ceeaf7e297fd3b762ee8/cbsn-fusion-mark-zuckerbergs-vision-for-superintelligent-ai-for-everyone-thumbnail.jpg"
-    },
-    {
-      "id": "7e1f24fa97fee37d",
-      "title": "Lindsay Clancy holdout juror won't have to turn over phone or face inquiry, judge says",
-      "link": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-wont-have-turn-over-phone-face-inquiry-judge-says",
-      "summary": "Judge William Sullivan denied a defense motion to examine the Clancy mistrial holdout juror&apos;s phone, ruling post-trial evidence is irrelevant.",
-      "source": "Fox News",
-      "published": "2026-10-22T14:27:53+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Michael-Clancy-1.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "773b6fefbfcd5bfa",
-      "title": "Teacher who survived Oregon school shooting recounts playing dead",
-      "link": "https://www.cbsnews.com/news/oregon-school-shooting-survivor-teacher-beck-drury/",
-      "summary": "Becky Drury, the 54-year-old teacher wounded in the shooting at an Oregon elementary school last week, says she was shot before she had \"any chance to act.\"",
-      "source": "CBS News",
-      "published": "2026-10-22T14:26:12+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/22/de32c8e3-f776-45c7-b560-1f38b6161bc0/thumbnail/1200x630g4/bb3e188f572e333e0b5582054809987d/cbsn-fusion-teacher-injured-in-oregon-shooting-shares-emotional-survival-story-thumbnail.jpg"
-    },
-    {
-      "id": "db91ee7d3e2dda62",
-      "title": "France reports first human case of livestock virus Shamonda in patient who later died",
-      "link": "https://www.pbs.org/newshour/world/france-reports-first-human-case-of-livestock-virus-shamonda-in-patient-who-later-died",
-      "summary": "A first known human case of Shamonda virus infection has been detected in France, the country's health authorities said on Thursday.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-22T14:26:05+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-07-10T174937Z_665747134_RC21BMAV3C91_RTRMADP_3_EUROPE-WEATHER-FRANCE-AGRICULTURE-1024x683.jpg"
-    },
-    {
-      "id": "349f24aa435177f4",
-      "title": "Teacher injured in Oregon shooting shares emotional survival story",
-      "link": "https://www.cbsnews.com/video/teacher-injured-in-oregon-shooting-shares-emotional-survival-story/",
-      "summary": "A teacher who was injured in the school shooting in Bend, Oregon, is speaking out about the ordeal. Kelly O'Grady reports.",
-      "source": "CBS News",
-      "published": "2026-10-22T14:21:23+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/22/de32c8e3-f776-45c7-b560-1f38b6161bc0/thumbnail/1200x630g4/bb3e188f572e333e0b5582054809987d/cbsn-fusion-teacher-injured-in-oregon-shooting-shares-emotional-survival-story-thumbnail.jpg"
-    },
-    {
-      "id": "e9086d7d6b2a3eb3",
-      "title": "Meta, Zuckerberg cut deal to shield him from wealth tax",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/meta-zuckerberg-wealth-tax-shield/6351792677166/",
-      "summary": "Mark Zuckerberg struck a deal with his social media company Meta on Wednesday to help shield him from a potential wealth tax in California.",
-      "source": "UPI",
-      "published": "2026-10-22T14:07:41+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6351792677166/2026/upi/f23194caa4711f5ca91e070228f02625/v1.2/Meta-Zuckerberg-cut-deal-to-shield-him-from-wealth-tax.jpg"
-    },
-    {
-      "id": "466c90a672e5bf3e",
-      "title": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-rallies-in-iowa-with-gop-senate-candidate-ashley-hinson",
-      "summary": "On Thursday, Hinson will join President Donald Trump for a rally in Sioux City, which is in Iowa's conservative northwest corner. The visit to safe territory is geared toward boosting turnout even as it ties her more tightly to an unpopular president.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-22T14:02:43+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-06-26T141620Z_1517896222_RC2J1MABWOG4_RTRMADP_3_USA-TRUMP-1024x683.jpg"
-    },
-    {
-      "id": "82b232015e379e75",
-      "title": "In final Michigan Senate debate, El-Sayed and Rogers question each other's loyalties",
-      "link": "https://www.pbs.org/newshour/politics/in-final-michigan-senate-debate-el-sayed-and-rogers-question-each-others-loyalties",
-      "summary": "This time, the exchanges focused on policy, though both candidates repeatedly returned to their central attacks.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-22T13:54:17+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T235328Z_181345741_RC2Z7OA8WXGH_RTRMADP_3_USA-ELECTION-MICHIGAN-1024x735.jpg"
-    },
-    {
-      "id": "ee50868d315670d2",
-      "title": "Body camera footage shows moments leading up to 1-year-old's death in police shooting",
-      "link": "https://www.cbsnews.com/video/body-camera-footage-shows-moments-leading-up-to-1-year-olds-death-in-police-shooting/",
-      "summary": "Police body camera video is shedding new light on the fatal police shooting of a 1-year-old in a Walmart parking lot. Cristian Benavides reports.",
-      "source": "CBS News",
-      "published": "2026-10-22T13:53:32+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/22/bca8f17e-5304-470c-8b1a-3154340b90ed/thumbnail/1200x630/c36de6a7184e39344f0f45f1b9e59dae/cbsn-fusion-body-camera-footage-shows-moments-leading-up-to-1-year-olds-death-in-police-shooting-thumbnail.jpg"
-    },
-    {
-      "id": "96e7288763adfb8e",
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-      "summary": "The Iguazú Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs.",
-      "source": "NPR",
-      "published": "2026-10-22T13:50:55+00:00",
-      "image": null
-    },
-    {
-      "id": "f4c87515e6993786",
-      "title": "US jobless claims fell to 194,000 last week, lowest since July",
-      "link": "https://abcnews.com/US/wireStory/us-jobless-claims-fell-194000-week-lowest-july-137473790",
-      "summary": "U.S. unemployment claims fell to 194,000 last week, the fewest in three months and another sign that layoffs remain low and most Americans enjoy extraordinary job security",
-      "source": "ABC News",
-      "published": "2026-10-22T13:50:13+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_8e962dcdefefa86ebc91ee9c663f1f3b_4x3_384.jpg"
-    },
-    {
-      "id": "cdd065be88304ae2",
-      "title": "Hazardous fumes still leaking from Toledo chemical tank",
-      "link": "https://www.cbsnews.com/video/hazardous-fumes-still-leaking-from-toledo-chemical-tank/",
-      "summary": "Dangerous fumes are still spewing from a venting chemical tank in Toledo, Ohio, that leaked on Tuesday, forcing some residents to evacuate. Lana Zak reports.",
-      "source": "CBS News",
-      "published": "2026-10-22T13:49:43+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/10607e7b-f6e7-4735-a649-1c005c0e5cbb/thumbnail/1200x630/38f0e462414f609388facd6b2e413e0c/cbsn-fusion-hazardous-fumes-still-leaking-from-toledo-chemical-tank-thumbnail.jpg"
-    },
-    {
-      "id": "47439551261d1fbb",
-      "title": "Warren warns of \"food insecurity crisis\" from SNAP cuts and prices",
-      "link": "https://www.cbsnews.com/news/elizabeth-warren-snap-cuts-food-insecurity/",
-      "summary": "Sen. Elizabeth Warren is urging the U.S. Department of Agriculture to reverse cuts to the food-stamp program as consumers shoulder $22 billion in additional food costs.",
-      "source": "CBS News",
-      "published": "2026-10-22T13:48:49+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/05/a7159357-392c-4c41-93e1-b4a7ba0bd8f8/thumbnail/1200x630/732758c59691b7353b40569e81222d4c/gettyimages-1470350052.jpg"
-    },
-    {
-      "id": "06630a4334b04636",
-      "title": "New import rule to block prescriptions for millions in U.S.",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/customs-prescription-import-rule-delayed/2471792674583/",
-      "summary": "Customs and Border Protection has delayed enacting a new policy that would block more affordable prescription drug imports for millions of people.",
-      "source": "UPI",
-      "published": "2026-10-22T13:37:06+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/2471792674583/2026/upi/63146016e52c24bbeae9171757fabaaf/v1.2/New-import-rule-to-block-prescriptions-for-millions-in-US.jpg"
-    },
-    {
-      "id": "8c7758c95532fe51",
-      "title": "Violent Arizona storms bring possible tornado, toppled trees and golf ball-size hail",
-      "link": "https://abcnews.com/US/wireStory/violent-arizona-storms-bring-tornado-toppled-trees-golf-137472242",
-      "summary": "A possible tornado has caused significant damage in a central Arizona community, with trees falling onto homes and utility poles knocked down",
-      "source": "ABC News",
-      "published": "2026-10-22T13:30:52+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_2fe815b7570812ad0f2cb4278379e185_4x3_384.jpg"
-    },
-    {
-      "id": "4c9e48835122f27e",
-      "title": "Closing arguments set in trial of man accused of killing UNC student in 2012",
-      "link": "https://abcnews.com/US/wireStory/closing-arguments-set-trial-man-accused-killing-unc-137466434",
-      "summary": "Closing arguments are expected in the trial of a man accused of killing a North Carolina college student 14 years ago",
-      "source": "ABC News",
-      "published": "2026-10-22T13:30:39+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_4d0509019cfa53e807842582fb848ea3_4x3_384.jpg"
-    },
-    {
-      "id": "7b21c0ed8ea01e45",
-      "title": "Fighter jets intercept plane over South Carolina during Trump rally",
-      "link": "https://www.cbsnews.com/news/fighter-jets-intercept-plane-over-south-carolina-during-trump-rally/",
-      "summary": "Fighter jets intercepted a plane that entered restricted airspace over Clemson, South Carolina, on Wednesday, as President Trump spoke at a rally there, military officials said.",
-      "source": "CBS News",
-      "published": "2026-10-22T13:30:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/20/7a168de5-ecb6-4df7-9f5d-e7656fda4e98/thumbnail/1200x630/9faf55047f5e81075d929c4902e59dc3/f-16-screenshot-2026-05-20-092941.png"
-    },
-    {
-      "id": "6b3aa4cd802369e6",
-      "title": "AI discovered a software vulnerability that could impact 70% of websites worldwide. The rush is on to patch it",
-      "link": "https://www.pbs.org/newshour/nation/ai-discovered-a-software-vulnerability-that-could-impact-70-of-websites-worldwide-the-rush-is-on-to-patch-it",
-      "summary": "Governments and corporations worked throughout the night to update software.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-22T12:51:30+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2025-02-03T184046Z_1382953068_RC24NCATZLRT_RTRMADP_3_USA-TRUMP-FBI-1024x652.jpg"
-    },
-    {
-      "id": "2573eedb542aae90",
-      "title": "This teacherless school says AI can teach students in 2 hours a day",
-      "link": "https://www.cbsnews.com/news/alpha-school-ai-teaching-2-hour-a-day/",
-      "summary": "Alpha Schools says its AI-based instruction and focus on developing \"life skills\" set students up for success. Some experts say it's too good to be true.",
-      "source": "CBS News",
-      "published": "2026-10-22T12:30:34+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/4e407fa6-f550-401d-8a48-797804fa193f/thumbnail/1200x630/ff8ec3838676f4ff2dcc388084d17604/screenshot-2026-10-21-at-4-53-00-pm.png"
-    },
-    {
-      "id": "0e876e9237b8580b",
-      "title": "Injured Bend, Oregon, teacher tried to shut classroom door during school shooting before playing dead",
-      "link": "https://www.foxnews.com/us/injured-bend-oregon-teacher-tried-shut-classroom-door-during-school-shooting-before-playing-dead",
-      "summary": "A Silver Rail Elementary teacher described being shot at close range and pretending to be dead as the Bend, Oregon, school shooting unfolded.",
-      "source": "Fox News",
-      "published": "2026-10-22T12:27:27+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Becky-Drury-Bend-shooting.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "59327903f0b1b43d",
-      "title": "How Maine voters feel about the high-stakes Senate election",
-      "link": "https://www.pbs.org/newshour/politics/how-maine-voters-feel-about-the-high-stakes-senate-election",
-      "summary": "The state is both fired up by this big race and exhausted by its avalanche of ads.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-22T12:26:24+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-08T200453Z_181266698_RC26ZNABHJSD_RTRMADP_3_USA-ELECTION-MAINE-1024x672.jpg"
-    },
-    {
-      "id": "e2a9060f083570c2",
-      "title": "John Anderson, country music Hall of Famer, dies at 71",
-      "link": "https://www.cbsnews.com/news/john-anderson-dies-age-71-country-music-hall-of-famer/",
-      "summary": "John Anderson, a country music Hall of Famer with a distinctive voice, died on Wednesday, his family said. He was 71 years old.",
-      "source": "CBS News",
-      "published": "2026-10-22T12:22:26+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/22/44d3f6db-6bab-4144-8dbb-da3369aa62ca/thumbnail/1200x630g2/396072033a97fe791e8f3bab0e32337b/gettyimages-694705190.jpg"
-    },
-    {
-      "id": "9ec753b1fa63f241",
-      "title": "Texas mom charged with manslaughter after allegedly driving 82 mph in crash that killed 2 recent college grads",
-      "link": "https://www.foxnews.com/us/texas-mom-charged-manslaughter-allegedly-driving-82-mph-crash-killed-2-recent-college-grads",
-      "summary": "Aldrea Rogers was allegedly driving 82 mph in a 35 mph zone when she crashed into a car carrying two Southern Methodist University graduates.",
-      "source": "Fox News",
-      "published": "2026-10-22T12:00:47+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/dallas-crash-split.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "9f4703492fdfb99c",
-      "title": "El-Sayed, Rogers spar over Trump, guns in fiery debate and more top headlines",
-      "link": "https://www.foxnews.com/us/el-sayed-rogers-spar-over-trump-guns-fiery-debate-more-top-headlines",
-      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "source": "Fox News",
-      "published": "2026-10-22T11:54:50+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/Rogers-Sayed.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "4342afdc42838e79",
-      "title": "Facing a ban on horse-drawn carriages, Central Park's drivers fear for livelihoods",
-      "link": "https://abcnews.com/US/wireStory/facing-ban-horse-drawn-carriages-central-parks-drivers-137466218",
-      "summary": "The horse-drawn carriages that have cruised through Central Park for more than 150 years are set to be banished soon from New York City, winding down a tradition beloved by tourists but long opposed by animal welfare activists",
-      "source": "ABC News",
-      "published": "2026-10-22T11:38:14+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_f7eab7520c041c4763f1913cf56e606b_4x3_384.jpg"
-    },
-    {
-      "id": "b38537a24a362208",
-      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "summary": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
-      "source": "NPR",
-      "published": "2026-10-22T11:28:24+00:00",
-      "image": null
-    },
-    {
-      "id": "8650aad76a713803",
-      "title": "Georgia town's entire full-time police force, city manager resign amid allegations against mayor",
-      "link": "https://www.foxnews.com/us/georgia-town-entire-full-time-police-force-city-manager-resign-amid-allegations-mayor",
-      "summary": "Milner, Georgia&apos;s entire full-time police force and city manager resigned, with Police Chief Lamar Bunn accusing city hall of tracking his truck.",
-      "source": "Fox News",
-      "published": "2026-10-22T11:00:19+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Milner.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "55b9a07e64ecf775",
-      "title": "Rep. Ilhan Omar says she will move from her Washington, DC, home after federal search",
-      "link": "https://abcnews.com/US/wireStory/rep-ilhan-omar-move-washington-dc-home-after-137466504",
-      "summary": "U.S. Rep. Ilhan Omar says she will move out of her Washington, D.C., home that federal agents searched last week",
-      "source": "ABC News",
-      "published": "2026-10-22T10:33:52+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_21e4b07a2c3a18addc751e4535f2954f_4x3_384.jpg"
-    },
-    {
-      "id": "ea35adfbe536dfe7",
-      "title": "Dog the Bounty Hunter hunted Max Factor heir Andrew Luster to Mexico in 2003, now serial rapist is free",
-      "link": "https://www.foxnews.com/us/dog-bounty-hunter-hunted-max-factor-heir-andrew-luster-mexico-2003-serial-rapist-free",
-      "summary": "Dog the Bounty Hunter speaks out as convicted rapist and Max Factor heir Andrew Luster walks free after Prop 57 slashed his 124-year sentence.",
-      "source": "Fox News",
-      "published": "2026-10-22T10:00:00+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Dog-the-Bounty-Hunter-Andrew-Luster-split.png?ve=1&tl=1"
-    },
-    {
-      "id": "f2d3bc3b01447ffc",
-      "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-      "summary": "Sitting at a desk all day hurts. And it isn't good for us. Strategies to make it a little more comfortable, from eye muscle exercises to alleviate eye strain to a back pain-fighting body movement.",
-      "source": "NPR",
-      "published": "2026-10-22T09:01:00+00:00",
-      "image": null
-    },
-    {
-      "id": "4092b1be34aefbae",
-      "title": "Trump merchandise stores are closing: 'He has peaked'",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-      "summary": "At least four Trump merchandise stores have closed this year. Store owners say with Trump in his final term, there isn't as much to fire up his consumer fan base and sales have softened.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "bb76303e4df46b75",
-      "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
-      "summary": "Republican U.S. Rep. David Valadao is fighting for reelection in central California. 6 in 10 residents of his district are covered by Medicaid, which he voted to cut last year.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "4be86fe0b532eae2",
-      "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
-      "summary": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "09720ca8a1521ef0",
-      "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
-      "summary": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "443ac21316b31c3c",
-      "title": "See how Big Tech is transforming Spain's landscape",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-      "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "4f1891cd875b28a9",
-      "title": "Can a dream help you solve a problem? Here's how to try tonight",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6008129/dream-incubation-research-self-discovery",
-      "summary": "What can you learn from dreams and how can you remember them and steer them to the topics you wish to dream about. Allison Aubrey and A Martinez discuss the resurgance in dream research and how dreams are a tool for self-discovery.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "fa1de293bf566769",
-      "title": "Farm country has beef with Trump as midterms approach",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
-      "summary": "President Trump's attempts to bring beef prices down has potentially backfired politically in several key states.",
-      "source": "NPR",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "ae19d4f4c692adfb",
-      "title": "First New World screwworm case of current outbreak found in U.S. wild",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/New-World-screwworm-wildlife/3401792654304/",
-      "summary": "Federal and Texas officials on Wednesday confirmed the first known case of New World screwworm in U.S. wildlife during the current outbreak.",
-      "source": "UPI",
-      "published": "2026-10-22T08:27:55+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3401792654304/2026/upi/01adceeb66b0a587a1a08d279b595529/v1.2/First-New-World-screwworm-case-of-current-outbreak-found-in-US-wild.jpg"
-    },
-    {
-      "id": "1d4aa4683a43f965",
-      "title": "Pelosi latest to receive suspicious letter, others get 2nd mailings",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/Pelosi-others-receive-suspicious-letter/1281792650008/",
-      "summary": "Rep. Nancy Pelosi and a handful of other U.S. lawmakers said Wednesday that suspicious letters had been mailed to their offices.",
-      "source": "UPI",
-      "published": "2026-10-22T06:45:40+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/1281792650008/2026/upi/d808c87d5c20e309c109e44790fdcc90/v1.2/Pelosi-latest-to-receive-suspicious-letter-others-get-2nd-mailings.jpg"
-    },
-    {
-      "id": "055335316311cf2d",
-      "title": "Hail the size of golf balls pummels parts of Arizona as rare storm moves through the West",
-      "link": "https://abcnews.com/US/wireStory/hail-size-golf-balls-pummels-parts-arizona-rare-137462948",
-      "summary": "The National Weather Service has issued multiple warnings across parts of Arizona",
-      "source": "ABC News",
-      "published": "2026-10-22T06:18:19+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_cca9a495def940aaa1852ec728dc3241_4x3_384.jpg"
-    },
-    {
-      "id": "f1f320eaa0da64f0",
-      "title": "Fire forces evacuations at senior living facility in Mississippi",
-      "link": "https://abcnews.com/US/wireStory/fire-forces-evacuations-senior-living-facility-mississippi-137462857",
-      "summary": "A fire has devastated a senior living center in Mississippi, forcing the evacuation of over 100 residents",
-      "source": "ABC News",
-      "published": "2026-10-22T06:02:14+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_467383c2409eb3ce2473be96a9772d72_4x3_384.jpg"
-    },
-    {
-      "id": "daf95a9a03f1f2df",
-      "title": "Florida mayor charged with stealing COVID-19 business relief funds",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/Kissimee-mayor-arrested/3021792640608/",
-      "summary": "Kissimmee Mayor Eva Jacquelyn Espinosa was arrested on allegations that she stole tens of thousands of dollars in COVID-19 relief funds.",
-      "source": "UPI",
-      "published": "2026-10-22T05:47:23+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3021792640608/2026/i/17926471222026/v1.2/Florida-mayor-charged-with-stealing-COVID-19-business-relief-funds.jpg"
-    },
-    {
-      "id": "15869c9064f99ce2",
-      "title": "‘Looksmaxxing’ streamer known as Clavicular set to be arraigned on rape charge",
-      "link": "https://abcnews.com/US/wireStory/looksmaxxing-streamer-clavicular-set-arraigned-rape-charge-137461184",
-      "summary": "The &ldquo;looksmaxxing&rdquo; livestreamer known as Clavicular is set to be arraigned in Massachusetts on charges that he raped a 17-year-old girl at his family&rsquo;s Cape Cod home",
-      "source": "ABC News",
-      "published": "2026-10-22T04:42:04+00:00",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "e9af6b85e6a199ee",
-      "title": "Israeli forces detain New York congressional candidate in West Bank",
-      "link": "https://www.upi.com/Top_News/US/2026/10/22/brad-lander-israeli-military-west-bank/8421792595973/",
-      "summary": "New York City congressional candidate Brad Lander said he was detained in the occupied West Bank by the Israeli military while harvesting olives.",
-      "source": "UPI",
-      "published": "2026-10-22T04:25:54+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8421792595973/2026/upi/192802eb1b4387526095b1ea01af954c/v1.2/Israeli-forces-detain-New-York-congressional-candidate-in-West-Bank.jpg"
-    },
-    {
-      "id": "c80227129d2669af",
-      "title": "Candidates clash over Trump policies, Senate control in debate",
-      "link": "https://www.cbsnews.com/news/kansas-senate-debate-roger-marshall-adam-hamilton-2026/",
-      "summary": "GOP Sen. Roger Marshall and Pastor Adam Hamilton debated tariffs, war and high fuel prices, and also addressed the most controversial issues in each of their campaigns.",
-      "source": "CBS News",
-      "published": "2026-10-22T04:05:18+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/0a592a31-55a1-4ad7-88d9-c760b56d9fb7/thumbnail/1200x630g2/9823101eb6ffb8da5617cc262afcb48b/ap26295037014037.jpg"
-    },
-    {
-      "id": "1e035270360dd297",
-      "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference",
-      "link": "https://abcnews.com/US/wireStory/carney-trumps-tariffs-hurt-americans-us-embassy-alleges-137460523",
-      "summary": "Canadian Prime Minister Mark Carney says that U.S. President Donald Trump&rsquo;s tariffs have raised costs for American families and upended decades of trade as he unveiled a $6.2 billion plan to protect Canada&rsquo;s manufacturing heartland",
-      "source": "ABC News",
-      "published": "2026-10-22T03:43:14+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_a9b923802d5e2d5a37f0e213db91ef56_4x3_384.jpg"
-    },
-    {
-      "id": "301b098512da469f",
-      "title": "Abdul El-Sayed and Mike Rogers clash in final Michigan Senate debate",
-      "link": "https://www.cbsnews.com/news/final-michigan-senate-debate-abdul-el-sayed-mike-rogers/",
-      "summary": "Republican Mike Rogers and Democrat Abdul El-Sayed clashed onstage Wednesday during the second debate in the increasingly bitter Michigan Senate race.",
-      "source": "CBS News",
-      "published": "2026-10-22T03:17:47+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/22/b15a489e-656a-4818-9c4e-a6e024c2dd48/thumbnail/1200x630/1d0613aafb4879acfba840e0a4bbdaa6/gettyimages-2300813662.jpg"
-    },
-    {
-      "id": "f4349c43e4ef2df0",
-      "title": "Judge curbs DHS efforts to conduct sweeps for possible noncitizen voters",
-      "link": "https://www.cbsnews.com/news/judge-dhs-noncitizen-voters-ruling/",
-      "summary": "A federal judge ruled DHS's practice of knocking on doors and asking people about their immigration status — and whether they have voted in recent elections — likely violates the Voting Rights Act.",
-      "source": "CBS News",
-      "published": "2026-10-22T03:00:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/21/1abddba8-37c2-42be-9b6f-9307c8b7d7ac/thumbnail/1200x630/27078c641fe36ee0e8f2ab156c42758c/cbsn-fusion-armed-dhs-agents-knock-on-doors-in-search-for-possible-noncitizen-voters-thumbnail.jpg"
-    },
-    {
-      "id": "d93272f92cfbdea7",
-      "title": "DOJ accuses OSU Med of discriminating against White, Asian applicants",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/justice-department-Ohio-State-University-discrimination/1961792632842/",
-      "summary": "Federal lawyers accused Ohio State University's medical school of discriminating against White and Asian applicants.",
-      "source": "UPI",
-      "published": "2026-10-22T02:55:05+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/1961792632842/2026/upi/f96b99025789ab7e8f381493173a3551/v1.2/DOJ-accuses-OSU-Med-of-discriminating-against-White-Asian-applicants.jpg"
-    },
-    {
-      "id": "f8f1c5f4e36a6210",
-      "title": "Florida attorney accused of threatening to shoot ICE agents while trying to buy gun",
-      "link": "https://www.foxnews.com/us/florida-attorney-accused-threatening-shoot-ice-agents-while-trying-buy-gun",
-      "summary": "Attorney Lisa White allegedly asked about guns that could pierce bulletproof vests and threatened to shoot ICE agents in the head, federal authorities said.",
-      "source": "Fox News",
-      "published": "2026-10-22T01:32:11+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/lisa-white-arrest-ice-agents-threats-florida-attorney.png?ve=1&tl=1"
-    },
-    {
-      "id": "89de1d3c31ec82e7",
-      "title": "U.S. State Department orders some staff, families to leave Saudi Arabia",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/state-dept-orders-some-to-leave-saudi-arabia-embassy/4081792629838/",
-      "summary": "The U.S. State Department has ordered non-essential personnel and family members to leave its embassy in Saudi Arabia amid an increased Houthi threat.",
-      "source": "UPI",
-      "published": "2026-10-22T00:53:54+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4081792629838/2026/upi_com/c3edaf9c9398a9457e76ecf95f10fd66/v1.2/State-Department-orders-some-staff-families-to-leave-Saudi-Arabia.jpg"
-    },
-    {
-      "id": "a246df956966e875",
-      "title": "Teacher who survived Oregon school attack says she had no chance to protect children",
-      "link": "https://abcnews.com/US/wireStory/teacher-survived-oregon-school-attack-chance-protect-children-137460700",
-      "summary": "A teacher wounded in last week&rsquo;s attack on a special education classroom at an Oregon elementary school says she never had a chance to try to shelter any of the children inside",
-      "source": "ABC News",
-      "published": "2026-10-22T00:46:22+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_6ab17e5aee95b8644dd53bc616e73585_4x3_384.jpg"
-    },
-    {
-      "id": "10411cbb925f8096",
-      "title": "Trump administration drops legal fight to overhaul student loan forgiveness program",
-      "link": "https://abcnews.com/US/wireStory/trump-administration-drops-legal-fight-overhaul-student-loan-137461060",
-      "summary": "The Trump administration is moving to end its legal fight to overhaul a popular student loan forgiveness program",
-      "source": "ABC News",
-      "published": "2026-10-22T00:45:43+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_0e25878fbf2b6742131a93260164c63b_4x3_384.jpg"
-    },
-    {
-      "id": "abb23af3000f0975",
-      "title": "Man who halted runaway school bus credits \"Grey's Anatomy\" inspiration",
-      "link": "https://www.cbsnews.com/news/minnesota-man-runaway-school-bus-saint-paul-greys-anatomy/",
-      "summary": "A quick-thinking bystander came to the rescue of the students and driver aboard a runaway school bus in Saint Paul, Minnesota.",
-      "source": "CBS News",
-      "published": "2026-10-22T00:12:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/22/bffd269b-0a37-44ec-a324-b2e50786aeb8/thumbnail/1200x630/8e7a12eda25f0f2f06c5dc941ec8c6a2/1792627667616.png"
-    },
-    {
-      "id": "2b5570afe7755a01",
-      "title": "First case of New World screwworm found in U.S. wildlife, USDA says",
-      "link": "https://www.cbsnews.com/news/new-world-screwworm-wildlife-texas-elk-usda/",
-      "summary": "The New World screwworm was detected in an elk that was discovered on a game ranch in Pecos County, Texas.",
-      "source": "CBS News",
-      "published": "2026-10-22T00:01:18+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/07/25/fc964ebb-aa8b-420b-914c-e81ef34eceeb/thumbnail/1200x630/2bc23413c807fbad65f7ab714d0dc17d/new-world-screwworm.jpg"
-    },
-    {
-      "id": "0b8b15be5a41438d",
-      "title": "Video shows moments leading up to police fatally shooting toddler",
-      "link": "https://www.cbsnews.com/news/video-police-officer-fatally-shooting-toddler-mississippi-walmart/",
-      "summary": "The Mississippi attorney general announced the police officer will not be charged in connection with the killing of 1-year-old Kohen Wiley.",
-      "source": "CBS News",
-      "published": "2026-10-21T23:57:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/21/56274f05-f25f-4020-abb2-502d2f75182a/thumbnail/1200x630/e8834cd5d5c15a46e47e5b995386ba3a/ap26292692866767.jpg"
-    },
-    {
-      "id": "3df15745d3185577",
-      "title": "GM says it’s using AI to develop new cars, expanding in-car AI",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/GM-to-use-artificial-intelligence-to-develop-cars/4191792625037/",
-      "summary": "General Motors said Wednesday that it plans to use AI and new software to develop new vehicles in less time to better compete with China.",
-      "source": "UPI",
-      "published": "2026-10-21T23:32:26+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4191792625037/2026/upi/8922cb0dc1d440b5a30ab7f5ddd21487/v1.2/GM-says-its-using-AI-to-develop-new-cars-expanding-in-car-AI.jpg"
-    },
-    {
-      "id": "d797a9357d46c782",
-      "title": "Retired NYPD detective charged with murder in George Washington Bridge shooting of Con Ed worker: officials",
-      "link": "https://www.foxnews.com/us/retired-nypd-detective-charged-murder-george-washington-bridge-shooting-con-ed-worker-officials",
-      "summary": "Con Edison worker Koran Irvine was fatally shot on the George Washington Bridge before crashing into a median. A retired police officer was charged with murder.",
-      "source": "Fox News",
-      "published": "2026-10-21T23:01:22+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/man-shot-and-killed-on-gwb-7.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "c6ed286e4692b656",
-      "title": "American imprisoned by Russia released as Witkoff meets and praises Putin",
-      "link": "https://www.pbs.org/newshour/show/american-imprisoned-by-russia-released-as-witkoff-meets-and-praises-putin",
-      "summary": "Russia freed an American imprisoned for the last four years. Stephen Hubbard was captured in Eastern Ukraine and convicted of fighting against Russia. The 74-year-old retired teacher was reportedly freed without a swap. U.S. special envoy Steve Witkoff greeted Hubbard in St....",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:55:40+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/russia-1-1024x559.jpg"
-    },
-    {
-      "id": "5130a15e4ad97f78",
-      "title": "How Elon Musk gained so much power over U.S. security interests",
-      "link": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests",
-      "summary": "According to reports, Elon Musk ordered the slowdown of Ukraine's Starshield defense systems. Nick Schifrin reports, and Amna Nawaz discusses how the world's richest man gained such power over U.S. security interests with Charles Galbreath, a retired Air Force colonel who...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:50:42+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/musk-1-1024x683.jpg"
-    },
-    {
-      "id": "4df3d2380c37f391",
-      "title": "A company says its polls were fake. Here's what happened",
-      "link": "https://www.pbs.org/newshour/politics/a-company-says-its-polls-were-fake-heres-what-happened",
-      "summary": "A national polling organization revealed on Tuesday that the vast majority of its data had been fabricated, saying it was an \"experimental project to demonstrate the vulnerabilities\" of the modern political polling industry.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:50:18+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-14T100119Z_99246199_RC2IMHA45OMP_RTRMADP_3_USA-ELECTION-MIDTERMS-SCENARIOS-1024x683.jpg"
-    },
-    {
-      "id": "979ca029599c9b26",
-      "title": "News Wrap: Cybersecurity threat prompts scramble to protect websites around the world",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-cybersecurity-threat-prompts-scramble-to-protect-websites-around-the-world",
-      "summary": "In our news wrap Wednesday, a major cybersecurity threat prompted a scramble to protect websites around the world, 1,000 people were ordered to evacuate their homes in Toledo, Ohio, following a chemical tank explosion and the Supreme Court is blocking the Trump administration...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:45:30+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/php-1024x683.jpg"
-    },
-    {
-      "id": "1c24f0ca3df953f4",
-      "title": "Democratic and GOP strategists on the deeply personal attack ad in Ohio",
-      "link": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-the-deeply-personal-attack-ad-in-ohio",
-      "summary": "The campaign is in its final stretch and the attacks are getting increasingly personal. In Ohio, Republican gubernatorial candidate Vivek Ramaswamy's campaign is behind an ad featuring the estranged mother of his Democratic opponent, Amy Acton, disputing Acton's account of...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:40:49+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/vote-5-1024x724.jpg"
-    },
-    {
-      "id": "dd370d539ae54d5d",
-      "title": "How Idaho's abortion ban reshaped reproductive care and fueled a fight for change",
-      "link": "https://www.pbs.org/newshour/show/how-idahos-abortion-ban-reshaped-reproductive-care-and-fueled-a-fight-for-change",
-      "summary": "This November, voters in Virginia, Nevada, Missouri and Idaho will decide on the future of reproductive rights. In deeply red Idaho, a citizen-led initiative faces an uphill battle to restore some abortion rights. Special correspondent Sarah Varney reports on whether the...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:35:33+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/abortion-1024x576.jpg"
-    },
-    {
-      "id": "ae16bacfaf4eedb5",
-      "title": "A look at the major state ballot measures voters will decide in the midterms",
-      "link": "https://www.pbs.org/newshour/show/a-look-at-the-major-state-ballot-measures-voters-will-decide-in-the-midterms",
-      "summary": "Voters will weigh in on more than 140 ballot measures next month in 40 states. From abortion to voter ID to debates over transgender rights, the measures touch nearly every corner of the political debate. Republicans are counting on some of them to energize their base in a...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:30:07+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/ballot-1-1024x683.jpg"
-    },
-    {
-      "id": "d6663e600720b219",
-      "title": "Investigation finds hundreds of U.S. citizens detained by ICE",
-      "link": "https://www.pbs.org/newshour/show/investigation-finds-hundreds-of-u-s-citizens-detained-by-ice",
-      "summary": "California officials are calling for an investigation into the actions of federal immigration officers after they allegedly injured and detained a U.S. citizen. Ricardo Gonzalez's detainment comes as an investigation by ProPublica found that more than 500 citizens have been...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:25:35+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/detain-1024x683.jpg"
-    },
-    {
-      "id": "36bba91a7b560e9f",
-      "title": "Former GOP governor David Beasley says Trump's 'demeaning' rhetoric pushed him from party",
-      "link": "https://www.pbs.org/newshour/show/former-gop-governor-david-beasley-says-trumps-demeaning-rhetoric-pushed-him-from-party",
-      "summary": "David Beasley spent more than three decades as a Republican, serving as South Carolina's governor before leading Nobel Peace Prize-winning efforts at the U.N. World Food Programme. Recently, he announced that he's walking away from his party as he laments a rise in toxic...",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T22:20:12+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/partyYY-1024x576.jpg"
-    },
-    {
-      "id": "6a330047ca3ef39c",
-      "title": "Prosecutor says he'll seek death penalty for mom charged with murder in twins' deaths",
-      "link": "https://abcnews.com/US/wireStory/idaho-prosecutor-hell-seek-death-penalty-mom-charged-137457725",
-      "summary": "An Idaho prosecutor is seeking the death penalty against a woman charged with murder in the deaths of her twin toddlers last year",
-      "source": "ABC News",
-      "published": "2026-10-21T21:53:44+00:00",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "9dd25a3b93a81deb",
-      "title": "NFL welcomes a review of how Eagles handled Jalen Hurts' blood clots, Roger Goodell says",
-      "link": "https://www.pbs.org/newshour/nation/nfl-welcomes-a-review-of-how-eagles-handled-jalen-hurts-blood-clots-roger-goodell-says",
-      "summary": "The NFL welcomes an investigation into the Philadelphia Eagles' handling of Jalen Hurts' blood clots after the players' union asked for one, Commissioner Roger Goodell said Wednesday.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T21:49:13+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-11T193641Z_398305491_MT1USATODAY30058245_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-JACKSONVILLE-JAGUARS-1024x684.jpg"
-    },
-    {
-      "id": "6b16645937a6bda5",
-      "title": "Trump's political groups spend nearly $277 million in late midterm blitz on behalf of GOP candidates",
-      "link": "https://www.pbs.org/newshour/politics/trumps-political-groups-spend-nearly-277-million-in-late-midterm-blitz-on-behalf-of-gop-candidates",
-      "summary": "President Donald Trump's political groups have spent more than one-quarter of a billion dollars to bolster Republicans in the final stretch of this year's midterm elections, an unprecedented amount for a sitting president that underscores the stakes on Nov. 3.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T21:29:06+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T015822Z_1609449986_RC2D7OACOHGS_RTRMADP_3_USA-TRUMP-NORTHCAROLINA-1024x683.jpg"
-    },
-    {
-      "id": "5a53b91b26268a94",
-      "title": "Survey: Rising electricity bills stretch the finances of many Americans",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/rising-electricity-costs-strain-finances-consumer-reports-survey-says/5601792616345/",
-      "summary": "About three-fourths of Americans whose electricity bills have increased say that the costs have strained their finances, Consumer Reports said.",
-      "source": "UPI",
-      "published": "2026-10-21T21:09:43+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5601792616345/2026/upi_com/7f2ac7d32e3b2c83fb265aa94e9b4eb0/v1.2/Survey-Rising-electricity-bills-stretch-finances-of-many-Americans.jpg"
-    },
-    {
-      "id": "c7eefd4b5e3a0796",
-      "title": "Trump will speak at South Carolina midterm rally for Sen. Darline Graham as early voting begins",
-      "link": "https://www.pbs.org/newshour/politics/trump-will-speak-at-south-carolina-midterm-rally-for-sen-darline-graham-as-early-voting-begins",
-      "summary": "President Donald Trump will visit South Carolina on Wednesday to boost Graham, whose stumbles in her first campaign since replacing her late brother have Democratic voters hopeful — but not necessarily optimistic — that their candidate can break Republicans' grip on the state.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T21:02:53+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-08-22T004014Z_900294105_RC2C3NAIZ283_RTRMADP_3_USA-TRUMP-1024x710.jpg"
-    },
-    {
-      "id": "00e5cd87b58876a0",
-      "title": "Pope Leo's tests show he needs no further treatment for lung cancer, his doctors say",
-      "link": "https://www.pbs.org/newshour/politics/pope-leos-tests-show-he-needs-no-further-treatment-for-lung-cancer-his-doctors-say",
-      "summary": "Pope Leo XIV needs no further treatment for lung cancer after follow-up tests confirmed the disease was localized, the Vatican said in a statement Wednesday.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T20:44:10+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-21T084650Z_1742787229_RC2K7OAAUK8Y_RTRMADP_3_POPE-HEALTH-AUDIENCE-1024x683.jpg"
-    },
-    {
-      "id": "ff2359e3fcf66659",
-      "title": "WATCH LIVE: Gov. Scott, challenger Janoo face off in Vermont governor debate",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-gov-scott-challenger-janoo-face-off-in-vermont-governor-debate",
-      "summary": "Vermont Republican Gov. Phil Scott and Democratic challenger Amanda Janoo face off in a debate produced by Vermont Public.",
-      "source": "PBS NewsHour",
-      "published": "2026-10-21T20:36:17+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2025-06-16T184453Z_633900231_RC2S3FA0BYY1_RTRMADP_3_USA-CANADA-GOVERNORS-1024x683.jpg"
-    },
-    {
-      "id": "34e5ef95b9801bbf",
-      "title": "'Severe' vulnerability in common website code triggers global alarm",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/severe-vulnerability-common-website-code-triggers-global-alarm/6501792610949/",
-      "summary": "Cybersecurity experts issued a global alarm on Wednesday after researchers discovered a \"severe\" flaw in the most common website language.",
-      "source": "UPI",
-      "published": "2026-10-21T20:25:50+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6501792610949/2026/upi_com/42c9653cedfee0c4b989009c5ae4ce47/v1.2/Severe-vulnerability-in-common-website-code-triggers-global-alarm.jpg"
-    },
-    {
-      "id": "9c23776887d9a74d",
-      "title": "Meta ordered to pay $25 billion for sale of data",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/meta-25-billion-fine-data-sale/8371792611726/",
-      "summary": "A judge in New Mexico ordered Meta to pay $25 billion after a trial that found it lied to the public about how it handled Facebook user data.",
-      "source": "UPI",
-      "published": "2026-10-21T19:52:16+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8371792611726/2026/upi/f25972633e426ee2392548be833bc860/v1.2/Meta-ordered-to-pay-25-billion-for-sale-of-data.jpg"
-    },
-    {
-      "id": "68cc6d5dad1b2468",
-      "title": "FBI: ‘Incendiary device’ allegedly thrown at Atlanta ICE building",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/fbi-investigating-incendiary-device-ice-building-atlanta/7141792611566/",
-      "summary": "The FBI is investigating reports that someone threw an incendiary device at the U.S. Immigration and Customs Enforcement building in Atlanta.",
-      "source": "UPI",
-      "published": "2026-10-21T19:52:09+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7141792611566/2026/i/17926120978657/v1.2/FBI-Incendiary-device-allegedly-thrown-at-Atlanta-ICE-building.jpg"
-    },
-    {
-      "id": "50c5d726dae8c8c4",
-      "title": "Meta ordered to pay $25 billion to New Mexico in data privacy ruling",
-      "link": "https://www.cbsnews.com/news/meta-new-mexico-25-billion-privacy-ruling/",
-      "summary": "A jury found that the social media company had deceived consumers for years about its data privacy policies.",
-      "source": "CBS News",
-      "published": "2026-10-21T19:52:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/25/636e26c0-ad7b-4ed3-830c-84df7a8dd837/thumbnail/1200x630g3/b4fea2b473a3df7123bed0f2b8100382/cbsn-fusion-meta-launches-tamagotchi-style-ai-wearable-thumbnail.jpg"
-    },
-    {
-      "id": "ed5ba912130d1d65",
-      "title": "New Mexico AG files civil suit against Epstein estate's co-executors",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/New-Mexico-files-civil-suit-Epstein-estate-co-executors/5701792606245/",
-      "summary": "New Mexico's attorney general on Wednesday filed a lawsuit against two of Jeffrey Epstein's closest advisers as part of a probe of the \"Zorro Ranch.\"",
-      "source": "UPI",
-      "published": "2026-10-21T19:16:02+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5701792606245/2026/i/17926096277983/v1.2/New-Mexico-AG-files-civil-suit-against-Epstein-estates-co-executors.jpg"
-    },
-    {
-      "id": "286245ceb3d637e1",
-      "title": "Supreme Court declines Trump's case on prison transgender care",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/supreme-court-transgender-prisons/8731792607666/",
-      "summary": "The U.S. Supreme Court refused Wednesday to lift a lower court's order to allow gender-affirming care for transgender prisoners, with two dissents.",
-      "source": "UPI",
-      "published": "2026-10-21T18:56:48+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8731792607666/2026/upi/63226742117de2df7764a841792f6ebb/v1.2/Supreme-Court-declines-Trumps-case-on-prison-transgender-care.jpg"
-    },
-    {
-      "id": "68aa7c96bb88a859",
-      "title": "6 people arrested for allegedly running a marriage fraud ring, authorities say",
-      "link": "https://abcnews.com/US/wireStory/6-people-arrested-allegedly-running-marriage-fraud-ring-137454409",
-      "summary": "Federal prosecutors announced they have broken up a fraudulent marriage ring in Massachusetts that conducted dozens of bogus ceremonies with immigrants over the past decade and netted participant millions of dollars",
-      "source": "ABC News",
-      "published": "2026-10-21T18:30:38+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_fad81a94e479fe5faf96ce377eb4c401_4x3_384.jpg"
-    },
-    {
-      "id": "973c11c08326838b",
-      "title": "American woman masterminds $6 million marriage fraud scheme, Department of Justice says",
-      "link": "https://www.foxnews.com/us/american-woman-masterminds-6-million-marriage-fraud-scheme-department-justice",
-      "summary": "The Department of Justice accuses Jennifer Gonzalez of earning $6 million by arranging sham marriages for green cards over a decade in Massachusetts.",
-      "source": "Fox News",
-      "published": "2026-10-21T18:07:51+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/fake-marriage-preview.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "4ba55101bb867596",
-      "title": "Man dies in road rage shooting on NYC's George Washington Bridge",
-      "link": "https://www.upi.com/Top_News/US/2026/10/21/man-dies-road-rage-shooting-NYC-George-Washington-Bridge/7251792602545/",
-      "summary": "A man was killed during an apparent road rage shooting incident on the busy George Washington Bridge in New York City, police sources said Wednesday.",
-      "source": "UPI",
-      "published": "2026-10-21T17:55:55+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7251792602545/2026/i/17926044664079/v1.2/Man-dies-in-road-rage-shooting-on-NYCs-George-Washington-Bridge.jpg"
-    },
-    {
-      "id": "3d07c2b915ea8fdd",
-      "title": "Grandfather gunned down in road rage attack days after burying Air Force son; convicted murderer charged",
-      "link": "https://www.foxnews.com/us/grandfather-gunned-down-road-rage-attack-days-after-burying-air-force-son-convicted-murderer-charged",
-      "summary": "Surveillance video captures the deadly road rage confrontation that left grandfather Nelson Batista dead on a Bridgeport street after a scuffle.",
-      "source": "Fox News",
-      "published": "2026-10-21T17:18:54+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nelson-and-pierce-batista.png?ve=1&tl=1"
     }
   ]
 }
