@@ -1,6 +1,546 @@
 {
-  "last_updated": "2026-11-14T16:53:45.582710+00:00",
+  "last_updated": "2026-11-15T17:37:19.872527+00:00",
   "articles": [
+    {
+      "id": "5b125ce7a359791c",
+      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "link": "https://www.pbs.org/newshour/nation/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder",
+      "summary": "Throw in a few more examples just from Friday — a cruise ship that overturned in New Orleans when a tanker slammed into it, suspicious drones over a U.S. air base in Britain, a bomb found near an ethanol plant in Ohio.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-15T17:05:04+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T154754Z_1683874421_RC2PNOALDT26_RTRMADP_3_USA-FAA-GROUND-STOP-1024x683.jpg"
+    },
+    {
+      "id": "dd471f0749203960",
+      "title": "Judge temporarily blocks closing of historic D.C. golf course",
+      "link": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/",
+      "summary": "U.S. District Judge Ana Reyes ruled that the Trump administration cannot close East Potomac Park in Washington, D.C., for now.",
+      "source": "CBS News",
+      "published": "2026-11-15T17:03:40+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/30/38651af2-b1d5-4fd2-8af5-5b8c16c539ee/thumbnail/1200x630/6f8642d355ccd4297a3c0529a8e353e7/gettyimages-2301844335.jpg"
+    },
+    {
+      "id": "9760a68613c15653",
+      "title": "Ground stop shows \"we have to get off old network,\" Duffy says",
+      "link": "https://www.cbsnews.com/news/ground-stop-faa-telecom-network-sean-duffy-face-the-nation/",
+      "summary": "Transportation Secretary Sean Duffy said that \"we have to get off old network, old telecom\" after a telecommunication outage led to a nationwide ground stop on Friday.",
+      "source": "CBS News",
+      "published": "2026-11-15T16:52:34+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/15/86f90914-0f87-4e37-bfb7-2bf7919f981f/thumbnail/1200x630/21709bdc1f93cbb807ee396f50dd1e12/duffy-ftn.jpg"
+    },
+    {
+      "id": "2567bc5ee8034074",
+      "title": "Megaspeed says Alice Huang left in 2025 as company conducts internal probe over Nvidia fallout",
+      "link": "https://www.pbs.org/newshour/world/megaspeed-says-alice-huang-left-in-2025-as-company-conducts-internal-probe-over-nvidia-fallout",
+      "summary": "Megaspeed, which is under scrutiny over alleged transfers of advanced Nvidia chips to Chinese companies, also announced an internal investigation led by outside lawyers.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-15T16:48:48+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-15T100429Z_2002936799_RC2TKOADN7KK_RTRMADP_3_NVIDIA-CEO-ALICE-HUANG-MEGASPEED-1024x682.jpg"
+    },
+    {
+      "id": "04e075ced9bea5cd",
+      "title": "Judge temporarily blocks Trump's plan to close D.C. golf course",
+      "link": "https://www.upi.com/Top_News/US/2026/11/15/trump-potomac-golf-course/5141794759979/",
+      "summary": "A federal judge has issued a temporary order halting President Donald Trump's plans to shutter the East Potomac Golf Links.",
+      "source": "UPI",
+      "published": "2026-11-15T16:47:33+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5141794759979/2026/upi/fa703f084159b0f7f3d6f28c729d5da2/v1.2/Judge-temporarily-blocks-Trumps-plan-to-close-DC-golf-course.jpg"
+    },
+    {
+      "id": "eb3620fcc54820fa",
+      "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
+      "link": "https://www.pbs.org/newshour/politics/trump-breaks-silence-on-nationwide-ground-stop-and-demands-more-money-from-congress",
+      "summary": "The president has been conspicuously quiet on the ground stop since it began Friday afternoon, instead issuing statements on social media about completely different topics as frustrated passengers were left stranded at airports and his government scrambled with airlines to...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-15T16:32:43+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-09T225219Z_1495252227_RC2LKOAY4AZL_RTRMADP_3_USA-TRUMP-1-1024x730.jpg"
+    },
+    {
+      "id": "c5b9e8b33608a93c",
+      "title": "Judge temporarily blocks Trump from moving ahead on D.C. public golf course redevelopment",
+      "link": "https://www.pbs.org/newshour/politics/judge-temporarily-blocks-trump-from-moving-ahead-on-d-c-public-golf-course-redevelopment",
+      "summary": "U.S. District Judge Ana Reyes issued the temporary restraining order before the East Potomac Golf Links was due to close Sunday for 15 months.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-15T16:20:54+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T213717Z_119601667_RC2VNOAJSBVG_RTRMADP_3_USA-TRUMP-WASHINGTON-1024x683.jpg"
+    },
+    {
+      "id": "bd05388b7eeae87b",
+      "title": "Nature: Sea lions in La Jolla, Calif.",
+      "link": "https://www.cbsnews.com/video/nature-sea-lions-in-la-jolla-calif/",
+      "summary": "We leave you this Sunday morning in the company of sea lions who call the waters off La Jolla, Calif., their home. Videographer: Carl Mrozek.",
+      "source": "CBS News",
+      "published": "2026-11-15T15:30:15+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/4fc64335-f3cb-4786-9efa-ceff59dd3c21/thumbnail/1200x630/69efb7e2138254267b49a6fc2c98e41a/nature-sea-lions-la-jolla-1920.jpg"
+    },
+    {
+      "id": "4d52d347726d4acd",
+      "title": "2 planes collide while taxiing at Miami International Airport",
+      "link": "https://www.upi.com/Top_News/US/2026/11/15/miami-plane-collision/3331794754143/",
+      "summary": "Two airplanes collided while taxing on at Miami International Airport, injuring two people, county fire officials said.",
+      "source": "UPI",
+      "published": "2026-11-15T15:19:24+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3331794754143/2026/upi_com/ec2ee228c4655225a13adad81533f09b/v1.2/2-planes-collide-while-taxiing-at-Miami-International-Airport.jpg"
+    },
+    {
+      "id": "14d6f22b8cce98a1",
+      "title": "Here's how Jensen Huang's abrupt resignation unfolded at Nvidia",
+      "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-resignation-scandal-timeline/",
+      "summary": "Jensen Huang's shocking exit as CEO of Nvidia unspooled suddenly, yet signs of trouble had emerged much earlier.",
+      "source": "CBS News",
+      "published": "2026-11-15T14:52:34+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/18/a084bdef-9205-44c5-9f0f-0091dc91dae4/thumbnail/1200x630/228016c72b8fd238cdd6e65c95ee345d/gettyimages-2295116809.jpg"
+    },
+    {
+      "id": "94bd9aee5a0f6e7d",
+      "title": "Outcome of Alaska Senate race could take weeks to determine",
+      "link": "https://www.cbsnews.com/news/senate-race-unresolved-in-alaska-as-candidates-expect-weekslong-process/",
+      "summary": "The Senate race in Alaska, which has garnered widespread attention with two candidates named Dan Sullivan, remains in limbo.",
+      "source": "CBS News",
+      "published": "2026-11-15T14:39:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/31d11b80-cc53-4705-8036-5ca06b4ca5a7/thumbnail/1200x630/85de20397d29e8846ee9c9aeb092cacf/sullivan-peltola2.jpg"
+    },
+    {
+      "id": "319d949e5fc02dca",
+      "title": "The sinking of the SS United States",
+      "link": "https://www.cbsnews.com/video/the-sinking-of-the-ss-united-states/",
+      "summary": "Last Wednesday, the SS United States was sent to the bottom of the Gulf of Mexico, to become the largest artificial reef in the world.",
+      "source": "CBS News",
+      "published": "2026-11-15T14:28:07+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/14/a467104d-bde6-4152-b80a-32afb3b14579/thumbnail/1200x630/5c3431ae01f60478c59c46f3e4c6be97/sinking-of-ss-united-states-1920.jpg"
+    },
+    {
+      "id": "459e695e2f596a14",
+      "title": "Aiding veterans with the healing arts",
+      "link": "https://www.cbsnews.com/news/aiding-veterans-with-the-healing-arts/",
+      "summary": "With her in-person and virtual painting workshops and online tutorials, artist Mary Whyte teaches veterans to use art to deal with isolation and trauma through her \"watercolor boot camps.\"",
+      "source": "CBS News",
+      "published": "2026-11-15T14:27:09+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/0e6a5bfa-20ae-45ed-89ce-e34e08c8be3b/thumbnail/1200x630/0ad1ecb768d9bfa87622a52065be8b63/mary-whyte-painting-combat-boots-1280.jpg"
+    },
+    {
+      "id": "ee8e1fbae5f6ddba",
+      "title": "Aiding veterans with the healing arts",
+      "link": "https://www.cbsnews.com/video/aiding-veterans-with-the-healing-arts/",
+      "summary": "With her in-person and virtual painting workshops and online tutorials, artist Mary Whyte teaches veterans to use art to deal with isolation and trauma through her \"watercolor boot camps.\" Correspondent Martha Teichner reports on an arts program, now in 48 states, that helps...",
+      "source": "CBS News",
+      "published": "2026-11-15T14:26:07+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/a85fc98e-188a-4486-9c4f-6eaa48c20a71/thumbnail/1200x630/fa00ea34892f040d1d21efc6212f5135/mary-whyte-leads-art-class-for-veterans-1920.jpg"
+    },
+    {
+      "id": "a46570b181d2bc88",
+      "title": "\"November 1963\": Did the mob kill JFK?",
+      "link": "https://www.cbsnews.com/news/november-1963-did-the-mob-kill-jfk/",
+      "summary": "A new film posits that the Kennedy assassination was tied to a Chicago crime boss, Sam Giancana. Screenwriter Nicki Celozzi, actor John Travolta, and Giancana's daughter, Bonnie, discuss the mob's alleged connection to a murder that changed the world.",
+      "source": "CBS News",
+      "published": "2026-11-15T14:15:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/e979e597-2b5c-468d-b1ee-edae7acbdb70/thumbnail/1200x630/ff089624975a412bff3e0f869219a0e7/sam-giancana-1280-getty-515019936.jpg"
+    },
+    {
+      "id": "8a41ad0d7da4590b",
+      "title": "\"November 1963\": Did the mob kill JFK?",
+      "link": "https://www.cbsnews.com/video/november-1963-did-the-mob-kill-jfk/",
+      "summary": "A new film, \"November 1963,\" posits that the assassination of President John F. Kennedy was tied to a Chicago crime syndicate and its boss, Sam Giancana. Correspondent Lee Cowan talks with screenwriter Nicki Celozzi – Giancana's great-nephew – along with star John Travolta...",
+      "source": "CBS News",
+      "published": "2026-11-15T14:15:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/f314533e-62fc-439e-a563-386a9f1e7ab9/thumbnail/1200x630/98926b5968205d48e9e534747e6e7395/november-1963-dallas-ketchup.jpg"
+    },
+    {
+      "id": "9ffd5b93d2c6ecd0",
+      "title": "Virginia parents charged after house party draws hundreds of teens, fireworks and alleged underage drinking",
+      "link": "https://www.foxnews.com/us/virginia-parents-charged-house-party-hundreds-teens-fireworks-alleged-underage-drinking",
+      "summary": "Fairfax County police charged Lisa and Aubrey Vaughan after their 13-year-old sons&apos; small backyard party spiraled into a massive gathering with fireworks and crowds.",
+      "source": "Fox News",
+      "published": "2026-11-15T14:01:57+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lisa-aubrey-vaughan-home-bodycam.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "916326246b7cfff4",
+      "title": "OnlyFans model Courtney Clenney moved to new prison, listed as minimum custody inmate: records",
+      "link": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-moved-new-prison-listed-minimum-custody-inmate-records",
+      "summary": "Courtney Clenney is now minimum custody at a Florida prison. The National Domestic Violence Hotline offers help for those in abusive situations.",
+      "source": "Fox News",
+      "published": "2026-11-15T14:00:44+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/courtney-clenney-plea-deal-1.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "ff6099dd97269c47",
+      "title": "11/15: Sunday Morning",
+      "link": "https://www.cbsnews.com/video/111526-sunday-morning/",
+      "summary": "Hosted by Jane Pauley. Featured: Did the mob kill JFK?; U2 at 50; Billy Evans on \"You Can See Everything\"; author Min Jin Lee; artist Mary Whyte; and the history of the Macy's Thanksgiving Day Parade.",
+      "source": "CBS News",
+      "published": "2026-11-15T14:00:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/15/5f1bf9b9-796f-4595-8415-a767b6fa1d2d/thumbnail/1200x630/6ca79e157dda72a49eeab897ffc69d9b/sm-jane-pauley-1920.jpg"
+    },
+    {
+      "id": "3ebd129a5a472417",
+      "title": "Murders plunge in US cities as Americans reclaim their streets from thugs",
+      "link": "https://www.foxnews.com/us/murders-plunge-us-cities-americans-reclaim-streets-thugs",
+      "summary": "Major U.S. cities saw violent crime drop in 2026, with Tulsa, Oklahoma, leading homicide reductions at 71%, according to the MCCA report.",
+      "source": "Fox News",
+      "published": "2026-11-15T13:00:48+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/memphis-tennessee-national-guard-federal-trump_09.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "d65a21dcd2973cf8",
+      "title": "FAA says air travel should be back to normal Sunday after nationwide ground stop",
+      "link": "https://www.foxnews.com/us/faa-says-air-travel-should-be-back-normal-sunday-after-nationwide-ground-stop",
+      "summary": "FAA Administrator Bryan Bedford says the worst is over after the longest nationwide ground stop in 25 years disrupted around 15,000 flights.",
+      "source": "Fox News",
+      "published": "2026-11-15T12:36:46+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-ground-stop.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "84412ef8962285be",
+      "title": "'Purge'-masked suspect accused of killing college student at Halloween bash — before his sister helps nab him",
+      "link": "https://www.foxnews.com/us/purge-masked-suspect-accused-killing-college-student-halloween-bash-sister-helps-nab-him",
+      "summary": "Omar Perez&apos;s sister identified him using police photos and the family&apos;s Life360 app after the University of Colorado Boulder student&apos;s killing.",
+      "source": "Fox News",
+      "published": "2026-11-15T12:00:31+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Luca-Hanlon-killed-in-Boulder-Colorado.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "c03d37a246cea3b0",
+      "title": "Georgia O'Keeffe painting buried in NY apartment closet is going up for auction",
+      "link": "https://abcnews.com/US/wireStory/georgia-okeeffe-painting-buried-new-york-apartment-closet-138155231",
+      "summary": "Christie's estimates its value at $3 to $5 million.",
+      "source": "ABC News",
+      "published": "2026-11-15T11:47:59+00:00",
+      "image": "https://s.abcnews.com/images/Weird/wirestory_012fefc5ee4e8ce80fbb79ccf9a63189_4x3_384.jpg"
+    },
+    {
+      "id": "d7cee57b82393572",
+      "title": "Harvard scientist pushes back on NASA chief over mystery space object: 'It's not an asteroid'",
+      "link": "https://www.foxnews.com/us/harvard-scientist-pushes-back-nasa-chief-mystery-space-object-not-asteroid",
+      "summary": "Avi Loeb challenges NASA&apos;s Jared Isaacman, arguing 1998 KY26 is not an asteroid and could be a lost Soviet spacecraft from a failed Mars mission.",
+      "source": "Fox News",
+      "published": "2026-11-15T11:00:34+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/NASA-ASTEROID-ALERT-3.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "4cb816b70b9e27e4",
+      "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+      "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
+      "source": "NPR",
+      "published": "2026-11-15T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "753c312c78820212",
+      "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+      "summary": "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+      "source": "NPR",
+      "published": "2026-11-15T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "83e71fd2cba04153",
+      "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+      "source": "NPR",
+      "published": "2026-11-15T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "0df581a07556c795",
+      "title": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport, leaving 2 injured",
+      "link": "https://www.foxnews.com/us/ups-cargo-plane-copa-airlines-passenger-jet-collide-miami-airport-leaving-2-injured",
+      "summary": "A UPS Airlines cargo plane and a Copa Airlines passenger jet collided on the ground at Miami International Airport on Saturday night, leaving two people with minor injuries.",
+      "source": "Fox News",
+      "published": "2026-11-15T07:43:15+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ups-copa-airlines-miami-airport-collision.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "f5a163c8e35b2c10",
+      "title": "Oregon community suspects foul play when beloved shopkeeper disappears",
+      "link": "https://www.cbsnews.com/news/susan-phoenix-lane-fournier-mount-hood-oregon-murder-48-hours/",
+      "summary": "When Susan \"Phoenix\" Lane and her two dogs went missing from Welches, Oregon, in the foothills of Mount Hood, her friends and family suspected foul play almost immediately.",
+      "source": "CBS News",
+      "published": "2026-11-15T07:05:03+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/adf81817-996c-426d-bb91-1583b57c0a2e/thumbnail/1200x630/19bececbd4d331795530eca98c604c67/lane-fornier-full.jpg"
+    },
+    {
+      "id": "6b01c4cc7e180c61",
+      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+      "link": "https://abcnews.com/US/wireStory/broken-grounded-jets-microsoft-outage-ai-chaos-make-138153827",
+      "summary": "After the Silicon Valley chaos spurred by reports of an AI billionaire's affair with a suspected Chinese spy and the Microsoft outage that upended millions of workers' days, Friday's air travel ground stop across the U.S. had many people feeling that s...",
+      "source": "ABC News",
+      "published": "2026-11-15T06:29:27+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_ea5f7a1f95a38f65dd57e58cfc17672b_4x3_384.jpg"
+    },
+    {
+      "id": "ce3f5de2de8d59c5",
+      "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+      "link": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown",
+      "summary": "Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.",
+      "source": "Fox News",
+      "published": "2026-11-15T04:55:51+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/staten-island-dirt-bike-riders-attack-suv.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "ae3d031c38405105",
+      "title": "Richard Sterban, member of the celebrated country and gospel group The Oak Ridge Boys, dies at 83",
+      "link": "https://abcnews.com/US/wireStory/richard-sterban-member-celebrated-country-gospel-group-oak-138150336",
+      "summary": "Richard Sterban, the bass vocalist of the Grammy-award winning gospel quartet The Oak Ridge Boys and a country music hall of famer, has died",
+      "source": "ABC News",
+      "published": "2026-11-15T04:43:31+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_7ce375c4abe7d252d39b60bd59fcad90_4x3_384.jpg"
+    },
+    {
+      "id": "f1f4355ad1f78180",
+      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+      "summary": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
+      "source": "NPR",
+      "published": "2026-11-15T04:28:45+00:00",
+      "image": null
+    },
+    {
+      "id": "d0179601d3cd9f59",
+      "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+      "link": "https://abcnews.com/US/wireStory/judge-temporarily-blocks-trump-moving-ahead-washington-public-138150527",
+      "summary": "A federal judge has ordered a two-week delay to any work at a historic Washington public golf course not far from the White House",
+      "source": "ABC News",
+      "published": "2026-11-15T03:25:05+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_df0f89f28f2a216faf09b3d63cdb6f9a_4x3_384.jpg"
+    },
+    {
+      "id": "779dd73a10abdbb2",
+      "title": "How Trump administration responded to FAA ground stop",
+      "link": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/",
+      "summary": "President Trump was informed within 30 minutes after the Federal Aviation Administration imposed a nationwide ground stop Friday afternoon, according to U.S. officials.",
+      "source": "CBS News",
+      "published": "2026-11-15T03:16:17+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/15/2ae4d056-3f2b-4a69-97fc-d21f31da9442/thumbnail/1200x630/5e910d3e9f6ee82aa39e487a6c26d750/gettyimages-2304597953.jpg"
+    },
+    {
+      "id": "76ce8c97c97567b1",
+      "title": "Incoming Democratic congressman faces sexual harassment investigation",
+      "link": "https://www.upi.com/Top_News/US/2026/11/14/house-democrats-poindexter/3141794705914/",
+      "summary": "House Democrats are investigating allegations that newly elected Ohio Rep. Brian Poindexter sexually harassed a female campaign worker.",
+      "source": "UPI",
+      "published": "2026-11-15T02:34:17+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3141794705914/2026/upi/d8befd8471dec5ace2c4e9fb635f07dc/v1.2/Incoming-Democratic-congressman-faces-sexual-harassment-investigation.jpg"
+    },
+    {
+      "id": "6661ab766b74c042",
+      "title": "FAA ground stop disrupts college football",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+      "summary": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.",
+      "source": "NPR",
+      "published": "2026-11-15T01:13:59+00:00",
+      "image": null
+    },
+    {
+      "id": "36f44cd608c4d358",
+      "title": "SpaceX catches Starship at launch tower for first time",
+      "link": "https://www.upi.com/Top_News/US/2026/11/14/spacex-starship-upper-stage/1201794703333/",
+      "summary": "SpaceX caught its Starship spacecraft at its launch tower, the first time the company has recovered the upper stage of a rocket after a flight.",
+      "source": "UPI",
+      "published": "2026-11-15T00:58:24+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1201794703333/2026/upi/bdb55dd1b31ff7c1129a669d2f64745c/v1.2/SpaceX-catches-Starship-at-launch-tower-for-first-time.jpg"
+    },
+    {
+      "id": "080e45c3b8f37f65",
+      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+      "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
+      "source": "NPR",
+      "published": "2026-11-15T00:03:52+00:00",
+      "image": null
+    },
+    {
+      "id": "06e85f9f1932e7dc",
+      "title": "Trump to meet Putin, Xi in China for historic nuclear arms talks",
+      "link": "https://www.upi.com/Top_News/US/2026/11/14/trump-putin-xi-nuclear-disarmament-summit/4581794700102/",
+      "summary": "President Donald Trump will meet presidents Vladimir Putin of Russia and Xi Jinping of China for an unprecedented nuclear disarmament summit.",
+      "source": "UPI",
+      "published": "2026-11-14T23:56:05+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4581794700102/2026/upi/7f9e7cf713bcceacf19a7b1bc820f6d0/v1.2/Trump-to-meet-Putin-Xi-in-China-for-historic-nuclear-arms-talks.jpg"
+    },
+    {
+      "id": "4a5385d38b9a6db6",
+      "title": "Man featured in viral YouTube video sentenced in $27M fraud scheme",
+      "link": "https://www.upi.com/Top_News/US/2026/11/14/DOJ-fraud-scheme-elderly-youtube/5791794697290/",
+      "summary": "A man featured in a viral YouTube video confronting scammers was sentenced to nearly seven years in prison for his role in a $27 million fraud scheme.",
+      "source": "UPI",
+      "published": "2026-11-14T23:08:50+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5791794697290/2026/upi/f96b99025789ab7e8f381493173a3551/v1.2/Man-featured-in-viral-YouTube-video-sentenced-in-27M-fraud-scheme.jpg"
+    },
+    {
+      "id": "a0aa0c4afefdbe92",
+      "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+      "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+      "source": "NPR",
+      "published": "2026-11-14T22:48:38+00:00",
+      "image": null
+    },
+    {
+      "id": "ebc15781aae3fb12",
+      "title": "Why a problem on the ground can affect flights thousands of miles away among other issues",
+      "link": "https://www.pbs.org/newshour/nation/why-a-problem-on-the-ground-can-affect-flights-thousands-of-miles-away-among-other-issues",
+      "summary": "Michael McCormick, a former airspace manager with the Federal Aviation Administration, said it could take days for airlines — many of which had to divert flights — to resume normal operations after officials lifted the grounding order.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T22:35:29+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-13T223954Z_964924157_RC29NOADCA0W_RTRMADP_3_USA-FAA-GROUND-STOP-1024x683.jpg"
+    },
+    {
+      "id": "b4661fce0d188754",
+      "title": "US has lost measles elimination status, global health authorities say",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+      "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+      "source": "NPR",
+      "published": "2026-11-14T22:15:02+00:00",
+      "image": null
+    },
+    {
+      "id": "6068a48e390673e7",
+      "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+      "link": "https://www.pbs.org/newshour/science/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first",
+      "summary": "It was the grand finale that Elon Musk and his team hoped for — the first-ever capture of a Starship flying back from space. But with the first-stage booster exploding shortly after Friday's liftoff from Texas, the company fell short of its desired double catch.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T21:56:15+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T212916Z_181005512_RC2XNOANPI19_RTRMADP_3_SPACE-SPACEX-STARSHIP-1024x683.jpg"
+    },
+    {
+      "id": "5069998f2f2a8404",
+      "title": "SpaceX successfully catches Starship and makes history",
+      "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+      "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+      "source": "NPR",
+      "published": "2026-11-14T21:42:41+00:00",
+      "image": null
+    },
+    {
+      "id": "be56ed35dc2b3049",
+      "title": "With shifting Iran rhetoric following U.S. elections, Trump leaves Middle East in limbo about path ahead",
+      "link": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead",
+      "summary": "Trump's tonal shifts have only added to the uncertainty about what comes next in a war in which America's allies were not consulted before it was started but nonetheless struggle to deal with its economic ramifications.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T21:17:42+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-12T182407Z_1857986260_RC2SLOAX1152_RTRMADP_3_USA-TRUMP-VANCE-1024x683.jpg"
+    },
+    {
+      "id": "e4f8f7153de09915",
+      "title": "At least 100 people pulled from Mississippi River after New Orleans ship crash as lengthy salvage effort looms",
+      "link": "https://www.foxnews.com/us/100-people-pulled-mississippi-river-new-orleans-ship-crash-salvage-effort",
+      "summary": "Officials say roughly 100 people were pulled from the Mississippi River after the Atlantic Asphalt tanker struck the docked American Heritage cruise ship in New Orleans on Friday.",
+      "source": "Fox News",
+      "published": "2026-11-14T21:13:55+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "eee1b70b8c0b82c2",
+      "title": "The U.S. flu season is off to a very early start. It's hitting the South and West now",
+      "link": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now",
+      "summary": "The Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven states were reporting high flu activity last week, up from two states the week before.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T21:02:19+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-23T023423Z_1699652224_RC2IONAPKSDB_RTRMADP_3_HEALTH-VACCINES-1024x683.jpg"
+    },
+    {
+      "id": "56a6cc29ac9268fd",
+      "title": "New Orleans port sues tanker owner for $1M after cruise ship crash",
+      "link": "https://www.upi.com/Top_News/US/2026/11/14/new-orleans-port-lawsuit-allision-mississippi-river/5521794689275/",
+      "summary": "The Port of New Orleans filed a lawsuit seeking more than $1 million in damages after a tanker struck a docked cruise ship on the Mississippi River.",
+      "source": "UPI",
+      "published": "2026-11-14T21:02:15+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5521794689275/2026/i/17946897885611/v1.2/New-Orleans-port-sues-tanker-owner-for-1M-after-cruise-ship-crash.jpg"
+    },
+    {
+      "id": "aa1844c792605cb5",
+      "title": "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin",
+      "summary": "European leaders have stressed that decisions about the continent's security must be made by Europeans themselves, warning against allowing Russia to dictate the terms of a new security order or negotiate NATO's future.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T20:23:29+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T121933Z_736231130_RC2MMOA2ZLD4_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TALKS-1024x683.jpg"
+    },
+    {
+      "id": "169f5055864424c9",
+      "title": "Bomb found at Peoria, Ill., ethanol plant, area evacuated",
+      "link": "https://www.upi.com/Top_News/US/2026/11/14/illinois-peoria-ethanol-plant-bomb/1341794687314/",
+      "summary": "A bomb was found near an ethanol plant in Peoria, Ill., forced residents within a mile radius to evacuate, local authorities said.",
+      "source": "UPI",
+      "published": "2026-11-14T20:19:23+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1341794687314/2026/upi_com/7dd788bf42dc11507b78429ee3ab7a6f/v1.2/Bomb-found-at-Peoria-Ill-ethanol-plant-area-evacuated.jpg"
+    },
+    {
+      "id": "c988f4658f117594",
+      "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+      "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+      "summary": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating.",
+      "source": "NPR",
+      "published": "2026-11-14T20:12:34+00:00",
+      "image": null
+    },
+    {
+      "id": "d2f94a1e0fe397f0",
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "link": "https://www.pbs.org/newshour/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river",
+      "summary": "The lawsuit, filed by the Board of Commissioners of the Port of New Orleans, said the Atlantic Asphalt tanker caused at least $1 million in damage to its terminal. A judge issued a warrant Friday giving federal officials control of the ship for now.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T20:09:17+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26317811762198-1024x687.jpg"
+    },
+    {
+      "id": "bce928c1c2a48bf5",
+      "title": "Dramatic video shows river boats colliding",
+      "link": "https://www.cbsnews.com/video/dramatic-video-shows-river-boats-colliding/",
+      "summary": "All aboard were accounted for after a cargo tanker crashed into a river cruise in New Orleans. CBS News' Skyler Henry reports.",
+      "source": "CBS News",
+      "published": "2026-11-14T20:02:36+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/049c0507-bddc-4976-bc45-1e70817ef959/thumbnail/1200x630/14029bfa24c7a2af82f8b89f8703cec4/cbsn-fusion-dramatic-video-shows-river-boats-colliding-thumbnail.jpg"
+    },
+    {
+      "id": "0cc8ed0f537a3e83",
+      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
+      "link": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
+      "summary": "The ballot measure, decided as part of the Nov. 3 election, marked the second time in two years that voters have rejected attempts to overturn the system and revert to partisan primaries and to general elections in which just one candidate can be selected.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T18:43:07+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-10T184842Z_1547031684_RC2PKOA0J8AL_RTRMADP_3_USA-ELECTION-ALASKA-1024x683.jpg"
+    },
+    {
+      "id": "85dec92cc2705b56",
+      "title": "What to know about flights after the U.S. nationwide ground stop",
+      "link": "https://www.pbs.org/newshour/nation/what-to-know-about-flights-after-the-u-s-nationwide-ground-stop",
+      "summary": "The longest flight stoppage in 25 years ended around 8:15 p.m. ET Friday, allowing some domestic flights to take off from U.S. airports. Officials expected a full recovery by Sunday.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T18:32:01+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T154424Z_806448108_RC2ONOAFAWZ0_RTRMADP_3_USA-FAA-GROUND-STOP-1024x683.jpg"
+    },
+    {
+      "id": "f0a1f5aef72dc04f",
+      "title": "Democrats try out a strange new emotion at post-midterms What's Next conference: hope",
+      "link": "https://www.pbs.org/newshour/politics/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope",
+      "summary": "Democrats spent two days chewing over their future at the What's Next conference and trying to deal with the fact that it looks, for a moment at least, quite bright.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T18:19:50+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-13T185232Z_1589062479_RC25NOAQ8WCF_RTRMADP_3_USA-ELECTION-DEMOCRATS-1024x683.jpg"
+    },
+    {
+      "id": "7a242c5af9551624",
+      "title": "U.S. gives states another 6 months before they have to remove people from Medicaid for not working",
+      "link": "https://www.pbs.org/newshour/health/u-s-gives-states-another-6-months-before-they-have-to-remove-people-from-medicaid-for-not-working",
+      "summary": "The administration clarified that while states still have the option to take action at the beginning of the year, they won't have to kick anyone off or deny coverage for failure to meet the requirement until July 1.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-14T18:05:33+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-15T203629Z_183796446_RC2W3OAFNBZ7_RTRMADP_3_USA-VANCE-1024x683.jpg"
+    },
+    {
+      "id": "568ec95bdb439ab2",
+      "title": "Port of New Orleans sues tanker that hit riverboat cruise for $1 million",
+      "link": "https://www.cbsnews.com/news/port-of-new-orleans-sues-tanker-riverboat-crash/",
+      "summary": "The port asked a judge to seize and sell the tanker that hit a riverboat cruise to cover the costs of repairs.",
+      "source": "CBS News",
+      "published": "2026-11-14T17:56:43+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/ba59891d-9b26-4381-beee-7a4c061e552d/thumbnail/1200x630/a8ff6a119e1e5074c24511a98627c543/ap26317811767503.jpg"
+    },
     {
       "id": "5f7f78e2fde5215f",
       "title": "Travelers stranded, flights canceled after ground stop. Here's what we know",
@@ -4815,420 +5355,6 @@
       "source": "UPI",
       "published": "2026-11-08T21:27:02+00:00",
       "image": "https://cdnph.upi.com/ph/st/th/1921794172211/2026/upi/31e9b921866270828427956a61a25f53/v1.2/Trump-says-attacks-on-Iran-highly-unlikely-if-talks-show-progress.jpg"
-    },
-    {
-      "id": "ab240c5c1385e972",
-      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-      "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
-      "source": "NPR",
-      "published": "2026-11-08T16:46:15+00:00",
-      "image": null
-    },
-    {
-      "id": "178753a0405db6fa",
-      "title": "Israel's president formally gives Eisenkot the first chance to form the next government",
-      "link": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government",
-      "summary": "At the ceremony in Jerusalem, Eisenkot said he wanted a leadership that people can trust, that will act in the interests of the public and that represents all parts of society.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-08T16:32:35+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-08T152711Z_1495882503_RC2RJOABUZV7_RTRMADP_3_ISRAEL-POLITICS-1024x683.jpg"
-    },
-    {
-      "id": "2750aa3feb24597d",
-      "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-      "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
-      "source": "NPR",
-      "published": "2026-11-08T16:30:16+00:00",
-      "image": null
-    },
-    {
-      "id": "8ad25979eb617d90",
-      "title": "2 shootings at Winston-Salem State during homecoming weekend leave 1 dead",
-      "link": "https://abcnews.com/US/wireStory/police-2-shootings-winston-salem-state-homecoming-weekend-137952526",
-      "summary": "It is too early to tell whether the shootings were connected, police say.",
-      "source": "ABC News",
-      "published": "2026-11-08T15:54:27+00:00",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "ebb52444fb37a52b",
-      "title": "Israel’s president officially gives opposition leader Gadi Eisenkot the first chance to form the next government",
-      "link": "https://abcnews.com/US/wireStory/israels-president-officially-opposition-leader-gadi-eisenkot-chance-137954791",
-      "summary": "Israel&rsquo;s president officially gives opposition leader Gadi Eisenkot the first chance to form the next government",
-      "source": "ABC News",
-      "published": "2026-11-08T15:37:09+00:00",
-      "image": "https://s.abcnews.com/images/International/wirestory_bec07675825bee5895315e2ea1cb5751_4x3_384.jpg"
-    },
-    {
-      "id": "d021594cfdc2c3d6",
-      "title": "Nature: Fall colors in Texas",
-      "link": "https://www.cbsnews.com/video/nature-fall-colors-in-texas/",
-      "summary": "We leave you this Sunday in the peace and quiet of the Lost Maples State Natural Area in Vanderpool, Texas. Videographer: Scot Miller.",
-      "source": "CBS News",
-      "published": "2026-11-08T15:30:19+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/08/d4d14866-80f9-4d55-8a3c-2e0c55e4e8d7/thumbnail/1200x630/7c392ba2177188292b8f2ef1058f1010/nature-fall-colors-tx-1920.jpg"
-    },
-    {
-      "id": "32b1cd48218bb547",
-      "title": "Jon Meacham on the midterms and America's \"better angels\"",
-      "link": "https://www.cbsnews.com/video/jon-meacham-on-the-midterms-and-americas-better-angels/",
-      "summary": "Reflecting on this week's historic midterm elections, in which voters were asked to weigh in on whether our nation will maintain the ideals of equality, dignity, fair play, and the rule of law, historian Jon Meacham says that Americans overwhelmingly answered – and that...",
-      "source": "CBS News",
-      "published": "2026-11-08T15:14:02+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/08/38ffecc0-fb6e-4b7a-97b0-2072f8b5bbdd/thumbnail/1200x630/ba9461a61e69e06fc18f5c23aa554f9c/election-results-1920.jpg"
-    },
-    {
-      "id": "d76b6ecb5fb536b5",
-      "title": "Stephen Colbert accused of crossing Harvard picket line before event with Yo-Yo Ma cut short by alarm",
-      "link": "https://www.foxnews.com/us/stephen-colbert-accused-crossing-harvard-picket-line-event-yo-yo-ma-cut-short-alarm",
-      "summary": "Stephen Colbert and Yo-Yo Ma are accused of crossing the Harvard Graduate Students Union picket line before a fire alarm cut their event short.",
-      "source": "Fox News",
-      "published": "2026-11-08T15:12:19+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/stephen-colbert-montclair-film-festival.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "0d5fde50150fd8a0",
-      "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-      "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
-      "source": "NPR",
-      "published": "2026-11-08T15:07:15+00:00",
-      "image": null
-    },
-    {
-      "id": "48a639f2cf8e6271",
-      "title": "Love at long last: \"It was just a fluke\"",
-      "link": "https://www.cbsnews.com/video/love-at-long-last/",
-      "summary": "In Bay City, Michigan, 65-year-old Al Sager and 76-year-old Susan Guc were both content with being single their whole lives – committed to being uncommitted – until they both underwent heart procedures and were placed in the same cardiac rehab program. Steve Hartman reports...",
-      "source": "CBS News",
-      "published": "2026-11-08T14:59:11+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/08/d0fc8eb5-a8ac-492e-ae1a-dfe333751dd9/thumbnail/1200x630/780150162ec762b7aaba04ac9251ab5e/hartman-love-1920.jpg"
-    },
-    {
-      "id": "c18d22d62af855ac",
-      "title": "The SS United States and her final destination",
-      "link": "https://www.cbsnews.com/news/the-ss-united-states-and-her-final-destination/",
-      "summary": "She was the fastest ocean liner in history. But the jet age took the SS United States out of service, and she wound up docked in Philadelphia for nearly 30 years. Now, she's scheduled to be scuttled off Florida, to become the world's largest artificial reef.",
-      "source": "CBS News",
-      "published": "2026-11-08T14:34:30+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/06/e851ad26-380c-4c72-995f-9154f91c8a98/thumbnail/1200x630/bd5345442d0f1c2bf113f490ecb4aaa3/ss-united-states-docked-1280.jpg"
-    },
-    {
-      "id": "fadcb2acc4dc64db",
-      "title": "The SS United States and her final destination",
-      "link": "https://www.cbsnews.com/video/the-ss-united-states-and-her-final-destination/",
-      "summary": "She was the fastest ocean liner in history, widely known as America's flagship, and in her nearly two decades in service, the elegant SS United States carried four presidents, countless celebrities, and tens of thousands of happy voyagers. But the jet age took her out of...",
-      "source": "CBS News",
-      "published": "2026-11-08T14:33:19+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/08/4f30a582-486c-44dc-8062-3ca235c3568d/thumbnail/1200x630/bd5be6e4291b2a12da8e91731aa0d79f/ss-united-states-1920.jpg"
-    },
-    {
-      "id": "faf00a0e9e2bfd5e",
-      "title": "Floods bring rare relief to US Southwest reservoirs as Lake Powell rises 20 feet",
-      "link": "https://abcnews.com/US/wireStory/floods-bring-rare-relief-us-southwest-reservoirs-lake-137953612",
-      "summary": "Record rainfall in the U.S. Southwest is providing rare relief to the region's depleted reservoirs",
-      "source": "ABC News",
-      "published": "2026-11-08T14:14:20+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_a71ee754e28e2bb12a9687420ea1d5fb_4x3_384.jpg"
-    },
-    {
-      "id": "a7964b9695600dc4",
-      "title": "11/8: Sunday Morning",
-      "link": "https://www.cbsnews.com/video/110826-sunday-morning/",
-      "summary": "Hosted by Jane Pauley. Featured: Treating chronic pain; Dame Judi Dench; actress Julia Garner; singer Brandon Flowers; artist Rick Lowe; midterm elections aftermath; and the SS United States' final destination.",
-      "source": "CBS News",
-      "published": "2026-11-08T14:00:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/08/3fe9f549-a74a-43a1-9d56-7fcaa73c676f/thumbnail/1200x630/f3437bc92aee2467400ff4d1bc7c918f/sm-jane-pauley-110826.jpg"
-    },
-    {
-      "id": "35e424459a6f0cc2",
-      "title": "Blue Angels pilot removed from team for 'failing to uphold' standards, Navy says",
-      "link": "https://www.foxnews.com/us/blue-angels-pilot-removed-team-failing-uphold-standards-navy-says",
-      "summary": "Blue Angels pilot Scott Laux was removed for failing to uphold team standards, forcing the squadron to fly five jets at its Pensacola season finale.",
-      "source": "Fox News",
-      "published": "2026-11-08T13:29:58+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/scott-laux.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "bacf912e96708725",
-      "title": "Villa Vie Odyssey \"forever cruise\" residents want their ship back",
-      "link": "https://www.cbsnews.com/news/villa-vie-odyssey-forever-cruise-residents-want-ship-back/",
-      "summary": "Some residents of the Villa Vie Odyssey cruise are trying to reclaim the ship, which could potentially be auctioned off by its lender, CBS News has learned.",
-      "source": "CBS News",
-      "published": "2026-11-08T13:28:03+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/095c34b6-bf66-4e62-8d72-a93fc14c0e83/thumbnail/1200x630/26c2fcd9b342262a0700d494b4076f25/cbsn-fusion-forever-cruise-passengers-unpack-lifetime-deal-gone-wrong-thumbnail.jpg"
-    },
-    {
-      "id": "365b0b345ac14114",
-      "title": "ICE unlikely to scale back crackdown, sources say, citing Stephen Miller",
-      "link": "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/",
-      "summary": "The Trump administration is unlikely to scale back its aggressive crackdown on illegal immigration following the results of the midterm elections, multiple U.S. officials told CBS News, citing the elevation of Stephen Miller as White House chief of staff.",
-      "source": "CBS News",
-      "published": "2026-11-08T13:10:19+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/08/f3829ed2-f67b-4272-8ba0-fc5a518f5632/thumbnail/1200x630/8e01bcea744ce6f11a164b90634a0431/gettyimages-2302591065.jpg"
-    },
-    {
-      "id": "aeff839105c4143d",
-      "title": "Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims",
-      "link": "https://www.foxnews.com/us/killers-chewing-gum-blows-open-40-year-old-murders-detective-warns-there-may-be-more-victims",
-      "summary": "Mitchell Gaff admitted to six rapes during state evaluations, yet a court later freed him. DNA evidence now ties him to two 1984 Everett murders.",
-      "source": "Fox News",
-      "published": "2026-11-08T12:00:48+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mitchell-gaff-and-victims.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "0db791887a11c41e",
-      "title": "Alexander brothers allegedly paid for coverage of sex-trafficking trial as writers deny favorable treatment",
-      "link": "https://www.foxnews.com/us/alexander-brothers-allegedly-paid-coverage-sex-trafficking-trial-writers-deny-favorable-treatment",
-      "summary": "The Alexander brothers each received 30 years in prison, but allegations that they paid journalists for favorable trial coverage add a new twist.",
-      "source": "Fox News",
-      "published": "2026-11-08T11:00:33+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alon-oren-alexander-miami-florida-court_03.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "dbc8cba8fba8cac8",
-      "title": "Climate change is altering the colors we see in the world: an illustrated journey",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
-      "summary": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature.",
-      "source": "NPR",
-      "published": "2026-11-08T11:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "1649fd65c3aad216",
-      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-      "summary": "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth.",
-      "source": "NPR",
-      "published": "2026-11-08T11:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "08cac028d81e43b4",
-      "title": "In Maine, a new approach to practicing medicine in the sky",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
-      "summary": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
-      "source": "NPR",
-      "published": "2026-11-08T11:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "d2b2603025dca63c",
-      "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-      "summary": "Republicans made gains with young voters in 2024, but in this year's midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead.",
-      "source": "NPR",
-      "published": "2026-11-08T10:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "5b8f18b7955fd3a1",
-      "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-      "link": "https://abcnews.com/US/wireStory/staff-us-center-ai-safety-reporting-white-house-137950879",
-      "summary": "The tiny U.S. government division charged with assessing the safety of new artificial intelligence offerings doesn&rsquo;t have a permanent leader and has stopped publishing its research",
-      "source": "ABC News",
-      "published": "2026-11-08T08:41:22+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_d3318eb2cf011df53e9ddb3e03d25f13_4x3_384.jpg"
-    },
-    {
-      "id": "fc8b9f966699944a",
-      "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "summary": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
-      "source": "NPR",
-      "published": "2026-11-08T07:35:29+00:00",
-      "image": null
-    },
-    {
-      "id": "15ab011c33f1eb18",
-      "title": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
-      "link": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home",
-      "summary": "Austin Payne&apos;s mother tracked his cellphone to an abandoned Albany, Georgia, residence after the 15-year-old called to say he had been shot.",
-      "source": "Fox News",
-      "published": "2026-11-08T05:02:35+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/austin-payne-albany-georgia-homicide.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "08547677651a2330",
-      "title": "1 dead, at least a dozen hurt after car strikes cyclists in North Carolina",
-      "link": "https://www.cbsnews.com/news/driver-crashes-into-cyclists-north-carolina/",
-      "summary": "One person was killed and at least a dozen others injured when a driver suspected of being impaired struck a group of more than 40 cyclists in North Carolina, authorities said.",
-      "source": "CBS News",
-      "published": "2026-11-08T03:14:48+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/1e6ae70f-612d-41a1-b745-833461941637/thumbnail/1200x630/9fa7b5a9697fa9583838ca3fae4125d0/police-lights-night.jpg"
-    },
-    {
-      "id": "0e157092ffe399ed",
-      "title": "Two experienced skydivers die after midair collision entangles their parachutes",
-      "link": "https://www.foxnews.com/us/two-experienced-skydivers-die-midair-collision-entangles-parachutes",
-      "summary": "The two skydivers collided midair at about 150 feet during an organized skydive in Southern California, entangling their parachutes.",
-      "source": "Fox News",
-      "published": "2026-11-08T02:13:43+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/person-skydives-dubai-tandem-instructor.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "6a9baa1230fc3cb6",
-      "title": "Trump says he offered UFC's Dana White the press secretary role",
-      "link": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
-      "summary": "The role of the White House press secretary has been largely vacant since Karoline Leavitt stepped aside ​in August.",
-      "source": "CBS News",
-      "published": "2026-11-08T02:09:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/07/a9386d32-05ef-4c2f-9d99-4b65ff694c6c/thumbnail/1200x630/1f24ef84158196830298bc883d2e2191/gettyimages-2288421032.jpg"
-    },
-    {
-      "id": "e6f32b7d44ef5365",
-      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-      "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
-      "source": "NPR",
-      "published": "2026-11-08T00:19:52+00:00",
-      "image": null
-    },
-    {
-      "id": "83ef721ae5b58c4d",
-      "title": "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
-      "link": "https://www.foxnews.com/us/ex-police-officer-accused-stabbing-nyc-jogger-death-appears-emotionless-new-photos",
-      "summary": "Sayed Mohassib was seen led away in handcuffs after being charged with second-degree murder in the stabbing death of Brooklyn jogger Katie Suarez.",
-      "source": "Fox News",
-      "published": "2026-11-08T00:00:18+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/nyc-perp-walk.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "073624c01c35d2a7",
-      "title": "DOJ clears Fox's $22B Roku acquisition after antitrust investigation",
-      "link": "https://www.upi.com/Top_News/US/2026/11/07/fox-roku-acquisition-DOJ/6881794094157/",
-      "summary": "The Justice Department closed its antitrust investigation into Fox Corp.'s $22 billion acquisition of streaming platform Roku, officials said Friday.",
-      "source": "UPI",
-      "published": "2026-11-07T23:36:10+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6881794094157/2026/upi/06d5b9f0308c52a2048f22a08ec495b8/v1.2/DOJ-clears-Foxs-22B-Roku-acquisition-after-antitrust-investigation.jpg"
-    },
-    {
-      "id": "6893e79edfb3a399",
-      "title": "2 skydivers killed after midair collision in Southern California",
-      "link": "https://www.upi.com/Top_News/US/2026/11/07/california-skydivers-midair-collision/5671794093114/",
-      "summary": "Two experienced skydivers were killed after colliding in midair during an event in Southern California, causing their parachutes to become tangled.",
-      "source": "UPI",
-      "published": "2026-11-07T23:21:51+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5671794093114/2026/upi/b6c747381d18cb7554bef7bed878a417/v1.2/2-skydivers-killed-after-midair-collision-in-Southern-California.jpg"
-    },
-    {
-      "id": "49ed3809a84054a4",
-      "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
-      "link": "https://www.pbs.org/newshour/world/what-is-diwali-the-festival-of-lights-and-how-is-it-celebrated",
-      "summary": "The festival follows the Hindu lunar calendar, typically falling in late October or early November. This year, Diwali falls on Nov. 8.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T23:01:43+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-06T152829Z_1343669324_RC2DIOA69HZH_RTRMADP_3_RELIGION-DIWALI-1024x698.jpg"
-    },
-    {
-      "id": "212301cf7c6ead03",
-      "title": "The surprising and often forgotten history of economic populism in Texas",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
-      "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
-      "source": "NPR",
-      "published": "2026-11-07T22:12:07+00:00",
-      "image": null
-    },
-    {
-      "id": "6d26b6c918791bb5",
-      "title": "Sen. Chris Murphy's stroke at 53 highlights a trend: Strokes among younger adults have risen",
-      "link": "https://www.pbs.org/newshour/health/sen-chris-murphys-stroke-at-53-highlights-a-trend-strokes-among-younger-adults-have-risen",
-      "summary": "Researchers found that the stroke incidence rate among adults from 1993-94 nearly doubled in 2020, jumping from 33.90 cases per 100,000 people to 62.18 cases.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T21:14:44+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-07-21T214657Z_1393787467_RC2LIMAO9RYJ_RTRMADP_3_USA-BUDGET-CONGRESS-1024x683.jpg"
-    },
-    {
-      "id": "5526bd619bad142b",
-      "title": "Trump offers press secretary job to Dana White: 'Please take the job!'",
-      "link": "https://www.upi.com/Top_News/US/2026/11/07/trump-dana-white-press-secretary/4981794085048/",
-      "summary": "President Donald Trump announced on Truth Social Saturday that he offered the job of White House press secretary to Dana White, CEO of UFC.",
-      "source": "UPI",
-      "published": "2026-11-07T21:01:26+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4981794085048/2026/upi/a9cf67cb53d378d67a89555d8fa24834/v1.2/Trump-offers-press-secretary-job-to-Dana-White-Please-take-the-job.jpg"
-    },
-    {
-      "id": "51486d4dc93c6781",
-      "title": "Trump says he's asked UFC's Dana White to be his press secretary",
-      "link": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
-      "summary": "Trump's social media post about the offer came as his White House is in a period of major transition and struggling with his party's deep losses in Tuesday's midterm elections.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T20:55:40+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-06-15T010744Z_2007626504_RC20ULAPLEUP_RTRMADP_3_USA-250-TRUMP-UFC-1024x683.jpg"
-    },
-    {
-      "id": "e22278c6cbdb1a7f",
-      "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-      "link": "https://www.pbs.org/newshour/world/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
-      "summary": "Neither Eisenkot nor Netanyahu won a clear majority in the vote. But in marathon discussions with the president this week, representatives from most of Israel's main parties recommended Eisenkot be tasked with assembling a new government.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T20:39:08+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-07T195302Z_326741202_RC2ZBOA2W47E_RTRMADP_3_ISRAEL-ELECTION-1024x695.jpg"
-    },
-    {
-      "id": "ef57ca2c93ac8114",
-      "title": "Melania Trump and LSU announce a scholarship program for students who were in foster care",
-      "link": "https://www.pbs.org/newshour/politics/melania-trump-and-lsu-announce-a-scholarship-program-for-students-who-were-in-foster-care",
-      "summary": "Trump and LSU secured more than $7 million in private donations to create an endowment fund for the scholarships, the White House said.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T19:35:15+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-07T153048Z_1344753036_RC22JOAIF8MQ_RTRMADP_3_USA-TRUMP-MELANIA-1024x683.jpg"
-    },
-    {
-      "id": "f8c8604aa3e67c0c",
-      "title": "Judge wants former U.S. attorney to investigate whether the government misled her in Trump golf case",
-      "link": "https://www.pbs.org/newshour/politics/judge-wants-former-u-s-attorney-to-investigate-whether-the-government-misled-her-in-trump-golf-case",
-      "summary": "The administration plans to close the East Potomac Golf Course and park on Nov. 15 with the intention of constructing a \"World Class, championship-level golf course that is capable of hosting major events.\"",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T18:34:30+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-27T022603Z_1328661053_RC29BOAHGD0F_RTRMADP_3_USA-TRUMP-GOLF-LAWSUIT-1024x683.jpg"
-    },
-    {
-      "id": "5a9581759fdaf4d2",
-      "title": "With an ode to mate, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
-      "link": "https://www.pbs.org/newshour/world/with-an-ode-to-mate-pope-leo-urges-faithful-in-uruguay-to-build-bridges-of-fraternity-and-faith",
-      "summary": "More than 30,000 people — many from Uruguay but also from neighboring Argentina and Brazil — had registered in advance to attend the service. The Vatican said Saturday that another 10,000 had attended, despite the morning rain.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T18:14:13+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-07T141913Z_663689193_RC22JOACPIOI_RTRMADP_3_POPE-LATAM-URUGUAY-1024x683.jpg"
-    },
-    {
-      "id": "79899bdba10830d0",
-      "title": "Scott Colom and Black Mississippians stand on the cusp of Senate history as vote count stretches on",
-      "link": "https://www.pbs.org/newshour/politics/scott-colom-and-black-mississippians-stand-on-the-cusp-of-senate-history-as-vote-count-stretches-on",
-      "summary": "The state is still tallying ballots that could make Colom the first Black senator from this Deep South state since post-Civil War Reconstruction.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T17:54:01+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T061009Z_400192983_RC2NGOAD05HX_RTRMADP_3_USA-ELECTION-MISSISSIPPI-1024x683.jpg"
-    },
-    {
-      "id": "bff414d00301dab1",
-      "title": "In his words: Stephen Miller is an immigration hardliner and a bombastic critic of Democrats",
-      "link": "https://www.pbs.org/newshour/politics/in-his-words-stephen-miller-is-an-immigration-hardliner-and-a-bombastic-critic-of-democrats",
-      "summary": "An outspoken defender of President Donald Trump's most far-reaching goals to remake government going back to his 2016 run for president, Miller is known for his harsh language and unapologetic bombast.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T17:39:49+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-20T190333Z_813270169_RC277OAC9A0I_RTRMADP_3_USA-TRUMP-1024x682.jpg"
-    },
-    {
-      "id": "8030a7d17caee8af",
-      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and wounding 16",
-      "link": "https://www.pbs.org/newshour/world/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-      "summary": "The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city's Main Square. He was fascinated with far-right ideologies and held \"very radical views,\" Polish Interior Minister Marcin Kierwiński said at a news conference.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T17:21:59+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-07T160714Z_1117404640_RC23JOAAMWVH_RTRMADP_3_POLAND-SHOOTING-1024x683.jpg"
-    },
-    {
-      "id": "539928a64d4a2ff4",
-      "title": "Paraguay's ousted president charged with crimes linked to collapse of major bank",
-      "link": "https://www.pbs.org/newshour/world/paraguays-ousted-president-faces-prosecutors-after-his-removal-over-bank-collapse",
-      "summary": "Paraguayan prosecutors on Friday ordered the arrest of Peña and former Central Bank chief Carlos Carvallo as part of a criminal investigation into alleged breach of trust and other offenses tied to the collapse of Ueno Bank.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-07T17:10:20+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-07T161858Z_630688027_RC2ZIOAKY9OZ_RTRMADP_3_PARAGUAY-POLITICS-1024x773.jpg"
     }
   ]
 }
