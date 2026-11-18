@@ -1,6 +1,960 @@
 {
-  "last_updated": "2026-11-17T19:40:49.303729+00:00",
+  "last_updated": "2026-11-18T19:17:18.688443+00:00",
   "articles": [
+    {
+      "id": "fa49ce5038d061ad",
+      "title": "Former Penn State frat brother indicted by federal grand jury in cocaine trafficking scheme",
+      "link": "https://www.foxnews.com/us/former-penn-state-frat-brother-indicted-federal-grand-jury-cocaine-trafficking-scheme",
+      "summary": "Prosecutors say Agostino Abbatiello supplied cocaine to Penn State&apos;s Sigma Chi and Delta Upsilon fraternities, where pledges packaged drugs as initiation.",
+      "source": "Fox News",
+      "published": "2026-11-18T19:13:23+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/penn-state-cocaine-ring-fox-news_073.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "7836e2fd44f3dcff",
+      "title": "Trump expected to press Xi on Americans detained in China",
+      "link": "https://www.cbsnews.com/news/trump-xi-detained-americans/",
+      "summary": "President Trump is expected to again press Chinese President Xi Jinping to release two Americans wrongfully detained in China when the leaders meet, their families say.",
+      "source": "CBS News",
+      "published": "2026-11-18T19:08:52+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/d4d6d4ec-43ea-4ae1-a095-57013c500824/thumbnail/1200x630g2/4104e5e45dad6b81d46d27ce332382fa/gettyimages-2305197325.jpg"
+    },
+    {
+      "id": "8507bbc6aaac54ed",
+      "title": "Largest U.S. data centers use as much power as some countries",
+      "link": "https://www.cbsnews.com/news/hyperscale-data-centers-electricity-harvard-study/",
+      "summary": "Hyperscale data centers used almost 2% of all U.S. electricity between 2024 and 2025, a Harvard study shows.",
+      "source": "CBS News",
+      "published": "2026-11-18T19:05:01+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/23d4250d-f718-414e-a1f8-f1e72e01448c/thumbnail/1200x630/c1093ebe65e98c9771ba83b795459e55/gettyimages-885294104.jpg"
+    },
+    {
+      "id": "f03d67376796dfc3",
+      "title": "Voyager 1 is now a light-day from Earth. Here's what to know about NASA's longest-running mission",
+      "link": "https://www.pbs.org/newshour/science/voyager-1-is-now-a-light-day-from-earth-heres-what-to-know-about-nasas-longest-running-mission",
+      "summary": "It's the little space probe that could: Nearly 50 years after it was launched, NASA's Voyager 1 on Wednesday became the first human-made object to travel one light-day — or 16 billion miles — away from Earth.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T18:55:55+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/pia17462-1024x576.jpg"
+    },
+    {
+      "id": "6c12122742cae094",
+      "title": "Russian national accused of surveilling US tech company",
+      "link": "https://www.foxnews.com/us/russian-national-accused-surveilling-us-tech-company",
+      "summary": "Russian national Igor D&apos;iu was indicted for allegedly stalking Silicon Valley tech employees with tracking devices and fake IDs, the FBI says.",
+      "source": "Fox News",
+      "published": "2026-11-18T18:41:32+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/524/russian-flag.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "439340724dae13bf",
+      "title": "Company struggled to find location of outage during ground stop",
+      "link": "https://www.cbsnews.com/news/ground-stop-l3harris-system-outage/",
+      "summary": "It took several hours for contractor L3Harris to pinpoint the source of an outage that caused last Friday's nationwide ground stop​.",
+      "source": "CBS News",
+      "published": "2026-11-18T18:36:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/e4ac7be5-14be-4e28-8944-2e44f1fae37c/thumbnail/1200x630/8445d655139b7c4f1d050f9883ffe1d9/gettyimages-2304625891.jpg"
+    },
+    {
+      "id": "42ebc7dfbf8c6915",
+      "title": "\"No indication\" outages are related to cyberattacks, officials say",
+      "link": "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/",
+      "summary": "Officials are testifying at a House committee hearing on worldwide threats as a series of network outages, including Microsoft Outlook and several banking institutions, have rattled Americans.",
+      "source": "CBS News",
+      "published": "2026-11-18T18:35:28+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/d243d062-f4eb-491b-a95a-28cf49a9a466/thumbnail/1200x630/d018f8fd6ed600cbbe1abeaab89ec243/gettyimages-2305721900.jpg"
+    },
+    {
+      "id": "b3383cb598c609ff",
+      "title": "WATCH: Intelligence official pressed to explain cause of National Security Agency outage",
+      "link": "https://www.pbs.org/newshour/politics/watch-intelligence-official-pressed-to-explain-cause-of-national-security-agency-outage",
+      "summary": "Jay Clayton, the Trump administration's director of national intelligence, said Wednesday that recent computer systems service disruptions in the government and private sector are \"not a coordinated or state-sponsored attack.\"",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T18:29:47+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T154407Z_316510397_RC2FQOAH99RG_RTRMADP_3_USA-SECURITY-MULLIN-1024x683.jpg"
+    },
+    {
+      "id": "fa49c5213b60ae89",
+      "title": "What investors should know about Anthropic's unusual IPO",
+      "link": "https://abcnews.com/US/wireStory/investors-anthropics-unusual-ipo-138254440",
+      "summary": "When the stock of Anthropic begins trading for the first time later this week, it will be a big test not only for the company behind the Claude AI chatbot but also for the entire artificial-intelligence industry and for the U.S. stock market itself",
+      "source": "ABC News",
+      "published": "2026-11-18T18:21:58+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_40f0920738b6fea43d4049c995fb43a8_4x3_384.jpg"
+    },
+    {
+      "id": "f457f62a2a030bf3",
+      "title": "Cornyn blocks top Justice Department official nominated for judicial vacancy in Texas",
+      "link": "https://abcnews.com/US/wireStory/cornyn-blocks-top-justice-department-official-nominated-judicial-138255710",
+      "summary": "A senior outgoing Republican senator says he will block one of President Donald Trump&rsquo;s final judicial picks for a Texas court vacancy",
+      "source": "ABC News",
+      "published": "2026-11-18T18:21:53+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_29c80cad1197571cc3f5bb128023bf35_4x3_384.jpg"
+    },
+    {
+      "id": "7b210ba17598d788",
+      "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+      "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+      "source": "NPR",
+      "published": "2026-11-18T18:18:16+00:00",
+      "image": null
+    },
+    {
+      "id": "797b3025dfd8885b",
+      "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+      "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "summary": "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+      "source": "NPR",
+      "published": "2026-11-18T18:15:59+00:00",
+      "image": null
+    },
+    {
+      "id": "5aeebb6299af4504",
+      "title": "Hegseth meets with Venezuelan interim leaders in latest Trump Cabinet visit since Maduro's ouster",
+      "link": "https://www.pbs.org/newshour/world/hegseth-meets-with-venezuelan-interim-leaders-in-latest-trump-cabinet-visit-since-maduros-ouster",
+      "summary": "Secretary Pete Hegseth's visit comes at a time of uncertainty for Venezuelans regarding who will lead the nation in the coming months and years.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T18:11:28+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T173156Z_1719035241_RC2OWM5C705Q_RTRMADP_3_VENEZUELA-USA-1024x611.jpg"
+    },
+    {
+      "id": "18e70e277cb6c815",
+      "title": "Gamers, start your engines. Grand Theft Auto 6 is ready to roll.",
+      "link": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/",
+      "summary": "The latest, long-awaited version of the hit video game franchise launches at midnight local time on Nov. 19 in countries worldwide. Here's what to know about GTA 6.",
+      "source": "CBS News",
+      "published": "2026-11-18T17:48:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/ede4813c-a198-4ce6-a757-a4107c7923e4/thumbnail/1200x630/b5359d3c3694f74ef8b89af247d0203c/gettyimages-2305184473.jpg"
+    },
+    {
+      "id": "3d508c8d004ba17e",
+      "title": "Cincinnati Zoo says Fiona the hippo can't undergo surgery after swallowing a hat",
+      "link": "https://abcnews.com/US/wireStory/cincinnati-zoo-fiona-hippo-undergo-surgery-after-swallowing-138253735",
+      "summary": "Fiona the hippo underwent a colonoscopy this week after swallowing a knit hat at the Cincinnati Zoo",
+      "source": "ABC News",
+      "published": "2026-11-18T17:37:05+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_04bef9e3d2d89f6ba4260d4daabe5c13_4x3_384.jpg"
+    },
+    {
+      "id": "f2132b9df4971922",
+      "title": "Mother and son use video game to help feds find missing girl allegedly held captive by older man",
+      "link": "https://www.foxnews.com/us/mother-son-video-game-help-feds-find-missing-girl-allegedly-held-captive-older-man",
+      "summary": "A Colorado mom and son playing &quot;Among Us&quot; helped the FBI find Utah teen Kylie Arellano in Oregon 18 months later, leading to Adam Hunter Harmel&apos;s arrest.",
+      "source": "Fox News",
+      "published": "2026-11-18T17:30:45+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/video-came-conversation-credited-with-tracking-missing-girl-down-2.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "14e808a1622fd61b",
+      "title": "Anthropic's IPO set for blastoff this week in key test for AI boom",
+      "link": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/",
+      "summary": "Anthropic's stock is poised to start trading on Nasdaq Thursday in one of the largest IPOs of all time. The AI world is watching.",
+      "source": "CBS News",
+      "published": "2026-11-18T17:29:33+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/d1ab8358-5959-4be7-a195-8f045b25d238/thumbnail/1200x630/e7f559baa164229f5bdd776d12e0e408/gettyimages-2304538043.jpg"
+    },
+    {
+      "id": "85a6bb9787a6fff0",
+      "title": "House Democrats elect Hakeem Jeffries as speaker nominee",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/democrats-leadership-congress/2861795020897/",
+      "summary": "Democrats on Wednesday voted overwhelmingly to nominate Rep. Hakeem Jeffries to be the next speaker of the House.",
+      "source": "UPI",
+      "published": "2026-11-18T17:27:30+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2861795020897/2026/upi/6e349187b47b1f33d170aac3724a0d28/v1.2/House-Democrats-elect-Hakeem-Jeffries-as-speaker-nominee.jpg"
+    },
+    {
+      "id": "f25fb97c6d7ae188",
+      "title": "Senate Republicans advance FCC nominee despite Democrat boycott",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/danielle-thumann-severs/3601795021604/",
+      "summary": "Senate Commerce Committee Republicans voted to advance President Donald Trump's nominee to an FCC seat despite a Democratic boycott iof the meeting.",
+      "source": "UPI",
+      "published": "2026-11-18T17:18:26+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3601795021604/2026/upi/8124f57bbe51015a3abf86b279b642ee/v1.2/Senate-Republicans-advance-FCC-nominee-despite-Democrat-boycott.jpg"
+    },
+    {
+      "id": "6e540bfc907f1a19",
+      "title": "'Grand Theft Auto VI' arrives with enormous hype and expectations after 13-year wait",
+      "link": "https://www.pbs.org/newshour/arts/grand-theft-auto-vi-arrives-with-enormous-hype-and-expectations-after-13-year-wait",
+      "summary": "After a 13-year wait, one of entertainment's biggest releases is finally here.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T17:13:23+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T165235Z_1430372606_RC2FQOA1A7DR_RTRMADP_3_GAMING-GTA-VI-USA-1024x683.jpg"
+    },
+    {
+      "id": "384be566dea718d1",
+      "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "summary": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination.",
+      "source": "NPR",
+      "published": "2026-11-18T17:10:44+00:00",
+      "image": null
+    },
+    {
+      "id": "f66ea15bf3cf802c",
+      "title": "Top Dem sends letters to people close to Trump ahead of probes",
+      "link": "https://www.cbsnews.com/news/robert-garcia-letters-trump-house-oversight-and-government-reform-committee-investigations/",
+      "summary": "Rep. Robert Garcia, who is expected to chair the House Oversight Committee in the next Congress, sent letters to 12 people close to President Trump ahead of expected investigations into his second term.",
+      "source": "CBS News",
+      "published": "2026-11-18T16:59:32+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/29a3e6b8-2f88-4696-8971-a79f999acaf9/thumbnail/1200x630g2/904b1faf8bf3343ee87a17788d5a2dfb/gettyimages-2304170494.jpg"
+    },
+    {
+      "id": "64aed076eb8a71b9",
+      "title": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi",
+      "link": "https://www.pbs.org/newshour/world/trump-plans-to-meet-separately-with-putin-on-his-china-trip-in-addition-to-their-3-way-talks-with-xi",
+      "summary": "President Donald Trump plans to meet separately with Russian President Vladimir Putin on Thursday in China, in addition to their already scheduled three-way meeting with Chinese President Xi Jinping, a U.S. official confirmed.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T16:57:45+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T132731Z_1890202118_RC2BQOA4C91Q_RTRMADP_3_APEC-SUMMIT-1024x682.jpg"
+    },
+    {
+      "id": "b227c583eb8bd865",
+      "title": "Deep-sea mining auctions spark environmental concerns",
+      "link": "https://abcnews.com/US/wireStory/deep-sea-mining-auctions-spark-environmental-concerns-american-138253336",
+      "summary": "The Trump administration has taken a major step forward this year in promoting deep-sea mining by scheduling a series of auctions of the U.S. seafloor",
+      "source": "ABC News",
+      "published": "2026-11-18T16:54:10+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_d317c25ce85316b632b0369c9cce97a4_4x3_384.jpg"
+    },
+    {
+      "id": "292f8be90e6d59aa",
+      "title": "Jensen Huang to testify before Senate panel",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/jensen-huang-agrees-to-testify-before-senate-banking-committee/7721795018138/",
+      "summary": "Former Nvidia CEO Jensen Huang has agreed to testify before the Senate Banking Committee, Chairman Sen. Tim Scott, R-S.C., said Wednesday.",
+      "source": "UPI",
+      "published": "2026-11-18T16:45:06+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7721795018138/2026/upi_com/2526b97d84abf650bff8d92a45bde070/v1.2/Jensen-Huang-to-testify-before-Senate-panel.jpg"
+    },
+    {
+      "id": "5137f22955566e58",
+      "title": "Charlotte wants Iryna Zarutska murder lawsuit tossed, says it can’t be held responsible",
+      "link": "https://www.foxnews.com/us/charlotte-wants-iryna-zarutska-murder-lawsuit-tossed-says-cant-held-responsible",
+      "summary": "Charlotte argues governmental immunity shields its transit policing decisions as it asks a judge to toss Iryna Zarutska&apos;s family&apos;s wrongful-death lawsuit.",
+      "source": "Fox News",
+      "published": "2026-11-18T16:41:39+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/fatal-light-rail-stabbing-4.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "515d8cb5ef881c7d",
+      "title": "The Latest: Trump arrives in China, seeking to reinforce US's status as world’s leading tech power",
+      "link": "https://abcnews.com/US/wireStory/latest-trump-arrives-china-seeking-reinforce-uss-status-138248857",
+      "summary": "President Donald Trump has landed in China, aiming to reinforce the United States' status as a leading technology power",
+      "source": "ABC News",
+      "published": "2026-11-18T16:26:14+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_9994c430b2b12b16c03685b981c4830d_4x3_384.jpg"
+    },
+    {
+      "id": "4eda84067eee144b",
+      "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
+      "link": "https://abcnews.com/US/wireStory/muslims-projected-outnumber-christians-2035-worlds-largest-religion-138250007",
+      "summary": "The Pew Research Center has released new projections that show that Islam will surpass Christianity as the world's largest religion by 2035",
+      "source": "ABC News",
+      "published": "2026-11-18T16:26:10+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_870c21acd01fbbf728d94840da0464e7_4x3_384.jpg"
+    },
+    {
+      "id": "434469ee7c445b34",
+      "title": "Susan Smith's ex-husband wants her ‘in prison until she dies’ after killing sons in alleged bid to win lover",
+      "link": "https://www.foxnews.com/us/susan-smith-ex-husband-wants-prison-until-dies-after-killing-sons-alleged-bid-win-lover",
+      "summary": "David Smith says he wants Susan Smith to stay in prison until she dies for killing their sons as the South Carolina parole board weighs her request.",
+      "source": "Fox News",
+      "published": "2026-11-18T16:25:11+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Smith-1.png?ve=1&tl=1"
+    },
+    {
+      "id": "9e5ca66891206619",
+      "title": "Markwayne Mullin testifies before House Homeland Security Committee",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/markwayne-mullin-homeland-security-testimony/9831795017264/",
+      "summary": "Homeland Security Director Markwayne Mullin is testifying before Congress Wednesday morning about the status of global threats against the U.S.",
+      "source": "UPI",
+      "published": "2026-11-18T16:08:06+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9831795017264/2026/upi/e1d4eb9ba3bffc4a13fff0ccae9467b7/v1.2/Markwayne-Mullin-testifies-before-House-Homeland-Security-Committee.jpg"
+    },
+    {
+      "id": "b5704e0a6f8bce31",
+      "title": "Marco Rubio says recent U.S. outages not caused by 'systemic attack'",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/outages-Marco-Rubio-rules-out-systemic-attack/4421795009024/",
+      "summary": "Secretary of State Rubo said administration had \"zero evidence whatsoever\" that any of what he referred to as \"technical failures\" were orchestrated.",
+      "source": "UPI",
+      "published": "2026-11-18T16:04:04+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4421795009024/2026/upi_com/c213c8be1b63acf419bae228b6151713/v1.2/Marco-Rubio-says-recent-US-outages-not-caused-by-systemic-attack.jpg"
+    },
+    {
+      "id": "fc2541614de8c1f8",
+      "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+      "summary": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him.",
+      "source": "NPR",
+      "published": "2026-11-18T15:56:30+00:00",
+      "image": null
+    },
+    {
+      "id": "92c00cba3a9306fb",
+      "title": "Democrats nominate Hakeem Jeffries to become House speaker, a historic first",
+      "link": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first",
+      "summary": "Jeffries brushed past skeptics and was on track to make history as the nation's first Black American with the gavel.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T15:55:05+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T170707Z_1765523585_RC2SPOAI0JUV_RTRMADP_3_USA-CONGRESS-JEFFRIES-1024x683.jpg"
+    },
+    {
+      "id": "c34d6244d0b27726",
+      "title": "Woman describes confronting Rex Ryan after he allegedly hit her with truck",
+      "link": "https://www.cbsnews.com/news/rex-ryan-truck-nadia-michael-holland-hit-and-run/",
+      "summary": "Former New York Jets head coach Rex Ryan is facing several misdemeanor charges for allegedly striking a married couple with his truck.",
+      "source": "CBS News",
+      "published": "2026-11-18T15:52:47+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/637a623e-a3c5-417b-a8b3-289399064961/thumbnail/1200x630/b2c57b9640f86cb1d77e955b6d1b2d81/1795011757171.png"
+    },
+    {
+      "id": "0db9bf0ec0eb172c",
+      "title": "U.S.-Iran tensions hit highest point in months",
+      "link": "https://www.cbsnews.com/video/us-iran-tensions-hit-highest-point-in-months/",
+      "summary": "Tensions between the U.S. and Iran escalated Tuesday after the U.S. struck Iran's Qeshm Island in the Strait of Hormuz. Charlie D'Agata reports.",
+      "source": "CBS News",
+      "published": "2026-11-18T15:28:23+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/18/3073249c-03ee-4d3a-ac63-49c2f6d3c4a4/thumbnail/1200x630/a002bc229bc71b714ac265c3fb90fa4a/cbsn-fusion-us-iran-tensions-hit-highest-point-in-months-thumbnail.jpg"
+    },
+    {
+      "id": "95fc835ead7f01e6",
+      "title": "Father of NYC Marathon runner who died calls her death \"unfathomable\"",
+      "link": "https://www.cbsnews.com/news/rachel-apa-father-nyc-marathon-death/",
+      "summary": "Steve Apa, the father of the NYC Marathoner who died, said he didn't know how severe her condition was until it was too late.",
+      "source": "CBS News",
+      "published": "2026-11-18T15:16:01+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/03/ea1ab5d9-d545-4dab-83d8-6d52fb9dfaf9/thumbnail/1200x630/3b7c6dc6fee8e065c8b986bdf3e7f5dd/ramos-5p-pkg-runner-die-wcbsjis6-hi-res-still-00-00-2113.jpg"
+    },
+    {
+      "id": "e11d5af14ae74655",
+      "title": "Rachel Apa's family on how they're processing her \"unfathomable\" death and honoring her legacy",
+      "link": "https://www.cbsnews.com/video/rachel-apas-family-on-how-theyre-processing-her-unfathomable-death-and-honoring-her-legacy/",
+      "summary": "The family of Rachel Apa, the 24-year-old who collapsed with 2 miles left in the New York City Marathon and later died of rhabdomyolysis, sits down with \"CBS Mornings\" to talk about how they're processing her death and honoring her legacy.",
+      "source": "CBS News",
+      "published": "2026-11-18T15:12:52+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/606cfcba-fcaf-45c6-aeec-30ab57e56708/thumbnail/1200x630/c7d4b2f1dabcaff56f728fac90cbded3/cbsn-fusion-rachel-apas-family-on-how-theyre-processing-her-unfathomable-death-and-honoring-her-legacy-thumbnail.jpg"
+    },
+    {
+      "id": "07649b451b0bf06a",
+      "title": "House Democrats preparing to investigate administration leaders",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/house-democrats-letters-investigations/1061795013341/",
+      "summary": "House Democrats sent letters Wednesday to high-profile members of the Trump administration telling them to prepare for coming investigations.",
+      "source": "UPI",
+      "published": "2026-11-18T15:11:48+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1061795013341/2026/upi/1c215f59594d7eebaf27e45d0491b04d/v1.2/House-Democrats-preparing-to-investigate-administration-leaders.jpg"
+    },
+    {
+      "id": "833f161df16256f4",
+      "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+      "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+      "summary": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller.",
+      "source": "NPR",
+      "published": "2026-11-18T15:01:32+00:00",
+      "image": null
+    },
+    {
+      "id": "e19dfdad00f4c8dd",
+      "title": "WATCH: Mullin defends Trump administration's messaging on spate of outages, flight to football game during ground stop",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-dhs-secretary-mullin-testifies-on-worldwide-threats-amid-tech-outages-iran-warnings",
+      "summary": "The hearing in front of the House Homeland Security Committee is a standard yearly opportunity for members of Congress to grill top administration officials over national security threats. But it comes as the U.S. has faced a series of cyber and technology problems that have...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T14:56:22+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-18T153350Z_2032571731_RC2FQOA13I6V_RTRMADP_3_USA-SECURITY-MULLIN-1024x669.jpg"
+    },
+    {
+      "id": "a98dc8c4d9c5b459",
+      "title": "Pentagon's cut to military faith codes sparks religious freedom debate",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/pentagon-religious-affiliation-codes-constitution-hegseth-christian-nationalist/5941795011324/",
+      "summary": "The Pentagon has decreased the number of recognized religious affiliation, a move that has raised criticism for infringing on religious freedom.",
+      "source": "UPI",
+      "published": "2026-11-18T14:39:03+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5941795011324/2026/upi/fbc642b0b6a8f15de4fef2059d2fcb43/v1.2/Pentagons-cut-to-military-faith-codes-sparks-religious-freedom-debate.jpg"
+    },
+    {
+      "id": "0a799c1d92dfafbb",
+      "title": "Costco sees surge in panic buying after tech outages, report says",
+      "link": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
+      "summary": "Costco shoppers are stocking up on emergency items following a string of tech snafus, according to a Wall Street analyst.",
+      "source": "CBS News",
+      "published": "2026-11-18T14:37:36+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/06/d9065c3d-7fb1-4f50-a9b9-018b68fd857d/thumbnail/1200x630/157398f5fcd13795cac41971204c9c6d/gettyimages-2219499786-1.jpg"
+    },
+    {
+      "id": "a08243db493242f3",
+      "title": "Woman describes confronting Rex Ryan after car hit her and husband in alleged hit-and-run",
+      "link": "https://www.cbsnews.com/video/woman-describes-confronting-rex-ryan-after-car-hit-her-and-husband-in-alleged-hit-and-run/",
+      "summary": "The 911 call from the alleged hit-and-run incident involving ESPN analyst and former NFL coach Rex Ryan emerged on Tuesday. Tom Hanson reports.",
+      "source": "CBS News",
+      "published": "2026-11-18T14:27:04+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/92328415-3c0d-4ae7-8438-835287661622/thumbnail/1200x630/85f2c7140bd8d7991ab57b2f9b1f24cd/cbsn-fusion-woman-describes-confronting-rex-ryan-after-car-hit-her-and-husband-in-alleged-hit-and-run-thumbnail.jpg"
+    },
+    {
+      "id": "06b5ff9aa82ffd8e",
+      "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
+      "link": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan",
+      "summary": "The Alaska race was the last U.S. Senate contest to be resolved in this year's midterm elections and gave Democrats a 56-44 majority after they flipped nine GOP-held seats to retake the chamber.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-18T14:25:22+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T063858Z_1007818684_RC2UGOAP5FFW_RTRMADP_3_USA-ELECTION-ALASKA-1024x712.jpg"
+    },
+    {
+      "id": "9f74d7c9f970f19a",
+      "title": "Can Nvidia bounce back from Jensen Huang's scandal?",
+      "link": "https://www.cbsnews.com/video/can-nvidia-bounce-back-from-jensen-huangs-scandal/",
+      "summary": "Jensen Huang pitched his own return to Nvidia on Tuesday, while the board made it clear he won't be asked back. Kelly O'Grady reports.",
+      "source": "CBS News",
+      "published": "2026-11-18T14:20:11+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/394cf8bc-f01b-4599-9e5f-f74cb8f62fb2/thumbnail/1200x630/bdecd3f61d42a2363eda7c62500a1966/cbsn-fusion-can-nvidia-bounce-back-from-jensen-huangs-scandal-thumbnail.jpg"
+    },
+    {
+      "id": "553a19c458b40583",
+      "title": "Waymo pulls driverless taxis from freeways after California ban",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/california-bans-waymo-freeways/4251795009922/",
+      "summary": "California has barred Waymo autonomous taxis from its freeways after they were involved in at least two incidents in construction zones.",
+      "source": "UPI",
+      "published": "2026-11-18T14:04:50+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4251795009922/2026/upi/1e80aa5fdb1a1d41f00ed9462de369dc/v1.2/Waymo-pulls-driverless-taxis-from-freeways-after-California-ban.jpg"
+    },
+    {
+      "id": "6be9d68ba09b9b42",
+      "title": "Cloudflare CEO on what's behind recent tech outages",
+      "link": "https://www.cbsnews.com/video/cloudflare-ceo-on-whats-behind-recent-tech-outages/",
+      "summary": "Matthew Prince, the co-founder and CEO of Cloudflare, joins \"CBS Mornings\" to talk about what's behind the tech outages over the past week.",
+      "source": "CBS News",
+      "published": "2026-11-18T13:58:48+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/51e8be06-5f12-48c1-bbc3-9f13c0665458/thumbnail/1200x630/eff341f1ef6dd9e664411f9e610cd52d/cbsn-fusion-cloudflare-ceo-on-whats-behind-recent-tech-outages-thumbnail.jpg"
+    },
+    {
+      "id": "49b75ad6bbc8a445",
+      "title": "Nvidia says it will stop selling some data center chips to China",
+      "link": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/",
+      "summary": "Nvidia's sales to China are facing heightened scrutiny after revelations that former CEO Jensen Huang had a relationship with a suspected Chinese spy.",
+      "source": "CBS News",
+      "published": "2026-11-18T13:58:12+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/b5e7d604-22bc-462f-8c19-345d366d6467/thumbnail/1200x630/f0cc1d7b9e607a58f64035c4c7067480/cbsn-fusion-nvidia-sees-strong-earnings-report-despite-jensen-huang-scandal-and-resignation-thumbnail.jpg"
+    },
+    {
+      "id": "eaf48b6b8441b00c",
+      "title": "8-year-old Haitian boy released from federal custody in San Diego",
+      "link": "https://www.cbsnews.com/news/8-year-old-detained-ice-released-custody/",
+      "summary": "The Department of Homeland Security previously confirmed that ICE agents placed the child in federal care after he attended a check-in appointment with a man the agency said claimed to be the boy's uncle.",
+      "source": "CBS News",
+      "published": "2026-11-18T13:55:59+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/f244a474-9314-4f51-ac1c-f7c48f3eaefb/thumbnail/1200x630/7709262844f39dc54346cc985aba8a50/gettyimages-2298640808.jpg"
+    },
+    {
+      "id": "1350fc37dd84be2d",
+      "title": "NVIDIA sales, profit more than double as AI data center business booms",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/NVIDIA-announces-bumper-results/2411794995278/",
+      "summary": "NVIDIA's share price was up by $6, or 3.9%, after it reported bumper third quarter results, more than doubling sales and profit from a year ago.",
+      "source": "UPI",
+      "published": "2026-11-18T13:28:41+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2411794995278/2026/upi_com/8f10acf603e292d38aed93620b75c03e/v1.2/NVIDIA-sales-profit-more-than-double-as-AI-data-center-business-booms.jpg"
+    },
+    {
+      "id": "d879d0bc16a8f623",
+      "title": "Apple restores services after internal update caused outages",
+      "link": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/",
+      "summary": "The company's system status shows that all Apple services, including iCloud sign-in, have been restored after experiencing issues earlier Tuesday.",
+      "source": "CBS News",
+      "published": "2026-11-18T13:17:59+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/ab8d7caf-bd13-4396-9753-1b37ea889cd6/thumbnail/1200x630g2/db439b53f9e2dcfe31262a3565b82bdc/gettyimages-2305585682.jpg"
+    },
+    {
+      "id": "29c418058a41ce85",
+      "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+      "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+      "summary": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries.",
+      "source": "NPR",
+      "published": "2026-11-18T13:03:38+00:00",
+      "image": null
+    },
+    {
+      "id": "69d1a3f26992dc6e",
+      "title": "Cruise ship housekeeper stumbles upon murder scene with bloody husband, slain wife on floor",
+      "link": "https://www.foxnews.com/us/housekeeper-bringing-towels-cruise-cabin-finds-man-bloody-hands-wife-motionless-floor",
+      "summary": "A routine towel delivery led to a gruesome cruise ship murder discovery. Jason Leon Watford now faces federal charges in the strangulation death of his wife aboard the MSC Seascape.",
+      "source": "Fox News",
+      "published": "2026-11-18T12:30:31+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Cruise-Murder-Suspect-Victim-003.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "5daa65e9f5f65c63",
+      "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+      "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+      "summary": "Former Democratic Rep. Mary Peltola has won one of the U.S.' most watched Senate races. And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.",
+      "source": "NPR",
+      "published": "2026-11-18T12:14:28+00:00",
+      "image": null
+    },
+    {
+      "id": "f5df7e97b58f4f5d",
+      "title": "School districts have fewer students, but some are delaying painful budget decisions",
+      "link": "https://abcnews.com/US/wireStory/school-districts-fewer-students-delaying-painful-budget-decisions-138238549",
+      "summary": "Seattle Public Schools faces a recurring budget crisis due to declining enrollment",
+      "source": "ABC News",
+      "published": "2026-11-18T12:10:22+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_28392f60b8ff07ab7fc483afab79ffd9_4x3_384.jpg"
+    },
+    {
+      "id": "0dab39e7148d62aa",
+      "title": "Surfing legend found stabbed to death under bed – girlfriend accused of letting thugs in to wipe him out",
+      "link": "https://www.foxnews.com/us/surfing-legend-found-stabbed-death-under-bed-girlfriend-accused-letting-thugs-wipe-him-out",
+      "summary": "Kurt Van Dyke&apos;s girlfriend and a man were arrested in Costa Rica over the surfer&apos;s murder, as the OIJ claims she helped armed attackers enter.",
+      "source": "Fox News",
+      "published": "2026-11-18T12:00:52+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/kurt-van-dyke-facebook-1-levels.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "892e3ba97a0f6e2f",
+      "title": "Xi breaks protocol to personally welcome Trump ahead of historic trilateral summit and more top headlines",
+      "link": "https://www.foxnews.com/us/xi-breaks-protocol-welcome-trump-historic-summit-more-top-headlines",
+      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "source": "Fox News",
+      "published": "2026-11-18T12:00:26+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/2-trump-and-xi.png?ve=1&tl=1"
+    },
+    {
+      "id": "6784feda38b3e396",
+      "title": "MICHAEL RUIZ: Tyler Robinson defense wants testing on bullet fragments paused in assassination of Charlie Kirk",
+      "link": "https://www.foxnews.com/us/michael-ruiz-tyler-robinson-defense-wants-testing-bullet-fragments-paused-assassination-charlie-kirk",
+      "summary": "Tyler Robinson&apos;s lawyers want Utah ballistics testing paused as prosecutors push FBI virtual comparison microscopy on Charlie Kirk&apos;s autopsy fragments.",
+      "source": "Fox News",
+      "published": "2026-11-18T11:30:59+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/charlie-kirk-tyler-robinson-trial-fox-news_024.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "bd9a3e65a55435aa",
+      "title": "US infrastructure crumbles as adversaries power up – leaving Americans dangerously exposed: cyber expert",
+      "link": "https://www.foxnews.com/us/us-infrastructure-crumbles-adversaries-power-leaving-americans-dangerously-exposed-cyber-expert",
+      "summary": "A wave of tech failures highlights weaknesses in America’s aging infrastructure that adversaries could exploit with increasingly accessible cyberattack tools, experts warn.",
+      "source": "Fox News",
+      "published": "2026-11-18T11:00:36+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Power.png?ve=1&tl=1"
+    },
+    {
+      "id": "08e52ea744295574",
+      "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+      "summary": "An inspired synthesis of violent satire and contemplative storytelling, Grand Theft Auto VI is more mature and ambitious than any prior game in the record-breaking franchise.",
+      "source": "NPR",
+      "published": "2026-11-18T11:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "cd91052aeafacba6",
+      "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
+      "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
+      "source": "NPR",
+      "published": "2026-11-18T11:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "fbb867dc87bfa212",
+      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+      "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
+      "source": "NPR",
+      "published": "2026-11-18T10:32:03+00:00",
+      "image": null
+    },
+    {
+      "id": "a2a6b741b3246f49",
+      "title": "Democrat Mary Peltola claims victory in Alaska Senate race",
+      "link": "https://www.upi.com/Top_News/US/2026/11/18/Mary-Peltola-claims-Alaska-Senate-victory/4501794976433/",
+      "summary": "Mary Peltola claimed victory Tuesday night over Republican incumbent Sen. Dan Sullivan, further cementing the Democrats' majority in the Senate.",
+      "source": "UPI",
+      "published": "2026-11-18T05:56:57+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4501794976433/2026/i/17949802893090/v1.2/Democrat-Mary-Peltola-claims-victory-in-Alaska-Senate-race.jpg"
+    },
+    {
+      "id": "88b580134dba5cd7",
+      "title": "Mary Peltola wins Alaska Senate race, flipping seat for Dems",
+      "link": "https://www.cbsnews.com/news/alaska-2026-senate-sullivan-peltola/",
+      "summary": "Mary Peltola, 53, defeated incumbent GOP Sen. Dan Sullivan and will be the first Alaska Native to serve in the U.S. Senate.",
+      "source": "CBS News",
+      "published": "2026-11-18T03:47:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/0f5f15ea-6383-4926-aabc-4beae843fb96/thumbnail/1200x630/9f0963593d4779fc894a2adb51245c1e/gettyimages-2302985547.jpg"
+    },
+    {
+      "id": "57496f6ceaa992c5",
+      "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
+      "link": "https://abcnews.com/US/wireStory/waymo-suspends-driverless-taxi-rides-freeways-after-ban-138227619",
+      "summary": "Waymo says it has temporarily stopped offering driverless taxi rides on freeways after California banned the vehicles from state highways following recent traffic incidents",
+      "source": "ABC News",
+      "published": "2026-11-18T03:19:11+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_37bcd5371a4699a1850b7666b271946b_4x3_384.jpg"
+    },
+    {
+      "id": "4e37b771940e0fa9",
+      "title": "A Somali American Uber driver was strangled and run over by a passenger, authorities say",
+      "link": "https://abcnews.com/US/wireStory/somali-american-uber-driver-strangled-run-passenger-authorities-138227411",
+      "summary": "A Somali American man is in critical condition after authorities say he was attacked by an Uber passenger",
+      "source": "ABC News",
+      "published": "2026-11-18T02:44:46+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_72c9c7be7b3c01096e7ec2aa9d7831a1_4x3_384.jpg"
+    },
+    {
+      "id": "e67ae89ca193de7d",
+      "title": "Rubio says there's \"zero evidence\" recent tech outages are related",
+      "link": "https://www.cbsnews.com/news/marco-rubio-tech-outages-not-connected/",
+      "summary": "Secretary of State Marco Rubio acknowledged that people are fearful and uncertain, saying he wanted to be clear that the United States is not under systemic attack.",
+      "source": "CBS News",
+      "published": "2026-11-18T02:43:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/00fa047d-a613-4572-95f8-0e857f718586/thumbnail/1200x630g2/14e6b3f5f04f933bd47df77eff7c2d37/gettyimages-2305621072.jpg"
+    },
+    {
+      "id": "f9d8fb4e10f41c44",
+      "title": "Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt",
+      "link": "https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt",
+      "summary": "Alleged Guatemalan cocaine kingpin Axel Montejo Saenz, known as &quot;Kraken,&quot; was arrested in San Diego after agents seized over 5,500 kilograms of cocaine, authorities said.",
+      "source": "Fox News",
+      "published": "2026-11-18T02:41:40+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/axel-montejo-saenz-kraken-arrest-san-diego.png?ve=1&tl=1"
+    },
+    {
+      "id": "1a56cdf4f7a44895",
+      "title": "Classified communications network at the National Security Agency goes down, defense official says",
+      "link": "https://abcnews.com/US/wireStory/classified-communications-network-national-security-agency-defense-official-138223662",
+      "summary": "An internal network the National Security Agency uses to communicate classified information has gone offline after what the agency described as &ldquo;routine maintenance.&rdquo;",
+      "source": "ABC News",
+      "published": "2026-11-18T02:30:07+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_22dc6be1bf1d1f5f86a7167f016e9526_4x3_384.jpg"
+    },
+    {
+      "id": "f104ae258de07308",
+      "title": "Trump faces GOP pushback to his order to use steam to launch jets from aircraft carriers",
+      "link": "https://abcnews.com/US/wireStory/trump-faces-gop-pushback-order-steam-launch-jets-138230538",
+      "summary": "Senators are pushing back against President Donald Trump's order to retrofit new aircraft carriers with old steam catapults",
+      "source": "ABC News",
+      "published": "2026-11-18T02:26:48+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_a749a935c16c83b2c541842d0ff35ad5_4x3_384.jpg"
+    },
+    {
+      "id": "88ca60f7ed7e63b6",
+      "title": "Reports: White House drops Overton as FDA leader nominee",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/overton-dropped-as-fda-nominee/1141794966501/",
+      "summary": "The Trump administration has dropped Dr. Heidi Overton as its nominee to lead the U.S. Food and Drug Administration, sources reported Tuesday.",
+      "source": "UPI",
+      "published": "2026-11-18T01:56:04+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1141794966501/2026/upi/d4b9855ea77e9b64634334eb5e05ec16/v1.2/Reports-White-House-drops-Overton-as-FDA-leader-nominee.jpg"
+    },
+    {
+      "id": "4c23c518e9818b48",
+      "title": "Trump FDA nominee Heidi Overton struggling to win GOP support",
+      "link": "https://www.cbsnews.com/news/trump-fda-nominee-heidi-overton-confirmation-struggle/",
+      "summary": "Heidi Overton, Trump's pick to be FDA commissioner, is having trouble finding enough Republican support to advance her nomination, which could be pulled if she falls short.",
+      "source": "CBS News",
+      "published": "2026-11-18T01:50:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/9a847c4d-95ae-4a17-bba4-6cffdf51d591/thumbnail/1200x630g2/2b050daa29a6b3854e53f57b6a99d0ad/gettyimages-2297036795.jpg"
+    },
+    {
+      "id": "373181f641f51496",
+      "title": "Pakistani man sentenced for foiled assassination plot in United States",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/pakistani-man-sentenced-for-part-in-assassination-plot/2531794961681/",
+      "summary": "A U.S. district judge sentenced Asif Merchant, a Pakistani national, to 330 months in prison for trying to arrange for assassinations in the U.S.",
+      "source": "UPI",
+      "published": "2026-11-18T00:34:14+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2531794961681/2026/upi/34fb8a96447eb29ea50a7997c4629da3/v1.2/Pakistani-man-sentenced-for-foiled-assassination-plot-in-United-States.jpg"
+    },
+    {
+      "id": "d037ced07447ca53",
+      "title": "Pentagon detains senior US Army officer accused of spying for Russians after UK arrest",
+      "link": "https://www.foxnews.com/us/pentagon-detains-senior-us-army-officer-accused-spying-russians-after-uk-arrest",
+      "summary": "Lt. Col. Brandon Tyner was handed to U.S. military authorities after British counterterrorism police arrested him on suspicion of spying for Russia.",
+      "source": "Fox News",
+      "published": "2026-11-18T00:26:16+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/army-uniform.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "4c4bb921ba00ae1f",
+      "title": "Third grader detained by federal officials is returned to family",
+      "link": "https://www.cbsnews.com/video/third-grader-detained-ice-returned-family/",
+      "summary": "An 8-year-old born in Haiti was sent to a Texas facility after an immigration check-in last week. On Monday, he was reunited with his family members back in San Diego.",
+      "source": "CBS News",
+      "published": "2026-11-18T00:24:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/18/51472915-b908-4da1-a5c9-3b9e1cd6a4da/thumbnail/1200x630/aa10f593c7d69b47615b9d10c34bacaa/cbsn-fusion-third-grader-detained-ice-returned-family-thumbnail.jpg"
+    },
+    {
+      "id": "1f48f3894dc0c233",
+      "title": "What a string of tech problems reveals about America's digital vulnerabilities",
+      "link": "https://www.pbs.org/newshour/show/what-a-string-of-tech-problems-reveals-about-americas-digital-vulnerabilities",
+      "summary": "A string of major technology failures is raising new questions about the reliability and security of systems millions of Americans depend on every day. The incidents are said to be unrelated, but their timing has fueled concerns about whether something more is at work. Geoff...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:55:05+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/anxietiesandoutages-1024x683.jpg"
+    },
+    {
+      "id": "7d9a7e15e086c436",
+      "title": "A look at China's technology industry amid AI race with the U.S.",
+      "link": "https://www.pbs.org/newshour/show/a-look-at-chinas-technology-industry-amid-ai-race-with-the-u-s",
+      "summary": "President Trump began a 48-hour visit to Asia with a summit of regional countries in the Philippines. On Wednesday, the president heads to China for meetings with Russian President Vladimir Putin and Chinese President Xi Jinping. One of the key pressure points between the...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:50:29+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/trumpasiatour-1024x576.jpg"
+    },
+    {
+      "id": "14a822d3bf0f4d37",
+      "title": "News Wrap: U.S. no longer considered a measles-free nation",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-u-s-no-longer-considered-a-measles-free-nation",
+      "summary": "In our news wrap Tuesday, international health officials say the United States is no longer considered a measles-free nation, a Harvard study shows cellphone bans in some schools are leading to modest improvements in academic growth among students and maritime monitors say a...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:45:34+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/measlesnewswrap-1024x683.jpg"
+    },
+    {
+      "id": "8553cf12a9bf1c79",
+      "title": "What's in Trump's $50 billion air traffic control overhaul plan",
+      "link": "https://www.pbs.org/newshour/show/whats-in-trumps-50-billion-air-traffic-control-overhaul-plan",
+      "summary": "The Trump administration is seeking $50 billion to modernize the nation's air traffic control system following last week's massive nationwide ground stop. But the proposal could face resistance in Congress, where lawmakers are raising questions about the cost and how the...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:40:35+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/highstakes-1024x683.jpg"
+    },
+    {
+      "id": "3340af8e95b8c957",
+      "title": "Biden releases memoir recounting his presidency and decision to drop out in 2024",
+      "link": "https://www.pbs.org/newshour/show/biden-releases-memoir-recounting-his-presidency-and-decision-to-drop-out-in-2024",
+      "summary": "Almost two years after leaving office, former President Joe Biden has penned a memoir about his time in the White House. \"Promise Me, America,\" is out, but Biden isn't out doing the typical run of media interviews. Amna Nawaz discussed more with his former counselor, Steve...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:35:45+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/promisemeamerica-1024x576.jpg"
+    },
+    {
+      "id": "4484cbb7e0180cd8",
+      "title": "Study reveals energy demands and emissions of America's data centers",
+      "link": "https://www.pbs.org/newshour/show/study-reveals-energy-demands-and-emissions-of-americas-data-centers",
+      "summary": "The 400 largest data centers in the United States emit more greenhouse gas emissions in one year than the entire nation of Denmark, according to a new report from Harvard University. From May 2024 to April 2025, data centers accounted for nearly 2% of total U.S. energy...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:30:10+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/datacenters-1024x683.jpg"
+    },
+    {
+      "id": "b917d5cd0b6bc849",
+      "title": "11/17: CBS Evening News",
+      "link": "https://www.cbsnews.com/video/111726-cbs-evening-news/",
+      "summary": "At least eight major technology outages hit the U.S. in the last week; the FAA paused the installation of new routers after the ground stop.",
+      "source": "CBS News",
+      "published": "2026-11-17T23:30:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/86115eeb-0507-493b-9442-b999e424b859/thumbnail/1200x630/2fb3728d3c1cea81f2198ca338b5b521/enthumb1117.jpg"
+    },
+    {
+      "id": "c5baa8c06992d661",
+      "title": "North Dakota museum gives Great Plains artists a bigger stage",
+      "link": "https://www.pbs.org/newshour/show/north-dakota-museum-gives-great-plains-artists-a-bigger-stage",
+      "summary": "The North Dakota Museum of Art in Grand Forks is bringing great art to the Great Plains. It's also supporting artists in a region where gaining visibility and a market can be tough. Senior arts correspondent Jeffrey Brown visited for our arts and culture series, CANVAS.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:25:07+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/greatplains-1024x576.jpg"
+    },
+    {
+      "id": "69525da0865b7867",
+      "title": "Man legally named Captain America charged with murder after allegedly giving victim’s girlfriend chilling note",
+      "link": "https://www.foxnews.com/us/man-legally-named-captain-america-charged-murder-after-allegedly-giving-victims-girlfriend-chilling-note",
+      "summary": "A man legally named Captain America allegedly gave a woman a note saying her boyfriend was dead and demanding her money. Police later found the boyfriend dead inside a home.",
+      "source": "Fox News",
+      "published": "2026-11-17T23:23:35+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/captain-cautious-america-peoria-murder-case-composite.png?ve=1&tl=1"
+    },
+    {
+      "id": "54959a1fde315f27",
+      "title": "China and Canada expand tariff relief while relations with the U.S. are strained",
+      "link": "https://www.pbs.org/newshour/world/china-and-canada-expand-tariff-relief-while-relations-with-the-u-s-are-strained",
+      "summary": "Chinese President Xi Jinping and Canadian Prime Minister Mark Carney both praised the strategic partnership they agreed to pursue this year and pointed to improving economic ties.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:20:17+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T030432Z_1272802025_RC2EPOAPT299_RTRMADP_3_APEC-SUMMIT-CHINA-CANADA-1024x705.jpg"
+    },
+    {
+      "id": "29350b159eca5384",
+      "title": "What a 194-year-old tortoise could teach humans about living longer",
+      "link": "https://www.pbs.org/newshour/show/what-a-194-year-old-tortoise-could-teach-humans-about-living-longer",
+      "summary": "What secrets might a 194-year-old tortoise have for humans when it comes to living longer? William Brangham examines the remarkable life of Jonathan.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T23:20:03+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/agingslowly-1-1024x684.jpg"
+    },
+    {
+      "id": "f76472fb88e42c82",
+      "title": "Dow drops nearly 850 points on Nvidia, NSA outage",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/dow-drops-850-nvidia-nsa/4291794956078/",
+      "summary": "A U.S. stock sell-off sped up Tuesday, and the Nasdaq Composite hit its lowest level in about seven months in prep for Nvidia's earnings report.",
+      "source": "UPI",
+      "published": "2026-11-17T23:13:34+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4291794956078/2026/upi/0cc935995e46a0d1a8e03fb0a64f7bab/v1.2/Dow-drops-nearly-850-points-on-Nvidia-NSA-outage.jpg"
+    },
+    {
+      "id": "86bd0149f7c78282",
+      "title": "Doctors are raising concerns about U.S. babies born with measles",
+      "link": "https://www.pbs.org/newshour/health/doctors-are-raising-concerns-about-u-s-babies-born-with-measles",
+      "summary": "Congenital measles happens when a pregnant woman passes the virus to her fetus in the womb and can lead to serious complications or even be deadly for newborns.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T22:52:41+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/measles-1024x683.jpg"
+    },
+    {
+      "id": "a958c6b7e8d7dc09",
+      "title": "Justice Department charges Irish national for damaging U.S. military jet",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/irish-national-charged-with-destroying-military-aircraft/7641794953249/",
+      "summary": "U.S. federal prosecutors charged an Irish national with breaking into a U.S. military jet in Ireland and destroying it, they said Tuesday.",
+      "source": "UPI",
+      "published": "2026-11-17T22:48:33+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7641794953249/2026/upi/4df29d71cb30750e5b970a52079ae5c0/v1.2/Justice-Department-charges-Irish-man-for-damaging-US-military-jet.jpg"
+    },
+    {
+      "id": "8d3f9127a7eb6aaa",
+      "title": "Nvidia chair says board does not intend to reinstate Jensen Huang as CEO",
+      "link": "https://www.pbs.org/newshour/nation/nvidia-chair-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+      "summary": "The announcement followed Huang's statement earlier in the day that he would come back to lead the chipmaker if the board invited him.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T22:31:31+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26312766429671-1024x683.jpg"
+    },
+    {
+      "id": "ed166e4e986d8fe4",
+      "title": "Apple joins the list of recent tech breakdowns after an update goes awry",
+      "link": "https://www.pbs.org/newshour/nation/apple-joins-the-list-of-recent-tech-breakdowns-after-an-update-goes-awry",
+      "summary": "Apple acknowledged on its system status page that its Apple Music, App Store and AppleCare services suffered full outages.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-17T22:26:17+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-10T211010Z_2026948577_RC2P3EAEIF7R_RTRMADP_3_APPLE-OPENAI-LAWSUIT-1024x682.jpg"
+    },
+    {
+      "id": "a704a42a9236c1d0",
+      "title": "Divided appeals court blocks Pentagon from expelling several transgender troops from US military",
+      "link": "https://abcnews.com/US/wireStory/divided-appeals-court-blocks-pentagon-expelling-transgender-troops-138228654",
+      "summary": "A federal appeals court has blocked the Pentagon from forcing several transgender troops out of the military, after finding President Donald Trump&rsquo;s ban was unlawfully imposed",
+      "source": "ABC News",
+      "published": "2026-11-17T22:25:53+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_dcdb4c91f17e59c7c2dc5fb725d3b7e9_4x3_384.jpg"
+    },
+    {
+      "id": "3c2246be31c2c287",
+      "title": "Trump faces criticism as allies press the White House for answers on tech problems",
+      "link": "https://abcnews.com/US/wireStory/trump-faces-criticism-allies-press-white-house-answers-138229187",
+      "summary": "President Donald Trump faces criticism over service outages affecting travel, banking, and communications",
+      "source": "ABC News",
+      "published": "2026-11-17T22:25:50+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_ec4d88860b54e280c6e6c19dce7899ae_4x3_384.jpg"
+    },
+    {
+      "id": "24b6bac7655370c8",
+      "title": "Apple blames internal update for outage affecting iCloud, Apple Pay",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/apple-outage-icloud-pay-store/3741794952559/",
+      "summary": "Apple on Tuesday said an internal software update caused widespread outages affecting iCloud, Apple Pay, the App Store and other services.",
+      "source": "UPI",
+      "published": "2026-11-17T22:17:09+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/3741794952559/2026/upi/9f26b00ffb02f119fd36b683d5bffbcc/v1.2/Apple-blames-internal-update-for-outage-affecting-iCloud-Apple-Pay.jpg"
+    },
+    {
+      "id": "021048ddf833fed8",
+      "title": "FAA says new routers install paused in wake of ground stop",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/faa-new-routers-installation-paused/9341794952076/",
+      "summary": "The Federal Aviation Administration said Tuesday that it was pausing an installation of new routers after Friday's nationwide ground stop.",
+      "source": "UPI",
+      "published": "2026-11-17T22:00:01+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9341794952076/2026/upi/7f82c96048932c14ee78efc1f687c164/v1.2/FAA-says-new-routers-install-paused-in-wake-of-ground-stop.jpg"
+    },
+    {
+      "id": "312283506934ad7d",
+      "title": "11/17: The Takeout with Major Garrett",
+      "link": "https://www.cbsnews.com/video/111726-the-takeout-with-major-garrett/",
+      "summary": "More tech issues hit the U.S. after a week of disruptions; Trump gets ready to meet with Xi and Putin.",
+      "source": "CBS News",
+      "published": "2026-11-17T22:00:00+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/18/7eefcad3-deb1-4b98-b172-171d464d3b38/thumbnail/1200x630/7eee6a0be4c7ece937466f9df03a9e60/takeoutfull111726.jpg"
+    },
+    {
+      "id": "a91ebe24568d9216",
+      "title": "Florida substitute teacher arrested for allegedly sending explicit photos to teen student",
+      "link": "https://www.foxnews.com/us/florida-substitute-teacher-arrested-allegedly-sending-explicit-photos-teen-student",
+      "summary": "Substitute teacher Mia Acevedo Gallardo was arrested after Hernando County detectives found explicit photos on a student&apos;s phone at Grace Education Academy.",
+      "source": "Fox News",
+      "published": "2026-11-17T21:52:02+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mia-gallardo.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "d188e88b681c285c",
+      "title": "Duffy pitches Senate GOP on $50 billion for FAA after ground stop",
+      "link": "https://www.cbsnews.com/news/sean-duffy-senate-republicans-faa-ground-stop/",
+      "summary": "Senate Republicans appeared skeptical after Transportation Secretary Sean Duffy made the case for tens of billions of more dollars for the Federal Aviation Administration.",
+      "source": "CBS News",
+      "published": "2026-11-17T21:50:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/f55a1c97-0570-4949-904d-609ba67b1dd5/thumbnail/1200x630g2/a160661d42a360397d8db909e872e6e6/gettyimages-2305101485.jpg"
+    },
+    {
+      "id": "8d681afb8365b719",
+      "title": "Three killed after plane crashes near Grand Canyon's North Rim",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/grand-canyon-crash-north-rim/7901794950932/",
+      "summary": "Three people were killed when a small aircraft crashed near the North Rim of Grand Canyon National Park in Arizona, authorities said.",
+      "source": "UPI",
+      "published": "2026-11-17T21:46:01+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7901794950932/2026/upi_com/1aceddba68bee963e565e00e6a352190/v1.2/Three-killed-after-plane-crashes-near-Grand-Canyons-North-Rim.jpg"
+    },
+    {
+      "id": "d8ff52a99660b0a4",
+      "title": "Trump: U.S. ‘looking into’ alleged Iran dirty bomb plans",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/trump-us-looking-into-iran-dirty-bomb-plans/1641794948784/",
+      "summary": "U.S. President Donald Trump said Tuesday that the United States is \"looking into\" allegations that Iran is developing plans for a dirty bomb attack.",
+      "source": "UPI",
+      "published": "2026-11-17T21:38:16+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1641794948784/2026/upi/102abbc0abb14db7fcf9b50e50eb6187/v1.2/Trump-US-looking-into-alleged-Iran-dirty-bomb-plans.jpg"
+    },
+    {
+      "id": "9dd930942c97df4b",
+      "title": "California sheriff's deputy, special officer put on leave after 5-second conversation with ICE agents",
+      "link": "https://www.foxnews.com/us/california-sheriffs-deputy-special-officer-put-leave-after-5-second-conversation-ice-agents",
+      "summary": "Two California sheriff&apos;s department employees are on administrative leave after video captured a five-second ICE exchange outside a county jail.",
+      "source": "Fox News",
+      "published": "2026-11-17T21:14:07+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/OCSD-ICE1.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "b055685960e0606d",
+      "title": "Los Angeles homelessness agency reaches settlement with feds in dispute over spending",
+      "link": "https://abcnews.com/US/wireStory/los-angeles-homelessness-agency-reaches-settlement-feds-dispute-138226801",
+      "summary": "A Los Angeles government agency that oversaw hundreds of millions of dollars in homelessness spending has reached a settlement with federal housing authorities in a dispute over claims that the agency misused funding",
+      "source": "ABC News",
+      "published": "2026-11-17T21:05:57+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_03c90c8e8dd6b013669540c4344410e1_4x3_384.jpg"
+    },
+    {
+      "id": "324d0136c5faa8d9",
+      "title": "Calif. prosecutors sue Newsom to halt commutation of death sentences",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/california-gavin-newsom-death-row/2601794948267/",
+      "summary": "Thirty California district attorneys sued Gov. Gavin Newsom to block him from commuting the death sentences of all 548 prisoners on state death row.",
+      "source": "UPI",
+      "published": "2026-11-17T21:02:16+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2601794948267/2026/upi/05a71d1cfe576aea4c64b007b77e3265/v1.2/Calif-prosecutors-sue-Newsom-to-halt-commutation-of-death-sentences.jpg"
+    },
+    {
+      "id": "9df51dbd7695a9a0",
+      "title": "Consumer retail data shows 0.2% increase in October",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/consumer-retail-low-october-2026/4461794947284/",
+      "summary": "American consumers tightened their belts in October, especially on high-dollar purchases such as cars and furniture, census data showed.",
+      "source": "UPI",
+      "published": "2026-11-17T20:54:27+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4461794947284/2026/upi/45fd59892889c6e5f7e014f65c2d0221/v1.2/Consumer-retail-data-shows-02-increase-in-October.jpg"
+    },
+    {
+      "id": "9c293bb9d95954e5",
+      "title": "CNN, BBC, Zoom among 178 targets hit by malicious software attack",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/hackers-malicious-software-optimizely/5731794945686/",
+      "summary": "Hackers used a compromised website optimization service to distribute malicious software to 178 organizations, including CNN, BBC, Zoom and HSBC.",
+      "source": "UPI",
+      "published": "2026-11-17T20:15:14+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5731794945686/2026/upi/d7cf6b394d7c49617776151241f55832/v1.2/CNN-BBC-Zoom-among-178-targets-hit-by-malicious-software-attack.jpg"
+    },
+    {
+      "id": "8493670f69a27caf",
+      "title": "Owners, heirs settle claim over Vincent van Gogh painting before auction",
+      "link": "https://www.upi.com/Top_News/US/2026/11/17/owners-jewish-heirs-reach-agreement-over-van-gogh-painting/7871794944226/",
+      "summary": "The current owners of a Vincent van Gogh painting and the Jewish heirs of a previous owner reached a settlement over the painting Tuesday.",
+      "source": "UPI",
+      "published": "2026-11-17T20:11:23+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7871794944226/2026/upi/7a7b7d9146b8debb7b0a90a2dd16d205/v1.2/Owners-heirs-settle-claim-over-van-Gogh-painting-before-auction.jpg"
+    },
     {
       "id": "6393515452e5f7b3",
       "title": "NSA's classified internal network goes down, sources say",
@@ -4725,825 +5679,6 @@
       "source": "CBS News",
       "published": "2026-11-11T19:37:38+00:00",
       "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg"
-    },
-    {
-      "id": "7a626c3431a34afc",
-      "title": "Russian ambassador to the U.S. Alexander Darchiev dies suddenly, officials say",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/russia-ambassador-dies-suddenly/5421794422852/",
-      "summary": "Russia's ambassador to the United States, Alexander Darchiev, has died suddenly at age 66, the Russian Foreign Ministry said Wednesday.",
-      "source": "UPI",
-      "published": "2026-11-11T19:03:24+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5421794422852/2026/upi/35c3660d4b60684b094b35650ddf0330/v1.2/Russian-ambassador-to-the-US-Alexander-Darchiev-dies-suddenly.jpg"
-    },
-    {
-      "id": "d7e5ef29e7719b75",
-      "title": "Teen charged with murder in fatal shooting of 15-year-old NYC student Javits Frimpong",
-      "link": "https://www.foxnews.com/us/teen-charged-murder-fatal-shooting-15-year-old-nyc-student-javits-frimpong",
-      "summary": "A 17-year-old faces a murder charge in the New York City shooting of Javits Frimpong, a 15-year-old Ghanaian immigrant killed walking to school.",
-      "source": "Fox News",
-      "published": "2026-11-11T19:00:22+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/javits-frimpong-bronx-memorial.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "6a9954e5f379b5be",
-      "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
-      "link": "https://abcnews.com/US/wireStory/missing-south-carolina-infant-rescued-after-buried-alive-138053059",
-      "summary": "A missing 11-month-old infant was rescued after being buried alive in a dog crate in South Carolina",
-      "source": "ABC News",
-      "published": "2026-11-11T18:20:03+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_a86f1eca5fb7a5e2ac66651e809025ec_4x3_384.jpg"
-    },
-    {
-      "id": "e5452143e79bcca1",
-      "title": "MICHAEL RUIZ: Texas police ID man charged with assault in UT Tyler Turning Point USA attack caught on video",
-      "link": "https://www.foxnews.com/us/michael-ruiz-texas-police-id-man-charged-assault-ut-tyler-turning-point-usa-attack-caught-video",
-      "summary": "Video captures a caped former student swinging a cane at Turning Point USA members before campus police arrest him at University of Texas Tyler.",
-      "source": "Fox News",
-      "published": "2026-11-11T18:19:31+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ciro-tomlian-split.png?ve=1&tl=1"
-    },
-    {
-      "id": "5994f1cd60c819f3",
-      "title": "Ocean liner being sunk to make largest artificial reef",
-      "link": "https://abcnews.com/US/wireStory/ocean-liner-worlds-fastest-sunk-make-largest-artificial-138036442",
-      "summary": "An ocean liner that once was the fastest on the seas is headed to its final home on the floor of the Gulf of Mexico as the world&rsquo;s largest artificial reef",
-      "source": "ABC News",
-      "published": "2026-11-11T18:18:15+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_88773c4030b0e2e12f3d63f5426ad285_4x3_384.jpg"
-    },
-    {
-      "id": "46cf3682c8b3c9e6",
-      "title": "White House warns of \"blatant criminality\" in Democratic probes",
-      "link": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
-      "summary": "White House counsel Will Scharf warned that congressional subpoenas could lead to investigations from the executive branch.",
-      "source": "CBS News",
-      "published": "2026-11-11T18:12:40+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/836cd91d-4490-4e5c-8a35-7ef821e7ad79/thumbnail/1200x630g2/7e1186b129aa4bf81b942c221d059b16/gettyimages-2169804363.jpg"
-    },
-    {
-      "id": "93d846ffe51ab70c",
-      "title": "WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida",
-      "link": "https://www.pbs.org/newshour/nation/watch-live-ss-united-states-once-worlds-fastest-ocean-liner-sinks-to-become-reef-off-florida",
-      "summary": "The historic ocean liner SS United States will be intentionally sunk Wednesday off the coast of the Florida panhandle.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-11T17:54:51+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2025-02-19T193454Z_166750850_RC2TXCAN4J86_RTRMADP_3_USA-SHIP-1024x683.jpg"
-    },
-    {
-      "id": "c866cf04aa3f842b",
-      "title": "Baby found \"clinging to life\" after being buried in crate for 24 hours",
-      "link": "https://www.cbsnews.com/news/baby-found-alive-buried-dog-crate-24-hours-south-carolina/",
-      "summary": "An infant was found alive after apparently being buried in a dog crate for about 24 hours, authorities in South Carolina said.",
-      "source": "CBS News",
-      "published": "2026-11-11T17:47:26+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f0bf97e3-c6d7-4e1a-bcb5-f84159624ec4/thumbnail/1200x630g2/65151656797bb23524731e8fbf2e8fd6/missing-baby-south-carolina.png"
-    },
-    {
-      "id": "474b4ab887249ef4",
-      "title": "Empire State Building daredevils laugh off stunt secret, confess how far they’d go — and who they’re sorry to",
-      "link": "https://www.foxnews.com/us/empire-state-building-daredevils-laugh-off-stunt-secret-confess-how-far-theyd-go-who-theyre-sorry",
-      "summary": "Angelina Nikolau and Ivan Kuznetsov told &quot;Good Morning America&quot; they were willing to die for the Empire State Building climb they called &quot;art.&quot;",
-      "source": "Fox News",
-      "published": "2026-11-11T17:46:15+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/empire-state-building-climb.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "a1738ba659d8ccbd",
-      "title": "Veterans groups keep focus on traumatic brain injuries",
-      "link": "https://www.cbsnews.com/news/veterans-traumatic-brain-injuries-wounded-warriors-project/",
-      "summary": "Dozens of service members have suffered TBIs during the current conflict with Iran, and hundreds of thousands of veterans have been diagnosed during the Global War on Terrorism.",
-      "source": "CBS News",
-      "published": "2026-11-11T17:45:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/bd01718e-3135-4710-bd41-eafe7c632d5b/thumbnail/1200x630/3e718efef87944bcbd20b5d23810560e/kohl-veteran.jpg"
-    },
-    {
-      "id": "e9d272776d8e8e15",
-      "title": "Congressional Democrats target Trump's \"pardon industrial complex\"",
-      "link": "https://www.cbsnews.com/news/democrats-congress-trump-pardon-industrial-complex/",
-      "summary": "A new bill would bring scrutiny to pardons tied to the president's allies and donors, but legal experts say it would likely run up against the Constitution.",
-      "source": "CBS News",
-      "published": "2026-11-11T17:36:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/408ec9f1-283d-492f-bddc-bf95ecdbadaf/thumbnail/1200x630g2/7f91bdae79cf0e12360bedeeec0a6bd5/gettyimages-2303235694.jpg"
-    },
-    {
-      "id": "1f1467c8b5c7da58",
-      "title": "Reports: Treasury Secretary Scott Bessent moved to military base after Iranian threats",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/scott-bessent-threats/8491794413557/",
-      "summary": "Authorities have relocated Treasury Secretary Scott Bessent from his home in Washington, D.C., to a military base after receiving threats from Iran.",
-      "source": "UPI",
-      "published": "2026-11-11T17:26:49+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8491794413557/2026/upi/d7ec3244a9de6d87074c06721f7fd412/v1.2/Reports-Treasury-Secretary-Bessent-moved-to-base-after-Iran-threats.jpg"
-    },
-    {
-      "id": "76ce388882005198",
-      "title": "Pro-Palestinian protesters pelt Joe Biden during visit to Ireland",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/ireland-protesters-pelt-joe-biden/6161794415989/",
-      "summary": "Three men were arrested for throwing objects at former President Joe Biden during a protest in Ireland Tuesday.",
-      "source": "UPI",
-      "published": "2026-11-11T17:23:57+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6161794415989/2026/upi/b1429799147b32179398de9d0b7a31c7/v1.2/Pro-Palestinian-protesters-pelt-Joe-Biden-during-visit-to-Ireland.jpg"
-    },
-    {
-      "id": "bc2c22441dea50e0",
-      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-      "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-      "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
-      "source": "NPR",
-      "published": "2026-11-11T17:23:10+00:00",
-      "image": null
-    },
-    {
-      "id": "edbfb63d2e08dfb9",
-      "title": "Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer",
-      "link": "https://abcnews.com/US/wireStory/biden-run-term-2024-knew-cancer-138047956",
-      "summary": "Joe Biden says he didn't know he had cancer while he was president and wouldn't have sought a second term if he'd already been diagnosed",
-      "source": "ABC News",
-      "published": "2026-11-11T17:15:26+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_f0f3e8dc07cee2463e1f8501461dda12_4x3_384.jpg"
-    },
-    {
-      "id": "f9d1259d9423300d",
-      "title": "Microsoft data center brings \"a kind of boom\" amid AI pushback",
-      "link": "https://www.cbsnews.com/news/microsoft-data-center-quincy-ai-pushback/",
-      "summary": "Microsoft outlines the pledges it makes to data center communities as industry tries to sway public opinion on AI.",
-      "source": "CBS News",
-      "published": "2026-11-11T17:06:37+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/7c5f17ef-625f-4298-b21a-8c3ded1d80f1/thumbnail/1200x630/ca497ee1f9a911b3a1ddb4777366b8ce/gettyimages-2270237750.jpg"
-    },
-    {
-      "id": "60e55f02018ff4fe",
-      "title": "White House sends warning to Democrats about investigating the Trump administration",
-      "link": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
-      "summary": "The White House has issued a warning to Democrats over their planned probes into the Trump administration, going as far as claiming that such investigations — a standard oversight function of Congress -- may amount to \"blatant criminality.\"",
-      "source": "PBS NewsHour",
-      "published": "2026-11-11T17:06:10+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-09T225219Z_1495252227_RC2LKOAY4AZL_RTRMADP_3_USA-TRUMP-1024x730.jpg"
-    },
-    {
-      "id": "a4d5b660789a8e8b",
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-      "summary": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
-      "source": "NPR",
-      "published": "2026-11-11T16:59:32+00:00",
-      "image": null
-    },
-    {
-      "id": "68ed8f2a294b98b3",
-      "title": "Bessent relocates from home to military base after Iran threats",
-      "link": "https://www.cbsnews.com/news/bessent-relocate-dc-area-home-military-base-iran-threats-to-kill-him/",
-      "summary": "Treasury Secretary Scott Bessent has relocated from his home in the Washington, D.C., area to a U.S. military base.",
-      "source": "CBS News",
-      "published": "2026-11-11T16:46:25+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/25/c5860949-17e7-4b1a-a9d8-cd962c3db796/thumbnail/1200x630/e48e52f47be6cbe4719b968dab797a7d/takeout082426.jpg"
-    },
-    {
-      "id": "202ced7fbe8e65b8",
-      "title": "What's behind Democratic Socialists' historic victories in the midterms?",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-      "summary": "Historian and The New Yorker writer Jill Lepore says the DSA, once maligned, is no longer \"beyond the political pale.\" She discusses the history of socialism in America, and its current resurgence.",
-      "source": "NPR",
-      "published": "2026-11-11T16:41:48+00:00",
-      "image": null
-    },
-    {
-      "id": "0690b1711bb0722b",
-      "title": "Former tech consultant sentenced for killing of Cash App founder",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/nima-momeni-sentenced-bob-lee-killing-cash-app/4721794413617/",
-      "summary": "Nima Momeni was sentenced to 16 years to life in prison on Wednesday over the 2023 killing of Cash App founder Bob Lee in San Francisco.",
-      "source": "UPI",
-      "published": "2026-11-11T16:30:30+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4721794413617/2026/upi/bbf1d161a576bdb11bb25741275924ec/v1.2/Former-tech-consultant-sentenced-for-killing-of-Cash-App-founder.jpg"
-    },
-    {
-      "id": "37a8d8833e7c4b33",
-      "title": "Judge weighs lawsuit brought by Peltola campaign over absentee ballots in Alaska's Senate race",
-      "link": "https://www.pbs.org/newshour/politics/judge-weighs-lawsuit-brought-by-peltola-campaign-over-absentee-ballots-in-alaskas-us-senate-race",
-      "summary": "The campaign of Alaska Democratic U.S. Senate candidate Mary Peltola is seeking a list of absentee voters whose ballots have been rejected in one of the most closely watched races of the midterm elections.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-11T16:01:25+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T065526Z_1201482380_RC2TGOAKXTE6_RTRMADP_3_USA-ELECTION-ALASKA-1024x683.jpg"
-    },
-    {
-      "id": "224d3eefb2d73e66",
-      "title": "How one woman's decision to help a struggling elderly veteran turned into a community initiative",
-      "link": "https://www.cbsnews.com/video/how-one-womans-decision-to-help-a-struggling-elderly-veteran-turned-into-a-community-initiative/",
-      "summary": "Caitlin Austin joins \"CBS Mornings\" to discuss her journey of helping an elderly veteran get a fresh start and founding her community initiative, Save Our Seniors.",
-      "source": "CBS News",
-      "published": "2026-11-11T15:58:20+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f754a0d4-ced7-44e8-b912-329b204fdd6a/thumbnail/1200x630/903610f6815e2ec142d5db3ac18c7ce6/cbsn-fusion-how-one-womans-decision-to-help-a-struggling-elderly-veteran-turned-into-a-community-initiative-thumbnail.jpg"
-    },
-    {
-      "id": "263e897e5d47bc96",
-      "title": "Enrolling in Medicare? Here's what to consider before Dec. 7.",
-      "link": "https://www.cbsnews.com/news/medicare-open-enrollment-tips-2027/",
-      "summary": "Medicare open enrollment, which runs from Oct.15 to Dec. 7, gives people a chance to change their health coverage. Here's what to know.",
-      "source": "CBS News",
-      "published": "2026-11-11T15:39:02+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/09/774da291-e251-46c5-91ba-fd5cd7ab4095/thumbnail/1200x630/fc218a1c475d01429283f8570582a240/gettyimages-2300536034.jpg"
-    },
-    {
-      "id": "bd3934262fd19edf",
-      "title": "WATCH: Trump marks Veterans Day with wreath laying, remarks at Arlington National Cemetery",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-marks-veterans-day-with-wreath-laying-remarks-at-arlington-national-cemetery",
-      "summary": "President Donald Trump's appearance at the cemetery comes a day after nine Kennedy family members joined several lawsuits seeking to block construction, saying the towering 250-foot arch would cast a shadow over their relatives' gravesites there.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-11T15:06:19+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T161930Z_24051167_RC2SLOACQJGP_RTRMADP_3_USA-TRUMP-1024x683.jpg"
-    },
-    {
-      "id": "8fcce7564c37d496",
-      "title": "Post midterms, parties face different paths to 2028",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/midterm-election-analysis-democrats-republicans-congress/4101794406202/",
-      "summary": "Democrats and Republicans begin their paths toward the 2028 general election after a shift in both chambers of Congress following the midterms.",
-      "source": "UPI",
-      "published": "2026-11-11T14:29:33+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4101794406202/2026/upi/3311c5c8d7685ffaa2f2be5d8e0d39b4/v1.2/Post-midterms-parties-face-different-paths-to-2028.jpg"
-    },
-    {
-      "id": "a739d8c784b2222b",
-      "title": "The sinking of the SS United States, the world's fastest ocean liner",
-      "link": "https://www.cbsnews.com/video/the-sinking-of-the-ss-united-states-the-worlds-fastest-ocean-liner/",
-      "summary": "The SS United States shattered records as the world's fastest ocean liner. Now, she'll break a new record, sinking off the coast of Florida to become the world's largest artificial reef. CBS News' Jared Ochacher shares the story of this historic American ship, from her glory...",
-      "source": "CBS News",
-      "published": "2026-11-11T14:24:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/88958e88-678d-4d81-9c59-f94455dd1b09/thumbnail/1200x630/0980ba5625a529081f5e591bcea1f822/thumb-ss-us-2-no-bug.jpg"
-    },
-    {
-      "id": "f9fa81a972dc8453",
-      "title": "Following big Democratic wins, these swing voters are looking for results",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-      "summary": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress.",
-      "source": "NPR",
-      "published": "2026-11-11T14:19:42+00:00",
-      "image": null
-    },
-    {
-      "id": "8bc706790f95627f",
-      "title": "Inside a data center built pre-AI boom, and how it's benefited a community",
-      "link": "https://www.cbsnews.com/video/inside-a-data-center-built-pre-ai-boom-and-how-its-benefitted-a-community/",
-      "summary": "Jo Ling Kent goes inside a Microsoft data center built two decades ago in Quincy, Washington, and speaks to the town's mayor to learn how it has benefited the community.",
-      "source": "CBS News",
-      "published": "2026-11-11T14:17:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/35fe9f16-0e92-4582-af92-7b7e6432c101/thumbnail/1200x630/ebcdf535cdc43f1bb7227caf27e0a2e0/cbsn-fusion-inside-a-data-center-built-pre-ai-boom-and-how-its-benefitted-a-community-thumbnail.jpg"
-    },
-    {
-      "id": "7598395e93d5f508",
-      "title": "Details emerge on alleged cruise ship murder",
-      "link": "https://www.cbsnews.com/video/details-emerge-on-alleged-cruise-ship-murder/",
-      "summary": "New details are emerging about a man who allegedly killed his wife on a cruise hours into the voyage. Jason Allen reports.",
-      "source": "CBS News",
-      "published": "2026-11-11T14:12:21+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/8c454a6b-d66c-405a-bad0-4d3f2f5bfed1/thumbnail/1200x630/5c8e91b03753602b28ed020a9fa4ffc6/cbsn-fusion-details-emerge-on-alleged-cruise-ship-murder-thumbnail.jpg"
-    },
-    {
-      "id": "bbdd071ee12ce9d4",
-      "title": "Ole Miss students who say they were targeted in alleged racist incident on Ring video speak out",
-      "link": "https://www.cbsnews.com/video/ole-miss-students-who-say-they-were-targeted-in-alleged-racist-incident-on-ring-video-speak-out/",
-      "summary": "The Ole Miss students who live in the dorm room where a group of women was caught making racist gestures on a Ring camera sat down with Jericka Duncan to discuss the ordeal.",
-      "source": "CBS News",
-      "published": "2026-11-11T13:59:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/05623637-7528-40f9-bbb5-c05293665406/thumbnail/1200x630/a3ca28e470c364eed8890aed26db9488/cbsn-fusion-ole-miss-students-targeted-with-racist-gestures-in-ring-camera-video-speak-out-thumbnail.jpg"
-    },
-    {
-      "id": "c85a2af1b7c6c5d8",
-      "title": "Sandra Birchmore's therapist recalls red flags with Matthew Farwell after conviction",
-      "link": "https://www.cbsnews.com/video/sandra-birchmores-therapist-recalls-red-flags-with-matthew-farwell-after-conviction/",
-      "summary": "Ex-Massachusetts police officer Matthew Farwell was found guilty Tuesday of killing Sandra Birchmore and her unborn child. Birchmore's therapist, who testified at the trial, sat down with Tom Hanson and recalled warning signs in their relationship ahead of her death.",
-      "source": "CBS News",
-      "published": "2026-11-11T13:46:37+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/bc53b6cc-9f76-407b-9a1c-d03deb4969f0/thumbnail/1200x630/fa67bee435f8a307a1478a46964a94ec/cbsn-fusion-sandra-birchmores-therapist-recalls-red-flags-with-matthew-farwell-after-conviction-thumbnail.jpg"
-    },
-    {
-      "id": "c50afb97023828d1",
-      "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-      "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-      "summary": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022.",
-      "source": "NPR",
-      "published": "2026-11-11T13:30:00+00:00",
-      "image": null
-    },
-    {
-      "id": "b04e807a5bf861ab",
-      "title": "Investors, lawmakers demand answers from Nvidia's Jensen Huang over affair with alleged Chinese spy",
-      "link": "https://www.cbsnews.com/video/investors-lawmakers-demand-answers-from-nvidias-jensen-huang-over-affair-with-alleged-chinese-spy/",
-      "summary": "Investors and lawmakers are demanding answers from Nvidia's Jensen Huang over his affair with an alleged Chinese spy. Meanwhile, the tech giant's market valued has plummeted in recent days. Jo Ling Kent reports.",
-      "source": "CBS News",
-      "published": "2026-11-11T13:23:50+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/c7a7b6fe-2737-4ceb-84a6-f5feb2d8196b/thumbnail/1200x630/1bd2191e3e676a89c44ca7f913fd0ef3/cbsn-fusion-investors-lawmakers-demand-answers-from-nvidias-jensen-huang-over-affair-with-alleged-chinese-spy-thumbnail.jpg"
-    },
-    {
-      "id": "6f31e4eedef45792",
-      "title": "What stores are open and closed for Veterans Day 2026?",
-      "link": "https://www.cbsnews.com/news/veterans-day-2026-store-hours-open-closed/",
-      "summary": "See which businesses are operating and the deals they are offering veterans and active military members for their service.",
-      "source": "CBS News",
-      "published": "2026-11-11T12:30:01+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/10/0623c59f-6101-414e-8a8b-4e8e05eb1d2c/thumbnail/1200x630/3792a3450f962da032d92a54ef233836/gettyimages-2303890833.jpg"
-    },
-    {
-      "id": "be72be911abc1fd5",
-      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-      "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-      "summary": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-      "source": "NPR",
-      "published": "2026-11-11T12:21:59+00:00",
-      "image": null
-    },
-    {
-      "id": "f1a05ee7563997ca",
-      "title": "Secretary Scott Bessent moved to military base over Iran threats and more top headlines",
-      "link": "https://www.foxnews.com/us/secretary-scott-bessent-moved-military-base-iran-threats-more-top-headlines",
-      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "source": "Fox News",
-      "published": "2026-11-11T12:15:25+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/524/scott-bessent-nov-2025.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "4017db243c05e710",
-      "title": "Slain New Jersey mom’s bedroom furniture removed by investigators months after unsolved stabbing",
-      "link": "https://www.foxnews.com/us/slain-new-jersey-moms-bedroom-furniture-removed-investigators-months-unsolved-stabbing",
-      "summary": "Investigators removed a headboard, hamper and possible comforter marked with evidence tape from the Chester, New Jersey, home where Brooke Hanlon died.",
-      "source": "Fox News",
-      "published": "2026-11-11T12:00:55+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/law-enforcement-remove-bedroom-items-from-hanlon-home.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "88ca447cfb16e374",
-      "title": "U.S. soldier accused of spying linked to Russia arrested in the U.K.",
-      "link": "https://www.cbsnews.com/news/american-soldier-spying-russia-arrest-uk/",
-      "summary": "A U.S. official told CBS News the suspect is a senior officer based at Imjin Barracks, home to the headquarters for NATO's Allied Rapid Reaction Corps.",
-      "source": "CBS News",
-      "published": "2026-11-11T11:40:41+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/7dd59c77-ed03-43b1-9f24-0916fcd0bb36/thumbnail/1200x630/aef31a69d927a2a6a242e3ce2c897eef/gettyimages-527474796.jpg"
-    },
-    {
-      "id": "889c91cb8c255170",
-      "title": "Minivan crashes into people outside Los Angeles metro station, killing 3",
-      "link": "https://abcnews.com/US/wireStory/minivan-crashes-people-los-angeles-metro-station-killing-138034147",
-      "summary": "Authorities say a minivan crashed into people outside a metro station in Los Angeles during rush hour, killing three and critically injuring the driver and at least two others",
-      "source": "ABC News",
-      "published": "2026-11-11T11:38:14+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_6b8fc32f9fea3956e42b77f5d98f0825_4x3_384.jpg"
-    },
-    {
-      "id": "59778a79d7486963",
-      "title": "Judge denies motion to dismiss Trump's defamation case against BBC",
-      "link": "https://www.cbsnews.com/news/trump-bbc-defamation-case-us-judge-denies-motion-to-dismiss/",
-      "summary": "A U.S. federal judge has denied a motion to dismiss President Trump's defamation case against the BBC, allowing the case to proceed.",
-      "source": "CBS News",
-      "published": "2026-11-11T11:07:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/31/3af84988-9210-44b5-89fd-87a04a6063e7/thumbnail/1200x630/d2e3e23f3e816873d9881bd5f69e82d1/ap23048806986802.jpg"
-    },
-    {
-      "id": "28bfb2275e4c9310",
-      "title": "Florida Learjet crash 911 callers report hearing ‘bomb’ as plane carrying young family plunges near busy road",
-      "link": "https://www.foxnews.com/us/florida-learjet-crash-911-callers-report-hearing-bomb-plane-carrying-young-family-plunges-busy-road",
-      "summary": "Panicked 911 callers described a bomb-like explosion after the Learjet 60 crashed in Greenacres, Florida, according to audio obtained by Fox News Digital.",
-      "source": "Fox News",
-      "published": "2026-11-11T11:00:24+00:00",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/plane-wave.gif"
-    },
-    {
-      "id": "2c7c2efd220a99f7",
-      "title": "Trump's judicial confirmations to face resistance in Democratic-controlled Senate",
-      "link": "https://www.cbsnews.com/news/trump-judicial-confirmations-democrats-senate/",
-      "summary": "A Democratic-controlled Senate is unlikely to help President Trump and Republicans continue their push to remake the federal judiciary in the next two years.",
-      "source": "CBS News",
-      "published": "2026-11-11T11:00:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/10/3022ba7f-3c16-4143-b6b2-3d8194b22ae0/thumbnail/1200x630g3/188765b998542b9d1e1b8ad6a8e994cd/gettyimages-2302566480.jpg"
-    },
-    {
-      "id": "72e18398fe696b79",
-      "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-      "summary": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims.",
-      "source": "NPR",
-      "published": "2026-11-11T10:02:54+00:00",
-      "image": null
-    },
-    {
-      "id": "21470f61e01553dd",
-      "title": "Morning News Brief: Hegseth impeachment, new House GOP leader, UK probes base plot",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
-      "summary": "Republicans block Hegseth impeachment, Trump ally picked to lead House GOP minority, UK investigates alleged Iran-backed plot.",
-      "source": "NPR",
-      "published": "2026-11-11T10:02:44+00:00",
-      "image": null
-    },
-    {
-      "id": "78cc6e9039a1dce2",
-      "title": "U.S. officials look to Europe to learn how to make prison better",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6026417/us-prisons-european-model-rehabilitation",
-      "summary": "American prison officials are looking to European nations like Germany and Norway for a roadmap on how to design a prison that emphasizes rehabilitation and a successful return to life on the outside.",
-      "source": "NPR",
-      "published": "2026-11-11T10:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "cfbcbf1e586c5435",
-      "title": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
-      "summary": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
-      "source": "NPR",
-      "published": "2026-11-11T10:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "d542fbf08498e8bc",
-      "title": "Judge allows Trump's $10B defamation suit against BBC to proceed",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/judge-advances-Trump-Bdefamatino-lawsuit/6831794386951/",
-      "summary": "A federal judge has allowed President Donald Trump's lawsuit against the BBC to proceed over allegations that the British broadcaster defamed him.",
-      "source": "UPI",
-      "published": "2026-11-11T09:53:35+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6831794386951/2026/upi/3aa6e243bf59dd05f4ba8b3e67dd111c/v1.2/Judge-allows-Trumps-10B-defamation-suit-against-BBC-to-proceed.jpg"
-    },
-    {
-      "id": "bad00364e24d5104",
-      "title": "Man arrested after allegedly saying he had a bomb on a flight bound for New Orleans",
-      "link": "https://abcnews.com/US/wireStory/man-arrested-after-allegedly-bomb-aboard-flight-bound-138029559",
-      "summary": "Authorities say a man who said he had a bomb while aboard a flight bound for New Orleans on Monday has been arrested",
-      "source": "ABC News",
-      "published": "2026-11-11T09:09:46+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_4cb25c8516f43938d5dc65fa349350ad_4x3_384.jpg"
-    },
-    {
-      "id": "e5dfe13d965f82a2",
-      "title": "An Idaho man gets 18 years in prison for an Islamic State support plot",
-      "link": "https://abcnews.com/US/wireStory/idaho-man-gets-18-years-prison-islamic-state-138031319",
-      "summary": "An Idaho man has been sentenced to 18 years in federal prison for attempting to support the Islamic State group",
-      "source": "ABC News",
-      "published": "2026-11-11T09:08:19+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_fa16ec991964a046aa4a1b073d64f60e_4x3_384.jpg"
-    },
-    {
-      "id": "6777d341ac1c2be6",
-      "title": "NYC man accused of 3 Central Park rapes arrested at Miami Burger King",
-      "link": "https://www.foxnews.com/us/nyc-man-accused-3-central-park-rapes-arrested-miami-burger-king",
-      "summary": "A suspect was working at a Miami Beach Burger King when local police and U.S. Marshals arrested him over three alleged rapes reported in Central Park.",
-      "source": "Fox News",
-      "published": "2026-11-11T07:47:03+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/nyc-suspect-mugshot-arrest-miami.png?ve=1&tl=1"
-    },
-    {
-      "id": "f2f41e058b44c925",
-      "title": "Immigration arrests go on unabated despite Trump's misgivings after the GOP's midterm wipeout",
-      "link": "https://abcnews.com/US/wireStory/immigration-arrests-unabated-despite-trumps-misgivings-after-gops-138036657",
-      "summary": "In the wake of midterm elections, President Donald Trump said his immigration crackdown may have been &ldquo;too tough&rdquo; and suggested it was time to sit down with the Democrats",
-      "source": "ABC News",
-      "published": "2026-11-11T07:38:27+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_f3b9d1c9aab7d701c9b2c2550efa0332_4x3_384.jpg"
-    },
-    {
-      "id": "b4bb105711aad6f0",
-      "title": "SUV strikes pedestrians in North Hollywood, killing three",
-      "link": "https://www.upi.com/Top_News/US/2026/11/11/fatal-North-Hollywood-ramming/7541794370314/",
-      "summary": "At least three people are dead after an SUV struck several pedestrians on a sidewalk in North Hollywood, authorities said Tuesday night.",
-      "source": "UPI",
-      "published": "2026-11-11T07:36:20+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7541794370314/2026/i/17943825569481/v1.2/SUV-strikes-pedestrians-in-North-Hollywood-killing-three.jpg"
-    },
-    {
-      "id": "1665b2308bb1b379",
-      "title": "Multiple dead after vehicle crashes into food stand near North Hollywood Metro station",
-      "link": "https://www.foxnews.com/us/multiple-dead-after-vehicle-crashes-food-stand-near-north-hollywood-metro-station",
-      "summary": "A car crashed into a food stand near a North Hollywood Metro bus stop on Tuesday, killing three and leaving multiple others critically injured.",
-      "source": "Fox News",
-      "published": "2026-11-11T05:08:45+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/los-angeles-car-crash-deadly-critical.png?ve=1&tl=1"
-    },
-    {
-      "id": "75c023fa43e56d98",
-      "title": "Shareholders sue Nvidia, CEO Jensen Huang over alleged affair with Chinese spy",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/nvidia-shareholders-sue-company-huang/3601794343500/",
-      "summary": "Nvidia shareholders sued the tech company and CEO Jensen Huang, accusing them of misleading statements about his relationship with a suspected spy.",
-      "source": "UPI",
-      "published": "2026-11-11T04:05:31+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3601794343500/2026/upi/fcc140316073ed39c5ac11792708bbd6/v1.2/Shareholders-sue-Nvidia-CEO-Jensen-Huang-over-alleged-affair-with-spy.jpg"
-    },
-    {
-      "id": "1de63057563edc2c",
-      "title": "Former West Point cadet sued over alleged drugging, forced abortion of ex-girlfriend: 'Horrifying'",
-      "link": "https://www.foxnews.com/us/former-west-point-cadet-sued-alleged-drugging-forced-abortion-ex-girlfriend-horrifying",
-      "summary": "A former West Point cadet drugged his girlfriend and forced abortion pills into her mouth and vagina, according to a lawsuit filed by the victim.",
-      "source": "Fox News",
-      "published": "2026-11-11T03:32:40+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/west-point-cadet-sued.png?ve=1&tl=1"
-    },
-    {
-      "id": "e83dc9b52cd52659",
-      "title": "Missing 11-month-old baby found buried alive in woods South Carolina",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/baby-found-buried-alive/9001794361775/",
-      "summary": "A search party looking for a missing 11-month-old baby found the child buried alive in a crate Tuesday afternoon, according to authorities.",
-      "source": "UPI",
-      "published": "2026-11-11T03:17:49+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/9001794361775/2026/i/17943662029548/v1.2/Missing-11-month-old-baby-found-buried-alive-in-woods-South-Carolina.jpg"
-    },
-    {
-      "id": "698fd62c22f33a19",
-      "title": "Kennedy family members join lawsuit to block Trump's arch",
-      "link": "https://www.cbsnews.com/news/kennedy-family-trump-triumphal-arch/",
-      "summary": "Several members of the Kennedy family have joined the legal battle to prevent President Trump from building a large triumphal arch near Arlington National Cemetery.",
-      "source": "CBS News",
-      "published": "2026-11-11T02:53:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/05/c696b995-2ef3-4585-86f6-b4f0b38663a1/thumbnail/1200x630g2/8d84ab5b83c9da43c226190fefb974b1/screenshot-2026-11-05-at-1-22-21-pm.png"
-    },
-    {
-      "id": "62cd10f9c405b83d",
-      "title": "Kennedy family joins lawsuit to block Trump’s proposed arch",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/kennedy-family-joins-lawsuits-against-trump-arch/8541794362037/",
-      "summary": "Nine members of the Kennedy family have joined a lawsuit to block construction of President Donald Trump's huge proposed triumphal arch.",
-      "source": "UPI",
-      "published": "2026-11-11T02:04:55+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8541794362037/2026/upi/952de685662d2b1193fc0116cdd47af8/v1.2/Kennedy-family-joins-lawsuit-to-block-Trumps-proposed-arch.jpg"
-    },
-    {
-      "id": "da3f5a904ef8c31d",
-      "title": "Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS",
-      "link": "https://www.foxnews.com/us/twice-deported-illegal-immigrant-accused-trying-storm-united-cockpit-threatening-bomb-dhs",
-      "summary": "Rony Alexander Gomez-Alberto, accused of a bomb threat on a United Airlines flight to New Orleans, had been deported twice before, DHS confirms.",
-      "source": "Fox News",
-      "published": "2026-11-11T02:01:53+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/DHS-reveals-illegal-immigrant-threatened-flight.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "9dd7f299f851ae39",
-      "title": "House blocks Massie's effort to impeach Hegseth",
-      "link": "https://www.cbsnews.com/news/massie-hegseth-impeachment/",
-      "summary": "GOP Rep. Thomas Massie said Monday he would not bring up another resolution to impeach Defense Secretary Pete Hegseth.",
-      "source": "CBS News",
-      "published": "2026-11-11T01:55:10+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/2bd98318-6cf4-4186-b8a7-b34f5b11e999/thumbnail/1200x630g6/82be53a0f9215b09025da4dbee72e741/gettyimages-2304464396.jpg"
-    },
-    {
-      "id": "e6603cc9e0dc9aa0",
-      "title": "More than 200 million brace for coldest temperatures of the season",
-      "link": "https://www.cbsnews.com/video/more-than-200-million-brace-for-coldest-temperatures-of-the-season/",
-      "summary": "Millions are bracing for severe weather as a possible nor'easter is set to bring cold temperatures and the first snow of the season to parts of the northeastern United States. Rob Marciano has the forecast.",
-      "source": "CBS News",
-      "published": "2026-11-11T01:04:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/c59b4002-300e-4788-8453-48fc76610446/thumbnail/1200x630/6b2ba0ec591de2eaa782e61539b018ae/cbsn-fusion-more-than-200-million-brace-for-coldest-temperatures-of-the-season-thumbnail.jpg"
-    },
-    {
-      "id": "db923a3652db3043",
-      "title": "IRGC operative lands on FBI’s Most Wanted Terrorists list over alleged plot to kill former Trump advisor",
-      "link": "https://www.foxnews.com/us/irgc-operative-lands-fbis-most-wanted-terrorists-list-alleged-plot-kill-former-trump-adviser",
-      "summary": "Shahram Poursafi allegedly sought to pay $300,000 to have John Bolton killed in a plot authorities linked to retaliation for Qasem Soleimani’s death.",
-      "source": "Fox News",
-      "published": "2026-11-11T00:58:39+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/john-bolton-assassin-plot.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "e5ad10f9fa1943c8",
-      "title": "House rejects Hegseth impeachment as GOP selects Jordan and Thune as leaders",
-      "link": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
-      "summary": "Power shifts in Washington continued as new party leadership began to take shape. In the House, the GOP picked Jim Jordan to be their new leader and Senate Republicans re-elected John Thune. The House also voted to quash an effort to impeach Defense Secretary Pete Hegseth....",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:55:40+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/powershift-1024x683.jpg"
-    },
-    {
-      "id": "2526064f2f92a699",
-      "title": "A breakdown of the impeachment articles filed against Pete Hegseth",
-      "link": "https://www.pbs.org/newshour/show/a-breakdown-of-the-impeachment-articles-filed-against-pete-hegseth",
-      "summary": "For a legal perspective on the effort to impeach Defense Secretary Pete Hegseth, Geoff Bennett spoke with Eugene Fidell. He's a longtime military law expert who served as a Coast Guard lawyer and later practiced military law in the private sector. He also co-founded the...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:50:33+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/highstakespic-1024x576.jpg"
-    },
-    {
-      "id": "f395264c16413fbc",
-      "title": "News Wrap: U.S. charges 3 with plotting attacks",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-u-s-charges-3-with-plotting-attacks-at-air-base-and-jewish-communities",
-      "summary": "In our news wrap Tuesday, the U.S. charged three men with being Iran-backed operatives who planned attacks on Jewish communities and an attack at a British air base, Russian and Ukrainian representatives met for peace talks for the first time in nine months and Israel's...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:45:02+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/newswarpnov10-1024x684.jpg"
-    },
-    {
-      "id": "7b93bb034afc9252",
-      "title": "'They want us to fight': Jeffries outlines priorities as Democrats prepare to take power",
-      "link": "https://www.pbs.org/newshour/show/they-want-us-to-fight-jeffries-outlines-priorities-as-democrats-prepare-to-take-power",
-      "summary": "With Congress back this week, Republicans and Democrats alike are wasting no time preparing for the new session that begins in January. House Republicans elected Ohio Congressman Jim Jordan to be their next leader. Although Democrats haven't voted yet on their leadership...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:40:05+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/6pm-Broadcast-CR1-6_23_06-pm-2026-11-10-1-1024x576.jpg"
-    },
-    {
-      "id": "0a59f1af2e1db797",
-      "title": "State seeks to block Christa Pike's attorneys from inspecting execution drug",
-      "link": "https://abcnews.com/US/wireStory/tennessee-seeks-block-christa-pikes-attorneys-inspecting-drug-138028913",
-      "summary": "Tennessee is seeking to block Christa Pike&rsquo;s attorneys from accessing the pentobarbital used in the 50-year-old inmate&rsquo;s botched execution on the grounds that it would reveal the supplier",
-      "source": "ABC News",
-      "published": "2026-11-10T23:35:45+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_d923c3338917c254e05187a06f776e32_4x3_384.jpg"
-    },
-    {
-      "id": "70070e81633767ca",
-      "title": "Mississippi voters reflect on surprising Senate race as count continues",
-      "link": "https://www.pbs.org/newshour/show/mississippi-voters-reflect-on-surprising-senate-race-as-count-continues",
-      "summary": "Mississippi, a state not known for close elections, now sits in the center of the national spotlight as an unusually high number of absentee and provisional ballots will determine the size of the Democratic majority in the Senate. In partnership with the Pulitzer Center, Liz...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:35:03+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/vote2026-1-1024x576.jpg"
-    },
-    {
-      "id": "27b536f4a903e87c",
-      "title": "U.S. inflation report highlights strain of rising food, energy and housing costs",
-      "link": "https://www.pbs.org/newshour/show/u-s-inflation-report-highlights-strain-of-rising-food-energy-and-housing-costs",
-      "summary": "High inflation persisted last month, providing little relief for Americans struggling with affordability. It is driven largely by food and energy price increases, but housing costs also rose. The country appears to be headed for an annual inflation rate of about 4% this year....",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:30:13+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/risingprices-1024x652.jpg"
-    },
-    {
-      "id": "a9a5bcd956f5f3e9",
-      "title": "Farewell to the electoral college? Democrats now control enough states to elevate the popular vote",
-      "link": "https://www.pbs.org/newshour/politics/farewell-to-the-electoral-college-democrats-now-control-enough-states-to-elevate-the-popular-vote",
-      "summary": "Eighteen states run by Democrats have already joined an interstate compact to award their Electoral College votes to whichever presidential candidate wins the national popular vote.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:28:51+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2019/04/RTX2VQID-1024x683.jpg"
-    },
-    {
-      "id": "04b6b31b015d4200",
-      "title": "'A Matter of Hope' shines light on social entrepreneurs tackling big issues",
-      "link": "https://www.pbs.org/newshour/show/a-matter-of-hope-shines-light-on-social-entrepreneurs-tackling-big-issues",
-      "summary": "Jim Bildner is the CEO of the Draper Richards Kaplan Foundation, one of the world's largest venture philanthropy organizations. It finds and funds entrepreneurs tackling big issues from health care access to clean water initiatives. In his new book, \"A Matter of Hope,\"...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T23:25:47+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/amatterofhope-1024x576.jpg"
-    },
-    {
-      "id": "361ab24f303abd76",
-      "title": "Suspect in Central Park rapes arrested working at Miami Burger King",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/nyc-central-park-rapes-arrest/3371794351323/",
-      "summary": "A man suspected of sexually assaulting three women in New York City's Central Park was arrested while working at a Burger King in Florida.",
-      "source": "UPI",
-      "published": "2026-11-10T23:14:29+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3371794351323/2026/i/17943516343094/v1.2/Suspect-in-Central-Park-rapes-arrested-working-at-Miami-Burger-King.jpg"
-    },
-    {
-      "id": "8ee57841ba8e2606",
-      "title": "Appeals court upholds restoration of Voice of America director",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/court-upholds-voice-of-america-director-restoration/1601794351444/",
-      "summary": "A federal appeals court panel ruled Tuesday to restore Voice of America director Michael Abramowitz to his role despite an attempt to oust him.",
-      "source": "UPI",
-      "published": "2026-11-10T23:11:08+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/1601794351444/2026/upi/5c1be4fbabde65ee4d0b70fdc7635c27/v1.2/Appeals-court-upholds-restoration-of-Voice-of-America-director.jpg"
-    },
-    {
-      "id": "a6ab8f2b3a26a574",
-      "title": "'The time is now for change.' Bernie Sanders won't support Schumer for Senate Democratic leader",
-      "link": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader",
-      "summary": "The demand for change sets up a seismic confrontation after the party's sweep to power in the midterm elections.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T22:26:53+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-08-28T173259Z_1374134239_RC2T7NAPFT7M_RTRMADP_3_USA-ELECTION-MARCH-1024x683.jpg"
-    },
-    {
-      "id": "89c76a1eab895c87",
-      "title": "Thomas Markle release challenged after alleged ankle monitor violation",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/florida-thomas-markle-ankle-monitor-child-pornography/8971794348213/",
-      "summary": "Thomas Markle, the father of Meghan Markle, was accused of cutting off his electronic ankle monitor while awaiting trial on child porn charges.",
-      "source": "UPI",
-      "published": "2026-11-10T22:17:04+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8971794348213/2026/upi/5c1be4fbabde65ee4d0b70fdc7635c27/v1.2/Thomas-Markle-release-challenged-after-alleged-ankle-monitor-violation.jpg"
-    },
-    {
-      "id": "34f856d3ac66df9c",
-      "title": "U.S. charges 3 men with plotting terror attacks, including planned assault on UK airbase",
-      "link": "https://www.pbs.org/newshour/nation/u-s-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-airbase",
-      "summary": "U.S. Attorney Jamie McDonald said that one of the suspects, who was arrested in the spring, continued to coordinate with his co-defendants in the days leading up to the attempted September terrorist plot,",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T22:11:47+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-27T081420Z_1758211139_RC2KRNAFTMLU_RTRMADP_3_BRITAIN-USA-FAIRFORD-1024x683.jpg"
-    },
-    {
-      "id": "6dae0f0e211c5565",
-      "title": "Sanders won't back Schumer as Democratic leader",
-      "link": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/",
-      "summary": "Sen. Bernie Sanders said Tuesday he won't support Sen. Chuck Schumer as Democratic leader in the new Congress, becoming the most prominent progressive to oppose his candidacy to date.",
-      "source": "CBS News",
-      "published": "2026-11-10T22:00:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/86604167-daa1-46ad-b788-85c59c6933a2/thumbnail/1200x630g2/99ded82ff07dcf9e80d0d2523ecf7d10/gettyimages-2276725711.jpg"
-    },
-    {
-      "id": "0016a4dc7b4cd50c",
-      "title": "US charges 3 men with plotting terror attacks, including planned assault on UK airbase",
-      "link": "https://abcnews.com/US/wireStory/us-charges-3-men-plotting-terror-attacks-including-138024962",
-      "summary": "U.S. authorities have charged three men with plotting a campaign of nearly 20 attacks targeting Jewish communities in Europe and the U.S., along with a British military base, RAF Fairford",
-      "source": "ABC News",
-      "published": "2026-11-10T21:34:34+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_b9c7812aeb1d74a2cfbc4c4df1431095_4x3_384.jpg"
-    },
-    {
-      "id": "5cef36b98983bd62",
-      "title": "USDA proposal could eliminate food assistance for 6.3M Americans",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/trump-SNAP-eligibility-restrictions/5071794344980/",
-      "summary": "The Trump administration proposed new restrictions on food stamp eligibility that could eliminate benefits for an estimated 6.3 million Americans.",
-      "source": "UPI",
-      "published": "2026-11-10T21:30:47+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5071794344980/2026/upi/e7e4195b2f1c4cb48495bda8c593e72d/v1.2/USDA-proposal-could-eliminate-food-assistance-for-63M-Americans.jpg"
-    },
-    {
-      "id": "39ad9fabb6e27fb9",
-      "title": "Gallup: Fewer than 50% of Americans support the death penalty",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/gallup-fewer-50-percent-americans-death-penalty/5601794343812/",
-      "summary": "A new Gallup poll said that 49% of adults in the United States are in favor of the death penalty, and 45% are opposed for the first time since 1971.",
-      "source": "UPI",
-      "published": "2026-11-10T21:12:24+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5601794343812/2026/upi/0bd5709f47d4080d38ea3100f962d26b/v1.2/Gallup-Fewer-than-50-of-Americans-support-the-death-penalty.jpg"
-    },
-    {
-      "id": "ea45c3a9d564df08",
-      "title": "Senate Republicans vote to keep Thune as leader after election wipeout",
-      "link": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
-      "summary": "Senate Republicans vented their frustrations in three separate meetings on Tuesday after an election wipeout that cost them at least seven Senate seats.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T21:05:55+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-10T002113Z_374316519_RC2NKOAA5BOG_RTRMADP_3_USA-CONGRESS-1024x683.jpg"
-    },
-    {
-      "id": "1208f6da89c044c2",
-      "title": "Here are some of the House seats that Democrats didn't expect to win &mdash; but did",
-      "link": "https://www.pbs.org/newshour/politics/here-are-some-of-the-house-seats-that-democrats-didnt-expect-to-win-but-did",
-      "summary": "Several new Democrats pulled off upset victories this year.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T20:52:28+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/fullepisode-1-1024x683.jpg"
-    },
-    {
-      "id": "a3f1eaf7c7a3d75d",
-      "title": "U.S. soldier arrested in Britain for allegedly spying for Russia",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/army-soldier-spy-russia-britain/4801794342461/",
-      "summary": "A senior U.S. soldier was arrested Tuesday in Britain on suspicion of leaking classified information to Russia, British authorities said.",
-      "source": "UPI",
-      "published": "2026-11-10T20:42:43+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4801794342461/2026/upi_com/a8ef7ea2fb6e06f01a763b398024b388/v1.2/US-soldier-arrested-in-Britain-for-allegedly-spying-for-Russia.jpg"
-    },
-    {
-      "id": "5ef0a6cd3a145aae",
-      "title": "Iran-backed terror suspects plotted attack on US troops using vans packed with fuel, DOJ says",
-      "link": "https://www.foxnews.com/us/iran-backed-terror-suspects-plotted-attack-us-troops-vans-packed-fuel-doj-says",
-      "summary": "A Justice Department indictment alleges three Iran-backed suspects used fuel-laden vans to target RAF Fairford, a British base housing U.S. troops.",
-      "source": "Fox News",
-      "published": "2026-11-10T20:25:12+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/iran-sharpen.jpeg?ve=1&tl=1"
-    },
-    {
-      "id": "08f20da22732be53",
-      "title": "24% of Americans with a credit record are behind on their debts",
-      "link": "https://www.cbsnews.com/news/americans-behind-on-debts-analysis/",
-      "summary": "More U.S. households are falling into debt as they grapple with medical bills, student loans and other expenses, data show.",
-      "source": "CBS News",
-      "published": "2026-11-10T20:14:49+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/5bd32e8f-c50d-4d44-a835-77d0aee1b25b/thumbnail/1200x630/93c4733dcd1cd47eec920e57f784f51d/gettyimages-1433614455.jpg"
-    },
-    {
-      "id": "e7dc96b5769a84cc",
-      "title": "Thomas Markle, father of Meghan, cut off his ankle monitor while awaiting hearing, DOJ says",
-      "link": "https://www.pbs.org/newshour/nation/thomas-markle-father-of-meghan-cut-off-his-ankle-monitor-while-awaiting-hearing-doj-says",
-      "summary": "First Assistant U.S. Attorney Bill Essayli says Markle was arrested shortly after he cut off the ankle bracelet at 1:45 a.m.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T20:11:16+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-06T181212Z_1149485228_RC2IIOAY19MI_RTRMADP_3_BRITAIN-ROYALS-MEGHAN-1024x683.jpg"
-    },
-    {
-      "id": "7526ca72b2d69ec1",
-      "title": "Ex-officer convicted of killing Sandra Birchmore to keep Massachusetts woman quiet about sex abuse",
-      "link": "https://abcnews.com/US/wireStory/officer-convicted-killing-sandra-birchmore-massachusetts-woman-quiet-138022999",
-      "summary": "A former Massachusetts police detective has been convicted of murdering a pregnant woman to keep her from revealing he had sexually abused her when she was 15",
-      "source": "ABC News",
-      "published": "2026-11-10T19:52:33+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_b85ebc6a8c50d8f1e53f016e890b88ab_4x3_384.jpg"
-    },
-    {
-      "id": "f0e18d0ef40d0a31",
-      "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
-      "link": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
-      "summary": "Jordan, who serves as chairman of the House Judiciary Committee, defeated Rep. Steve Scalise of Louisiana in a secret ballot election of Republicans who will serve in the next Congress.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T19:52:21+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-10T193142Z_783140848_RC24LOANA9BA_RTRMADP_3_USA-CONGRESS-REPUBLICANS-1024x683.jpg"
-    },
-    {
-      "id": "0886b42f474a59aa",
-      "title": "U.S. soldier arrested in Britain accused of espionage linked to Russia",
-      "link": "https://www.pbs.org/newshour/nation/u-s-soldier-arrested-in-britain-accused-of-espionage-linked-to-russia",
-      "summary": "Authorities suspect him of assisting a foreign intelligence service and obtaining or disclosing protected information.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-10T19:41:32+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-13T124005Z_1234673792_RC272OA4JH12_RTRMADP_3_RUSSIA-DAILYLIFE-1024x656.jpg"
-    },
-    {
-      "id": "ed345a788507c3f9",
-      "title": "Trump's Board of Peace criticizes Israel over Gaza flood response",
-      "link": "https://www.upi.com/Top_News/US/2026/11/10/trump-board-of-peace-gaza-israel/5031794336800/",
-      "summary": "President Donald Trump's Board of Peace on Tuesday criticized Israel's response to severe flooding in Gaza, calling its efforts insufficient.",
-      "source": "UPI",
-      "published": "2026-11-10T19:41:07+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5031794336800/2026/upi/610da55d4ed97ed143bd76a1ab05f11f/v1.2/Trumps-Board-of-Peace-criticizes-Israel-over-Gaza-flood-response.jpg"
     }
   ]
 }
