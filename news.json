@@ -1,6 +1,798 @@
 {
-  "last_updated": "2026-11-23T22:29:16.876467+00:00",
+  "last_updated": "2026-11-24T21:01:30.655798+00:00",
   "articles": [
+    {
+      "id": "4a14f6c596e9d111",
+      "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
+      "link": "https://abcnews.com/US/wireStory/alaska-ends-voter-data-agreement-justice-department-searching-138422801",
+      "summary": "A Republican official who oversees Alaska elections says she has ended an agreement in which the state shared its detailed voter registration list with the U.S. Department of Justice and allowed the agency to flag voters for removal",
+      "source": "ABC News",
+      "published": "2026-11-24T20:58:00+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_b3ba0862276b69469a4b72b433db1013_4x3_384.jpg"
+    },
+    {
+      "id": "4c4c5e82c29d1ebe",
+      "title": "Pentagon sharply criticizes Canada over modernizing military",
+      "link": "https://www.pbs.org/newshour/world/pentagon-sharply-criticizes-canada-over-modernizing-military",
+      "summary": "The Defense Department accused Ottawa of failing to make the tough decisions needed to modernize its military and meet NATO commitments.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T20:42:20+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/social-share.jpg"
+    },
+    {
+      "id": "6bc19aeb767702b4",
+      "title": "Justice Department announces 800 arrests of scammers in crackdown",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/-justice-department-scammers-crackdown/8201795549582/",
+      "summary": "The Justice Department on Tuesday announced arrests of more than 800 people alleged to be working in criminal scam networks, a press release said.",
+      "source": "UPI",
+      "published": "2026-11-24T20:26:35+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/8201795549582/2026/upi/21cccae731270e788f33dc684288a020/v1.2/Justice-Department-announces-800-arrests-of-scammers-in-crackdown.jpg"
+    },
+    {
+      "id": "3be9bff69981191f",
+      "title": "Wendy's \"pricing scheme\" inflated menu prices, lawsuit alleges",
+      "link": "https://www.cbsnews.com/news/wendys-class-action-lawsuit-dynamic-pricing/",
+      "summary": "In a proposed class action, a California resident alleges that Wendy's conspired with its franchisees to set and raise menu prices.",
+      "source": "CBS News",
+      "published": "2026-11-24T20:19:43+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/975a0ec0-3eff-401d-bc4f-65e6c8224473/thumbnail/1200x630/c8da7665c3b15d60ada625fec6b8ebf3/gettyimages-2290040952.jpg"
+    },
+    {
+      "id": "fda002e34a62dcc4",
+      "title": "Trump presents Rudy Giuliani with Presidential Medal of Freedom",
+      "link": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/",
+      "summary": "Rudy Giuliani, the former mayor of New York City who worked as a personal lawyer to President Trump, said he will be honored in the Oval Office.",
+      "source": "CBS News",
+      "published": "2026-11-24T20:16:27+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/edf7d73f-b506-4db2-87c4-e79e3d297621/thumbnail/1200x630/38ed9629b0b4e8500c7e2d4504472bba/gettyimages-2286280485.jpg"
+    },
+    {
+      "id": "527db56039292a29",
+      "title": "Australia set to pass online safety laws with multibillion-dollar fines for tech giants",
+      "link": "https://www.pbs.org/newshour/world/australia-set-to-pass-online-safety-laws-with-multibillion-dollar-fines-for-tech-giants",
+      "summary": "The Australian government clinched a political deal on Tuesday to introduce online safety laws that could expose tech giants to multibillion-dollar fines for failing to prevent foreseeable online harms.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T20:10:42+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2025-11-24T010244Z_798894054_RC28WHAVPA5U_RTRMADP_3_AUSTRALIA-SOCIALMEDIA-CONTENTCREATORS-1024x683.jpg"
+    },
+    {
+      "id": "48e905c7a1bf6c99",
+      "title": "Democrats supporting abortion rights won big in midterms, but vast changes unlikely soon",
+      "link": "https://www.pbs.org/newshour/politics/democrats-supporting-abortion-rights-won-big-in-midterms-but-vast-changes-unlikely-soon",
+      "summary": "States with bans will still have enough Republicans in power to likely block any repeal attempts for now.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T19:53:41+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2025-06-26T175929Z_923566232_RC2HAFA19O4L_RTRMADP_3_USA-COURT-1024x683.jpg"
+    },
+    {
+      "id": "982131fd3d7f0fa5",
+      "title": "Microsoft declares 'Code Red' after historic service outage",
+      "link": "https://www.foxnews.com/us/microsoft-declares-code-red-historic-service-outage",
+      "summary": "Microsoft declared a &quot;Code Red&quot; after a historic 24-hour outage hit most of its 420 to 450 million users that wa blamed on a Windows scalability defect.",
+      "source": "Fox News",
+      "published": "2026-11-24T19:47:52+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/microsoft-headquarters.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "ac5a44d44326f854",
+      "title": "Can Jensen Huang put out the fire he started at Nvidia?",
+      "link": "https://www.cbsnews.com/news/nvidia-jensen-huang-challenges/",
+      "summary": "Despite Jensen Huang's shock return as Nvidia's CEO, experts say it's anything but business as usual for the chipmaker.",
+      "source": "CBS News",
+      "published": "2026-11-24T19:42:57+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/ebdb75ea-29cc-4bd6-9226-1ab67384d123/thumbnail/1200x630/959b0ad19981e90390a6b2ddaee100e3/gettyimages-2305495779.jpg"
+    },
+    {
+      "id": "549630b4e50cb823",
+      "title": "Lead azide explosion scheduled for Wednesday morning, Army says",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/lead-azide-explotion/5231795546509/",
+      "summary": "The U.S. Army will detonate 5 tons of lead azide at the Iowa Army Ammunition Plant at 9 a.m. Wednesday in Iowa, officials said at a press conference.",
+      "source": "UPI",
+      "published": "2026-11-24T19:36:20+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/5231795546509/2026/upi_com/a0be39cf70621d85dca8800937c7dd56/v1.2/Lead-azide-explosion-scheduled-for-Wednesday-morning-Army-says.jpg"
+    },
+    {
+      "id": "001ef07c2eb1b5a9",
+      "title": "Rep. Omar D.C. home search sought evidence going back to 1980",
+      "link": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
+      "summary": "The warrant application covers a 46-year period beginning in 1980, long before Omar was in Congress, according to newly released court records. The documents are heavily redacted, and no criminal charges are listed.",
+      "source": "CBS News",
+      "published": "2026-11-24T19:19:07+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/17/be5958b0-ebbf-49c0-91fb-8df981d8654e/thumbnail/1200x630/701137225dc1fea1261b5aa1fa22f686/gettyimages-2299336991.jpg"
+    },
+    {
+      "id": "caccf393eae6d160",
+      "title": "Chinese neuroscientist at Princeton held by ICE after detention at D.C. airport",
+      "link": "https://www.pbs.org/newshour/nation/chinese-neuroscientist-at-princeton-held-by-ice-after-detention-at-d-c-airport",
+      "summary": "The Department of Homeland Security says Xie overstayed her visa and did not have authorization to study in the U.S. Xie's lawyer says she has a pending asylum application.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T18:54:56+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-23T234623Z_763220403_RC2YTOAGTQ7C_RTRMADP_3_USA-IMMIGRATION-PRINCETON-1024x683.jpg"
+    },
+    {
+      "id": "456c70c98809a651",
+      "title": "Experts say failed climate talks could worsen inequality, but progress not stalled",
+      "link": "https://www.pbs.org/newshour/science/experts-say-failed-climate-talks-could-worsen-inequality-but-progress-not-stalled",
+      "summary": "Dozens of nations objected to the summit's final text because it didn't mention fossil fuels that drive climate change or increase financial help for poorer countries.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T18:29:25+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-20T173517Z_688994631_RC2SROAC08J8_RTRMADP_3_CLIMATE-COP31-1024x683.jpg"
+    },
+    {
+      "id": "f0f03d87ce07ac59",
+      "title": "West Coast king tides could break decades-old records and flood communities",
+      "link": "https://www.pbs.org/newshour/nation/west-coast-king-tides-could-break-decades-old-records-and-flood-communities",
+      "summary": "In the San Francisco Bay Area, tides could reach 2.6 feet above normal Tuesday before peaking Wednesday at 2.8 feet above normal, said Dial Hoang, a National Weather Service forecaster.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T18:25:59+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-24T172511Z_1992895764_RC2HUOAJCINO_RTRMADP_3_USA-WEATHER-1024x683.jpg"
+    },
+    {
+      "id": "31f246918f3bb043",
+      "title": "Storms on both coasts threaten Thanksgiving travel for millions",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/thanksgiving-travel-disruptions/4411795541535/",
+      "summary": "Powerful storms threatening both U.S. coasts could disrupt travel for millions in what might be the busiest Thanksgiving travel week in 16 years.",
+      "source": "UPI",
+      "published": "2026-11-24T18:16:36+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4411795541535/2026/upi/3cd076d475a07fe5a4bc8009f99a01cf/v1.2/Storms-on-both-coasts-threaten-Thanksgiving-travel-for-millions.jpg"
+    },
+    {
+      "id": "b9fdf486b9832ae2",
+      "title": "Will wind ground your favorite balloon in Macy's Thanksgiving Day Parade?",
+      "link": "https://www.pbs.org/newshour/arts/will-wind-ground-your-favorite-balloon-in-macys-thanksgiving-day-parade",
+      "summary": "Local officials are wary of the balloons getting blown off course and into spectators. Macy's says it'll make the decision Thursday morning.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T18:13:14+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2025-11-27T155009Z_1319206777_RC225IASVYUC_RTRMADP_3_USA-THANKSGIVING-PARADE-1024x683.jpg"
+    },
+    {
+      "id": "799735b760316562",
+      "title": "Pacific Coast king tides could break decades-old records and flood communities",
+      "link": "https://abcnews.com/US/wireStory/pacific-coast-king-tides-break-decades-records-flood-138401520",
+      "summary": "High tides along the Pacific Coast could break records and flood low-lying areas, complicating travel during Thanksgiving week",
+      "source": "ABC News",
+      "published": "2026-11-24T18:02:17+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_a770ac04481a2d7fae4838add07ef61a_4x3_384.jpg"
+    },
+    {
+      "id": "b2e2e3214cb08c65",
+      "title": "Trump will give Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11",
+      "link": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
+      "summary": "As President Donald Trump's personal lawyer, he was a central figure in efforts to overturn Trump's 2020 presidential election loss to Democrat Joe Biden.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T17:53:38+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2025-09-11T121759Z_1893912299_RC2OPGA4WZ3R_RTRMADP_3_USA-SEPT11-NEW-YORK-1024x683.jpg"
+    },
+    {
+      "id": "50821645de4c376e",
+      "title": "Rep. Raskin expands investigation into Donald Trump Jr.'s investment firm",
+      "link": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+      "summary": "A top House Democrat is broadening his investigation into Donald Trump Jr.'s venture capital fund 1789 Capital by demanding records from four companies that secured an investment before benefiting from lucrative federal contracts or policies.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T17:13:02+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-02T160743Z_487907113_RC2QFOAGSJ6X_RTRMADP_3_USA-VANCE-1024x683.jpg"
+    },
+    {
+      "id": "b373874dcdc08350",
+      "title": "Army to detonate unstable explosives in Iowa Wednesday morning",
+      "link": "https://www.cbsnews.com/news/army-iowa-explosives-trump-appeals-court/",
+      "summary": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
+      "source": "CBS News",
+      "published": "2026-11-24T17:10:31+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/92eabf07-5631-4d13-bd7d-555571190eb6/thumbnail/1200x630/dc5fac32e6d2d81a3d442048e904db52/ap26322823699168.jpg"
+    },
+    {
+      "id": "b31260b4e6f74514",
+      "title": "Trump to award Rudy Giuliani Presidential Medal of Freedom",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/trump-giuliani-medal-of-freedom/1291795538036/",
+      "summary": "President Donald Trump is set to award Rudy Giuliani the nation's highest civilian honor, the Presidential Medal of Freedom, on Tuesday.",
+      "source": "UPI",
+      "published": "2026-11-24T17:10:26+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1291795538036/2026/upi/7ed47d431051390b1e8c6237c007f938/v1.2/Trump-to-award-Rudy-Giuliani-Presidential-Medal-of-Freedom.jpg"
+    },
+    {
+      "id": "5a43b7360580066b",
+      "title": "2 men arrested over suspected burglary at Prince William and Kate's country home",
+      "link": "https://www.pbs.org/newshour/world/2-men-arrested-over-suspected-burglary-at-prince-william-and-kates-country-home",
+      "summary": "Police said that \"the property was unoccupied at the time of the incident.\"",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T16:37:03+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T143230Z_240278145_RC2QPOAGV6X2_RTRMADP_3_BRITAIN-ROYALS-WILLIAM-KATE-1024x667.jpg"
+    },
+    {
+      "id": "6c8d61bfdb2eff2a",
+      "title": "Rep. Jamie Raskin probes Donald Trump Jr.'s political pull around investment firm",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/jamie-raskin-probe-donald-trump-jr-1789-capital/2801795536626/",
+      "summary": "Democrats, led by Rep. Jamie Raskin, D-Md., have ramped up an investigation of 1789 Capital, the company where Donald Trump Jr. is a partner.",
+      "source": "UPI",
+      "published": "2026-11-24T16:34:47+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/2801795536626/2026/upi/e9e860dff33095f8c8ddcf8e2c8e7413/v1.2/Raskin-probes-Donald-Trump-Jrs-political-pull-around-investment-firm.jpg"
+    },
+    {
+      "id": "a130ead4835ab127",
+      "title": "Illegal alien with lengthy rap sheet charged in home invasion murder of woman, 62, day after no-bail release",
+      "link": "https://www.foxnews.com/us/illegal-alien-lengthy-rap-sheet-charged-home-invasion-murder-woman-62-day-after-no-bail-release",
+      "summary": "Alexander Florentino was charged in the murder of Jin Yu inside her New York City Chinatown apartment a day after a judge released him without bail.",
+      "source": "Fox News",
+      "published": "2026-11-24T16:31:26+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Florentino-2_001.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "baec4ce1a5638293",
+      "title": "Federal court releases Rep. Ilhan Omar D.C. home raid documents",
+      "link": "https://www.cbsnews.com/news/congresswoman-ilhan-omar-house-raid-documents-release/",
+      "summary": "A federal court on Monday evening released documents regarding last month's raid at the Washington, D.C. home of Democratic Minnesota U.S. Rep. Ilhan Omar.",
+      "source": "CBS News",
+      "published": "2026-11-24T16:29:17+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/a881e000-d5c2-435b-be5f-7f9213cba12d/thumbnail/1200x630/a1f1f525e37771d6654fc7d76d18579d/gettyimages-2299437924.jpg"
+    },
+    {
+      "id": "d26be22d40b61722",
+      "title": "Trump's intervention on behalf of Jensen Huang gives Democrats more 2028 campaign fuel",
+      "link": "https://www.pbs.org/newshour/politics/trumps-intervention-on-behalf-of-jensen-huang-gives-democrats-more-2028-campaign-fuel",
+      "summary": "Still euphoric over their sweeping midterm victories, many ambitious Democrats are still feeling around for the right message on artificial intelligence, which carries both promise and peril as it becomes increasingly intertwined with the economy, infrastructure and daily life.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T16:12:37+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-10T210029Z_2032364386_RC28LOAPTBF6_RTRMADP_3_USA-CONGRESS-1024x683.jpg"
+    },
+    {
+      "id": "a9f846e273fcbedb",
+      "title": "Body washed ashore in Oregon identified as former city councilor missing since September plane crash",
+      "link": "https://www.foxnews.com/us/body-washed-ashore-oregon-identified-former-city-councilor-missing-september-plane-crash",
+      "summary": "Human remains that washed ashore on the Oregon coast were identified as Ralph H. Busby III, whose plane crashed into the Pacific Ocean in September.",
+      "source": "Fox News",
+      "published": "2026-11-24T16:04:40+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/ralph-busby-newport-oregon.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "97acae8059808098",
+      "title": "Marathoner asked husband about ‘powdery’ water before fatal fall – then police found his Google searches",
+      "link": "https://www.foxnews.com/us/marathoner-asked-husband-powdery-water-before-fatal-fall-police-found-google-searches",
+      "summary": "Benjamin Angus Carpenter faces first-degree intentional homicide in wife Erica Carpenter&apos;s death as prosecutors cite texts about &quot;powdery&quot; water.",
+      "source": "Fox News",
+      "published": "2026-11-24T16:01:33+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Marathoner-Death-004.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "76811889fb4aff38",
+      "title": "Records show how DOJ, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+      "link": "https://www.pbs.org/newshour/politics/records-show-how-doj-judge-debated-constitutional-implications-of-searching-rep-ilhan-omars-home",
+      "summary": "The unsealed filings show that U.S. Magistrate Judge Matthew Sharbaugh — before authorizing the search of Omar's home — raised concerns about the \"Speech or Debate Clause\" implications of searching a private residence belonging to a member of Congress.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T15:56:52+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-10-12T171510Z_718622518_RC2NAJASDIMF_RTRMADP_3_USA-ELECTION-MINNESOTA-OMAR-1024x680.jpg"
+    },
+    {
+      "id": "52562d0ae94d1521",
+      "title": "Meet Sighle Williams, a beloved drive-thru worker and star of a new Netflix documentary",
+      "link": "https://www.cbsnews.com/video/meet-sighle-williams-a-beloved-drive-thru-worker-and-star-of-a-new-netflix-documentary/",
+      "summary": "Sighle Williams, the star of the Netflix short documentary \"One Last Order,\" which comes out Tuesday, joins \"CBS Mornings\" to talk about her community impact after working 37 years at Mac's Drive Thru in Gainesville, Florida.",
+      "source": "CBS News",
+      "published": "2026-11-24T15:49:08+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/5b5f5cda-8db0-425e-853f-d9d1f8a7cfba/thumbnail/1200x630/86abf542da6ab133f36fb7626e17eb80/cbsn-fusion-meet-sighle-williams-a-beloved-drive-thru-worker-and-star-of-a-new-netflix-documentary-thumbnail.jpg"
+    },
+    {
+      "id": "1df70d1e60f449ec",
+      "title": "Lindsay Clancy prosecutors ask court to delay her retrial in children's stranglings",
+      "link": "https://www.foxnews.com/us/lindsay-clancy-prosecutors-ask-court-delay-retrial-childrens-stranglings",
+      "summary": "Plymouth County prosecutors are asking the state&apos;s highest court to pause Lindsay Clancy&apos;s March retrial while her double jeopardy appeal plays out.",
+      "source": "Fox News",
+      "published": "2026-11-24T15:47:37+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lindsay-clancy-trial-17-august-016.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "cd1e6ad300ba74f2",
+      "title": "California dad falls 500 feet to his death after saving son on icy mountain trail",
+      "link": "https://www.foxnews.com/us/california-dad-falls-500-feet-his-death-after-saving-son-icy-mountain-trail",
+      "summary": "Guillermo Batres, 44, fell about 500 feet on Mount Baden-Powell after rescuing his son, leaving family grieving as a GoFundMe nears $25,000.",
+      "source": "Fox News",
+      "published": "2026-11-24T15:42:30+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/batres-on-mountain.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "91b1e5479183d31c",
+      "title": "Francis' private diary reveals pope grappling with spiritual crisis and encounters with the devil",
+      "link": "https://www.pbs.org/newshour/nation/francis-private-diary-reveals-pope-grappling-with-spiritual-crisis-and-encounters-with-the-devil",
+      "summary": "Pope Francis saw the \"gates of hell\" when he realized the depths of the clergy sexual abuse scandal and experienced mystical visions of the devil throughout his ministry, according to excerpts of his personal diary published Tuesday by the Vatican.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T15:40:12+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2018-01-22T134707Z_229347543_RC1934109CF0_RTRMADP_3_POPE-ABUSE-1024x683.jpg"
+    },
+    {
+      "id": "c9d3d255837f5c18",
+      "title": "Forgot to grab wine for Thanksgiving? Here are some last-minute options, according to an expert",
+      "link": "https://www.cbsnews.com/video/forgot-to-grab-wine-for-thanksgiving-here-are-some-last-minute-options-according-to-a-wine-expert/",
+      "summary": "Ray Isle, the wine editor at \"Food & Wine,\" joins \"CBS Mornings\" to share his favorite affordable picks for a last-minute wine run ahead of Thanksgiving.",
+      "source": "CBS News",
+      "published": "2026-11-24T15:29:36+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/41f6a4a6-a9a8-4e4b-a0c6-5e6995ec25fb/thumbnail/1200x630/0809f79f7c04270a1423361afc1ee339/cbsn-fusion-forgot-to-grab-wine-for-thanksgiving-here-are-some-last-minute-options-according-to-a-wine-expert-thumbnail.jpg"
+    },
+    {
+      "id": "90af2fb6a265cfda",
+      "title": "Alleged drunken driver was over 3 times the limit when he killed newly engaged woman days after jail release",
+      "link": "https://www.foxnews.com/us/alleged-drunken-driver-over-3-times-limit-killed-newly-engaged-woman-days-after-jail-release",
+      "summary": "Diego Arreola faces DUI manslaughter charges after police say he caused a fatal chain-reaction crash on Tampa&apos;s Courtney Campbell Causeway while drunk.",
+      "source": "Fox News",
+      "published": "2026-11-24T15:26:05+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/suspect-accused-of-deadly-DUI-was3-times-legal-limit-police-say.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "4c0e4bd282c6c136",
+      "title": "Controlled Iowa munitions detonation better than ‘worst-case scenario,’ acting Army secretary says",
+      "link": "https://www.foxnews.com/us/controlled-iowa-munitions-detonation-better-than-worst-case-scenario-acting-army-secretary-says",
+      "summary": "Federal officials said scheduling the mitigated blast before Wednesday evening snow prevents cold temperatures from creating more unstable crystals that could trigger a spontaneous explosion.",
+      "source": "Fox News",
+      "published": "2026-11-24T15:25:49+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/iowa-munitions.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "ff983a2186b62bb1",
+      "title": "Why Trump believed he needed to get Jensen Huang back on top at Nvidia",
+      "link": "https://www.pbs.org/newshour/politics/why-trump-believed-he-needed-to-get-jensen-huang-back-on-top-at-nvidia",
+      "summary": "The president has staked the nation's economic growth on artificial intelligence.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T15:18:48+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-24T014215Z_1277962467_RC27ZNA9W5NV_RTRMADP_3_NVIDIA-CEO-RETURN-1024x683.jpg"
+    },
+    {
+      "id": "f644cab029a9d1b1",
+      "title": "How working caregivers can take care of themselves",
+      "link": "https://www.cbsnews.com/video/how-working-caregivers-can-take-care-of-themselves/",
+      "summary": "Candace Dellacona, an estates and trust lawyer who hosts the podcast \"The Sandwich Generation Survival Guide,\" joins \"CBS Mornings\" to discuss how working caregivers can take care of themselves.",
+      "source": "CBS News",
+      "published": "2026-11-24T15:15:54+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/9215afaa-1ff2-4c0c-a9e7-a1ebcddf937e/thumbnail/1200x630/a538b8b5bffc4cdc3b6a7cc906be5709/cbsn-fusion-how-working-caregivers-can-take-care-of-themselves-thumbnail.jpg"
+    },
+    {
+      "id": "38f926ab448c4068",
+      "title": "Here's how one robotaxi company is working to avoid accidents",
+      "link": "https://www.cbsnews.com/video/heres-how-one-robotaxi-company-is-working-to-avoid-accidents/",
+      "summary": "Kris Van Cleave looks at how Nuro, a new autonomous vehicle company, tests their cars to avoid accidents and traffic jams.",
+      "source": "CBS News",
+      "published": "2026-11-24T15:09:49+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/7e1689d2-f664-4357-a77d-766e96c356fb/thumbnail/1200x630/3604dff415921047d182ee53733f3a15/cbsn-fusion-heres-how-one-robotaxi-company-is-working-to-avoid-accidents-thumbnail.jpg"
+    },
+    {
+      "id": "c46d9ec1eac7bf54",
+      "title": "WATCH: Trump holds 2026 White House turkey pardon with Freedom and Feathers",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-2026-white-house-turkey-pardon-with-freedom-and-feathers",
+      "summary": "Both birds will get a reprieve from ending up on a Thanksgiving dinner table, but only one of them will get a ceremonial pardon at the White House.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T14:56:08+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-24T194241Z_2044434528_RC2JUOAK9XS3_RTRMADP_3_USA-TRUMP-1024x699.jpg"
+    },
+    {
+      "id": "381bf0a3eaa4ff4f",
+      "title": "\"We're racing towards huge dangers,\" AI pioneer Yoshua Bengio says",
+      "link": "https://www.cbsnews.com/news/ai-yoshua-bengio-warns-dangers-artificial-intelligence/",
+      "summary": "As one of the \"godfathers\" of artificial intelligence, Yoshua Bengio helped bring generative AI into the world. Now he worries society isn't ready for what's coming.",
+      "source": "CBS News",
+      "published": "2026-11-24T14:50:33+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/aa5b81df-bd6d-44df-be35-e2a23b98b8b9/thumbnail/1200x630/cd9521ea8672fbb6f1eebf8cefcd7e2c/yoshua-bengio-headshot-2026-1.jpg"
+    },
+    {
+      "id": "c9ee6053d1e4610b",
+      "title": "Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review",
+      "link": "https://abcnews.com/US/wireStory/pentagon-sharply-rebukes-canada-defense-spending-35-fighter-138393776",
+      "summary": "The Pentagon has accused Canada of falling short as a credible partner in defending North America, delivering a sharp rebuke to its longtime ally over military spending and its reconsideration of American-made F-35 fighter jets",
+      "source": "ABC News",
+      "published": "2026-11-24T14:50:14+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_2ce983323fc56d21db88db5401422fde_4x3_384.jpg"
+    },
+    {
+      "id": "c851bd27132c980e",
+      "title": "Judge who issued search warrant against Ilhan Omar demanded safeguards",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/judge-demanded-safeguards-ilhan-Omar/7651795529303/",
+      "summary": "A judge demanded that prosecutors create safeguards to protect the Speech and Debate Clause of the Constitution in search warrant of Rep. Ilhan Omar.",
+      "source": "UPI",
+      "published": "2026-11-24T14:26:27+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7651795529303/2026/upi/46aefb8f02efcbf2f3f9508e5919ed71/v1.2/Judge-who-issued-search-warrant-against-Ilhan-Omar-demanded-safeguards.jpg"
+    },
+    {
+      "id": "452b2ea110f604d5",
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "summary": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
+      "source": "NPR",
+      "published": "2026-11-24T14:24:04+00:00",
+      "image": null
+    },
+    {
+      "id": "701e55e26d24293b",
+      "title": "Army set to detonate toxic lead in Iowa",
+      "link": "https://www.cbsnews.com/video/army-set-to-detonate-toxic-lead-in-iowa/",
+      "summary": "The Army is planning to detonate nearly 10,000 pounds of toxic lead azide in Iowa after getting approval from an appeals court. Ian Lee reports.",
+      "source": "CBS News",
+      "published": "2026-11-24T14:22:04+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/3a8afb7d-9248-4006-b070-1e4a3bd6f3f8/thumbnail/1200x630/100b3724e9e19f79a04ce504f57786a5/cbsn-fusion-army-set-to-detonate-toxic-lead-in-iowa-thumbnail.jpg"
+    },
+    {
+      "id": "3001bbf518078bd6",
+      "title": "What Jensen Huang's Nvidia return means for the economy",
+      "link": "https://www.cbsnews.com/video/what-jensen-huangs-nvidia-return-means-for-the-economy/",
+      "summary": "The announcement of Jensen Huang's return to Nvidia immediately impacted the markets on Tuesday. Kelly O'Grady and The Atlantic CEO Nick Thompson break it down.",
+      "source": "CBS News",
+      "published": "2026-11-24T14:15:50+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/abb51534-bf8e-47cf-8390-b18960a1e652/thumbnail/1200x630/eaedc1a19fe13181811263e5aaf09109/cbsn-fusion-what-jensen-huangs-nvidia-return-means-for-the-economy-thumbnail.jpg"
+    },
+    {
+      "id": "71d67b2cf00f9e4d",
+      "title": "Jensen Huang promises to be a better CEO after Nvidia reinstatement",
+      "link": "https://www.cbsnews.com/video/jensen-huang-promises-to-be-better-ceo-after-nvidia-reinstatement/",
+      "summary": "Jensen Huang was welcomed back to the Nvidia headquarters on Monday after his reinstatement; meanwhile, the stock market soared. Jo Ling Kent has reports.",
+      "source": "CBS News",
+      "published": "2026-11-24T14:11:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/bf088700-5a11-4e9f-922b-ddcefb2372ac/thumbnail/1200x630/2c4f5fd7b26959bb73aa39e12a870e6e/cbsn-fusion-jensen-huang-promises-to-be-better-ceo-the-second-time-after-nvidia-reinstatement-thumbnail.jpg"
+    },
+    {
+      "id": "32c081167ade4d53",
+      "title": "Our correspondent got an inside look at how Delta deals with flight delays. Here's what he learned.",
+      "link": "https://www.cbsnews.com/video/our-correspondent-got-an-inside-look-at-how-delta-deals-with-flight-delays-heres-what-he-learned/",
+      "summary": "Kris Van Cleave gets an inside look at how Delta Air Lines deals with flight delays ahead of the Thanksgiving travel rush.",
+      "source": "CBS News",
+      "published": "2026-11-24T13:41:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/2afd6bf4-a168-41d7-85eb-6a9e206ae433/thumbnail/1200x630/46d7852327941ccc383620cdb832faba/1795527645485.png"
+    },
+    {
+      "id": "ff06ed2148b41c6b",
+      "title": "Ex-NVIDIA partner Megaspeed hit with U.S. Commerce Department export ban",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+      "summary": "Megaspeed, the Singaporean firm at the center of the NVIDIA-Jensen Huang controversy, has been placed on a \"national security\" blacklist.",
+      "source": "UPI",
+      "published": "2026-11-24T13:39:51+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/1701795520063/2026/upi_com/47238635fc405392d8b8beb7fb8b860d/v1.2/Ex-NVIDIA-partner-Megaspeed-hit-with-US-Commerce-Department-export-ban.jpg"
+    },
+    {
+      "id": "1b2287a45719765a",
+      "title": "Huang's return at Nvidia puts spotlight on chipmaker's board",
+      "link": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/",
+      "summary": "Nvidia directors' decision to rehire Jensen Huang shows a \"lack of courage,\" according to one prominent governance expert.",
+      "source": "CBS News",
+      "published": "2026-11-24T13:35:58+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/2522d412-07ea-475d-87b2-3f4d1af2aade/thumbnail/1200x630/e940d153b1317c7b5036387a0a3c5774/gettyimages-2306068086.jpg"
+    },
+    {
+      "id": "d5f2f4811fb4aada",
+      "title": "Army plans to detonate Iowa stockpile on Wednesday, tells public there's no reason to panic",
+      "link": "https://www.pbs.org/newshour/nation/getting-court-approval-u-s-army-to-detonate-degraded-bomb-making-material-in-iowa-on-wednesday",
+      "summary": "The detonation of 68 barrels of lead azide was initially planned for last Friday, but the Army has since changed the date three times following an outpouring of public concern about potential health and environmental effects.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T13:34:10+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-23T190558Z_2085947987_RC2TTOAIMFFJ_RTRMADP_3_IOWA-ARMY-DETONATION-1024x683.jpg"
+    },
+    {
+      "id": "0bec212713dbbc8e",
+      "title": "Severe storms threaten Thanksgiving travel",
+      "link": "https://www.cbsnews.com/video/severe-storms-threaten-thanksgiving-travel/",
+      "summary": "Severe storms on both coasts are threatening holiday travel plans. Meanwhile, California residents are racing against record-high tides. Carter Evans reports.",
+      "source": "CBS News",
+      "published": "2026-11-24T13:27:09+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/1d536872-1031-4708-b495-c323e79b922f/thumbnail/1200x630/1b6062f3a7db328259e56b8fb360f5b1/cbsn-fusion-severe-storms-threaten-thanksgiving-travel-thumbnail.jpg"
+    },
+    {
+      "id": "4d2f94a40e7bcf8c",
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "summary": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
+      "source": "NPR",
+      "published": "2026-11-24T12:12:25+00:00",
+      "image": null
+    },
+    {
+      "id": "7a5de17604148aa7",
+      "title": "Unsealed Ilhan Omar warrant docs expose decades-long scope of probe into Democrat rep and more top headlines",
+      "link": "https://www.foxnews.com/us/unsealed-ilhan-omar-warrant-docs-expose-decades-long-scope-probe-democrat-rep-more-top-headlines",
+      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "source": "Fox News",
+      "published": "2026-11-24T11:55:03+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/ilhan-omar-raid-4.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "eb6b1c69c3bd5aa5",
+      "title": "What should it cost to insure a home in wildfire country?",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+      "summary": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+      "source": "NPR",
+      "published": "2026-11-24T11:30:00+00:00",
+      "image": null
+    },
+    {
+      "id": "7214df1137417103",
+      "title": "Ethanol plant worker caught with bomb files, batteries, map in plot that could have killed thousands: feds",
+      "link": "https://www.foxnews.com/us/ethanol-plant-worker-caught-bomb-files-batteries-map-plot-could-killed-thousands-feds",
+      "summary": "Andrew Kozak stays jailed until trial after prosecutors said bomb-making files and a map of the BioUrja Renewables plant were found on his hard drive.",
+      "source": "Fox News",
+      "published": "2026-11-24T11:00:53+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/a27a2505-ethanol-plant-biourja-kozak-split-001.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "8d5b32fb28683bf2",
+      "title": "Millions of Americans have medical debt. Experts worry the problem is about to get worse",
+      "link": "https://www.pbs.org/newshour/nation/millions-of-americans-have-medical-debt-experts-worry-the-problem-is-about-to-get-worse",
+      "summary": "Medical debt is increasingly a risk for people with health insurance, experts say.",
+      "source": "PBS NewsHour",
+      "published": "2026-11-24T11:00:17+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/medicaldebt-1024x683.jpg"
+    },
+    {
+      "id": "587796a0848ec0dd",
+      "title": "NYC Mayor Zohran Mamdami to undergo surgery on injured Achilles",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/Zohran-Mamdani-Friday-surgery/7991795485115/",
+      "summary": "New York City Mayor Zohran Mamdani said Monday that he would undergo surgery Friday morning to repair his torn Achilles tendon.",
+      "source": "UPI",
+      "published": "2026-11-24T10:41:40+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/7991795485115/2026/upi/e6a0884d73b57eeefe6c1462aea17a2e/v1.2/NYC-Mayor-Zohran-Mamdami-to-undergo-surgery-on-injured-Achilles.jpg"
+    },
+    {
+      "id": "7f1706667237c924",
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+      "summary": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "5a4894369ce62850",
+      "title": "They attended Trump's meme coin dinner.  It didn't go well",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+      "summary": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "353b9a380e51b1f2",
+      "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+      "summary": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "b7e4dc7f4250d265",
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+      "summary": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "2ea454409599cb65",
+      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+      "summary": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "25eb94bafb0065e7",
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "c997a1d4b5f21fe9",
+      "title": "Meet Colombia's fuzzy 'water guardians'",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+      "summary": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time.",
+      "source": "NPR",
+      "published": "2026-11-24T10:00:00+00:00",
+      "image": null
+    },
+    {
+      "id": "d6807d8f3464b4cb",
+      "title": "California man accused of making online threats against ICE agents: DOJ",
+      "link": "https://www.foxnews.com/us/california-man-accused-making-online-threats-ice-agents-doj",
+      "summary": "A California man was arrested after allegedly making social media threats against ICE agents and advocating for armed attacks on government facilities.",
+      "source": "Fox News",
+      "published": "2026-11-24T07:48:09+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/ice-agent-raid.png?ve=1&tl=1"
+    },
+    {
+      "id": "14ffcc0b910e01dd",
+      "title": "Nebraska Sen. Deb Fischer announces husband's death",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/Deb-Fischer-husband-dies/9591795504508/",
+      "summary": "Republican Sen. Deb Fischer of Nebraska said her husband, Bruce Fischer, has died.",
+      "source": "UPI",
+      "published": "2026-11-24T07:45:57+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9591795504508/2026/upi/612c3f845543a69f81988fd97392c76f/v1.2/Nebraska-Sen-Deb-Fischer-announces-husbands-death.jpg"
+    },
+    {
+      "id": "c82072ef6f7c4062",
+      "title": "Pennsylvania reports ninth measles-related death, fourth this month",
+      "link": "https://www.upi.com/Top_News/US/2026/11/24/Pennsylvania-ninth-measles-death/4771795500932/",
+      "summary": "Pennsylvania health officials have announced the state's ninth measles-related death",
+      "source": "UPI",
+      "published": "2026-11-24T06:49:35+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/4771795500932/2026/upi_com/d0e230470331c4579a6c09bacc5224e3/v1.2/Pennsylvania-reports-ninth-measles-related-death-fourth-this-month.jpg"
+    },
+    {
+      "id": "ac83de1f38b347c0",
+      "title": "How to make holiday travel less of an expensive hassle and get home safely",
+      "link": "https://abcnews.com/US/wireStory/make-holiday-travel-expensive-hassle-home-safely-138400630",
+      "summary": "The busiest week of the year for U.S. travel is getting off to a bumpy start",
+      "source": "ABC News",
+      "published": "2026-11-24T05:54:21+00:00",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "acb62e5efc0db21a",
+      "title": "A spokesperson says ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
+      "link": "https://abcnews.com/US/wireStory/spokesperson-ousted-bangladeshi-prime-minister-sheikh-hasina-plans-138398761",
+      "summary": "A spokesperson says ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from exile in India on Dec. 16",
+      "source": "ABC News",
+      "published": "2026-11-24T03:50:37+00:00",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "96450a63dbe54c1f",
+      "title": "Records: Government, judge debated constitutional implications of searching Rep. Ilhan Omar's home",
+      "link": "https://abcnews.com/US/wireStory/records-government-judge-debated-constitutional-implications-searching-rep-138398454",
+      "summary": "A magistrate judge who authorized a search of U.S. Rep. Ilhan Omar&rsquo;s home by federal agents has ruled that the Minnesota Democrat was entitled to assert her right to privacy protections afforded to sitting members of Congress at the outset of the search",
+      "source": "ABC News",
+      "published": "2026-11-24T03:40:48+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_c595095e8adb6559dc397619ba20a8c0_4x3_384.jpg"
+    },
+    {
+      "id": "d3f347cbd019d318",
+      "title": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
+      "link": "https://abcnews.com/US/wireStory/trump-targets-newsom-democrats-justice-department-speech-focused-138377257",
+      "summary": "President Donald Trump has condemned California Governor Gavin Newsom's decision to commute hundreds of death sentences",
+      "source": "ABC News",
+      "published": "2026-11-24T03:08:51+00:00",
+      "image": "https://s.abcnews.com/images/US/wirestory_5fff1865550ea7699667120234f2ebd4_4x3_384.jpg"
+    },
+    {
+      "id": "cc3346ba57539732",
+      "title": "Coast Guard boards 2 foreign ships bound for US amid reports of Iranian hacking probe",
+      "link": "https://www.foxnews.com/us/coast-guard-boards-2-foreign-ships-bound-us-ports-amid-reports-iran-hacking-probe",
+      "summary": "U.S. Coast Guard cyber teams boarded two foreign vessels in the Gulf of America after their networks were compromised by foreign cyber actors at sea.",
+      "source": "Fox News",
+      "published": "2026-11-24T03:07:21+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/coast-guard-drug-war.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "2b4b65e34075e586",
+      "title": "Newly elected Florida commissioner's son shot dead inside tent during camping trip",
+      "link": "https://www.foxnews.com/us/newly-elected-florida-commissioners-son-shot-dead-inside-tent-during-camping-trip",
+      "summary": "Local law enforcement is appealing for tips after a weekend camping trip along the Blackwater River ended in tragedy for a Florida official&apos;s family.",
+      "source": "Fox News",
+      "published": "2026-11-24T02:56:31+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/poltiicans-son-florida-escambia-county-died-camping.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "a15e8866b4807bbc",
+      "title": "Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says",
+      "link": "https://www.foxnews.com/us/army-sergeant-pleads-guilty-cashing-us-military-secrets-china-linked-plot-doj-says",
+      "summary": "Sgt. Jian Zhao faces up to 10 years in prison after pleading guilty to selling national defense information from Joint Base Lewis-McChord, prosecutors say.",
+      "source": "Fox News",
+      "published": "2026-11-24T02:48:51+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jian-zhao-army-sergeant-china-defense-information-plea.png?ve=1&tl=1"
+    },
+    {
+      "id": "e8eb5d6f20909958",
+      "title": "Trump attacks Newsom over death row commutations, governor fires back",
+      "link": "https://www.upi.com/Top_News/US/2026/11/23/trump-blasts-newsom-over-death-row-commutations/9011795482887/",
+      "summary": "On Monday, President Donald Trump blasted California Gov. Gavin Newsom for commuting the sentences of every inmate on the state's death row.",
+      "source": "UPI",
+      "published": "2026-11-24T01:49:28+00:00",
+      "image": "https://cdnph.upi.com/ph/st/th/9011795482887/2026/upi/2388e9b6a2b6ea0e3a797fee83b14b0e/v1.2/Trump-attacks-Newsom-over-death-row-commutations-governor-fires-back.jpg"
+    },
+    {
+      "id": "91aff7fcf5d85cf7",
+      "title": "Husband of woman arrested by ICE at airport calls it \"unjust\"",
+      "link": "https://www.cbsnews.com/news/ice-arrest-seattle-airport-husband/",
+      "summary": "Jose Castillo told CBS News he felt \"useless\" seeing his wife and father-in-law be taken into federal custody at Seattle-Tacoma International Airport.",
+      "source": "CBS News",
+      "published": "2026-11-24T01:49:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/24/677c451f-c084-43d5-89f8-58fb0a1311eb/thumbnail/1200x630/78d4356d40e7e8047a8a1b3d6491d8f4/20261123-mon0165-ice-plane-arrest-eve-pkg-montoya-galvez-frame-1740.jpg"
+    },
+    {
+      "id": "f48ddba8b97e4c55",
+      "title": "Four illegal immigrants among six arrested in Florida slaughterhouse torture case, AG says",
+      "link": "https://www.foxnews.com/us/four-illegal-immigrants-among-six-arrested-florida-slaughterhouse-torture-case-ag-says",
+      "summary": "Six workers at Ali Meat International, an Orlando halal slaughterhouse, face animal cruelty charges as four are held on ICE detainers, officials say.",
+      "source": "Fox News",
+      "published": "2026-11-24T01:30:29+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/james-uthmeier-ali-meat-animal-cruelty-arrests-press-conference.png?ve=1&tl=1"
+    },
+    {
+      "id": "ba283edac883cbbd",
+      "title": "Santa school: where his official helpers learn to embody Old Saint Nick",
+      "link": "https://www.cbsnews.com/video/santa-school-official-helpers-learn-embody-old-saint-nick/",
+      "summary": "Santa's official helpers are in training at the Charles H. Howard Santa School in Midland, Michigan. Hundreds of aspiring Saint Nicks and Mrs. Clauses gather every year at what's been called the Harvard of the trade. Tony Dokoupil has the story.",
+      "source": "CBS News",
+      "published": "2026-11-24T01:28:47+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/2aa8f610-eefc-48e9-92e9-0ecf3a4e7230/thumbnail/1200x630/b101279229d04c903bc70e49f045979c/cbsn-fusion-santa-school-official-helpers-learn-embody-old-saint-nick-thumbnail.jpg"
+    },
+    {
+      "id": "b03c872c23042b5e",
+      "title": "9th measles death recorded in Pennsylvania amid ongoing outbreak",
+      "link": "https://www.cbsnews.com/news/pennsylvania-measles-outbreak-death/",
+      "summary": "Pennsylvania's outbreak is the largest in the country​, with over 1,600 cases reported, and the deaths this year are the Keystone State's first from measles in 35 years.",
+      "source": "CBS News",
+      "published": "2026-11-24T01:26:00+00:00",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/a89c5a9f-eb1d-49e6-b155-082eb0558a42/thumbnail/1200x630/8f0c9060ae8560f7d2feefd105be69a3/gettyimages-2305918560.jpg"
+    },
+    {
+      "id": "d2549cc9551d7ba4",
+      "title": "A look at the measles outbreak in Pennsylvania as it reports 9th related death this year",
+      "link": "https://www.cbsnews.com/video/look-measles-outbreak-pennsylvania-reports-9th-related-deaths-this-year/",
+      "summary": "Measles cases are surging in the U.S., to the highest count it's seen in more than three decades. Pennsylvania has reported more than 1,600 confirmed cases and nine measles-related deaths in 2026 so far. Lilia Luciano reports from Lancaster County.",
+      "source": "CBS News",
+      "published": "2026-11-24T01:22:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/e6db2073-e79d-4141-a07d-ffbe7eb381e6/thumbnail/1200x630/abedef64763f27d3ab7614e7103bba86/cbsn-fusion-look-measles-outbreak-pennsylvania-reports-9th-related-deaths-this-year-thumbnail.jpg"
+    },
+    {
+      "id": "c72cde82afa03d60",
+      "title": "Family of those arrested in chaotic ICE incident at Seattle airport speaks out",
+      "link": "https://www.cbsnews.com/video/family-arrested-chaotic-ice-incident-seattle-airport-speaks-out/",
+      "summary": "Immigration agents dragged a father and his adult daughter out of a jet bridge side door at a Washington state airport as they screamed for help. Camilo Montoya-Galvez spoke with the family.",
+      "source": "CBS News",
+      "published": "2026-11-24T01:20:29+00:00",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/24/6fe1e50e-d681-4e58-ae73-1c278aaf8ad4/thumbnail/1200x630/4d4c7b18f4843b43495f1f28291f1b8d/cbsn-fusion-family-arrested-chaotic-ice-incident-seattle-airport-speaks-out-thumbnail.jpg"
+    },
+    {
+      "id": "7bb2e85fd548a5e9",
+      "title": "Fiona the hippo's tragic death prompts Cincinnati Zoo to install new safeguards at Hippo Cove",
+      "link": "https://www.foxnews.com/us/fiona-hippos-tragic-death-prompts-cincinnati-zoo-install-new-safeguards-hippo-cove",
+      "summary": "New safety protections have been introduced at Hippo Cove as the Cincinnati Zoo reopens following Fiona&apos;s death, with guests urged to secure belongings.",
+      "source": "Fox News",
+      "published": "2026-11-24T00:02:27+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fiona-the-hippo-close-up.png?ve=1&tl=1"
+    },
+    {
+      "id": "c8257841e4bad1b8",
+      "title": "Why Trump pushed for Jensen Huang's return to Nvidia",
+      "link": "https://www.pbs.org/newshour/show/why-trump-pushed-for-jensen-huangs-return-to-nvidia",
+      "summary": "Jensen Huang is back as CEO of Nvidia just two weeks after resigning amid revelations of extramarital affairs, including one with a woman suspected of ties to Chinese intelligence. President Trump personally intervened to push for his reinstatement, saying he believed Huang...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-23T23:55:49+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/nov23fullepnologo-1024x683.jpg"
+    },
+    {
+      "id": "2b00e32b7071fbe7",
+      "title": "Experts weigh national security implications of Huang's return to Nvidia",
+      "link": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
+      "summary": "For a closer look at Jensen Huang's return to Nvidia, and the national security implications, Amna Nawaz spoke with Dmitri Alperovitch and James Lewis. Alperovitch co-founded and was chief technology officer of the cybersecurity firm CrowdStrike. Lewis is a former diplomat...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-23T23:50:21+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/fulleppic-1024x680.jpg"
+    },
+    {
+      "id": "6f94f9ab85f7977f",
+      "title": "Venezuelan illegal immigrant arrested in Utah after soliciting assassination of Trump, DHS says",
+      "link": "https://www.foxnews.com/us/venezuelan-illegal-immigrant-arrested-utah-soliciting-assassination-trump-dhs",
+      "summary": "DHS says an FBI tip led to the arrest of a Venezuelan national in Provo, Utah, over stickers urging the assassination of President Donald Trump.",
+      "source": "Fox News",
+      "published": "2026-11-23T23:46:10+00:00",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Hector-Alejandro-Mujica-Hernandez.jpg?ve=1&tl=1"
+    },
+    {
+      "id": "882e5b95aa675ba8",
+      "title": "News Wrap: Storms threaten Thanksgiving travel as airlines rebound from tech failures",
+      "link": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures",
+      "summary": "In our news wrap Monday, storms on both coasts threaten to disrupt Thanksgiving travel as airlines continue to grapple with a series of recent tech failures, a federal appeals court says the Army can proceed with detonating bomb-making material at an Iowa ammunitions plant...",
+      "source": "PBS NewsHour",
+      "published": "2026-11-23T23:45:23+00:00",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/newswrapnov23-1024x683.jpg"
+    },
+    {
+      "id": "514fbf6a58e70054",
+      "title": "11/23: CBS Evening News",
+      "link": "https://www.cbsnews.com/video/112326-cbs-evening-news/",
+      "summary": "A weekend airline outage causes travel problems for thousands; Jensen Huang makes a stunning return as CEO of Nvidia.",
+      "source": "CBS News",
+      "published": "2026-11-23T23:30:00+00:00",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/24/f7df80a9-e482-47b1-9f52-185cc7781083/thumbnail/1200x630/d6f386c746557122d1ebff3d61449f46/enthumb1123.jpg"
+    },
     {
       "id": "99dcdb3e541bded3",
       "title": "Trump tells Army to halt detonation for now in Iowa this week",
@@ -4761,852 +5553,6 @@
       "source": "UPI",
       "published": "2026-11-17T21:02:16+00:00",
       "image": "https://cdnph.upi.com/ph/st/th/2601794948267/2026/upi/05a71d1cfe576aea4c64b007b77e3265/v1.2/Calif-prosecutors-sue-Newsom-to-halt-commutation-of-death-sentences.jpg"
-    },
-    {
-      "id": "9df51dbd7695a9a0",
-      "title": "Consumer retail data shows 0.2% increase in October",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/consumer-retail-low-october-2026/4461794947284/",
-      "summary": "American consumers tightened their belts in October, especially on high-dollar purchases such as cars and furniture, census data showed.",
-      "source": "UPI",
-      "published": "2026-11-17T20:54:27+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4461794947284/2026/upi/45fd59892889c6e5f7e014f65c2d0221/v1.2/Consumer-retail-data-shows-02-increase-in-October.jpg"
-    },
-    {
-      "id": "9c293bb9d95954e5",
-      "title": "CNN, BBC, Zoom among 178 targets hit by malicious software attack",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/hackers-malicious-software-optimizely/5731794945686/",
-      "summary": "Hackers used a compromised website optimization service to distribute malicious software to 178 organizations, including CNN, BBC, Zoom and HSBC.",
-      "source": "UPI",
-      "published": "2026-11-17T20:15:14+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5731794945686/2026/upi/d7cf6b394d7c49617776151241f55832/v1.2/CNN-BBC-Zoom-among-178-targets-hit-by-malicious-software-attack.jpg"
-    },
-    {
-      "id": "8493670f69a27caf",
-      "title": "Owners, heirs settle claim over Vincent van Gogh painting before auction",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/owners-jewish-heirs-reach-agreement-over-van-gogh-painting/7871794944226/",
-      "summary": "The current owners of a Vincent van Gogh painting and the Jewish heirs of a previous owner reached a settlement over the painting Tuesday.",
-      "source": "UPI",
-      "published": "2026-11-17T20:11:23+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7871794944226/2026/upi/7a7b7d9146b8debb7b0a90a2dd16d205/v1.2/Owners-heirs-settle-claim-over-van-Gogh-painting-before-auction.jpg"
-    },
-    {
-      "id": "6393515452e5f7b3",
-      "title": "NSA's classified internal network goes down, sources say",
-      "link": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/",
-      "summary": "Two U.S. officials tell CBS News that so far there is no evidence of a cyberattack.",
-      "source": "CBS News",
-      "published": "2026-11-17T19:40:25+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/59578411-cbd2-4b3c-b555-42f52970888c/thumbnail/1200x630/2c38dbb979b9f64f43a288b7305b9b45/gettyimages-918218262.jpg"
-    },
-    {
-      "id": "f1dd0a31f2e65f6a",
-      "title": "American soldier accused of spying in U.S. custody after U.K. arrest",
-      "link": "https://www.cbsnews.com/news/american-soldier-spying-suspect-russia-united-kingdom-us-custody/",
-      "summary": "Federal Bureau of Investigation director Kash Patel said that the soldier was \"a potential threat to national security.\"",
-      "source": "CBS News",
-      "published": "2026-11-17T19:40:06+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/77ee18af-cb1a-43e3-b3a0-078df3a511cf/thumbnail/1200x630/c33aef2381b70a42ff8f850b93a0eea6/cbsn-fusion-american-soldier-accused-of-spying-for-russia-had-access-to-sensitive-information-thumbnail.jpg"
-    },
-    {
-      "id": "6f80a6ba2866e8c5",
-      "title": "Cruz announces deal on stalled airline safety bill",
-      "link": "https://www.cbsnews.com/news/airline-safety-bill-deal-ted-cruz/",
-      "summary": "The measure would require all planes in busy airspace to be broadcasting their location, according to GOP Sen. Ted Cruz.",
-      "source": "CBS News",
-      "published": "2026-11-17T19:34:54+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/bb2c98dc-c396-4911-8f39-3b654ca03088/thumbnail/1200x630/a79926d381e7ac54e6a1ebee64046ed8/gettyimages-2266649306.jpg"
-    },
-    {
-      "id": "7094a6482137213a",
-      "title": "Fed's Lisa Cook rebuffs White House hearing without changes",
-      "link": "https://www.cbsnews.com/news/lisa-cook-federal-reserve-white-house-hearing/",
-      "summary": "A lawyer for Federal Reserve Governor Lisa Cook said she has \"no legal obligation\" to appear at a White House hearing about mortgage fraud allegations.",
-      "source": "CBS News",
-      "published": "2026-11-17T19:30:08+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/25/11695f34-cdb2-4a6d-a542-287d57165229/thumbnail/1200x630/f316d73a267eaf37528903fc1cbb7bbd/gettyimages-1258902366.jpg"
-    },
-    {
-      "id": "2dd424e47ed23287",
-      "title": "Trump administration details its $50 billion request for aviation system improvements",
-      "link": "https://www.pbs.org/newshour/politics/trump-administration-details-its-50-billion-request-for-aviation-system-improvements",
-      "summary": "The Trump administration has formally updated its request to lawmakers for $50.1 billion to modernize the nation's air traffic control system and to make other improvements at airports.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T19:27:51+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T162710Z_686917468_RC2SNOAIC411_RTRMADP_3_USA-FAA-GROUND-STOP-1024x615.jpg"
-    },
-    {
-      "id": "5183811c221c3de1",
-      "title": "FAA stops installation of routers it linked to national ground stop",
-      "link": "https://www.pbs.org/newshour/nation/faa-stops-installation-of-routers-it-linked-to-national-ground-stop",
-      "summary": "The decision was made after technicians linked Friday's disruption of key air traffic control systems to one of these routers that had just been installed in El Dorado, Arkansas.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T19:22:06+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-13T223743Z_1884327125_RC25NOAWH271_RTRMADP_3_USA-FAA-GROUND-STOP-1024x676.jpg"
-    },
-    {
-      "id": "d0fa714c968b2096",
-      "title": "U.S. loses measles elimination status as outbreaks spread in Americas",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/latam-us-mexico-bolivia-measles-outbreaks/4691794941687/",
-      "summary": "The United States has lost its measles elimination status after more than a year of continuous transmission, as outbreaks spread across the Americas.",
-      "source": "UPI",
-      "published": "2026-11-17T19:13:17+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4691794941687/2026/upi/c879e0cf818a49e21d423d12bbc715bc/v1.2/US-loses-measles-elimination-status-as-outbreaks-spread-in-Americas.jpg"
-    },
-    {
-      "id": "cf9635a566f0de30",
-      "title": "Mullin defends use of government plane to attend football game after ground stop",
-      "link": "https://www.pbs.org/newshour/nation/mullin-defends-use-of-government-plane-to-attend-football-game-after-ground-stop",
-      "summary": "Mullin's flight took place after the stoppage was lifted and as flights were back in the air. But thousands of flights were canceled because of the ground stop, and Mullin flew as people nationwide were forced to scramble for alternative travel options.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T19:07:56+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T021029Z_799840290_RC2ENOA7NDFB_RTRMADP_3_USA-TRUMP-1024x649.jpg"
-    },
-    {
-      "id": "9527920f054df4f1",
-      "title": "Ethanol plant trainee charged in connection with bomb at Illinois facility",
-      "link": "https://abcnews.com/US/wireStory/illinois-man-charged-connection-bomb-found-peoria-ethanol-138219485",
-      "summary": "An Illinois man who worked as a trainee at a Peoria ethanol plant has been charged by a federal grand jury with two felonies related to a bomb that was found at the facility, resulting in a mass evacuation",
-      "source": "ABC News",
-      "published": "2026-11-17T19:06:27+00:00",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "651518ff485628e2",
-      "title": "Reports: Highly classified National Security Agency network goes down",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/reports-NSA-network-goes-offline/6301794941034/",
-      "summary": "A highly classified network the National Security Agency uses for internal communications went offline Tuesday, multiple news sources reported.",
-      "source": "UPI",
-      "published": "2026-11-17T19:03:38+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6301794941034/2026/upi/3a19e335190b6c1644675e8e70955135/v1.2/Reports-Highly-classified-NSA-network-goes-down.jpg"
-    },
-    {
-      "id": "2639666460662555",
-      "title": "Iran fires at U.S. facility in Bahrain as Tehran resumes strikes on Arab neighbors",
-      "link": "https://www.pbs.org/newshour/world/iran-fires-at-u-s-facility-in-bahrain-as-tehran-resumes-strikes-on-arab-neighbors",
-      "summary": "The move on Tuesday was Iran's third attack on American military targets in the kingdom in recent days as Tehran resumed strikes on its Arab neighbors after a two-month lull.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T18:53:00+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-08T175031Z_803401893_RC2QJOAU7YJ6_RTRMADP_3_IRAN-CRISIS-1024x683.jpg"
-    },
-    {
-      "id": "a90baa724c889e2c",
-      "title": "Nvidia forms export control panel amid concerns over China sales",
-      "link": "https://www.cbsnews.com/news/nvidia-export-control-committee-china-chips/",
-      "summary": "Chipmaker creates new committee amid growing concerns that it has allowed restricted products to reach China.",
-      "source": "CBS News",
-      "published": "2026-11-17T18:52:04+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/14/facce96b-2cb3-445b-8cf5-a3d309672019/thumbnail/1200x630/e4e20a6d0e4ec72ecc094cb7bf825511/cbsn-fusion-how-nvidia-scandal-anthropic-ipo-may-impact-your-401k-thumbnail.jpg"
-    },
-    {
-      "id": "917e838641c8e541",
-      "title": "Anthropic files for IPO as it competes for AI dominance",
-      "link": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/",
-      "summary": "Anthropic, which developed the Claude chatbot, is barreling ahead with its public offering despite mounting concerns about AI going rogue.",
-      "source": "CBS News",
-      "published": "2026-11-17T18:41:01+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/05/5bf6dd50-505b-4a72-a646-9a0a67e20806/thumbnail/1200x630/61801334d7979b353f99dee7f911bc9c/gettyimages-2297777279.jpg"
-    },
-    {
-      "id": "888d78ae2d35fd0f",
-      "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-      "summary": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting.",
-      "source": "NPR",
-      "published": "2026-11-17T18:34:31+00:00",
-      "image": null
-    },
-    {
-      "id": "5457c7dd3b93dc88",
-      "title": "Retail spending slowed in October as high prices gave shoppers pause",
-      "link": "https://www.pbs.org/newshour/economy/retail-spending-slowed-in-october-as-high-prices-gave-shoppers-pause",
-      "summary": "Shoppers increased spending more slowly in October as economic uncertainty and high prices led more Americans to pull back on a variety of purchases.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T18:28:57+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-09T172411Z_1503803982_RC25JOAUFRO8_RTRMADP_3_USA-ELECTION-MISSISSIPPI-COSTS-1024x683.jpg"
-    },
-    {
-      "id": "503e7c4770a2fe4f",
-      "title": "Veteran pilot: Congress must act to update 'archaic' FAA tech that is 'putting Americans in danger'",
-      "link": "https://www.foxnews.com/us/veteran-pilot-congress-must-act-upate-archaic-faa-tech-putting-americans-danger",
-      "summary": "Retired Air Force pilot Buzz Patterson warns the FAA ground stop will happen again, blaming &quot;tribal&quot; politics for delaying a $50 billion modernization.",
-      "source": "Fox News",
-      "published": "2026-11-17T18:18:45+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/1200/675/faa-ground-stop-atc.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "bf8417200fcbd3b6",
-      "title": "Debunking social media posts that claim a 90-day blackout will start Nov. 17",
-      "link": "https://www.pbs.org/newshour/nation/debunking-social-media-posts-that-claim-a-90-day-blackout-will-start-nov-17",
-      "summary": "Americans don't need to stockpile for widespread disruptions to power, water and food supplies, DHS Secretary Markwayne Mullin said.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T18:17:07+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-02-15T201653Z_978820045_RC2JMJANCSUG_RTRMADP_3_USA-CONGRESS-SHUTDOWN-1024x683.jpg"
-    },
-    {
-      "id": "5a0e7660b3965391",
-      "title": "Mullin defends use of government plane to go to college football game after ground stop",
-      "link": "https://abcnews.com/US/wireStory/mullin-defends-government-plane-college-football-game-after-138217961",
-      "summary": "Homeland Security Secretary Markwayne Mullin defends using a government plane to attend a college football game after a nationwide ground stop caused travel chaos",
-      "source": "ABC News",
-      "published": "2026-11-17T18:08:14+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_1155f7fe532f55b272d3b9fefcd68d2b_4x3_384.jpg"
-    },
-    {
-      "id": "a6c86fab0c1c2805",
-      "title": "U.S., Thailand near trade deal on tariffs, agricultural exports",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/thailand-trade-agreement/7891794937120/",
-      "summary": "The United States neared a new trade agreement with Thailand that would cut tariffs on American exports and increase Thai purchases of U.S. products.",
-      "source": "UPI",
-      "published": "2026-11-17T18:01:16+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7891794937120/2026/upi/510b80ee2d80e3c144e224eab83c1c2c/v1.2/US-Thailand-near-trade-deal-on-tariffs-agricultural-exports.jpg"
-    },
-    {
-      "id": "d3727bd3a2fbdd37",
-      "title": "U.S. identifies remains of 6 soldiers killed in Korean War, including teens",
-      "link": "https://www.cbsnews.com/news/korean-war-us-soldiers-remains-identified/",
-      "summary": "The identifications are part of an ongoing effort to locate and identify the remains of U.S. soldiers killed in the Korean War.",
-      "source": "CBS News",
-      "published": "2026-11-17T17:41:53+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/b3755c92-c7c2-4320-9da7-a20d5c0be52e/thumbnail/1200x630/6c73edad214dd0be1ded68cee2e5d6fb/screenshot-2026-11-17-at-10-55-15-am.png"
-    },
-    {
-      "id": "43aa54cff9a534c6",
-      "title": "Huang says he'd be \"honored\" to return to Nvidia as he agrees to testify to Congress",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-      "summary": "The former Nvidia CEO's comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals.",
-      "source": "NPR",
-      "published": "2026-11-17T17:36:31+00:00",
-      "image": null
-    },
-    {
-      "id": "35ff53b097070d32",
-      "title": "U.S. and Mexico officially lose measles-elimination status",
-      "link": "https://www.pbs.org/newshour/health/u-s-and-mexico-officially-lose-measles-elimination-status",
-      "summary": "The U.S. has lost its measles-free status, international health officials said Tuesday, as the highly contagious virus once relegated to medical textbooks has spread — largely among the unvaccinated — at the highest rate in more than 30 years.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T17:33:38+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T162831Z_765052321_RC2VLNAAVCWQ_RTRMADP_3_HEALTH-MEASLES-USA-ELIMINATION-1024x683.jpg"
-    },
-    {
-      "id": "2f26fe9e536e2a41",
-      "title": "Groups raise concerns over DOJ's new Civil Rights Division chief",
-      "link": "https://www.cbsnews.com/news/craig-trainor-justice-department-civil-rights-division/",
-      "summary": "Eighteen civil rights organizations asked President Trump to withdraw his appointment of Craig Trainor as the new acting head of the Justice Department's Civil Rights Division.",
-      "source": "CBS News",
-      "published": "2026-11-17T17:13:55+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/17/822df8f8-6c82-4e53-9f11-6421ceb08cd7/thumbnail/1200x630g3/c60a85d9b7f270bf9e6f878de389e818/gettyimages-2269699782.jpg"
-    },
-    {
-      "id": "ea6784f9c26747ec",
-      "title": "Former Nvidia CEO Jensen Huang agrees to testify before Congress",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/nvidia-huang-congress-house-national-security/9761794933298/",
-      "summary": "Former Nvidia CEO Jensen Huang has agreed to testify before Congress as lawmakers investigate allegations of national security threats.",
-      "source": "UPI",
-      "published": "2026-11-17T17:05:54+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/9761794933298/2026/upi_com/ed3773e45726432d98b04e12bdfe5e7c/v1.2/Former-Nvidia-CEO-Jensen-Huang-agrees-to-testify-before-Congress.jpg"
-    },
-    {
-      "id": "1c876cad58d14a44",
-      "title": "Jensen Huang says he \"would be honored\" to return as Nvidia CEO",
-      "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/",
-      "summary": "Huang addressed a petition, signed by 190,000 people, including thousands of Nvidia employees, calling for his reinstatement.",
-      "source": "CBS News",
-      "published": "2026-11-17T16:59:55+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/51779405-afcc-4d02-9a40-4c95399dbc3e/thumbnail/1200x630/f6294eed103f0baf6b4185c0415b1e43/gettyimages-2301328017.jpg"
-    },
-    {
-      "id": "9b022d2765f9f528",
-      "title": "Criminal past of Illinois ethanol plant bomb scare suspect includes multiple felonies, 2 prison stints",
-      "link": "https://www.foxnews.com/us/criminal-past-illinois-ethanol-plant-bomb-scare-suspect-includes-multiple-felonies-2-prison-stints",
-      "summary": "Andrew Kozak, the BioUrja worker accused in the Peoria bomb threat, has a criminal past spanning four Nebraska counties, Fox News Digital reports.",
-      "source": "Fox News",
-      "published": "2026-11-17T16:34:32+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/peoria-ethanol-plant-004.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "6ffe59beb9330d8c",
-      "title": "Cornell to consider fraternities on campus after rape allegation",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/cornell-fraternities-rape/1611794932318/",
-      "summary": "Cornell University President Michael Kotlikoff said the university will look at the potential future of fraternities and sororities on campus.",
-      "source": "UPI",
-      "published": "2026-11-17T16:30:42+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/1611794932318/2026/upi_com/7df5d6be9527570bdfeb72cb03157b4b/v1.2/Cornell-to-consider-fraternities-on-campus-after-rape-allegation.jpg"
-    },
-    {
-      "id": "ab190ca17da5b88a",
-      "title": "Fed Governor Lisa Cook not expected to attend White House hearing",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/lisa-cook-federal-reserve-governor-white-house-hearing/7471794930518/",
-      "summary": "Federal Reserve Governor Lisa Cook is not expected to attend a White House committee hearing on mortgage fraud allegations against her.",
-      "source": "UPI",
-      "published": "2026-11-17T15:59:49+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7471794930518/2026/upi/d3c17620f1dcc73cf309f4350bf9d6a4/v1.2/Fed-Governor-Lisa-Cook-not-expected-to-attend-White-House-hearing.jpg"
-    },
-    {
-      "id": "aa7d69e79340f728",
-      "title": "South Carolina mother reveals troubling past of ex accused of burying their baby alive",
-      "link": "https://www.foxnews.com/us/south-carolina-mother-reveals-troubling-past-ex-accused-burying-baby-alive",
-      "summary": "Koah Sharp&apos;s mother speaks out after the 11-month-old was found buried alive in a dog crate during a massive law enforcement search in South Carolina.",
-      "source": "Fox News",
-      "published": "2026-11-17T15:55:20+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/a63df388-comer-sharpe.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "6d54008a30111fc6",
-      "title": "Ivy League student slashed in neck, suspect accused was arrested just weeks before",
-      "link": "https://www.foxnews.com/us/ivy-league-student-slashed-neck-suspect-accused-arrested-weeks-before",
-      "summary": "NYPD says a Barnard College student was slashed behind her ear outside a Columbia University dorm as Earl Baker, a 44-year-old Brooklyn man, was arrested.",
-      "source": "Fox News",
-      "published": "2026-11-17T15:29:02+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/student-slashed-in-back-of-neck-at-nyc-college.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "c052dbba187cc8b1",
-      "title": "Trump administration signals plan for seawall work at Washington golf course as legal fight drags on",
-      "link": "https://abcnews.com/US/wireStory/trump-administration-signals-plan-seawall-work-washington-golf-138213452",
-      "summary": "The Interior Department intends to seek bids for a contractor to work on the seawall at a Washington, D.C., park where President Donald Trump plans to redevelop a historic public golf course into a world-class venue",
-      "source": "ABC News",
-      "published": "2026-11-17T15:20:50+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_3ed837e7cddb4f41c2422e75872ad530_4x3_384.jpg"
-    },
-    {
-      "id": "f935c44f01390731",
-      "title": "Home Depot names Richard McPhail new CEO, posts third-quarter results",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/home-depot-names-mcphail-ceo-third-quarter-earnings-2026/8641794927069/",
-      "summary": "Home Depot announced that CFO Richard McPhail will succeed Ted Decker as its CEO beginning next week, alongside its third quarter 2026 results.",
-      "source": "UPI",
-      "published": "2026-11-17T15:20:46+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/8641794927069/2026/upi_com/82a52f9cf7fd8a1b221eeb68945e2c42/v1.2/Home-Depot-names-Richard-McPhail-new-CEO-posts-third-quarter-results.jpg"
-    },
-    {
-      "id": "2253f4b61516e6d0",
-      "title": "Cybersecurity expert breaks down recent outages",
-      "link": "https://www.cbsnews.com/video/cybersecurity-expert-breaks-down-recent-outages/",
-      "summary": "Chris Krebs, the former director of the Cybersecurity and Infrastructure Security Agency, joins \"CBS Mornings\" to break down the recent travel and banking outages.",
-      "source": "CBS News",
-      "published": "2026-11-17T14:25:49+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/0d9552df-cc4d-4f34-8f26-8578f69983d8/thumbnail/1200x630/6cf550a26758ee01c7944d1b6e6407c5/cbsn-fusion-cybersecurity-expert-breaks-down-recent-outages-thumbnail.jpg"
-    },
-    {
-      "id": "88af527e6c01195b",
-      "title": "WATCH: Navy nominee Hung Cao acknowledges Iran war is 'a strain' in confirmation hearing",
-      "link": "https://www.pbs.org/newshour/politics/watch-live-senate-armed-services-committee-confirmation-hearing-for-hung-cao-as-navy-secretary",
-      "summary": "President Donald Trump's pick to lead the U.S. Navy acknowledged the strain of the Iran war as senators from both political parties pressed him at his confirmation hearing Tuesday about the impact of long ship deployments on sailors, drawdowns to stockpiles of advanced...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T14:21:52+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T152959Z_242585817_RC2RPOA0BA4Z_RTRMADP_3_USA-TRUMP-NAVY-1024x683.jpg"
-    },
-    {
-      "id": "3fbec50fef2e52ea",
-      "title": "Roblox hearings on sexual abuse to begin",
-      "link": "https://www.cbsnews.com/video/roblox-hearings-on-sexual-abuse-to-begin/",
-      "summary": "Sexual abuse survivors are set to testify before a Senate committee over the safety of children's gaming platforms like Roblox. Jo Ling Kent reports.",
-      "source": "CBS News",
-      "published": "2026-11-17T14:11:22+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/dd4058c7-4d41-4486-92ab-becefa1928a8/thumbnail/1200x630/5cb9675484dada80c3044fe7758281a0/cbsn-fusion-roblox-hearings-on-sexual-abuse-to-begin-thumbnail.jpg"
-    },
-    {
-      "id": "b6ae953a79ef0c2d",
-      "title": "Jeffrey Epstein's death may not have been suicide, forensic expert says",
-      "link": "https://www.cbsnews.com/video/jeffrey-epsteins-death-may-not-have-been-suicide-forensic-expert-says/",
-      "summary": "Dr. Michael Freeman, a forensics expert who analyzed Jeffrey Epstein's death, tells the CBS News Investigative Unit that his death may have been a homicide.",
-      "source": "CBS News",
-      "published": "2026-11-17T14:06:01+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/1c39f2a3-71ae-4856-a6bb-23b4b7cfc4c8/thumbnail/1200x630/252da54511334f158516213b7179c8ef/cbsn-fusion-jeffrey-epsteins-death-may-not-have-been-suicide-forensic-expert-says-thumbnail.jpg"
-    },
-    {
-      "id": "81649600895d8f51",
-      "title": "Missing plane with 3 on board found crashed in Grand Canyon",
-      "link": "https://www.cbsnews.com/news/missing-plane-found-crashed-grand-canyon/",
-      "summary": "A small plane was found in the Grand Canyon's remote North Rim after crashing with three people on board Sunday night. No one survived.",
-      "source": "CBS News",
-      "published": "2026-11-17T14:02:37+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/0420e974-f5ca-4eb3-b33c-a85dfc10b442/thumbnail/1200x630/b28858c10406bcbdb5d384bced2761ab/gettyimages-146142952.jpg"
-    },
-    {
-      "id": "e38f3717ade56463",
-      "title": "Lindsay Clancy judge sets date for retrial",
-      "link": "https://www.cbsnews.com/video/lindsay-clancy-judge-sets-date-for-retrial/",
-      "summary": "The judge in the Lindsay Clancy case set her retrial date for March 29, 2027, after her first trial ended with a hung jury. Caroline Polisi has more.",
-      "source": "CBS News",
-      "published": "2026-11-17T13:58:35+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/c69fdb0a-0528-4302-bb01-7a1894527952/thumbnail/1200x630/7542497b7e362c77eac7cf22c7d876c5/cbsn-fusion-lindsay-clancy-judge-sets-date-for-retrial-thumbnail.jpg"
-    },
-    {
-      "id": "eca96ff35e91d848",
-      "title": "FEMA to conduct nationwide Emergency Alert System test",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/fema-emergency-alert/3941794923270/",
-      "summary": "There will be a nationwide test of the Emergency Alert System Tuesday afternoon, FEMA said. It will only be on TV and won't affect phones.",
-      "source": "UPI",
-      "published": "2026-11-17T13:57:45+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/3941794923270/2026/upi/19757df4968835e1a1b2e2b11239c241/v1.2/FEMA-to-conduct-nationwide-Emergency-Alert-System-test.jpg"
-    },
-    {
-      "id": "84915f4e9c9bd123",
-      "title": "Video shows ICE agents pepper-spraying pregnant woman at protest",
-      "link": "https://www.cbsnews.com/video/video-shows-ice-agents-pepper-spraying-pregnant-woman-at-protest/",
-      "summary": "Video shows ICE agents pepper-spraying a pregnant woman and forcing her to the ground at a protest in California last week. Camilo Montoya-Galvez reports.",
-      "source": "CBS News",
-      "published": "2026-11-17T13:46:13+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/572a81be-dad9-4eb3-9669-e591c5e95db2/thumbnail/1200x630/825f87e331293d11036ef1ca12db8d57/cbsn-fusion-video-shows-ice-agents-pepper-spraying-pregnant-woman-at-protest-thumbnail.jpg"
-    },
-    {
-      "id": "b5802c466372df1d",
-      "title": "Banking outage rattles U.S.",
-      "link": "https://www.cbsnews.com/video/banking-outage-rattles-us/",
-      "summary": "Several U.S. banks reported a bug Monday that impacted customer transactions. Jo Ling Kent reports.",
-      "source": "CBS News",
-      "published": "2026-11-17T13:30:20+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/bf7bd304-a337-483d-a31d-12ce13eb6550/thumbnail/1200x630/9c588b33764b19d770e969289b42639b/cbsn-fusion-banking-outage-rattles-us-thumbnail.jpg"
-    },
-    {
-      "id": "aa040727055fdc83",
-      "title": "Airlines rush to recover after outages",
-      "link": "https://www.cbsnews.com/video/airlines-rush-to-recover-after-outages/",
-      "summary": "United Airlines suffered a brief outage Monday on the heels of a nationwide FAA ground stop as airlines rush to recover ahead of Thanksgiving holiday travel. Kris Van Cleave reports.",
-      "source": "CBS News",
-      "published": "2026-11-17T13:24:28+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/e9ff91b8-2603-4f0b-85b9-a727e35d90ea/thumbnail/1200x630/ec77538344b8566466cbec8963ffbe21/cbsn-fusion-airlines-rush-to-recover-after-outages-thumbnail.jpg"
-    },
-    {
-      "id": "ef47ca9dc4afbc5b",
-      "title": "Dolores Huerta, late labor leader and civil rights icon, honored at memorial",
-      "link": "https://abcnews.com/US/wireStory/dolores-huerta-late-labor-leader-civil-rights-icon-138191582",
-      "summary": "California public officials, labor leaders and members of the public are honoring the late Dolores Huerta at a memorial service in Sacramento",
-      "source": "ABC News",
-      "published": "2026-11-17T12:36:15+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_527c73535f0dc97fc59cebcafdec611c_4x3_384.jpg"
-    },
-    {
-      "id": "2943bef3bae60493",
-      "title": "US Catholic bishops meet after Democrats' big wins help reshape abortion debates",
-      "link": "https://abcnews.com/US/wireStory/us-catholic-bishops-meet-after-democrats-big-wins-138205384",
-      "summary": "U.S. Catholic bishops are meeting in Baltimore this week following the Democrats&rsquo; midterm victories",
-      "source": "ABC News",
-      "published": "2026-11-17T12:34:21+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_ce52ceecb8091395f14d3ca5b91ab0c9_4x3_384.jpg"
-    },
-    {
-      "id": "a9af97284a048e2d",
-      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-      "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-      "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
-      "source": "NPR",
-      "published": "2026-11-17T12:20:57+00:00",
-      "image": null
-    },
-    {
-      "id": "c592053d9bab0072",
-      "title": "Twice-deported illegal alien drunkenly sped past 18 cars the wrong way before killing college athlete: docs",
-      "link": "https://www.foxnews.com/us/twice-deported-illegal-alien-drunkenly-sped-past-18-cars-wrong-way-killing-college-athlete-docs",
-      "summary": "Guillermo Carmona-Lopez faces 13 charges, including manslaughter, after a wrong-way crash killed University of New Haven hockey captain Ryan O&apos;Shea.",
-      "source": "Fox News",
-      "published": "2026-11-17T12:00:17+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Ryan-O_Shea-killed-by-illegal-immigrant-driver.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "356d4f2e8b0deee9",
-      "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
-      "summary": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week's nationwide ground stop and criticized the Trump administration's request for $50 billion in additional funding.",
-      "source": "NPR",
-      "published": "2026-11-17T11:58:42+00:00",
-      "image": null
-    },
-    {
-      "id": "8e56c1d2095ff676",
-      "title": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency",
-      "link": "https://abcnews.com/US/wireStory/french-soccer-federation-confirms-philippe-diallo-candidate-fifa-138204940",
-      "summary": "French soccer federation confirms Philippe Diallo as candidate for FIFA presidency",
-      "source": "ABC News",
-      "published": "2026-11-17T11:57:17+00:00",
-      "image": "https://s.abcnews.com/images/Sports/wirestory_31882135ed1465967fad2c6071ea1db6_4x3_384.jpg"
-    },
-    {
-      "id": "5b4a1349f180d6c4",
-      "title": "As outages persist, Puerto Rico finds a way to help keep the lights on",
-      "link": "https://abcnews.com/US/wireStory/outages-persist-puerto-rico-finds-lights-virtual-power-138200700",
-      "summary": "Hector R&iacute;os is part of Puerto Rico's innovative &ldquo;virtual power plant&rdquo; system, which uses household batteries to support the island's electric grid",
-      "source": "ABC News",
-      "published": "2026-11-17T11:54:30+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_152a4162d4a41c8eff37c2c9bb168747_4x3_384.jpg"
-    },
-    {
-      "id": "3bffe07b9bb35ddc",
-      "title": "President Trump opens Asia trip with dealmaking on tap and more top headlines",
-      "link": "https://www.foxnews.com/us/trump-opens-asia-trip-dealmaking-on-top-more-top-headlines",
-      "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "source": "Fox News",
-      "published": "2026-11-17T11:52:01+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/trump-asia-trip.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "098c59b5a3134666",
-      "title": "Can Google win the AI race without killing its cash cow?",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-      "summary": "In late October, Google had the worst stock day in its history as a public company. The Planet Money newsletter asks: has Google been caught in \"the innovator's dilemma\"?",
-      "source": "NPR",
-      "published": "2026-11-17T11:30:00+00:00",
-      "image": null
-    },
-    {
-      "id": "d3bb00b3082242e8",
-      "title": "MICHAEL RUIZ: New York's gutted police unit was more than a protest squad",
-      "link": "https://www.foxnews.com/us/michael-ruiz-new-yorks-gutted-police-unit-more-than-protest-squad",
-      "summary": "Zohran Mamdani is dissolving the NYPD Strategic Response Group for a civilian-led de-escalation plan critics say will embolden criminals and terrorists.",
-      "source": "Fox News",
-      "published": "2026-11-17T11:00:31+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/emir-balat-nyc.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "af00ab679d34225a",
-      "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-      "summary": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
-      "source": "NPR",
-      "published": "2026-11-17T11:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "0a5288e228d833f1",
-      "title": "Trump arrives in Philippines to kick off Asia trip",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-      "summary": "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin.",
-      "source": "NPR",
-      "published": "2026-11-17T10:43:55+00:00",
-      "image": null
-    },
-    {
-      "id": "dfcb30f651d218a1",
-      "title": "Do school phone bans help students learn? So far, gains are 'modest'",
-      "link": "https://abcnews.com/US/wireStory/school-phone-bans-students-learn-gains-modest-138203187",
-      "summary": "Phone bans have now become common at U.S. schools",
-      "source": "ABC News",
-      "published": "2026-11-17T10:21:23+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_79e11f36a1321815d43517b5243fbc34_4x3_384.jpg"
-    },
-    {
-      "id": "39208803ef929ad2",
-      "title": "Large plume of gas billows out of California landfill",
-      "link": "https://abcnews.com/US/wireStory/large-plume-gas-billows-california-landfill-138200530",
-      "summary": "A large plume of gas billowed high into the air after crews drilling at a landfill in Los Angeles County caused a rush of gas to escape along with decomposing garbage",
-      "source": "ABC News",
-      "published": "2026-11-17T10:09:31+00:00",
-      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "ba1ff08abc30f84a",
-      "title": "Man charged in killing of a Black woman found hanging from a Mississippi tree is due in court",
-      "link": "https://abcnews.com/US/wireStory/man-charged-killing-black-woman-found-hanging-mississippi-138202109",
-      "summary": "One of three men charged in the death of a Black woman whose body was found hanging from a tree in Mississippi is due in court",
-      "source": "ABC News",
-      "published": "2026-11-17T10:09:26+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_d39e4d4852c396e8e8436ae965b1f486_4x3_384.jpg"
-    },
-    {
-      "id": "bb12cb40f51f325b",
-      "title": "This teen had no place to go, so a hospital became his home",
-      "link": "https://www.cbsnews.com/news/hospital-boarding-st-louis-teen-home/",
-      "summary": "A young survivor of gun violence lived on the third floor of a St. Louis children's hospital, moving through the halls in a wheelchair, on and off for over three years. He said it became his home when he had nowhere safe to go.",
-      "source": "CBS News",
-      "published": "2026-11-17T10:00:10+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/0023f1a4-058d-4142-8e5f-ba40e4fc496d/thumbnail/1200x630/4287828154629d664630fdd5b8496a4f/jaloni-01.jpg"
-    },
-    {
-      "id": "5f57c7bb8c1ca286",
-      "title": "She went to college to become a social worker. Now she's joined the skilled trades",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
-      "summary": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including college graduates.",
-      "source": "NPR",
-      "published": "2026-11-17T10:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "f1f51159da1049fb",
-      "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-      "summary": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-      "source": "NPR",
-      "published": "2026-11-17T10:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "59ae476ad615e007",
-      "title": "Does locking up a student's cell phone improve test scores? A new study suggests so",
-      "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-      "summary": "A new study of school cellphone bans finds they may help students make up for some of the learning they've lost since 2013 – a divergence from earlier study results.",
-      "source": "NPR",
-      "published": "2026-11-17T10:00:00+00:00",
-      "image": null
-    },
-    {
-      "id": "54f1025ecbe2f501",
-      "title": "Trump admin. unveils new rule to deny China's access to U.S. AI chips",
-      "link": "https://www.upi.com/Top_News/US/2026/11/17/AI-chip-restrictions-China-export/5701794902683/",
-      "summary": "The U.S. Commerce Department has imposed tighter restrictions on chip exports to China.",
-      "source": "UPI",
-      "published": "2026-11-17T09:28:35+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/5701794902683/2026/upi/1cdeeff640b153786a503e301dd9f3b5/v1.2/Trump-admin-unveils-new-rule-to-deny-Chinas-access-to-US-AI-chips.jpg"
-    },
-    {
-      "id": "2add6309cf5619ba",
-      "title": "Miami embraces its Vice City alter ego, seizing buzz around ‘GTA VI’ release",
-      "link": "https://abcnews.com/US/wireStory/miami-embraces-vice-city-alter-ego-seizing-buzz-138200519",
-      "summary": "The Grand Theft Auto video game franchise is returning to Miami-inspired Vice City",
-      "source": "ABC News",
-      "published": "2026-11-17T06:08:54+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_1441b5de7d3f458ad08626193d645a46_4x3_384.jpg"
-    },
-    {
-      "id": "aa29ac30ae4ecc74",
-      "title": "Bellagio's annual holiday flower show opens with tens of thousands of blooms",
-      "link": "https://abcnews.com/US/wireStory/bellagios-annual-holiday-flower-show-opens-tens-thousands-138200331",
-      "summary": "More than 100 people worked around the clock over a six-day span to bring to life the latest display at the Bellagio's Conservatory and Botanical Gardens",
-      "source": "ABC News",
-      "published": "2026-11-17T05:22:15+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_5f23c1b479d13ff8237ec929b848c62b_4x3_384.jpg"
-    },
-    {
-      "id": "a8a4d54712cd4f6b",
-      "title": "Garcia latest Democrat to receive DOJ warning over oversight probes",
-      "link": "https://www.upi.com/Top_News/US/2026/11/16/Aaron-Reitz-warns-Robert-Garcia-Trump-oversight-investigations/2261794881289/",
-      "summary": "U.S. Attorney Aaron Reitz warned Rep. Robert Garcia over oversight investigations into President Donald Trump, his family and their associates.",
-      "source": "UPI",
-      "published": "2026-11-17T03:39:16+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/2261794881289/2026/upi/0ef3e6a22d5be807cccb42a315b9971c/v1.2/Garcia-latest-Democrat-to-receive-DOJ-warning-over-oversight-probes.jpg"
-    },
-    {
-      "id": "e2f73c80d7843f4a",
-      "title": "Can We Still Trust American Air Travel?",
-      "link": "https://www.cbsnews.com/video/can-we-still-trust-american-air-travel/",
-      "summary": "The FAA grounded every departing flight in the U.S. on Friday, only the second nationwide ground stop since 9/11. CBS News senior transportation correspondent Kris Van Cleave on why anyone would swap out equipment at 4 p.m. on a Friday, what doesn't add up in the official...",
-      "source": "CBS News",
-      "published": "2026-11-17T02:11:03+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/17/fa4d254a-2df8-4c2f-bacd-3cc5dfb4696b/thumbnail/1200x630/31d7a73289cf0a8fb323b6e29ccda98d/tonyvancleave.jpg"
-    },
-    {
-      "id": "a1816cef2e5aec11",
-      "title": "AAA projects Thanksgiving travel likely to dip slightly",
-      "link": "https://www.upi.com/Top_News/US/2026/11/16/aaa-slightly-fewer-people-expected-to-travel-for-thanksgiving/9611794880751/",
-      "summary": "AAA projected Monday that 81.5 million Americans will travel for the Thanksgiving holiday, marking a small decrease in the forecast from last year.",
-      "source": "UPI",
-      "published": "2026-11-17T02:04:56+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/9611794880751/2026/upi/5a3461a24b78ef82cd5ebefb4f0982e4/v1.2/AAA-projects-Thanksgiving-travel-likely-to-dip-slightly.jpg"
-    },
-    {
-      "id": "19ac93d16a01b337",
-      "title": "Federal review faults leadership failures in Grand Canyon fire that destroyed lodge",
-      "link": "https://abcnews.com/US/wireStory/federal-review-faults-leadership-failures-grand-canyon-fire-138196225",
-      "summary": "Leadership failures along with a lack of preparedness and poor communication were the driving factors of a wildfire that destroyed a historic lodge and dozens of structures at Grand Canyon National Park",
-      "source": "ABC News",
-      "published": "2026-11-17T01:49:17+00:00",
-      "image": "https://s.abcnews.com/images/US/wirestory_7f4d7cd8ffe4a0a4af5d304cc3ec93a7_4x3_384.jpg"
-    },
-    {
-      "id": "13dc5adebea25ba1",
-      "title": "More people perceive Washington, D.C., New York City as safe to visit",
-      "link": "https://www.upi.com/Top_News/US/2026/11/16/gallup-poll-more-people-see-Washington-DC-New-York-City-as-safe/7871794877441/",
-      "summary": "More U.S. residents see Washington, D.C., and New York City as safe places to live or visit, hitting the highest levels in decades, a new poll said.",
-      "source": "UPI",
-      "published": "2026-11-17T01:11:30+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/7871794877441/2026/upi/1fa0d4359d1f754f4c2327ca75d9021b/v1.2/More-people-perceive-Washington-DC-New-York-City-as-safe-to-visit.jpg"
-    },
-    {
-      "id": "12cb0e56d3c06e14",
-      "title": "United Airlines says it resolved a system outage",
-      "link": "https://www.cbsnews.com/news/united-airlines-system-outage-departing-flights/",
-      "summary": "A memo from the union representing United Airlines pilots indicated the issue was with the airline's weight and balance calculation system.",
-      "source": "CBS News",
-      "published": "2026-11-17T01:06:00+00:00",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/16/edc71c0f-fb6b-4efb-8329-b228740b6449/thumbnail/1200x630/236a10b34bcf3976cc955fe202e25132/gettyimages-2304760092.jpg"
-    },
-    {
-      "id": "60362eac1abcc959",
-      "title": "Pacific Coast sees monster waves, a dread for some, but a delight for the surfers",
-      "link": "https://www.cbsnews.com/video/pacific-coast-sees-monster-waves-dread-some-delight-surfers/",
-      "summary": "Some of the biggest waves in years continued to hit the Pacific Coast shoreline on Monday. Carter Evans takes a look at the monster waves.",
-      "source": "CBS News",
-      "published": "2026-11-17T00:51:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/d192acf5-9267-42cf-9c62-801dfe8bacb9/thumbnail/1200x630/e143e77171bbd5d468412fe80c9fafd5/cbsn-fusion-pacific-coast-sees-monster-waves-dread-some-delight-surfers-thumbnail.jpg"
-    },
-    {
-      "id": "79cdf71ce4a90fd0",
-      "title": "Fight reportedly breaks out between passengers aboard Chicago-bound flight, FBI responds",
-      "link": "https://www.foxnews.com/us/fight-reportedly-breaks-passengers-chicago-bound-flight-fbi-responds",
-      "summary": "A passenger reportedly assaulted another traveler aboard Qatar Airways flight QR725 from Doha to Chicago, prompting an FBI and police response.",
-      "source": "Fox News",
-      "published": "2026-11-17T00:50:29+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/qatar-airways.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "36b87c57ff97f3b2",
-      "title": "Trump appeals to state and federal courts to erase hush money criminal conviction",
-      "link": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction",
-      "summary": "A federal appeals court is weighing whether it can — or should — intervene in President Donald Trump's hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T00:48:19+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-16T212210Z_484468890_RC28POAJJH7W_RTRMADP_3_USA-TRUMP-NEW-YORK-1024x683.jpg"
-    },
-    {
-      "id": "26d771d762a7ece2",
-      "title": "Judge sets March retrial date for Lindsay Clancy in deaths of her 3 children",
-      "link": "https://www.pbs.org/newshour/nation/judge-sets-march-retrial-date-for-lindsay-clancy-in-deaths-of-her-3-children",
-      "summary": "A Massachusetts judge on Monday scheduled Lindsay Clancy's retrial for late March after prosecutors signaled that — at least for now — they intend to prosecute her again on first-degree murder charges in the killings of her three young children.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T00:23:23+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-16T162015Z_1729315874_RC23POAUS32H_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY-1024x677.jpg"
-    },
-    {
-      "id": "76319c1393c24aa6",
-      "title": "Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights",
-      "link": "https://www.foxnews.com/us/democratic-judge-fire-releasing-violent-offenders-calls-bail-law-direct-assault-rights",
-      "summary": "Judge David Carpenter called Alabama’s Aniah’s Law a ‘direct assault’ on constitutional rights, citing defendants’ presumption of innocence.",
-      "source": "Fox News",
-      "published": "2026-11-17T00:15:12+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/copy-of-right-inset-56.png?ve=1&tl=1"
-    },
-    {
-      "id": "e18461e1648ad520",
-      "title": "Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS",
-      "link": "https://www.foxnews.com/us/illegal-alien-accused-attempted-murder-large-after-rikers-release-despite-ice-detainer-dhs",
-      "summary": "Delon Raymond Jaundoo, a Guyanese citizen in the United States illegally, was freed from Rikers Island despite an ICE detainer, according to DHS.",
-      "source": "Fox News",
-      "published": "2026-11-17T00:10:23+00:00",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Delon-Jaundoo.jpg?ve=1&tl=1"
-    },
-    {
-      "id": "1f977fdca51f6e1a",
-      "title": "Pope bids 'hasta luego' to Peru as he wraps up marathon South America trip",
-      "link": "https://www.pbs.org/newshour/world/pope-bids-hasta-luego-to-peru-as-he-wraps-up-marathon-south-america-trip",
-      "summary": "Pope Leo XIV bid farewell to his beloved second homeland of Peru on Monday with an \"hasta luego,\" after a marathon 12-day South American tour that tested his stamina after lung cancer surgery.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-17T00:09:49+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-16T164236Z_1753250293_RC21POAFFY0G_RTRMADP_3_POPE-LATAM-PERU-1024x683.jpg"
-    },
-    {
-      "id": "6f64a79b7c6ef16a",
-      "title": "\"Tiger team\" formed to head off another nationwide ground stop",
-      "link": "https://www.cbsnews.com/news/white-house-tiger-team-ground-stop/",
-      "summary": "Members of the new tiger team include officials from the FAA, Office of the Director of National Intelligence, Defense Department and Transportation Department.",
-      "source": "CBS News",
-      "published": "2026-11-16T23:58:00+00:00",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/16/3227164b-e67d-4035-abed-f7940aaf6a8c/thumbnail/1200x630/c32cd2a5a6b527871fc10af4f7008e74/gettyimages-2304529219.jpg"
-    },
-    {
-      "id": "bc1986d623b1d8e2",
-      "title": "Trump administration seeks to deflect responsibility for nationwide ground stop",
-      "link": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop",
-      "summary": "Three days after air travel was halted in the longest nationwide ground stop since 9/11, the focus has turned to how the air traffic control network can be fixed. The Trump administration is calling for tens of billions of dollars to pay for improvements, but Democrats are...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:55:00+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/airporttroubles-1024x576.jpg"
-    },
-    {
-      "id": "986c7eef1037caac",
-      "title": "What went wrong with air traffic control and will more FAA funding fix it?",
-      "link": "https://www.pbs.org/newshour/show/what-went-wrong-with-air-traffic-control-and-will-more-faa-funding-fix-it",
-      "summary": "To discuss what went wrong to cause Friday's nationwide ground stop, and the funding fight that is brewing in Washington, Amna Nawaz sat down with aviation correspondent Miles O'Brien and congressional correspondent Lisa Desjardins.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:50:53+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/airporttroublesdis-1024x683.jpg"
-    },
-    {
-      "id": "af4d36a7eec30cd1",
-      "title": "News Wrap: Trump departs for trip to Asia, meetings with Xi and Putin",
-      "link": "https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin",
-      "summary": "In our news wrap Monday, President Trump left for Asia, where he'll meet regional leaders, followed by talks with Chinese President Xi Jinping and Russia's Vladimir Putin, Ukrainian President Volodymyr Zelenskyy warned that North Korea is providing Russia with ballistic...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:45:40+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/newsraptrump-1024x685.jpg"
-    },
-    {
-      "id": "61d08f9f4f5a384d",
-      "title": "United Airlines says issues resolved after 'widespread system outage'",
-      "link": "https://www.upi.com/Top_News/US/2026/11/16/united-airlines-outage/6931794868001/",
-      "summary": "United Airlines said operations are back to normal Monday evening after an earlier widespread system outage for the airline delayed some flights.",
-      "source": "UPI",
-      "published": "2026-11-16T23:43:09+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/6931794868001/2026/upi/541cb9896b8d2d60f04233c6a579bc2f/v1.2/United-Airlines-says-issues-resolved-after-widespread-system-outage.jpg"
-    },
-    {
-      "id": "bfb77a5270350621",
-      "title": "U.S. works to close loophole that let China access advanced AI chips",
-      "link": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
-      "summary": "The Trump administration announced new rules today to further restrict China's access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce Department allowed loopholes for chip exports. The rule puts new restrictions on overseas data...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:40:37+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/nvidiafallout-1024x683.jpg"
-    },
-    {
-      "id": "2bc790780b1da84c",
-      "title": "United Airlines says it resolved a technology issue that delayed departing flights",
-      "link": "https://www.pbs.org/newshour/nation/united-airlines-says-it-resolved-a-technology-issue-that-delayed-departing-flights",
-      "summary": "United Airlines said Monday that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the Federal Aviation Administration's network prompted a nationwide ground stop.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:36:10+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-14T123643Z_1128936068_RC2NNOAIEGKY_RTRMADP_3_USA-FAA-GROUND-STOP-1024x683.jpg"
-    },
-    {
-      "id": "9df77d77511d3a42",
-      "title": "Tamara Keith and Amy Walter on Trump's summit with Xi and Putin",
-      "link": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-summit-with-xi-and-putin",
-      "summary": "NPR's Tamara Keith and Amy Walter of the Cook Political Report with Amy Walter join Geoff Bennett to discuss the latest political news, including President Trump's trip to Asia, his planned meetings with the leaders of China and Russia, what the summit might accomplish, Trump...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:35:35+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/6pm-Broadcast-CR1-6_26_42-pm-2026-11-16-1024x576.jpg"
-    },
-    {
-      "id": "262b3216f91e9367",
-      "title": "Reported outages at Chase, other U.S. banks decline after earlier issues",
-      "link": "https://www.upi.com/Top_News/US/2026/11/16/bank-services-down-in-widespread-outage/4201794862167/",
-      "summary": "Customers reported major service outages at multiple U.S. banks -- including JPMorgan Chase, Bank of America and US Bank -- on Monday afternoon.",
-      "source": "UPI",
-      "published": "2026-11-16T23:35:35+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/4201794862167/2026/upi/a67814e6eb709d67d4ee16dcbede5851/v1.2/Reported-outages-at-Chase-other-banks-decline-after-earlier-issues.jpg"
-    },
-    {
-      "id": "e895897e8949e430",
-      "title": "Why many white South Africans who left are migrating back home",
-      "link": "https://www.pbs.org/newshour/show/why-many-white-south-african-who-left-are-migrating-back-home",
-      "summary": "President Trump has alleged that violence in South Africa has targeted the country's white minority. While his administration has had a strict ban on refugee admissions, it has carved out an exception for white South Africans. Of the over 16,000 refugees admitted through...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:30:58+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/south-africa-farm-returnees-1024x576.jpg"
-    },
-    {
-      "id": "031b3e75888109fc",
-      "title": "11/16: CBS Evening News",
-      "link": "https://www.cbsnews.com/video/111626-cbs-evening-news/",
-      "summary": "Outages hit major U.S. banks, including Chase and Bank of America; United Airlines experienced a \"widespread system outage.\"",
-      "source": "CBS News",
-      "published": "2026-11-16T23:30:00+00:00",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/17/c23ddb50-ce2b-489f-a0cf-f1fe384326ea/thumbnail/1200x630/0a4d993e999fdad393b608a304e9cbe8/enthumb1116.jpg"
-    },
-    {
-      "id": "d47c30c965378ba4",
-      "title": "Trump backs campaign to reinstate Huang as CEO of Nvidia",
-      "link": "https://www.pbs.org/newshour/politics/trump-backs-campaign-to-reinstate-huang-as-ceo-of-nvidia",
-      "summary": "Huang resigned last week from Nvidia, apparently ousted by the board after revelations that he had extramarital affairs, both with a Chinese businesswoman suspected of being an intelligence asset for Beijing and with a senior executive who reported to him.",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:25:54+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-16T162329Z_2005700223_RC27ZNAB2UCN_RTRMADP_3_USA-TRUMP-NVIDIA-1024x683.jpg"
-    },
-    {
-      "id": "5b9507cf1008355c",
-      "title": "'It's close to bulletproof,' doctor says of MMR vaccine as measles cases rise",
-      "link": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise",
-      "summary": "Global health authorities are expected to announce that the U.S. has lost its status as a country where measles is eliminated, a public health milestone it achieved 26 years ago. This past year, the number of cases in the U.S. doubled, making it the worst year in three...",
-      "source": "PBS NewsHour",
-      "published": "2026-11-16T23:25:20+00:00",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/measles-1024x683.jpg"
-    },
-    {
-      "id": "cf12a34889e55871",
-      "title": "White House: Federal employees must get legal approval to testify before Congress",
-      "link": "https://www.upi.com/Top_News/US/2026/11/16/white-house-tells-agencies-personnel-need-permission-to-testify/2461794868494/",
-      "summary": "A memo Monday from a White House lawyer told federal agencies that they must get approval before they allow any employee to testify before Congress.",
-      "source": "UPI",
-      "published": "2026-11-16T22:59:06+00:00",
-      "image": "https://cdnph.upi.com/ph/st/th/2461794868494/2026/upi/d7a94098c6a11131c85eeb50376d5f6b/v1.2/White-House-Federal-employees-must-get-OK-to-testify-in-Congress.jpg"
     }
   ]
 }
